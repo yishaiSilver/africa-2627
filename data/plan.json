@@ -609,5 +609,146 @@
     "https://hotelierschoice.com/de/guide/istanbul/budget/",
     "https://thebettervacation.com/istanbul/istanbul-trip-cost/amp/",
     "https://www.easyjet.com/en/holidays/weather/turkey/istanbul/january"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085
+    },
+    "IST": {
+      "name": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    "NBO": {
+      "name": "Nairobi (JKIA)",
+      "lat": -1.3192,
+      "lng": 36.9278
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "lat": -0.0236,
+      "lng": 36.9
+    },
+    "NAI": {
+      "name": "Lake Naivasha",
+      "lat": -0.77,
+      "lng": 36.36
+    },
+    "MARA": {
+      "name": "Mara conservancy",
+      "lat": -1.39,
+      "lng": 35.25
+    },
+    "KAR": {
+      "name": "Nairobi (Karen)",
+      "lat": -1.3197,
+      "lng": 36.7076
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-26",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "TK10 nonstop, evening dep → lands Dec 27 eve"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "IST",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~6–7h",
+      "detail": "TK overnight → lands Jan 2 early"
+    },
+    {
+      "date": "2027-01-02",
+      "from": "NBO",
+      "to": "OPC",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "4x4 north via Nanyuki, equator stop"
+    },
+    {
+      "date": "2027-01-04",
+      "from": "OPC",
+      "to": "NAI",
+      "mode": "road",
+      "duration": "~3.5–4h",
+      "detail": "Via Nyahururu (Thomson's Falls)"
+    },
+    {
+      "date": "2027-01-05",
+      "from": "NAI",
+      "to": "MARA",
+      "mode": "road",
+      "duration": "~4.5–5h",
+      "detail": "Via Narok; last hour on dirt"
+    },
+    {
+      "date": "2027-01-09",
+      "from": "MARA",
+      "to": "KAR",
+      "mode": "road",
+      "duration": "~5–6h",
+      "detail": "Rift Valley viewpoint; or fly Mara→Wilson ~45m (+$290 pp)"
+    },
+    {
+      "date": "2027-01-12",
+      "from": "NBO",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~6–7h",
+      "detail": "Early-hours TK, lands ~midday"
+    },
+    {
+      "date": "2027-01-14",
+      "from": "IST",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~14h",
+      "detail": "TK9 nonstop daytime → lands same evening"
+    }
+  ],
+  "stays": [
+    {
+      "place": "IST",
+      "from": "2026-12-27",
+      "nights": 5,
+      "label": "Istanbul · NYE"
+    },
+    {
+      "place": "OPC",
+      "from": "2027-01-02",
+      "nights": 2,
+      "label": "Ol Pejeta"
+    },
+    {
+      "place": "NAI",
+      "from": "2027-01-04",
+      "nights": 1,
+      "label": "Naivasha"
+    },
+    {
+      "place": "MARA",
+      "from": "2027-01-05",
+      "nights": 4,
+      "label": "Mara conservancy"
+    },
+    {
+      "place": "KAR",
+      "from": "2027-01-09",
+      "nights": 3,
+      "label": "Nairobi"
+    },
+    {
+      "place": "IST",
+      "from": "2027-01-12",
+      "nights": 2,
+      "label": "Istanbul"
+    }
   ]
 }

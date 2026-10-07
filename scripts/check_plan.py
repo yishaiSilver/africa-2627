@@ -25,6 +25,15 @@ for b in plan.get("budget", []):
     if not (b["low_usd"] <= b["per_person_usd"] <= b["high_usd"]):
         errors.append(f"budget line out of its own range: {b['item']}")
 
+places = plan.get("places", {})
+for l in plan.get("legs", []):
+    for k in ("from", "to"):
+        if l[k] not in places:
+            errors.append(f"leg {l['date']} references unknown place {l[k]}")
+for s in plan.get("stays", []):
+    if s["place"] not in places:
+        errors.append(f"stay {s['from']} references unknown place {s['place']}")
+
 if errors:
     print("\n".join(errors))
     sys.exit(1)

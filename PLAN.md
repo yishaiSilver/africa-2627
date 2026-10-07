@@ -26,6 +26,19 @@ Lodges both conservancies → ~$7,300–7,600 pp. Camping + road (no bush flight
 - Migration in Tanzania Dec–Jan; resident cats + newborns in Mara.
 - Prices = Oct 2026 estimates; reconfirm all.
 
+## Travel legs
+
+| Date | Leg | Mode | Time | Notes |
+|---|---|---|---|---|
+| 2026-12-26 | Los Angeles (LAX) → Istanbul | flight | ~13h | TK10 nonstop, evening dep → lands Dec 27 eve |
+| 2027-01-01 | Istanbul → Nairobi (JKIA) | flight | ~6–7h | TK overnight → lands Jan 2 early |
+| 2027-01-02 | Nairobi (JKIA) → Ol Pejeta Conservancy | road | ~4h | 4x4 north via Nanyuki, equator stop |
+| 2027-01-04 | Ol Pejeta Conservancy → Lake Naivasha | road | ~3.5–4h | Via Nyahururu (Thomson's Falls) |
+| 2027-01-05 | Lake Naivasha → Mara conservancy | road | ~4.5–5h | Via Narok; last hour on dirt |
+| 2027-01-09 | Mara conservancy → Nairobi (Karen) | road | ~5–6h | Rift Valley viewpoint; or fly Mara→Wilson ~45m (+$290 pp) |
+| 2027-01-12 | Nairobi (JKIA) → Istanbul | flight | ~6–7h | Early-hours TK, lands ~midday |
+| 2027-01-14 | Istanbul → Los Angeles (LAX) | flight | ~14h | TK9 nonstop daytime → lands same evening |
+
 ## Itinerary
 
 ### Sat Dec 26 — Depart LAX on Turkish Airlines (Los Angeles → in flight)

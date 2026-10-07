@@ -9,6 +9,13 @@ d = plan["dates"]
 out += [f"**Depart LAX:** {d['depart_lax']} · **Return LAX:** {d['return_lax']} · "
         f"**Planned cost:** ${plan['budget_total_per_person_usd']:,.0f} per person", "", "## Overview", "", plan["overview"], ""]
 
+if plan.get("legs"):
+    pl = plan.get("places", {})
+    out += ["## Travel legs", "", "| Date | Leg | Mode | Time | Notes |", "|---|---|---|---|---|"]
+    for l in plan["legs"]:
+        out.append(f"| {l['date']} | {pl.get(l['from'], {}).get('name', l['from'])} → {pl.get(l['to'], {}).get('name', l['to'])} | {l['mode']} | {l['duration']} | {l.get('detail', '')} |")
+    out.append("")
+
 out += ["## Itinerary", ""]
 for day in plan["itinerary"]:
     dt = date.fromisoformat(day["date"]).strftime("%a %b %d")

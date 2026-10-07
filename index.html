@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/leaflet/leaflet.css">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -23,6 +24,7 @@
   <nav class="toc" aria-label="Sections">
     <div class="wrap">
       <a href="#overview">Overview</a>
+      <a href="#route">Route</a>
       <a href="#itinerary">Itinerary</a>
       <a href="#lodging">Lodging</a>
       <a href="#budget">Budget</a>
@@ -37,6 +39,21 @@
     <section id="overview" data-section="Overview">
       <h2>Overview</h2>
       <div id="overview-body" class="prose"></div>
+    </section>
+
+    <section id="route" data-section="Route">
+      <h2>Route &amp; travel times</h2>
+      <div class="map-tools" role="group" aria-label="Map view">
+        <button type="button" class="chip on" data-view="all">Whole trip</button>
+        <button type="button" class="chip" data-view="kenya">Kenya</button>
+      </div>
+      <div id="map" class="map" aria-label="Map of the trip route"></div>
+      <p class="legend"><span class="lg flight"></span> flight <span class="lg road"></span> road · tap a leg below to zoom</p>
+      <ol id="legs-list" class="legs"></ol>
+
+      <h3 class="tl-title">Trip timeline</h3>
+      <p id="tl-totals" class="hint"></p>
+      <div class="tl-scroll"><div id="trip-timeline" class="tl"></div></div>
     </section>
 
     <section id="itinerary" data-section="Itinerary">
@@ -108,6 +125,7 @@
   </footer>
 
   <script src="assets/marked.min.js"></script>
+  <script src="assets/leaflet/leaflet.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>
