@@ -172,7 +172,8 @@
       "includes": "B&B ~$120/room. Room held from Dec 27 so it's ready at 04:00 Dec 28 (+1 room-night).",
       "why": "Calm. 20m to Wilson for the Mara flight.",
       "alternatives": "Macushla House (~$127 pp)",
-      "url": "https://www.booking.com/district/ke/nairobi/karen.html"
+      "url": "https://www.booking.com/district/ke/nairobi/karen.html",
+      "place": "KAR"
     },
     {
       "name": "Operator private camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)",
@@ -183,7 +184,8 @@
       "includes": "Site/community fee ~$25 pppn est. Conservancy fee (~$80) + crew separate lines.",
       "why": "Conservancy: few vehicles, walks. Scheduled Safarilink/AirKenya into Ngerende, ~15m drive. No Mulot road. CONFIRM in writing: mobile camping allowed, fee, strip→camp time.",
       "alternatives": "Pardamat/Ol Chorro mobile site (fee ~$100–150, priced in high). Porini-type tented camps $400–860 pppn festive.",
-      "url": "https://cheetahsafaris.com/national-park/enonkishu-conservancy"
+      "url": "https://cheetahsafaris.com/national-park/enonkishu-conservancy",
+      "place": "MARA"
     },
     {
       "name": "Operator camp at an OPC campsite",
@@ -194,7 +196,8 @@
       "includes": "OPC campsite $70 pppn (2026 tariff); entry separate",
       "why": "Cheapest way to sleep inside OPC. 45m from Nanyuki strip.",
       "alternatives": "Sweetwaters Serena (~$240 pp FB); Porini Rhino (~$611+ pppn)",
-      "url": "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf"
+      "url": "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf",
+      "place": "OPC"
     },
     {
       "name": "KWS public campsite inside Lake Nakuru NP",
@@ -205,7 +208,8 @@
       "includes": "KWS campsite $30 pppn; 2×24h park fee separate",
       "why": "No dawn gate shuffle, no re-entry risk. Short hop from gate after long day.",
       "alternatives": "Flamingo Hill tented camp",
-      "url": "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-effective-october-1-2025"
+      "url": "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-effective-october-1-2025",
+      "place": "NAK"
     },
     {
       "name": "Camp Carnelley's or Fisherman's Camp",
@@ -216,7 +220,8 @@
       "includes": "Campsite fee; operator tents, cook, meals",
       "why": "Soft finish. 30m to Hell's Gate.",
       "alternatives": "Banda same camp (~$40–60 pp); Lake Naivasha Sopa (~$218–250 pp FB)",
-      "url": "https://monkey.travel/en/usd/accommodation/naivasha-sopa/"
+      "url": "https://monkey.travel/en/usd/accommodation/naivasha-sopa/",
+      "place": "NAI"
     },
     {
       "name": "Airport-area hotel (JKIA / Mombasa Rd, e.g. Ole Sereni, Four Points, or mid-range B&B)",
@@ -227,7 +232,8 @@
       "includes": "B&B ~$150/room est.; often free airport shuttle",
       "why": "Kills the 01:30 pickup: 02:45 wake, 10–20m to JKIA. 2 nights = calm buffer day, meets 2-night rule.",
       "alternatives": "Four Points JKIA ~$220–270/room; Ole Sereni $240–310/room (Nairobi NP views)",
-      "url": "https://www.kayak.com/Nairobi-Hotels-Four-Points-by-Sheraton-Nairobi-Airport.3500194.ksp"
+      "url": "https://www.kayak.com/Nairobi-Hotels-Four-Points-by-Sheraton-Nairobi-Airport.3500194.ksp",
+      "place": "JKH"
     },
     {
       "name": "Turkish Airlines Stopover hotel (assigned, 4-star)",
@@ -238,7 +244,8 @@
       "includes": "Room + breakfast. Free: US-origin economy 2 nights, once per ticket.",
       "why": "Breaks the return. Jan 10 = real buffer before 13h45 flight.",
       "alternatives": "~$100/room/night if fare doesn't qualify (N/R excluded)",
-      "url": "https://www.turkishairlines.com/en-us/flights/stopover/"
+      "url": "https://www.turkishairlines.com/en-us/flights/stopover/",
+      "place": "IST"
     }
   ],
   "budget": [
@@ -844,5 +851,68 @@
       "label": "Istanbul"
     }
   ],
-  "fatigue_check": "Door-to-door travel per day:\n- Dec 26 Sat | ~13h flight | long-haul pt 1\n- Dec 27 Sun | 1.5h connect + 6.5h | long-haul pt 2 (one journey)\n- Dec 28 Mon | 45m at 04:00, then 0 | ZERO\n- Dec 29 Tue | 20m + 30m check-in + 45m–1h flight + 15–30m ≈ 2–2.75h | light (afternoon)\n- Dec 30 Wed | 0 | ZERO\n- Dec 31 Thu | 0 | ZERO\n- Jan 1 Fri | 15–30m + 30m + 1h10–2h + 45m ≈ 3–4.5h | medium-long, post-NYE\n- Jan 2 Sat | 0 | ZERO\n- Jan 3 Sun | 4–5h road | long\n- Jan 4 Mon | 0 | ZERO\n- Jan 5 Tue | 1.5–2h | light\n- Jan 6 Wed | 30m local | ZERO\n- Jan 7 Thu | 2.5–3h | light\n- Jan 8 Fri | 0 | ZERO (buffer)\n- Jan 9 Sat | 15m + 7h flight | long-haul (02:45 wake)\n- Jan 10 Sun | 0 | ZERO (real pre-long-haul buffer)\n- Jan 11 Mon | ~13h45 flight | long-haul\n\nRules:\n- **Max ~5h road, prefer ≤4h:** met. Only Jan 3 >4h (4–5h incl. ≤45m falls stop); zero day each side.\n- **No back-to-back ≥3.5h:** met. Jan 1 (up to 4.5h) and Jan 3 split by zero Jan 2. Two near-long days in 3; fix = +1 Mara night (+$300).\n- **Min 2 nights/stop, ≤1 transit night:** met. Only Karen Dec 28 is 1n.\n- **Light arrival:** met. Overnight Nairobi, full rest day, afternoon Mara flight.\n- **Zero day per ~4 days:** 8 (Dec 28, 30, 31, Jan 2, 4, 6, 8, 10).\n- **Buffer before long-haul home:** Jan 8 at airport-area hotel (no 01:30 pickup; 02:45 wake, 10–20m). Real buffer = Jan 10 IST before TK9.\n- **Jet lag:** +11h, no IST reset. Rest day + 2 zero Mara days. IST reset +$235.\n- **Removed:** Mara→Wilson reversed loop (Jan 1 5–5.5h = breach).\n- **Return ≤ Jan 16:** Jan 11 (+Mara night Jan 12; Samburu Jan 13)."
+  "fatigue_check": "Door-to-door travel per day:\n- Dec 26 Sat | ~13h flight | long-haul pt 1\n- Dec 27 Sun | 1.5h connect + 6.5h | long-haul pt 2 (one journey)\n- Dec 28 Mon | 45m at 04:00, then 0 | ZERO\n- Dec 29 Tue | 20m + 30m check-in + 45m–1h flight + 15–30m ≈ 2–2.75h | light (afternoon)\n- Dec 30 Wed | 0 | ZERO\n- Dec 31 Thu | 0 | ZERO\n- Jan 1 Fri | 15–30m + 30m + 1h10–2h + 45m ≈ 3–4.5h | medium-long, post-NYE\n- Jan 2 Sat | 0 | ZERO\n- Jan 3 Sun | 4–5h road | long\n- Jan 4 Mon | 0 | ZERO\n- Jan 5 Tue | 1.5–2h | light\n- Jan 6 Wed | 30m local | ZERO\n- Jan 7 Thu | 2.5–3h | light\n- Jan 8 Fri | 0 | ZERO (buffer)\n- Jan 9 Sat | 15m + 7h flight | long-haul (02:45 wake)\n- Jan 10 Sun | 0 | ZERO (real pre-long-haul buffer)\n- Jan 11 Mon | ~13h45 flight | long-haul\n\nRules:\n- **Max ~5h road, prefer ≤4h:** met. Only Jan 3 >4h (4–5h incl. ≤45m falls stop); zero day each side.\n- **No back-to-back ≥3.5h:** met. Jan 1 (up to 4.5h) and Jan 3 split by zero Jan 2. Two near-long days in 3; fix = +1 Mara night (+$300).\n- **Min 2 nights/stop, ≤1 transit night:** met. Only Karen Dec 28 is 1n.\n- **Light arrival:** met. Overnight Nairobi, full rest day, afternoon Mara flight.\n- **Zero day per ~4 days:** 8 (Dec 28, 30, 31, Jan 2, 4, 6, 8, 10).\n- **Buffer before long-haul home:** Jan 8 at airport-area hotel (no 01:30 pickup; 02:45 wake, 10–20m). Real buffer = Jan 10 IST before TK9.\n- **Jet lag:** +11h, no IST reset. Rest day + 2 zero Mara days. IST reset +$235.\n- **Removed:** Mara→Wilson reversed loop (Jan 1 5–5.5h = breach).\n- **Return ≤ Jan 16:** Jan 11 (+Mara night Jan 12; Samburu Jan 13).",
+  "hero_photo": "Maasai_Mara",
+  "photos": {
+    "MARA": {
+      "name": "Masai Mara conservancy",
+      "wiki": [
+        "Maasai_Mara",
+        "Lion",
+        "Cheetah",
+        "Maasai_people"
+      ]
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "wiki": [
+        "Ol_Pejeta_Conservancy",
+        "Black_rhinoceros",
+        "Northern_white_rhinoceros",
+        "Mount_Kenya"
+      ]
+    },
+    "NAK": {
+      "name": "Lake Nakuru",
+      "wiki": [
+        "Lake_Nakuru_National_Park",
+        "Lesser_flamingo",
+        "Rothschild's_giraffe",
+        "Southern_white_rhinoceros"
+      ]
+    },
+    "NAI": {
+      "name": "Lake Naivasha & Hell's Gate",
+      "wiki": [
+        "Lake_Naivasha",
+        "Hell's_Gate_National_Park",
+        "Hippopotamus",
+        "African_fish_eagle"
+      ]
+    },
+    "KAR": {
+      "name": "Nairobi",
+      "wiki": [
+        "Giraffe_Centre",
+        "David_Sheldrick_Wildlife_Trust",
+        "Nairobi_National_Park",
+        "Karen_Blixen_Museum"
+      ]
+    },
+    "JKH": {
+      "name": "Nairobi airport area",
+      "wiki": [
+        "Jomo_Kenyatta_International_Airport"
+      ]
+    },
+    "IST": {
+      "name": "Istanbul",
+      "wiki": [
+        "Hagia_Sophia",
+        "Bosphorus",
+        "Basilica_Cistern",
+        "Galata_Tower"
+      ]
+    }
+  }
 }
