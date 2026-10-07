@@ -123,7 +123,7 @@
       [d.nights_kenya != null ? d.nights_kenya : '—', 'nights in Kenya'],
       [d.nights_istanbul != null ? d.nights_istanbul : '—', 'nights in Istanbul'],
       [usd(plan.budget_total_per_person_usd), 'planned per person'],
-      [usd(TARGET_LOW) + '–' + (TARGET_HIGH / 1000) + 'k', 'target per person']
+      ['$5–6k', 'target per person']
     ];
     $('#stats').innerHTML = stats.map(function (s) {
       return '<div class="stat"><b>' + esc(s[0]) + '</b><span>' + esc(s[1]) + '</span></div>';
@@ -139,7 +139,7 @@
       var card = el('div', { class: 'day-card' });
       card.innerHTML =
         '<div class="day-head">' +
-          '<span class="day-date">' + esc(day.day_label || ('Day ' + (i + 1))) + ' · ' + esc(fmtDate(day.date)) + '</span>' +
+          '<span class="day-date">' + esc(day.day_label || ('Day ' + (i + 1))) + ' · ' + esc(fmtDate(day.date, { month: 'short', day: 'numeric' })) + '</span>' +
           '<h3 class="day-title">' + esc(day.title) + '</h3>' +
           '<span class="loc-tag">' + esc(day.location) + '</span>' +
         '</div>' +
