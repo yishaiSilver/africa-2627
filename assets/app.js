@@ -328,11 +328,175 @@
     });
   }
 
+
+  // ---------- route map + travel timeline ----------
+  function addDays(iso, n) {
+    var d = new Date(iso + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() + n);
+    return d.toISOString().slice(0, 10);
+  }
+  function hoursOf(dur) {
+    var m = String(dur).match(/([\d.]+)(?:\s*[–-]\s*([\d.]+))?\s*h/);
+    if (!m) return [0, 0];
+    return [parseFloat(m[1]), parseFloat(m[2] || m[1])];
+  }
+  function stayClass(code) {
+    if (code === 'IST') return 'stay-ist';
+    if (code === 'KAR' || code === 'NBO') return 'stay-city';
+    return 'stay-k';
+  }
+
+  function arc(a, b) {
+    // gentle curve for flights: quadratic bezier bowed north
+    var pts = [], mid = [(a[0] + b[0]) / 2, (a[1] + b[1]) / 2];
+    var dx = b[1] - a[1], dy = b[0] - a[0];
+    var ctrl = [mid[0] + Math.abs(dx) * 0.12, mid[1] - dy * 0.12];
+    for (var t = 0; t <= 1.0001; t += 0.05) {
+      pts.push([(1 - t) * (1 - t) * a[0] + 2 * (1 - t) * t * ctrl[0] + t * t * b[0],
+                (1 - t) * (1 - t) * a[1] + 2 * (1 - t) * t * ctrl[1] + t * t * b[1]]);
+    }
+    return pts;
+  }
+
+  function renderRoute() {
+    var places = plan.places || {}, legs = plan.legs || [];
+    var list = $('#legs-list');
+    var legLayers = [];
+    var map = null;
+
+    if (window.L && $('#map')) {
+      var dark = window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches;
+      map = L.map('map', { scrollWheelZoom: false, worldCopyJump: true });
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/' + (dark ? 'dark_all' : 'rastertiles/voyager') + '/{z}/{x}/{y}{r}.png', {
+        maxZoom: 12, subdomains: 'abcd',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+      }).addTo(map);
+      var css = getComputedStyle(document.documentElement);
+      var cFlight = css.getPropertyValue('--blue').trim() || '#2f5d7c';
+      var cRoad = css.getPropertyValue('--green').trim() || '#4f6b3a';
+
+      var order = [];
+      legs.forEach(function (l) { [l.from, l.to].forEach(function (c) { if (order.indexOf(c) < 0) order.push(c); }); });
+      order.forEach(function (code, i) {
+        var p = places[code]; if (!p) return;
+        var kenya = ['OPC', 'NAI', 'MARA'].indexOf(code) >= 0;
+        L.marker([p.lat, p.lng], {
+          icon: L.divIcon({ className: '', html: '<div class="stop-pin' + (kenya ? ' k' : '') + '">' + (i + 1) + '</div>', iconSize: [24, 24], iconAnchor: [12, 12] }),
+          title: p.name
+        }).addTo(map).bindTooltip(p.name, { direction: 'top', offset: [0, -12] });
+      });
+
+      var labelled = {};
+      legs.forEach(function (l) {
+        var a = places[l.from], b = places[l.to]; if (!a || !b) return;
+        var A = [a.lat, a.lng], B = [b.lat, b.lng];
+        var flight = l.mode === 'flight';
+        var pts = flight ? arc(A, B) : [A, B];
+        var line = L.polyline(pts, { color: flight ? cFlight : cRoad, weight: flight ? 2.5 : 4, dashArray: flight ? '6 7' : null, opacity: .9 }).addTo(map);
+        var midPt = pts[Math.floor(pts.length / 2)];
+        if (!flight) midPt = [(A[0] + B[0]) / 2, (A[1] + B[1]) / 2];
+        var pairKey = [l.from, l.to].sort().join('-');
+        if (!labelled[pairKey]) {
+          labelled[pairKey] = true;
+          L.tooltip({ permanent: true, direction: 'center', className: 'dur ' + l.mode })
+            .setLatLng(midPt).setContent((flight ? '✈ ' : '🚙 ') + l.duration).addTo(map);
+        }
+        line.bindPopup('<b>' + esc(places[l.from].name) + ' → ' + esc(places[l.to].name) + '</b><br>' + esc(fmtDate(l.date)) + ' · ' + esc(l.duration) + '<br>' + esc(l.detail || ''));
+        legLayers.push(line);
+      });
+
+      var allB = L.featureGroup(legLayers).getBounds();
+      var keB = L.latLngBounds(['NBO', 'OPC', 'NAI', 'MARA', 'KAR'].filter(function (c) { return places[c]; }).map(function (c) { return [places[c].lat, places[c].lng]; }));
+      var views = { all: function () { map.fitBounds(allB, { padding: [30, 30] }); }, kenya: function () { map.fitBounds(keB, { padding: [50, 50] }); } };
+      views.all();
+      var syncZoom = function () { $('#map').classList.toggle('zoomed-out', map.getZoom() < 6); };
+      map.on('zoomend', syncZoom); syncZoom();
+      document.querySelectorAll('.map-tools .chip').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          document.querySelectorAll('.map-tools .chip').forEach(function (b) { b.classList.remove('on'); });
+          btn.classList.add('on'); views[btn.getAttribute('data-view')]();
+        });
+      });
+    } else if ($('#map')) {
+      $('#map').style.display = 'none';
+    }
+
+    legs.forEach(function (l, i) {
+      var li = el('li', { tabindex: '0' });
+      li.innerHTML = '<div class="leg-top"><span>' + (l.mode === 'flight' ? '✈ ' : '🚙 ') + esc((places[l.from] || {}).name || l.from) + ' → ' + esc((places[l.to] || {}).name || l.to) + '</span><span class="leg-dur">' + esc(l.duration) + '</span></div>' +
+        '<div class="leg-sub">' + esc(fmtDate(l.date)) + ' · ' + esc(l.detail || '') + '</div>';
+      var go = function () {
+        if (!map || !legLayers[i]) return;
+        map.fitBounds(legLayers[i].getBounds(), { padding: [60, 60], maxZoom: 9 });
+        legLayers[i].openPopup();
+        $('#map').scrollIntoView({ behavior: 'smooth', block: 'center' });
+      };
+      li.addEventListener('click', go);
+      li.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } });
+      list.appendChild(li);
+    });
+
+    renderTripTimeline();
+  }
+
+  function renderTripTimeline() {
+    var box = $('#trip-timeline'); if (!box) return;
+    var start = plan.dates.depart_lax, end = plan.dates.return_lax;
+    var days = []; for (var d = start; d <= end; d = addDays(d, 1)) days.push(d);
+    var col = function (iso) { return days.indexOf(iso) + 1; };
+    box.style.setProperty('--cols', days.length);
+    var html = '', places = plan.places || {};
+
+    // month labels
+    var lastM = null;
+    days.forEach(function (iso, i) {
+      var m = iso.slice(0, 7);
+      if (m !== lastM) {
+        var span = days.filter(function (x) { return x.slice(0, 7) === m; }).length;
+        html += '<div class="tl-month" style="grid-row:1;grid-column:' + (i + 1) + ' / span ' + span + '">' + esc(fmtDate(iso, { month: 'long', year: 'numeric' })) + '</div>';
+        lastM = m;
+      }
+    });
+    // day headers
+    days.forEach(function (iso, i) {
+      var dt = new Date(iso + 'T12:00:00');
+      var we = dt.getDay() === 0 || dt.getDay() === 6;
+      html += '<div class="tl-day' + (we ? ' we' : '') + '" style="grid-row:2;grid-column:' + (i + 1) + '"><b>' + dt.getDate() + '</b>' + dt.toLocaleDateString('en-US', { weekday: 'short' }).slice(0, 2) + '</div>';
+    });
+
+    // nights row: stays, with gaps = nights on a plane
+    html += '<div class="tl-rowlab" style="grid-row:3">Where you sleep</div>';
+    var covered = {};
+    (plan.stays || []).forEach(function (s) {
+      var c = col(s.from); if (c < 1) return;
+      for (var k = 0; k < s.nights; k++) covered[addDays(s.from, k)] = true;
+      html += '<div class="tl-block ' + stayClass(s.place) + (s.nights === 1 ? ' one' : '') + '" style="grid-row:4;grid-column:' + c + ' / span ' + s.nights + '" title="' + esc(s.label) + ' · ' + s.nights + ' night' + (s.nights > 1 ? 's' : '') + '">' + esc(s.label) + (s.nights > 1 ? ' · ' + s.nights + 'n' : '') + '</div>';
+    });
+    days.forEach(function (iso, i) {
+      if (covered[iso]) return;
+      var last = i === days.length - 1;
+      html += '<div class="tl-block air" style="grid-row:4;grid-column:' + (i + 1) + '" title="' + (last ? 'Home' : 'Overnight in flight') + '">' + (last ? '🏠' : '✈') + '</div>';
+    });
+
+    // travel row
+    html += '<div class="tl-rowlab" style="grid-row:5">Travel</div>';
+    var fl = [0, 0], rd = [0, 0];
+    (plan.legs || []).forEach(function (l) {
+      var c = col(l.date); if (c < 1) return;
+      var h = hoursOf(l.duration), acc = l.mode === 'flight' ? fl : rd;
+      acc[0] += h[0]; acc[1] += h[1];
+      html += '<div class="tl-leg ' + esc(l.mode) + '" style="grid-row:6;grid-column:' + c + '" title="' + esc((places[l.from] || {}).name) + ' → ' + esc((places[l.to] || {}).name) + ' · ' + esc(l.duration) + '">' +
+        (l.mode === 'flight' ? '✈' : '🚙') + '<span>' + esc(l.duration.replace('~', '')) + '</span></div>';
+    });
+    box.innerHTML = html;
+    var r = function (a) { return a[0] === a[1] ? '~' + a[0] + 'h' : '~' + a[0] + '–' + a[1] + 'h'; };
+    $('#tl-totals').textContent = days.length + ' days · flying ' + r(fl) + ' · on the road ' + r(rd) + ' · ' + Object.keys(covered).length + ' nights in beds, ' + (days.length - 1 - Object.keys(covered).length) + ' on planes';
+  }
+
   fetch('data/plan.json', { cache: 'no-cache' })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (data) {
       plan = data;
-      renderHero(); renderProse(); renderItinerary(); renderLodging();
+      renderHero(); renderProse(); renderRoute(); renderItinerary(); renderLodging();
       renderAlternatives(); renderBudgetSummary(); renderBudgetTable();
       renderBooking(); renderQuestions(); addSectionTools(); wireFeedback(); refreshFeedback();
       if (location.hash) { var t = document.querySelector(location.hash); if (t) t.scrollIntoView(); }
