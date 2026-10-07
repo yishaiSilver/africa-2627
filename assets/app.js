@@ -561,11 +561,131 @@
     $('#tl-totals').textContent = days.length + ' days · flying ' + fmtRange(fl) + ' · on the road ' + fmtRange(rd) + ' · ' + restDays + ' no-travel days · ' + Object.keys(covered).length + ' nights in beds, ' + (days.length - 1 - Object.keys(covered).length) + ' on planes'
   }
 
+  // ---------- photos (Wikipedia / Wikimedia Commons, fetched in the browser) ----------
+  var wikiCache = {};
+  function wiki(title) {
+    if (!wikiCache[title]) {
+      wikiCache[title] = fetch('https://en.wikipedia.org/api/rest_v1/page/summary/' + encodeURIComponent(title))
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (j) {
+          if (!j.thumbnail && !j.originalimage) return null;
+          return {
+            title: j.title, extract: j.extract || '',
+            page: (j.content_urls && j.content_urls.desktop && j.content_urls.desktop.page) || ('https://en.wikipedia.org/wiki/' + encodeURIComponent(title)),
+            thumb: j.thumbnail, orig: j.originalimage
+          };
+        })
+        .catch(function () { return null; });
+    }
+    return wikiCache[title];
+  }
+  function imgUrl(info, width) {
+    if (!info) return '';
+    var o = info.orig, t = info.thumb;
+    if (o && o.width && o.width <= width) return o.source;
+    if (t && /\/\d+px-/.test(t.source)) return t.source.replace(/\/\d+px-/, '/' + width + 'px-');
+    return (o || t).source;
+  }
+  function photoFor(code) {
+    var ph = (plan.photos || {})[code];
+    return ph && ph.wiki && ph.wiki.length ? wiki(ph.wiki[0]) : Promise.resolve(null);
+  }
+  function markMissing(imgEl) {
+    var ph = imgEl.closest('.ph'); if (ph) ph.classList.add('ph-missing');
+    var dc = imgEl.closest('.day-card'); if (dc) dc.classList.remove('with-photo');
+  }
+  function fillImg(imgEl, info, width) {
+    if (!info) { markMissing(imgEl); return; }
+    imgEl.src = imgUrl(info, width);
+    imgEl.alt = info.title;
+    imgEl.addEventListener('error', function () { markMissing(imgEl); });
+    imgEl.addEventListener('click', function () { openLightbox(info); });
+  }
+  function openLightbox(info) {
+    var lb = $('#lightbox'); if (!lb) return;
+    lb.querySelector('img').src = imgUrl(info, 1600);
+    lb.querySelector('img').alt = info.title;
+    lb.querySelector('figcaption').innerHTML = esc(info.title) + ' · <a href="' + esc(info.page) + '" target="_blank" rel="noopener">source &amp; license</a>';
+    lb.hidden = false;
+  }
+  function wireLightbox() {
+    var lb = $('#lightbox'); if (!lb) return;
+    var close = function () { lb.hidden = true; lb.querySelector('img').src = ''; };
+    lb.addEventListener('click', function (e) { if (e.target === lb || e.target.classList.contains('lb-close')) close(); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !lb.hidden) close(); });
+  }
+  function placeForDate(iso) {
+    var hit = null;
+    (plan.stays || []).forEach(function (st) {
+      for (var k = 0; k < st.nights; k++) if (addDays(st.from, k) === iso) hit = st.place;
+    });
+    if (hit) return hit;
+    var legs = (plan.legs || []).filter(function (l) { return l.date === iso; });
+    return legs.length ? legs[legs.length - 1].to : null;
+  }
+
+  function renderPlaces() {
+    var grid = $('#places-grid'); if (!grid) return;
+    var seen = {};
+    (plan.stays || []).forEach(function (st) {
+      var ph = (plan.photos || {})[st.place];
+      if (!ph || seen[st.place] || st.place === 'JKH') { if (seen[st.place]) seen[st.place].nights += st.nights; return; }
+      var rec = seen[st.place] = { nights: st.nights };
+      var card = el('article', { class: 'place-card' });
+      var thumbs = ph.wiki.slice(1, 4).map(function () { return '<div class="ph ph-sm"><img loading="lazy" alt=""></div>'; }).join('');
+      card.innerHTML =
+        '<div class="ph ph-lg"><img loading="lazy" alt=""></div>' +
+        '<div class="ph-row">' + thumbs + '</div>' +
+        '<div class="place-body"><h3>' + esc(ph.name) + '</h3>' +
+        '<div class="sub">' + esc(fmtDate(st.from, { month: 'short', day: 'numeric' })) + ' · <span class="nights"></span></div>' +
+        '<p class="extract"></p></div>';
+      grid.appendChild(card);
+      var imgs = card.querySelectorAll('img');
+      ph.wiki.slice(0, 4).forEach(function (t, i) {
+        wiki(t).then(function (info) {
+          fillImg(imgs[i], info, i === 0 ? 800 : 320);
+          if (i === 0 && info && info.extract) {
+            var x = (info.extract.match(/[^.!?]+[.!?]+(\s|$)/g) || [info.extract]).slice(0, 2).join('').trim();
+            card.querySelector('.extract').textContent = x.length > 230 ? x.slice(0, 227) + '…' : x;
+          }
+        });
+      });
+      // nights filled after all stays are counted
+      setTimeout(function () { card.querySelector('.nights').textContent = rec.nights + ' night' + (rec.nights > 1 ? 's' : ''); });
+    });
+  }
+
+  function decoratePhotos() {
+    // hero
+    if (plan.hero_photo) wiki(plan.hero_photo).then(function (info) {
+      if (!info) return;
+      var hero = $('.hero');
+      hero.style.setProperty('--hero-img', 'url("' + imgUrl(info, 1600).replace(/"/g, '%22') + '")');
+      hero.classList.add('has-photo');
+    });
+    // day cards
+    (plan.itinerary || []).forEach(function (day, i) {
+      var code = placeForDate(day.date), card = $('#day-' + (i + 1) + ' .day-card');
+      if (!code || !card || !(plan.photos || {})[code]) return;
+      var fig = el('div', { class: 'ph ph-day' }, '<img loading="lazy" alt="">');
+      card.insertBefore(fig, card.firstChild);
+      card.classList.add('with-photo');
+      photoFor(code).then(function (info) { fillImg(fig.querySelector('img'), info, 320); });
+    });
+    // lodging cards
+    document.querySelectorAll('#lodging-grid .card').forEach(function (card, i) {
+      var l = (plan.lodging || [])[i]; if (!l || !l.place) return;
+      var fig = el('div', { class: 'ph ph-cover' }, '<img loading="lazy" alt="">');
+      card.insertBefore(fig, card.firstChild);
+      photoFor(l.place).then(function (info) { fillImg(fig.querySelector('img'), info, 640); });
+    });
+  }
+
   fetch('data/plan.json', { cache: 'no-cache' })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (data) {
       plan = data;
-      renderHero(); renderProse(); renderRoute(); renderItinerary(); renderLodging();
+      renderHero(); renderProse(); renderPlaces(); renderRoute(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
       renderAlternatives(); renderBudgetSummary(); renderBudgetTable();
       renderBooking(); renderQuestions(); addSectionTools(); wireFeedback(); refreshFeedback();
       if (location.hash) { var t = document.querySelector(location.hash); if (t) t.scrollIntoView(); }

@@ -24,6 +24,7 @@
   <nav class="toc" aria-label="Sections">
     <div class="wrap">
       <a href="#overview">Overview</a>
+      <a href="#places">Places</a>
       <a href="#route">Route</a>
       <a href="#itinerary">Itinerary</a>
       <a href="#lodging">Lodging</a>
@@ -39,6 +40,12 @@
     <section id="overview" data-section="Overview">
       <h2>Overview</h2>
       <div id="overview-body" class="prose"></div>
+    </section>
+
+    <section id="places" data-section="Destinations">
+      <h2>Where you'll be</h2>
+      <div id="places-grid" class="places"></div>
+      <p class="hint photo-credit">Photos load from Wikipedia / Wikimedia Commons (free licenses). Tap any photo to enlarge and see its source.</p>
     </section>
 
     <section id="route" data-section="Route">
@@ -124,6 +131,11 @@
       <p class="hint">Prices were researched October 2026 and are estimates. Festive-season rates change; confirm when booking.</p>
     </section>
   </main>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <button type="button" class="lb-close" aria-label="Close">×</button>
+    <figure><img alt=""><figcaption></figcaption></figure>
+  </div>
 
   <footer class="wrap foot">
     <p>Plan data lives in <code>data/plan.json</code> in the repo. Edit it and the page updates.</p>
