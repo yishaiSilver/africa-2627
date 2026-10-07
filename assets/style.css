@@ -264,3 +264,20 @@ main section { padding: 40px 0 8px; }
 .stop-pin.opt { background: #8a7f73; }
 .map .leaflet-tooltip.dur.opt { color: var(--muted); border-style: dashed; }
 .map .leaflet-tooltip.dur.opt.opt-on { color: var(--accent); border-color: var(--accent); }
+
+/* drive vs fly comparisons */
+.choices-list { display: grid; gap: 12px; }
+.choice { margin-top: 10px; }
+.choice-title { font-weight: 600; font-size: .9rem; margin-bottom: 6px; }
+.choice-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.choice-col { border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; background: var(--surface); font-size: .85rem; }
+.choice-col.chosen { border-color: var(--green); background: var(--green-soft); }
+.choice-tag { font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.choice-col.chosen .choice-tag { color: var(--green); font-weight: 700; }
+.choice-h { font-weight: 600; margin: 2px 0; }
+.choice-n { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; font-variant-numeric: tabular-nums; font-weight: 600; color: var(--accent); }
+.choice-col.chosen .choice-n { color: var(--green); }
+.choice-note { color: var(--muted); font-size: .8rem; margin-top: 2px; }
+.day-card .choice { grid-column: 2; }
+.day-card:not(.with-photo) .choice { grid-column: auto; }
+@media (max-width: 420px) { .choice-grid { grid-template-columns: 1fr 1fr; gap: 6px; } .choice-col { padding: 6px 8px; } }

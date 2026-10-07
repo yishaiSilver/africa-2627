@@ -158,6 +158,9 @@
           (day.overnight ? '🛏 <b>' + mdInline(day.overnight) + '</b>' : '') +
           (day.meals ? ' &nbsp;·&nbsp; 🍽 ' + esc(day.meals) : '') +
         '</div>';
+      (plan.legs || []).filter(function (l) { return l.date === day.date && l.choice; }).forEach(function (l) {
+        card.insertAdjacentHTML('beforeend', choiceHTML(l));
+      });
       card.appendChild(feedbackTools('day:' + day.date, fmtDate(day.date) + ' — ' + day.title));
       li.appendChild(card);
       list.appendChild(li);
@@ -758,11 +761,33 @@
     });
   }
 
+  // ---------- drive vs fly side-by-side ----------
+  function choiceHTML(l) {
+    var c = l.choice; if (!c) return '';
+    var col = function (o, chosen) {
+      var cost = o.cost_pp == null ? '—' : o.cost_pp === 0 ? 'included' : '+' + usd(o.cost_pp) + ' pp';
+      return '<div class="choice-col' + (chosen ? ' chosen' : '') + '">' +
+        '<div class="choice-tag">' + (chosen ? '✓ In plan' : 'Alternative') + '</div>' +
+        '<div class="choice-h">' + (o.mode === 'flight' ? '✈ ' : '🚙 ') + esc(o.label) + '</div>' +
+        '<div class="choice-n"><span>' + esc(o.door_to_door) + '</span><span>' + esc(cost) + '</span></div>' +
+        '<div class="choice-note">' + mdInline(o.note || '') + '</div></div>';
+    };
+    var pl = plan.places || {};
+    return '<div class="choice"><div class="choice-title">' + esc(fmtDate(l.date)) + ': ' + esc((pl[l.from] || {}).name || l.from) + ' → ' + esc((pl[l.to] || {}).name || l.to) + '</div>' +
+      '<div class="choice-grid">' + col(c.chosen, true) + col(c.other, false) + '</div></div>';
+  }
+  function renderChoices() {
+    var box = $('#choices'); if (!box) return;
+    var legs = (plan.legs || []).filter(function (l) { return l.choice; });
+    if (!legs.length) { box.hidden = true; return; }
+    box.querySelector('.choices-list').innerHTML = legs.map(choiceHTML).join('');
+  }
+
   fetch('data/plan.json', { cache: 'no-cache' })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (data) {
       plan = data;
-      renderHero(); renderProse(); renderPlaces(); renderRoute(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
+      renderHero(); renderProse(); renderPlaces(); renderRoute(); renderChoices(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
       renderAlternatives(); renderBudgetSummary(); renderBudgetTable();
       renderBooking(); renderQuestions(); addSectionTools(); wireFeedback(); refreshFeedback();
       if (location.hash) { var t = document.querySelector(location.hash); if (t) t.scrollIntoView(); }
