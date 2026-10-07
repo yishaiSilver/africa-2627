@@ -545,6 +545,57 @@
       "name": "Comfort upgrade (tented camps)",
       "description": "Sweetwaters Serena at OPC, Flamingo Hill at Nakuru, banda at Naivasha. Mara stays camping. Road operator → vehicle + guide only.",
       "cost_delta_per_person_usd": 800
+    },
+    {
+      "id": "kakamega",
+      "name": "Kakamega rainforest instead of Naivasha",
+      "cost_delta_per_person_usd": 350,
+      "place": "KAK",
+      "description": "Kenya's last patch of Guineo-Congolian rainforest. Colobus + De Brazza's monkeys, great blue turaco, 300+ birds, giant trees, Lirhanda Hill sunrise. Swaps Naivasha/Hell's Gate Jan 5–6; dates + home day unchanged. One 4.5–5h drive (at cap), rest day each side.",
+      "days": [
+        {
+          "date": "2027-01-05",
+          "title": "Nakuru → Kakamega Forest",
+          "details": "~4.5–5h via Eldoret or Kisumu (at the 5h cap; Jan 4 is a rest day). Rondo Retreat inside the forest, full board. Dusk walk."
+        },
+        {
+          "date": "2027-01-06",
+          "title": "Rainforest day",
+          "details": "Zero travel. Dawn bird walk with local guide (~Ksh300–500 pp). Colobus, De Brazza's, blue turaco. Lirhanda Hill viewpoint. Optional night walk."
+        },
+        {
+          "date": "2027-01-07",
+          "title": "Fly back to Nairobi",
+          "details": "~1.5h to Kisumu airport, Jambojet/Kenya Airways KIS→NBO ~1h (~$90). 15m to airport hotel. ~3.5h door to door."
+        }
+      ],
+      "legs": [
+        {
+          "date": "2027-01-05",
+          "from": "NAK",
+          "to": "KAK",
+          "mode": "road",
+          "duration": "~4.5–5h",
+          "detail": "Via Eldoret or Kisumu"
+        },
+        {
+          "date": "2027-01-07",
+          "from": "KAK",
+          "to": "KIS",
+          "mode": "road",
+          "duration": "~1.5h",
+          "detail": "Rondo → Kisumu airport"
+        },
+        {
+          "date": "2027-01-07",
+          "from": "KIS",
+          "to": "NBO",
+          "mode": "flight",
+          "duration": "~1h",
+          "detail": "Jambojet / Kenya Airways, ~$90"
+        }
+      ],
+      "cost_notes": "+ Rondo Retreat FB 2n ~$260 pp ($260/double/night) · + forest/reserve fees ~$25–100 · + guides ~$10 · + KIS→NBO flight ~$90 · + empty-vehicle return ~$60 · − Naivasha campsite $30, Hell's Gate $50, Naivasha activities $40. Net ≈ +$350 pp (range +$300–500)."
     }
   ],
   "booking_timeline": [
@@ -621,7 +672,12 @@
     "https://africanspicesafaris.com/tour/four-points-by-sheraton-nairobi-jkia-hotel/",
     "https://www.africanmeccasafaris.com/travel-guide/kenya/accommodation/nairobi/southern/ole-sereni-hotel/room-rates",
     "https://id.trip.com/flights/status-f2031/",
-    "https://atcnews.org/new-airstrip-makes-access-to-mara-conservancies-easier/"
+    "https://atcnews.org/new-airstrip-makes-access-to-mara-conservancies-easier/",
+    "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html",
+    "https://www.frommers.com/destinations/kakamega-forest/planning-a-trip/",
+    "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025",
+    "https://www.expedia.com/lp/flights/kis/nbo/kisumu-to-nairobi",
+    "https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve"
   ],
   "places": {
     "LAX": {
@@ -683,6 +739,16 @@
       "name": "Lake Naivasha",
       "lat": -0.77,
       "lng": 36.36
+    },
+    "KAK": {
+      "name": "Kakamega Forest (Rondo Retreat)",
+      "lat": 0.2406,
+      "lng": 34.8653
+    },
+    "KIS": {
+      "name": "Kisumu Airport",
+      "lat": -0.0861,
+      "lng": 34.7289
     }
   },
   "legs": [
@@ -912,6 +978,15 @@
         "Bosphorus",
         "Basilica_Cistern",
         "Galata_Tower"
+      ]
+    },
+    "KAK": {
+      "name": "Kakamega rainforest",
+      "wiki": [
+        "Kakamega_Forest",
+        "Mantled_guereza",
+        "Great_blue_turaco",
+        "De_Brazza's_monkey"
       ]
     }
   }
