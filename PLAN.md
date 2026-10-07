@@ -197,6 +197,7 @@ Relaxed morning. TK9 IST ~14:30 → LAX ~18:15 same day (~13h45). Stay up till ~
 - **Add outbound Istanbul 2n jet-lag reset** (+$235 pp): Pay 2 IST nights Dec 27–28. Gentler +11h shift; kills the tight 1.5h connect risk. Everything +2 days; home Jan 13.
 - **Stretch: add Samburu 2n** (+$640 pp): Fly Mara→Samburu (AirKenya ~$419, ~1h50) 2n, then road Samburu→OPC 2.5–3.5h. Home Jan 13. 6 parks. ≈$7,214.
 - **Comfort upgrade (tented camps)** (+$800 pp): Sweetwaters Serena at OPC, Flamingo Hill at Nakuru, banda at Naivasha. Mara stays camping. Road operator → vehicle + guide only.
+- **Kakamega rainforest instead of Naivasha** (+$350 pp): Kenya's last patch of Guineo-Congolian rainforest. Colobus + De Brazza's monkeys, great blue turaco, 300+ birds, giant trees, Lirhanda Hill sunrise. Swaps Naivasha/Hell's Gate Jan 5–6; dates + home day unchanged. One 4.5–5h drive (at cap), rest day each side.
 
 ## Booking timeline
 
@@ -293,3 +294,8 @@ Relaxed morning. TK9 IST ~14:30 → LAX ~18:15 same day (~13h45). Stay up till ~
 - https://www.africanmeccasafaris.com/travel-guide/kenya/accommodation/nairobi/southern/ole-sereni-hotel/room-rates
 - https://id.trip.com/flights/status-f2031/
 - https://atcnews.org/new-airstrip-makes-access-to-mara-conservancies-easier/
+- https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html
+- https://www.frommers.com/destinations/kakamega-forest/planning-a-trip/
+- https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025
+- https://www.expedia.com/lp/flights/kis/nbo/kisumu-to-nairobi
+- https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve

@@ -23,13 +23,13 @@
   function md(s) {
     s = s || '';
     if (window.marked) {
-      try { return window.marked.parse(s); } catch (e) { /* fall through */ }
+      try { return window.marked.parse(s.replace(/~/g, '\\~')); } catch (e) { /* fall through */ }
     }
     return '<p>' + esc(s).replace(/\n\n+/g, '</p><p>').replace(/\n/g, '<br>') + '</p>';
   }
   function mdInline(s) {
     if (window.marked && window.marked.parseInline) {
-      try { return window.marked.parseInline(s || ''); } catch (e) { /* fall through */ }
+      try { return window.marked.parseInline((s || '').replace(/~/g, '\\~')); } catch (e) { /* fall through */ }
     }
     return esc(s);
   }
@@ -109,7 +109,17 @@
   }
 
   // ---------- renderers ----------
-  var plan, altState = {};
+  var plan, altState = {}, optLayers = {};
+  function syncOptionLayers() {
+    Object.keys(optLayers).forEach(function (i) {
+      var on = !!altState[i];
+      optLayers[i].forEach(function (lay) {
+        if (lay.setStyle) lay.setStyle({ opacity: on ? 1 : .55, color: on ? '#b5542a' : '#8a7f73' });
+        var elx = lay.getElement && lay.getElement();
+        if (elx) elx.classList.toggle('opt-on', on);
+      });
+    });
+  }
 
   function renderHero() {
     document.title = plan.title || document.title;
@@ -240,10 +250,24 @@
       lab.querySelector('input').addEventListener('change', function (e) {
         altState[i] = e.target.checked; store.alts = altState;
         store.labels = store.labels || {}; store.labels['alt:' + i] = a.name;
-        save(); renderBudgetSummary();
+        save(); renderBudgetSummary(); syncOptionLayers();
       });
-      list.appendChild(lab);
+      if (!a.days) { list.appendChild(lab); return; }
+      var wrap = el('div', { class: 'alt-wrap', id: 'opt-' + (a.id || i) });
+      wrap.appendChild(lab);
+      var det = el('details', { class: 'alt-days' });
+      det.innerHTML = '<summary>Days, travel times &amp; costs</summary>' +
+        (a.place && (plan.photos || {})[a.place] ? '<div class="ph ph-alt"><img loading="lazy" alt=""></div>' : '') +
+        '<ol>' + a.days.map(function (d) {
+          return '<li><b>' + esc(fmtDate(d.date)) + ' — ' + esc(d.title) + '.</b> ' + mdInline(d.details) + '</li>';
+        }).join('') + '</ol>' +
+        (a.cost_notes ? '<p class="hint">' + mdInline(a.cost_notes) + '</p>' : '');
+      wrap.appendChild(det);
+      var img = det.querySelector('img');
+      if (img) photoFor(a.place).then(function (info) { fillImg(img, info, 640); });
+      list.appendChild(wrap);
     });
+    syncOptionLayers();
   }
 
   function renderBooking() {
@@ -444,8 +468,36 @@
         legLayers.push(line);
       });
 
+      // optional routes (from alternatives with legs): grey dotted, brighter when the option is ticked
+      (plan.alternatives || []).forEach(function (alt, ai) {
+        if (!alt.legs) return;
+        var grp = [];
+        if (alt.place && places[alt.place]) {
+          var pp = places[alt.place];
+          grp.push(L.marker([pp.lat, pp.lng], {
+            icon: L.divIcon({ className: '', html: '<div class="stop-pin opt">★</div>', iconSize: [24, 24], iconAnchor: [12, 12] }),
+            title: pp.name + ' (option)'
+          }).addTo(map).bindTooltip(pp.name + ' · option', { direction: 'top', offset: [0, -12] }));
+        }
+        alt.legs.forEach(function (l) {
+          var a = places[l.from], b = places[l.to]; if (!a || !b) return;
+          var A = [a.lat, a.lng], B = [b.lat, b.lng], flight = l.mode === 'flight';
+          var pts = flight ? arc(A, B) : [A, B];
+          var line = L.polyline(pts, { color: '#8a7f73', weight: 3, dashArray: '2 7', opacity: .8, lineCap: 'round' }).addTo(map)
+            .bindPopup('<b>Option: ' + esc(alt.name) + '</b><br>' + esc(a.name) + ' → ' + esc(b.name) + ' · ' + esc(l.duration) + '<br>' + esc(l.detail || ''));
+          grp.push(line);
+          if (hoursOf(l.duration)[1] >= 1) {
+            var mid = flight ? pts[Math.floor(pts.length / 2)] : [(A[0] + B[0]) / 2, (A[1] + B[1]) / 2];
+            grp.push(L.tooltip({ permanent: true, direction: 'center', className: 'dur road opt' })
+              .setLatLng(mid).setContent('option ' + (flight ? '✈ ' : '🚙 ') + l.duration).addTo(map));
+          }
+        });
+        optLayers[ai] = grp;
+      });
+      syncOptionLayers();
+
       var allB = L.featureGroup(legLayers).getBounds();
-      var keB = L.latLngBounds(order.filter(isKenya).map(function (c) { return [places[c].lat, places[c].lng]; }));
+      var keB = L.latLngBounds(Object.keys(places).filter(isKenya).map(function (c) { return [places[c].lat, places[c].lng]; }));
       var views = { all: function () { map.fitBounds(allB, { padding: [30, 30] }); }, kenya: function () { map.fitBounds(keB, { padding: [50, 50] }); } };
       views.all();
       var syncZoom = function () { $('#map').classList.toggle('zoomed-out', map.getZoom() < 6); };
@@ -652,6 +704,31 @@
       });
       // nights filled after all stays are counted
       setTimeout(function () { card.querySelector('.nights').textContent = rec.nights + ' night' + (rec.nights > 1 ? 's' : ''); });
+    });
+    (plan.alternatives || []).forEach(function (a) {
+      var ph = a.place && (plan.photos || {})[a.place];
+      if (!ph || seen[a.place]) return;
+      seen[a.place] = { nights: 0 };
+      var d = a.cost_delta_per_person_usd || 0;
+      var card = el('article', { class: 'place-card option' });
+      card.innerHTML =
+        '<span class="opt-badge">Option · ' + (d >= 0 ? '+' : '−') + usd(Math.abs(d)) + ' pp</span>' +
+        '<div class="ph ph-lg"><img loading="lazy" alt=""></div>' +
+        '<div class="ph-row">' + ph.wiki.slice(1, 4).map(function () { return '<div class="ph ph-sm"><img loading="lazy" alt=""></div>'; }).join('') + '</div>' +
+        '<div class="place-body"><h3>' + esc(ph.name) + '</h3>' +
+        '<div class="sub">' + esc(a.name) + ' · <a href="#opt-' + esc(a.id || '') + '">see option</a></div>' +
+        '<p class="extract"></p></div>';
+      grid.appendChild(card);
+      var imgs = card.querySelectorAll('img');
+      ph.wiki.slice(0, 4).forEach(function (t, i) {
+        wiki(t).then(function (info) {
+          fillImg(imgs[i], info, i === 0 ? 800 : 320);
+          if (i === 0 && info && info.extract) {
+            var x = (info.extract.match(/[^.!?]+[.!?]+(\s|$)/g) || [info.extract]).slice(0, 2).join('').trim();
+            card.querySelector('.extract').textContent = x.length > 230 ? x.slice(0, 227) + '…' : x;
+          }
+        });
+      });
     });
   }
 
