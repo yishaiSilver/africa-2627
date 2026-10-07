@@ -366,10 +366,21 @@
     if (window.L && $('#map')) {
       var dark = window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches;
       map = L.map('map', { scrollWheelZoom: false, worldCopyJump: true });
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/' + (dark ? 'dark_all' : 'rastertiles/voyager') + '/{z}/{x}/{y}{r}.png', {
-        maxZoom: 12, subdomains: 'abcd',
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-      }).addTo(map);
+      // Keyless tile sources: OpenStreetMap first, Esri World Street Map if OSM tiles fail.
+      var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 12,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      });
+      var esri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 12,
+        attribution: 'Tiles &copy; Esri &mdash; Esri, HERE, Garmin, &copy; OpenStreetMap contributors'
+      });
+      var tileErrors = 0;
+      osm.on('tileerror', function () {
+        if (++tileErrors === 3) { map.removeLayer(osm); esri.addTo(map); }
+      });
+      osm.addTo(map);
+      if (dark) $('#map').classList.add('dark-tiles');
       var css = getComputedStyle(document.documentElement);
       var cFlight = css.getPropertyValue('--blue').trim() || '#2f5d7c';
       var cRoad = css.getPropertyValue('--green').trim() || '#4f6b3a';

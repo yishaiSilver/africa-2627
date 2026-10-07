@@ -202,3 +202,4 @@ main section { padding: 40px 0 8px; }
 .tl-leg.road span { color: var(--green); }
 .tl-rowlab { grid-column: 1 / -1; font-size: .7rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-top: 4px; }
 @media (max-width: 560px) { .map { height: 340px; } }
+.map.dark-tiles .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.85) contrast(.9); }
