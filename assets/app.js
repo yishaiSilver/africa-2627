@@ -334,14 +334,39 @@
     var d = new Date(iso + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() + n);
     return d.toISOString().slice(0, 10);
   }
+  // "~4h", "~1.5–2h", "~45m–1h", "~1h10–2h", "~13h45", "~15–30m" → [low, high] hours
   function hoursOf(dur) {
-    var m = String(dur).match(/([\d.]+)(?:\s*[–-]\s*([\d.]+))?\s*h/);
-    if (!m) return [0, 0];
-    return [parseFloat(m[1]), parseFloat(m[2] || m[1])];
+    var parts = String(dur).replace(/[~\s]/g, '').split(/[–-]/);
+    var vals = parts.map(function (p) {
+      var m = p.match(/^([\d.]+)(h|m)?(\d+)?/);
+      if (!m) return null;
+      return { n: parseFloat(m[1]), unit: m[2] || null, extra: m[3] ? parseInt(m[3], 10) : 0 };
+    }).filter(Boolean);
+    if (!vals.length) return [0, 0];
+    var lastUnit = vals[vals.length - 1].unit || 'h';
+    var hrs = vals.map(function (v) {
+      var u = v.unit || lastUnit;
+      return u === 'm' ? v.n / 60 : v.n + v.extra / 60;
+    });
+    return [hrs[0], hrs[hrs.length - 1]];
+  }
+  function fmtHours(h) {
+    if (h < 1) return Math.round(h * 12) * 5 + 'm';
+    return (h >= 6 ? Math.round(h) : Math.round(h * 2) / 2) + 'h';
+  }
+  function fmtRange(a) {
+    var lo = fmtHours(a[0]), hi = fmtHours(a[1]);
+    if (lo === hi) return '~' + hi;
+    return '~' + (/h$/.test(lo) && /h$/.test(hi) ? lo.replace(/h$/, '') : lo) + '–' + hi;
+  }
+  var CITY = { NBO: 1, KAR: 1, WIL: 1, JKH: 1, LAX: 1 };
+  function isKenya(code) {
+    var p = (plan.places || {})[code];
+    return p && p.lat > -5 && p.lat < 5 && p.lng > 33 && p.lng < 42;
   }
   function stayClass(code) {
     if (code === 'IST') return 'stay-ist';
-    if (code === 'KAR' || code === 'NBO') return 'stay-city';
+    if (CITY[code]) return 'stay-city';
     return 'stay-k';
   }
 
@@ -387,13 +412,17 @@
 
       var order = [];
       legs.forEach(function (l) { [l.from, l.to].forEach(function (c) { if (order.indexOf(c) < 0) order.push(c); }); });
-      order.forEach(function (code, i) {
+      var stops = ['LAX'];
+      (plan.stays || []).forEach(function (st) { if (stops.indexOf(st.place) < 0) stops.push(st.place); });
+      order.forEach(function (code) {
         var p = places[code]; if (!p) return;
-        var kenya = ['OPC', 'NAI', 'MARA'].indexOf(code) >= 0;
-        L.marker([p.lat, p.lng], {
-          icon: L.divIcon({ className: '', html: '<div class="stop-pin' + (kenya ? ' k' : '') + '">' + (i + 1) + '</div>', iconSize: [24, 24], iconAnchor: [12, 12] }),
-          title: p.name
-        }).addTo(map).bindTooltip(p.name, { direction: 'top', offset: [0, -12] });
+        var n = stops.indexOf(code);
+        var kenya = isKenya(code) && !CITY[code];
+        var icon = n >= 0
+          ? L.divIcon({ className: '', html: '<div class="stop-pin' + (kenya ? ' k' : '') + '">' + (n + 1) + '</div>', iconSize: [24, 24], iconAnchor: [12, 12] })
+          : L.divIcon({ className: '', html: '<div class="via-dot"></div>', iconSize: [10, 10], iconAnchor: [5, 5] });
+        L.marker([p.lat, p.lng], { icon: icon, title: p.name, zIndexOffset: n >= 0 ? 100 : 0 })
+          .addTo(map).bindTooltip(p.name, { direction: 'top', offset: [0, n >= 0 ? -12 : -5] });
       });
 
       var labelled = {};
@@ -406,7 +435,7 @@
         var midPt = pts[Math.floor(pts.length / 2)];
         if (!flight) midPt = [(A[0] + B[0]) / 2, (A[1] + B[1]) / 2];
         var pairKey = [l.from, l.to].sort().join('-');
-        if (!labelled[pairKey]) {
+        if (!labelled[pairKey] && hoursOf(l.duration)[1] >= 1) {
           labelled[pairKey] = true;
           L.tooltip({ permanent: true, direction: 'center', className: 'dur ' + l.mode })
             .setLatLng(midPt).setContent((flight ? '✈ ' : '🚙 ') + l.duration).addTo(map);
@@ -416,7 +445,7 @@
       });
 
       var allB = L.featureGroup(legLayers).getBounds();
-      var keB = L.latLngBounds(['NBO', 'OPC', 'NAI', 'MARA', 'KAR'].filter(function (c) { return places[c]; }).map(function (c) { return [places[c].lat, places[c].lng]; }));
+      var keB = L.latLngBounds(order.filter(isKenya).map(function (c) { return [places[c].lat, places[c].lng]; }));
       var views = { all: function () { map.fitBounds(allB, { padding: [30, 30] }); }, kenya: function () { map.fitBounds(keB, { padding: [50, 50] }); } };
       views.all();
       var syncZoom = function () { $('#map').classList.toggle('zoomed-out', map.getZoom() < 6); };
@@ -431,14 +460,29 @@
       $('#map').style.display = 'none';
     }
 
+    var dayGroups = [];
     legs.forEach(function (l, i) {
+      var g = dayGroups[dayGroups.length - 1];
+      if (!g || g.date !== l.date) { g = { date: l.date, legs: [], idx: [] }; dayGroups.push(g); }
+      g.legs.push(l); g.idx.push(i);
+    });
+    dayGroups.forEach(function (g) {
+      var first = g.legs[0], last = g.legs[g.legs.length - 1];
+      var tot = g.legs.reduce(function (a, l) { var h = hoursOf(l.duration); return [a[0] + h[0], a[1] + h[1]]; }, [0, 0]);
+      var flight = g.legs.some(function (l) { return l.mode === 'flight'; });
+      var name = function (c) { return (places[c] || {}).name || c; };
+      var segs = g.legs.length > 1
+        ? g.legs.map(function (l) { return (l.mode === 'flight' ? '✈ ' : '🚙 ') + name(l.to).replace(/ \(.*\)$/, '') + ' ' + l.duration; }).join(' · ')
+        : (first.detail || '');
       var li = el('li', { tabindex: '0' });
-      li.innerHTML = '<div class="leg-top"><span>' + (l.mode === 'flight' ? '✈ ' : '🚙 ') + esc((places[l.from] || {}).name || l.from) + ' → ' + esc((places[l.to] || {}).name || l.to) + '</span><span class="leg-dur">' + esc(l.duration) + '</span></div>' +
-        '<div class="leg-sub">' + esc(fmtDate(l.date)) + ' · ' + esc(l.detail || '') + '</div>';
+      li.innerHTML = '<div class="leg-top"><span>' + (flight ? '✈ ' : '🚙 ') + esc(name(first.from)) + ' → ' + esc(name(last.to)) + '</span><span class="leg-dur">' + esc(fmtRange(tot)) + '</span></div>' +
+        '<div class="leg-sub">' + esc(fmtDate(g.date)) + ' · ' + esc(segs) + '</div>';
       var go = function () {
-        if (!map || !legLayers[i]) return;
-        map.fitBounds(legLayers[i].getBounds(), { padding: [60, 60], maxZoom: 9 });
-        legLayers[i].openPopup();
+        if (!map) return;
+        var grp = L.featureGroup(g.idx.map(function (i) { return legLayers[i]; }).filter(Boolean));
+        if (!grp.getLayers().length) return;
+        map.fitBounds(grp.getBounds(), { padding: [60, 60], maxZoom: 9 });
+        grp.getLayers()[0].openPopup();
         $('#map').scrollIntoView({ behavior: 'smooth', block: 'center' });
       };
       li.addEventListener('click', go);
@@ -447,6 +491,7 @@
     });
 
     renderTripTimeline();
+    if ($('#pace-body') && plan.fatigue_check) { $('#pace-body').innerHTML = md(plan.fatigue_check); $('#pace').hidden = false; }
   }
 
   function renderTripTimeline() {
@@ -488,19 +533,32 @@
       html += '<div class="tl-block air" style="grid-row:4;grid-column:' + (i + 1) + '" title="' + (last ? 'Home' : 'Overnight in flight') + '">' + (last ? '🏠' : '✈') + '</div>';
     });
 
-    // travel row
-    html += '<div class="tl-rowlab" style="grid-row:5">Travel</div>';
-    var fl = [0, 0], rd = [0, 0];
+    // travel row: door-to-door per day, colored by load
+    html += '<div class="tl-rowlab" style="grid-row:5">Travel per day (door to door)</div>';
+    var fl = [0, 0], rd = [0, 0], perDay = {};
     (plan.legs || []).forEach(function (l) {
-      var c = col(l.date); if (c < 1) return;
+      if (col(l.date) < 1) return;
       var h = hoursOf(l.duration), acc = l.mode === 'flight' ? fl : rd;
       acc[0] += h[0]; acc[1] += h[1];
-      html += '<div class="tl-leg ' + esc(l.mode) + '" style="grid-row:6;grid-column:' + c + '" title="' + esc((places[l.from] || {}).name) + ' → ' + esc((places[l.to] || {}).name) + ' · ' + esc(l.duration) + '">' +
-        (l.mode === 'flight' ? '✈' : '🚙') + '<span>' + esc(l.duration.replace('~', '')) + '</span></div>';
+      var d = perDay[l.date] = perDay[l.date] || { h: [0, 0], flight: false, longhaul: false, legs: [] };
+      d.h[0] += h[0]; d.h[1] += h[1];
+      if (l.mode === 'flight') d.flight = true;
+      if (l.mode === 'flight' && h[1] >= 5) d.longhaul = true;
+      d.legs.push((places[l.from] || {}).name + ' → ' + (places[l.to] || {}).name + ' ' + l.duration);
+    });
+    days.forEach(function (iso) {
+      var d = perDay[iso], c = col(iso);
+      if (!d) {
+        html += '<div class="tl-leg rest" style="grid-row:6;grid-column:' + c + '" title="No travel">·<span>rest</span></div>';
+        return;
+      }
+      var load = d.longhaul ? 'longhaul' : d.h[1] > 5 ? 'heavy' : d.h[1] > 4 ? 'medium' : 'light';
+      html += '<div class="tl-leg ' + load + '" style="grid-row:6;grid-column:' + c + '" title="' + esc(d.legs.join('\n')) + '">' +
+        (d.flight ? '✈' : '🚙') + '<span>' + esc(fmtRange(d.h).replace('~', '')) + '</span></div>';
     });
     box.innerHTML = html;
-    var r = function (a) { return a[0] === a[1] ? '~' + a[0] + 'h' : '~' + a[0] + '–' + a[1] + 'h'; };
-    $('#tl-totals').textContent = days.length + ' days · flying ' + r(fl) + ' · on the road ' + r(rd) + ' · ' + Object.keys(covered).length + ' nights in beds, ' + (days.length - 1 - Object.keys(covered).length) + ' on planes';
+    var restDays = days.filter(function (iso) { return !perDay[iso]; }).length;
+    $('#tl-totals').textContent = days.length + ' days · flying ' + fmtRange(fl) + ' · on the road ' + fmtRange(rd) + ' · ' + restDays + ' no-travel days · ' + Object.keys(covered).length + ' nights in beds, ' + (days.length - 1 - Object.keys(covered).length) + ' on planes'
   }
 
   fetch('data/plan.json', { cache: 'no-cache' })

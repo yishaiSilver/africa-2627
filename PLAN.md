@@ -1,335 +1,295 @@
-# Kenya Safari + Istanbul New Year
+# Kenya Parks Loop + Istanbul Stopover
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-14 · **Planned cost:** $5,937 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-11 · **Planned cost:** $6,574 per person
 
 ## Overview
 
-## The trip
-- **Dates:** LAX Sat Dec 26, 2026 → back Thu Jan 14, 2027 (20 days; Fri Jan 15 easy option).
-- **Route:** Istanbul 5n (NYE) → Kenya 10n → Istanbul 2n. One TK multi-city ticket.
-- **Kenya:** private camping safari: Ol Pejeta 2n, Naivasha 1n, Mara conservancy 4n, Nairobi 3n.
-- **Budget:** **$5,937 pp** (2 sharing, incl. flights + $300 contingency). Range ~$4,640–9,720; realistic bad case ~$6,400–6,800.
-
-## Why camping
-Lodges both conservancies → ~$7,300–7,600 pp. Camping + road (no bush flights) + cheap Istanbul/Nairobi ends keep it under $6k. Upgrades in Alternatives.
-
-## Why Istanbul at New Year
-- Kenya camps charge peak + festive supplements Dec 20–Jan 2 → all Kenya nights in January.
-- Istanbul ~$90–130 pp/day vs $250+ on safari.
-- Free TK Stopover hotel (2n) used on return → no hotel change over NYE.
-
-## Ol Pejeta ≠ Mara
-- **Ol Pejeta:** Laikipia, under Mt Kenya, ~250 km from Mara. Black rhino, last northern whites, chimps.
-- **Mara conservancies:** few vehicles, off-road, walks, night drives. Plan has both.
-- Migration in Tanzania Dec–Jan; resident cats + newborns in Mara.
-- Prices = Oct 2026 estimates; reconfirm all.
+- **Dates:** LAX Sat Dec 26 → LAX Mon Jan 11. 16 nights: **12 Kenya**, 2 Istanbul (free TK stopover), 2 on planes.
+- **Route:** fly to Nairobi → Karen 1n rest → fly to Mara (Enonkishu, Ngerende strip) 3n, NYE in camp → fly to Nanyuki → Ol Pejeta 2n → Nakuru 2n → Naivasha 2n → JKIA-area hotel 2n → IST 2n → home.
+- **Parks (5):** Mara conservancy, Ol Pejeta, Lake Nakuru, Lake Naivasha, Hell's Gate.
+- **Budget: ~$6,574 pp point est; realistic $6,400–6,900** (festive crew pricing). ≤$6,500 only if KATO quotes land at $145–165/day. 5% contingency held until 3 written quotes.
+- **≤$6k path (lead option):** drop Naivasha + $145 flat quote → ~$5,984, 4 parks, no day over 5h. Alt: drop Nakuru ~$5,989 (one 4.5–5h day, at the cap).
+- **Fatigue:** longest road day 4–5h (Jan 3), zero day each side. Jan 1 post-NYE flight day honestly 3–4.5h. 8 zero-travel days. Airport-area hotel = no 01:30 pickup.
+- Ol Pejeta ≠ Mara: rhinos/chimps in Laikipia vs big cats on the plains.
 
 ## Travel legs
 
 | Date | Leg | Mode | Time | Notes |
 |---|---|---|---|---|
-| 2026-12-26 | Los Angeles (LAX) → Istanbul | flight | ~13h | TK10 nonstop, evening dep → lands Dec 27 eve |
-| 2027-01-01 | Istanbul → Nairobi (JKIA) | flight | ~6–7h | TK overnight → lands Jan 2 early |
-| 2027-01-02 | Nairobi (JKIA) → Ol Pejeta Conservancy | road | ~4h | 4x4 north via Nanyuki, equator stop |
-| 2027-01-04 | Ol Pejeta Conservancy → Lake Naivasha | road | ~3.5–4h | Via Nyahururu (Thomson's Falls) |
-| 2027-01-05 | Lake Naivasha → Mara conservancy | road | ~4.5–5h | Via Narok; last hour on dirt |
-| 2027-01-09 | Mara conservancy → Nairobi (Karen) | road | ~5–6h | Rift Valley viewpoint; or fly Mara→Wilson ~45m (+$290 pp) |
-| 2027-01-12 | Nairobi (JKIA) → Istanbul | flight | ~6–7h | Early-hours TK, lands ~midday |
-| 2027-01-14 | Istanbul → Los Angeles (LAX) | flight | ~14h | TK9 nonstop daytime → lands same evening |
+| 2026-12-26 | Los Angeles (LAX) → Istanbul | flight | ~13h | TK10 19:45 → IST 19:00 next day |
+| 2026-12-27 | Istanbul → Nairobi (JKIA) | flight | ~6.5h | TK607 20:30 → 03:05 Dec 28; ~1.5h connect |
+| 2026-12-28 | Nairobi (JKIA) → Nairobi (Karen) | road | ~45m | 04:00 transfer; room held |
+| 2026-12-29 | Nairobi (Karen) → Wilson Airport, Nairobi | road | ~20m | ~12:30 car |
+| 2026-12-29 | Wilson Airport, Nairobi → Ngerende airstrip (Mara) | flight | ~45m–1h | Safarilink/AirKenya afternoon, changeable fare |
+| 2026-12-29 | Ngerende airstrip (Mara) → Enonkishu conservancy, Greater Mara | road | ~15–30m | Crew meets at strip |
+| 2027-01-01 | Enonkishu conservancy, Greater Mara → Ngerende airstrip (Mara) | road | ~15–30m | Late start; 30m check-in |
+| 2027-01-01 | Ngerende airstrip (Mara) → Nanyuki airstrip | flight | ~1h10–2h | Direct if it runs; else via other strips |
+| 2027-01-01 | Nanyuki airstrip → Ol Pejeta Conservancy | road | ~45m | Road crew meets at strip |
+| 2027-01-03 | Ol Pejeta Conservancy → Lake Nakuru NP | road | ~4–5h | Door to door via Nyahururu; falls stop ≤45m; straight to camp |
+| 2027-01-05 | Lake Nakuru NP → Lake Naivasha | road | ~1.5–2h | Via Gilgil, A104 |
+| 2027-01-07 | Lake Naivasha → Airport-area hotel, Mombasa Rd | road | ~2.5–3h | A104 via Limuru + Southern Bypass |
+| 2027-01-09 | Airport-area hotel, Mombasa Rd → Nairobi (JKIA) | road | ~10–20m | 03:00 shuttle |
+| 2027-01-09 | Nairobi (JKIA) → Istanbul | flight | ~7h | TK608 04:50 → 11:45 |
+| 2027-01-11 | Istanbul → Los Angeles (LAX) | flight | ~13h45 | TK9 ~14:30 → ~18:15 same day |
 
 ## Itinerary
 
-### Sat Dec 26 — Depart LAX on Turkish Airlines (Los Angeles → in flight)
+### Sat Dec 26 — Fly toward Nairobi (Los Angeles → in flight)
 
-Evening nonstop LAX→IST (TK10, ~13h; confirm). One multi-city ticket for all flights. EcoFly+ (not N/R) so stopover hotel applies. Pack winter layers + soft safari duffel.
+Christmas at home. TK10 LAX 19:45 → IST 19:00 next day (~13h). Sleep on Kenya time (UTC+3).
 
-*Overnight:* In flight · *Meals:* On board
+*Overnight:* Plane · *Meals:* Home; in-flight
 
-### Sun Dec 27 — Arrive Istanbul (Istanbul)
+### Sun Dec 27 — Connect at IST (Istanbul (airside) → in flight)
 
-Land IST evening. Havaist + tram (~$8) or taxi ($27–50/car) to hotel in Sultanahmet/Karaköy. Same hotel all 5n. Buy Istanbulkart. Light dinner, sleep.
+Land 19:00. ~1.5h airside connect (real but tight). TK607 20:30 → NBO 03:05. Missed? See Practical: fallback = Mara 1 night shorter.
 
-*Overnight:* Boutique hotel, Sultanahmet/Karaköy · *Meals:* On board; dinner own
+*Overnight:* Plane · *Meals:* In-flight
 
-### Mon Dec 28 — Topkapı Palace and Hagia Sophia (Istanbul – Sultanahmet)
+### Mon Dec 28 — Land + full rest day (Nairobi (Karen))
 
-Topkapı + Harem (~$57–80; closed Tue, so go today). Hagia Sophia upper gallery (€25), Blue Mosque (free; check prayer times), Hippodrome.
+Land 03:05. ~45m to Karen B&B (room held from Dec 27). Sleep to ~11:00. Zero travel. Daylight, no naps after 15:00.
 
-*Overnight:* Boutique hotel · *Meals:* B'fast hotel; rest own
+*Overnight:* Karen/Langata B&B · *Meals:* L, D own
 
-### Tue Dec 29 — Cistern, Grand Bazaar and Süleymaniye (Istanbul – Old City)
+### Tue Dec 29 — Fly to the Mara (afternoon) (Nairobi → Masai Mara)
 
-Basilica Cistern (~$27). Grand Bazaar. Süleymaniye Mosque + views. Optional Çemberlitaş hammam ($25–80; not budgeted).
+Slow morning. 20m to Wilson ~12:30. Afternoon flight to Ngerende strip (~45m–1h, stops possible). 15–30m to camp. ~2–2.75h door to door. Short dusk drive.
 
-*Overnight:* Boutique hotel · *Meals:* B'fast hotel; rest own
+*Overnight:* Operator camp, Enonkishu conservancy · *Meals:* B own; L light; D camp
 
-### Wed Dec 30 — Long Bosphorus ferry and Spice Bazaar (Istanbul – Bosphorus)
+### Wed Dec 30 — Full Mara day (Mara conservancy)
 
-Long Bosphorus ferry to Anadolu Kavağı (~$13), walk to Yoros Castle, fish lunch. Spice Bazaar + Rüstem Pasha tiles. Evening Galata/Karaköy.
+Zero travel. Dawn + late-pm drives, off-road, few vehicles. Midday siesta. Big cats, plains game.
 
-*Overnight:* Boutique hotel · *Meals:* B'fast hotel; rest own
+*Overnight:* Operator camp, Enonkishu conservancy · *Meals:* B, L, D
 
-### Thu Dec 31 — Dolmabahçe Palace and New Year's Eve (Istanbul)
+### Thu Dec 31 — Walk, drive, NYE in camp (Mara conservancy)
 
-Dolmabahçe (~$42; closed Mon). Ortaköy waterfront. Reserved NYE dinner (~$120 pp). Fireworks from Ortaköy/Karaköy. Huge crowds: walk/tram, mind pickpockets.
+Zero travel. Maasai walk am, drive pm. Quiet NYE by the fire; bed by ~22:00 is fine. Pack 15 kg bag tonight.
 
-*Overnight:* Boutique hotel (NYE rate) · *Meals:* B'fast; NYE dinner (budgeted)
+*Overnight:* Operator camp, Enonkishu conservancy · *Meals:* B, L, D
 
-### Fri Jan 01 — Asian side, then fly to Nairobi (Istanbul → in flight)
+### Fri Jan 01 — Fly Ngerende → Nanyuki (Mara → Ol Pejeta)
 
-Slow morning. Ferry to Kadıköy for market + lunch. Late checkout or leave bags. Evening → IST, overnight flight to Nairobi (~6h). Start malaria tablets.
+Late start. 15–30m to strip, 30m check-in. Latest sector, direct if it runs (1h10; ~2h with stops). 45m to OPC camp. ~3–4.5h door to door. Rest pm.
 
-*Overnight:* In flight (IST→NBO) · *Meals:* B'fast hotel; dinner on board
+*Overnight:* Operator camp, OPC campsite · *Meals:* B, L, D
 
-### Sat Jan 02 — Into Ol Pejeta (Nairobi → Ol Pejeta Conservancy (Laikipia))
+### Sat Jan 02 — Rhinos + chimps (Ol Pejeta Conservancy)
 
-Land NBO early (eTA). Driver-guide meets you, pop-up 4x4. Buy Safaricom SIM. ~4h north via Nanyuki. Camp set up at OPC site. PM: chimp sanctuary (in $110 entry) + sunset drive.
+Zero travel. Black/white rhino, Sweetwaters chimps, Morani, Mt Kenya views. Optional lion tracking (~$70). Early night.
 
-*Overnight:* Operator camp, OPC campsite · *Meals:* B'fast on board; camp cook
+*Overnight:* Operator camp, OPC campsite · *Meals:* B, L, D
 
-### Sun Jan 03 — Rhinos, lions and Mt Kenya (Ol Pejeta Conservancy)
+### Sun Jan 03 — Long road day to Nakuru (Ol Pejeta → Lake Nakuru)
 
-Dawn + afternoon drives. Black/white rhino, elephant, Grevy's zebra, lion, Baraka the blind rhino. Optional lion tracking or northern white rhino (~$70; book ahead; not budgeted).
+4–5h door to door via Nanyuki, Nyahururu. 30–45m Thomson's Falls stop. No transit drive: gate ~14:00, 15–20m to camp inside. Rest.
 
-*Overnight:* Operator camp, OPC campsite · *Meals:* All by camp cook
+*Overnight:* KWS public campsite inside Lake Nakuru NP · *Meals:* B, L (packed), D
 
-### Mon Jan 04 — Rift Valley drive to Naivasha (Ol Pejeta → Lake Naivasha)
+### Mon Jan 04 — Nakuru day (Lake Nakuru NP)
 
-Drive out, ~3.5–4h via Nyahururu (Thomson's Falls). PM boat on Lake Naivasha (hippos, fish eagles), then Crescent Island walk among giraffe. Lakeshore camp.
+Zero transfer. Dawn drive to Baboon Cliff, flamingos/pelicans, rhino, Rothschild giraffe. Siesta in camp. Short late drive optional.
 
-*Overnight:* Lakeshore campsite, Naivasha · *Meals:* All by camp cook
+*Overnight:* KWS public campsite inside Lake Nakuru NP · *Meals:* B, L, D
 
-### Tue Jan 05 — Into the Mara conservancies (Lake Naivasha → Masai Mara conservancy)
+### Tue Jan 05 — Short hop to Naivasha (Nakuru → Lake Naivasha)
 
-~4.5–5h via Narok to camp inside a Mara conservancy (confirm: Enonkishu, Mara Siana, Pardamat or Ol Kinyei). Conservancy fee ~$100 pppn. PM drive; few vehicles, off-road OK.
+Short drive on the way out (ticket runs to ~14:00). 1.5–2h via Gilgil. Lakeshore camp by lunch. Hippos at dusk.
 
-*Overnight:* Operator camp, Mara conservancy · *Meals:* All by camp cook
+*Overnight:* Lakeshore campsite, Naivasha · *Meals:* B, L, D
 
-### Wed Jan 06 — Big cats and a Maasai-guided walk (Mara conservancy)
+### Wed Jan 06 — Hell's Gate + boat (Lake Naivasha / Hell's Gate)
 
-Morning walk with Maasai ranger (not allowed in national reserve). PM drive for lion prides, cheetah + cubs. Sundowner.
+Zero transfer (30m local). Bike or walk Hell's Gate early. Boat + Crescent Island walk pm, optional. Rest.
 
-*Overnight:* Operator camp, Mara conservancy · *Meals:* All; bush breakfast
+*Overnight:* Lakeshore campsite, Naivasha · *Meals:* B, L, D
 
-### Thu Jan 07 — Full day in the conservancy (Mara conservancy)
+### Thu Jan 07 — Road to airport-area hotel (Naivasha → Nairobi (JKIA area))
 
-Full-day drive, picnic lunch. Green grass, newborn topi/gazelle, resident herds. Optional night drive if allowed. Optional balloon (~$450–550; not budgeted).
+2.5–3h via A104 Limuru + Southern Bypass (Mai Mahiu only if open). Check in by lunch. Shower, laundry. Crew farewell.
 
-*Overnight:* Operator camp, Mara conservancy · *Meals:* All; picnic lunch
+*Overnight:* Airport-area hotel (JKIA/Mombasa Rd) · *Meals:* B; L, D own
 
-### Fri Jan 08 — Last Mara day (Mara conservancy)
+### Fri Jan 08 — Buffer day (Nairobi (JKIA area))
 
-Dawn drive for cats. Optional Maasai village (~$20–30 pp, paid locally). PM drive, last campfire. Tip guide + cook tonight.
+Zero travel. Pool, repack. Optional Sheldrick 11:00 (~40m, +$15). Early dinner, bed ~19:30. No 01:30 pickup: hotel is 10–20m from JKIA.
 
-*Overnight:* Operator camp, Mara conservancy · *Meals:* All meals
+*Overnight:* Airport-area hotel (JKIA/Mombasa Rd) · *Meals:* B; L, D own
 
-### Sat Jan 09 — Back to Nairobi by road (Masai Mara → Nairobi)
+### Sat Jan 09 — Early flight to Istanbul (Nairobi → Istanbul)
 
-Short dawn drive, then ~5–6h to Nairobi via Rift Valley viewpoint. Drop at Karen/Langata guesthouse. Mara→Wilson flight +$290 pp if preferred.
+Wake ~02:45, shuttle 03:00, 10–20m. TK608 04:50 → IST 11:45 (~7h). Free TK Stopover hotel. Nap; easy evening.
 
-*Overnight:* Karen/Langata B&B, Nairobi · *Meals:* B'fast + lunch by operator
+*Overnight:* TK Stopover hotel, Istanbul · *Meals:* In-flight; D own
 
-### Sun Jan 10 — Giraffes and Out of Africa (Nairobi (Karen))
+### Sun Jan 10 — Easy Istanbul day = real pre-long-haul buffer (Istanbul)
 
-Giraffe Centre (~$12; 9–5). Karen Blixen Museum (~$10). Laundry, repack. Optional Nairobi NP drive (not budgeted). Uber/Bolt; no walking after dark.
+Zero travel. Hagia Sophia, Cistern, Bosphorus ferry (Grand Bazaar shut Sun). Pack. Early night.
 
-*Overnight:* Karen/Langata guesthouse · *Meals:* B'fast incl.; rest own
+*Overnight:* TK Stopover hotel, Istanbul · *Meals:* B; L, D own
 
-### Mon Jan 11 — Baby elephants at Sheldrick, then the airport (Nairobi → night flight)
+### Mon Jan 11 — Fly home (Istanbul → Los Angeles)
 
-Sheldrick public visit 11:00–12:00 ($20); book online ~90 days out (~Oct 13). Farewell dinner. Keep room; car to JKIA ~3h before early-hours TK flight. Check exact time.
+Relaxed morning. TK9 IST ~14:30 → LAX ~18:15 same day (~13h45). Stay up till ~21:00 LA time.
 
-*Overnight:* Guesthouse until late JKIA transfer · *Meals:* B'fast incl.; rest own
-
-### Tue Jan 12 — Fly to Istanbul for a winter stopover (Nairobi → Istanbul)
-
-Early TK NBO→IST (~6–7h), land ~midday. TK Stopover desk → free 4-star hotel (request ≥72h ahead; may be outside old city). Evening Karaköy/Galata. Low season, no crowds.
-
-*Overnight:* TK Stopover hotel (free night 1) · *Meals:* On board; dinner own
-
-### Wed Jan 13 — Galata, Balat and a last Turkish dinner (Istanbul)
-
-Galata Tower (€30). Walk Balat + Fener. Optional Chora mosaics or Archaeological Museums. Farewell meze dinner. Pack.
-
-*Overnight:* TK Stopover hotel (free night 2) · *Meals:* B'fast hotel; rest own
-
-### Thu Jan 14 — Fly home (Istanbul → Los Angeles)
-
-Transfer to IST. Daytime nonstop TK9 IST→LAX (~14h); land same evening. Keep malaria tablets 7 days after Kenya (~Jan 18).
-
-*Overnight:* Home · *Meals:* B'fast hotel; on board
+*Overnight:* Home · *Meals:* B; in-flight
 
 ## Lodging
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Boutique hotel, Sultanahmet or Karaköy (e.g., Hotel Niles, Sura Hagia Sophia, Galata Rasso, 10 Karaköy, Pera Bosphorus) | Istanbul | 5 | $62 | Room + breakfast |
-| Private camping safari: operator camp at an OPC public/special campsite | Ol Pejeta Conservancy, Laikipia | 2 | $70 | OPC campsite $70 pppn. Operator rate ($125 pp/day) + $110/24h entry = separate lines. |
-| Camp Carnelley's or Fisherman's Camp (lakeshore campsite) | Lake Naivasha | 1 | $15 | Campsite fee; operator tents, cook, meals |
-| Operator camp inside a Mara conservancy (confirm the exact site: Enonkishu, Mara Siana, Pardamat or Ol Kinyei) | Greater Masai Mara: private/community conservancy | 4 | $25 | Campsite/community fee ~$25 pppn (est.). Conservancy fee + operator rate are separate lines. |
-| Karen/Langata B&B guesthouse (price on Booking.com; Macushla House is the step up) | Karen/Langata, Nairobi (near Sheldrick, the Giraffe Centre and the Blixen Museum) | 3 | $65 | B&B; 3rd night holds room until late JKIA transfer |
-| Turkish Airlines Stopover hotel (assigned 4-star) | Istanbul (location assigned; may be outside the old city) | 2 | $0 | Room, breakfast, airport transfer where provided |
+| Karen/Langata B&B guesthouse | Karen/Langata, Nairobi | 1 | $60 | B&B ~$120/room. Room held from Dec 27 so it's ready at 04:00 Dec 28 (+1 room-night). |
+| Operator private camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback) | Northern Greater Mara; Ngerende strip ~15m | 3 | $25 | Site/community fee ~$25 pppn est. Conservancy fee (~$80) + crew separate lines. |
+| Operator camp at an OPC campsite | Ol Pejeta Conservancy, Laikipia | 2 | $70 | OPC campsite $70 pppn (2026 tariff); entry separate |
+| KWS public campsite inside Lake Nakuru NP | Lake Nakuru NP | 2 | $30 | KWS campsite $30 pppn; 2×24h park fee separate |
+| Camp Carnelley's or Fisherman's Camp | Lake Naivasha, south shore | 2 | $15 | Campsite fee; operator tents, cook, meals |
+| Airport-area hotel (JKIA / Mombasa Rd, e.g. Ole Sereni, Four Points, or mid-range B&B) | Nairobi, near JKIA | 2 | $75 | B&B ~$150/room est.; often free airport shuttle |
+| Turkish Airlines Stopover hotel (assigned, 4-star) | Istanbul | 2 | $0 | Room + breakfast. Free: US-origin economy 2 nights, once per ticket. |
 
 ## Budget (per person, USD)
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
-| International flights | TK economy multi-city LAX–IST–NBO–IST–LAX | $1,400 | $1,250–$1,800 | Holiday estimate. Price exact ticket on TK site; fare not N/R. Compare Qatar, KLM. |
-| Kenya domestic flights | None in main plan (road safari) | $0 | $0–$290 | High = Mara→Wilson flight (~$260–330) to skip 5–6h drive. |
-| Lodging | Camping operator Jan 2–9: 4x4, guide, cook, tents, meals | $1,000 | $880–$1,600 | Est. $125 pp/day, excl. park fees. Get 3 KATO quotes. |
-| Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$150 | $70/adult/night (2026 tariff). Book via operator. |
-| Lodging | Naivasha campsite, 1n | $15 | $15–$120 | Est. High = banda or lodge. |
-| Lodging | Mara conservancy campsite/community fee, 4n | $100 | $0–$200 | Est. ~$25 pppn; sometimes in conservancy fee. |
-| Park/conservancy fees | Ol Pejeta entry, 2 × 24h | $220 | $220–$240 | $110/24h (2027 maybe ~$120). Incl. chimps. Lion tracking/NW rhino ~$70 extra. |
-| Park/conservancy fees | Mara conservancy fee, 4n | $400 | $320–$520 | ~$80–130 pppn by conservancy. No national reserve day. |
-| Activities | Naivasha boat + Crescent Island walk | $40 | $30–$80 | Est. |
-| Activities | Maasai ranger walk / night drive, Mara | $50 | $0–$120 | Est.; check what fee covers. Balloon not budgeted. |
-| Istanbul | Boutique hotel, 5n Dec 27–31 incl. NYE (~$620/room ÷ 2) | $310 | $230–$480 | ~$100–130/room normal, ~$200–250 NYE; 3n minimums. |
-| Istanbul | TK Stopover hotel, 2n Jan 12–13 | $0 | $0–$100 | Free if fare qualifies; else ~$100/room/night. |
-| Istanbul | Hagia Sophia, Topkapı, Cistern, Dolmabahçe, ferry, Galata | $210 | $160–$330 | $29 + $57–80 + $27 + $42 + $13 + $35. Hammam optional. |
-| Istanbul | Food: 5 days ~$50 + NYE ~$120 + 2 days ~$40 | $450 | $370–$650 | NYE Bosphorus set menu often $100–200. |
-| Istanbul | Transport: 2 airport round trips + Istanbulkart | $70 | $45–$130 | Havaist ~$6–8 each way; taxi $27–50/car. |
-| Nairobi | Karen/Langata B&B, 3n (~$130/room) | $195 | $150–$375 | 3rd night holds room until JKIA. High = Macushla/Ole Sereni. |
-| Nairobi | Sheldrick $20 + Giraffe Centre $12 + Blixen ~$10 | $42 | $42–$50 | Sheldrick online only; opens ~90 days ahead. |
-| Transfers | Nairobi car/Uber + late-night JKIA transfer | $50 | $35–$80 | Arrival pickup + safari transfers in operator line. |
+| International flights | TK round trip LAX–IST–NBO; return with free 2n IST stopover | $1,500 | $1,350–$1,850 | Est. Out Dec 26, back Jan 9 (IST stop) → LAX Jan 11. EcoFly+ (not N/R). Price on TK now. |
+| Kenya domestic flights | Wilson→Ngerende (Mara) Dec 29, afternoon, changeable fare | $230 | $200–$260 | High-season non-resident. 15 kg soft bag. Changeable = missed-IST fallback. |
+| Kenya domestic flights | Ngerende→Nanyuki Jan 1 | $409 | $376–$450 | Safarilink ~$409 high season. Direct ~1h10; up to ~2h with stops. Confirm Jan 1 schedule. |
+| Lodging | Mara crew 3 days Dec 29–Jan 1: vehicle, guide, cook, tents, meals, strip runs | $510 | $435–$900 | $170 pp/day festive est. Market $280–400 all-in +10–25% peak. Target quote $145–165. |
+| Lodging | Road safari operator 7 days Jan 1–7, Nanyuki→airport hotel | $1,065 | $1,015–$1,450 | 2 festive days × $170 + 5 × $145. Get 3 written KATO quotes. |
+| Lodging | Repositioning: Mara crew to/from Nairobi + road vehicle to Nanyuki | $130 | $60–$300 | ~2.5 dead vehicle days. Lower if Mara-based partner crew. |
+| Lodging | Mara campsite/community fee, 3n | $75 | $0–$150 | Est. ~$25 pppn. Confirm. |
+| Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$160 | $70 pppn, 2026 tariff. |
+| Lodging | Nakuru KWS campsite inside park, 2n | $60 | $60–$80 | $30 pppn. |
+| Lodging | Naivasha lakeshore campsite, 2n | $30 | $30–$120 | High = banda. |
+| Park/conservancy fees | Enonkishu conservancy fee, 3n | $240 | $240–$450 | ~$80 pppn non-resident (cheetahsafaris). High = Pardamat/Ol Chorro fallback ~$100–150. |
+| Park/conservancy fees | Ol Pejeta entry, 2 × 24h | $230 | $220–$260 | $110/24h 2026; 2027 maybe ~$120. |
+| Park/conservancy fees | Lake Nakuru NP, 2 × 24h | $180 | $120–$180 | KWS new $90; $60 if old rate stands. |
+| Park/conservancy fees | Hell's Gate NP, 1 day | $50 | $26–$50 | KWS new $50; $26 if old rate stands. |
+| Activities | Hell's Gate bike + Naivasha boat/Crescent Island | $40 | $30–$90 | Est. |
+| Activities | Mara Maasai walk / night drive | $25 | $0–$120 | Often in conservancy fee. Balloon not budgeted. |
+| Istanbul | TK Stopover hotel, 2n Jan 9–10 | $0 | $0–$100 | Free if fare qualifies. |
+| Istanbul | Sights (Hagia Sophia, Cistern, ferry) | $30 | $20–$80 | Light day. |
+| Istanbul | Food, ~2 days | $80 | $60–$140 | ~$40 pp/day. |
+| Istanbul | Airport transfers ×2 + Istanbulkart | $25 | $20–$60 | Stopover may include transfer. |
+| Nairobi | Karen B&B arrival, 2 room-nights (Dec 27 held + Dec 28) | $120 | $90–$200 | Room ready at 04:00 + full rest day. |
+| Nairobi | Airport-area hotel, 2n Jan 7–8 (JKIA/Mombasa Rd) | $150 | $90–$270 | ~$150/room B&B est. ($180–270 Four Points/Ole Sereni). 10–20m to JKIA. |
+| Transfers | JKIA→Karen 04:00, Karen→Wilson, hotel→JKIA 03:00 | $35 | $25–$80 | Pre-booked car / hotel shuttle. Naivasha→hotel in operator rate. |
 | Visas/eTA | Kenya eTA (Türkiye visa-free) | $30 | $30–$35 | etas.gov.ke only. |
-| Health | Yellow fever vaccine | $200 | $0–$350 | $0 if vaccinated. Recommended, not required. |
-| Health | Malaria pills + travel clinic | $80 | $40–$250 | Hep A/typhoid may be covered by insurance. |
-| Travel insurance + evac | Comprehensive insurance, ≥$250k evac | $300 | $240–$480 | ~4–8% of prepaid. Buy within 14–21 days of first deposit. |
-| Travel insurance + evac | AMREF Maisha Bronze (Kenya air evac) | $10 | $0–$24 | Recommended for remote camping. |
-| Tips | Guide ~$12 + cook ~$6 pp/day × 8, + other staff | $160 | $130–$260 | Crisp post-2013 small USD bills. |
-| Meals not included | Nairobi meals (3 days) + transit meals | $110 | $70–$180 | Safari meals in operator rate. |
-| Misc/souvenirs | eSIM or Safaricom SIM | $15 | $8–$25 | Airalo or Safaricom KES 1,000–2,000. |
-| Misc/souvenirs | Souvenirs, laundry, sundries | $40 | $30–$300 | Discretionary. |
-| Contingency | ~5% contingency: fare/rate rises, FX, fees, options | $300 | $200–$500 | Covers hammam, lion tracking, village visit. |
-| **Total** | | **$5,937** | | ≈ $11,874 for two |
+| Health | Yellow fever vaccine | $200 | $0–$350 | $0 if already vaccinated. |
+| Health | Malaria pills + travel clinic | $80 | $40–$250 | Atovaquone-proguanil. |
+| Travel insurance + evac | Comprehensive, ≥$250k evac | $290 | $240–$460 | Cover road safari + bush flights. |
+| Travel insurance + evac | AMREF Maisha (Kenya air evac) | $10 | $0–$24 |  |
+| Tips | Two crews: guide ~$11 + cook ~$5 pp/day × ~10 days + porters/drivers | $185 | $150–$280 | Crisp post-2013 USD. |
+| Meals not included | Nairobi + transit meals | $70 | $50–$150 |  |
+| Misc/souvenirs | eSIM / Safaricom SIM | $15 | $8–$25 |  |
+| Misc/souvenirs | Souvenirs, laundry, sundries | $40 | $30–$300 |  |
+| Contingency | ~5% HELD: operator quotes, festive uplift, fares, KWS ruling, FX | $300 | $250–$500 | Don't spend/release until 3 written KATO quotes are in. |
+| **Total** | | **$6,574** | | ≈ $13,148 for two |
 
 ## Options & swaps
 
-- **Ol Pejeta upgrade: Sweetwaters Serena** (+$340 pp): 2n full board, tented camp over floodlit waterhole. ~$240 pp vs $70 campsite. Keep operator vehicle. Real beds after long flights.
-- **Dorobo Mobile Camp, Naboisho (4 Mara nights)** (+$800 pp): ~$380 pp + ~$115 pppn fee; meals, drinks, drives, walks incl. 4-guest minimum listed; ask if couple OK.
-- **Full lodge + fly-in (Porini)** (+$1,850 pp): Serena 2n, fly Nanyuki→Mara, Porini Ol Kinyei 4n (~$570–650 pppn), fly to Wilson. No Naivasha. Total ~$7,600–7,800 pp.
-- **Diani Beach instead of Nairobi nights** (+$380 pp): Fly NBO→Ukunda (~$105–150 each way), 3n half board (~$110–165 pppn). Lose Sheldrick/Giraffe Centre. Dengue: repellent.
-- **Short version: return LAX Sat Jan 9** (−$550 pp): Skip Nairobi + Jan Istanbul; fly home after Mara. Cheaper, but 7 days earlier than asked.
+- **LEAD ≤$6,000: drop Naivasha + $145 flat quote** (−$590 pp): Nakuru 2n → JKIA-area hotel 3–3.5h (Jan 5; Jan 4 zero before). Keeps Nakuru. Operator quotes $145 flat, no festive uplift. Home Jan 9. Kenya 10n, 4 parks. ≈$5,984. No day >5h.
+- **≤$6,000 alt: drop Nakuru (AT THE 5h CAP)** (−$585 pp): OPC→Naivasha direct, 4.5–5h door to door incl. 30–45m Thomson's Falls stop; zero day after. Breaks 'prefer ≤4h'. Home Jan 9. 4 parks. ≈$5,989.
+- **+1 Mara night (recommended if budget stretches)** (+$300 pp): Mara 4n Dec 29–Jan 2. Jan 1 = zero day after NYE; Mara→Nanyuki moves to Jan 2. Everything +1 day; home Jan 12.
+- **Add outbound Istanbul 2n jet-lag reset** (+$235 pp): Pay 2 IST nights Dec 27–28. Gentler +11h shift; kills the tight 1.5h connect risk. Everything +2 days; home Jan 13.
+- **Stretch: add Samburu 2n** (+$640 pp): Fly Mara→Samburu (AirKenya ~$419, ~1h50) 2n, then road Samburu→OPC 2.5–3.5h. Home Jan 13. 6 parks. ≈$7,214.
+- **Comfort upgrade (tented camps)** (+$800 pp): Sweetwaters Serena at OPC, Flamingo Hill at Nakuru, banda at Naivasha. Mara stays camping. Road operator → vehicle + guide only.
 
 ## Booking timeline
 
-- **This week (Oct 7–14, 2026):** Confirm $5–6k is pp + camping OK. Price, book exact TK multi-city on turkishairlines.com; fare not N/R. Fallback: Qatar, KLM.
-- **This week (Oct 7–14):** Get 3 KATO camping-safari quotes, Jan 2–9; must name Mara conservancy campsite. Also Dorobo/Porini quotes. Reserve OPC campsite.
-- **About Oct 13 (90 days before Jan 11):** Book Sheldrick 11:00 visit for Mon Jan 11 online as soon as date opens.
-- **By Oct 21:** Book Istanbul hotel Dec 27–Jan 1 (check min stay). Buy insurance within 14–21 days of first deposit.
-- **Late Oct – early Nov:** Travel clinic: yellow fever (Stamaril scarce), typhoid, Hep A, malaria Rx. Passports valid to ≥Jul 2027, 2 blank pages.
-- **Nov 1–15:** Pay operator deposit (balance due 30–60 days out). Book Karen guesthouse Jan 9–11. Reserve NYE dinner. Optional OPC lion tracking/NW rhino.
-- **By Dec 1:** Request TK Stopover hotel Jan 12–14 (≥72h ahead; do early). Note NBO–IST time; tell guesthouse re late checkout.
-- **Dec 5–12:** Kenya eTA ($30) at etas.gov.ke. Airalo eSIM. Small post-2013 USD bills. Check cards work abroad.
-- **Dec 20–26:** Pack Istanbul winter layers + safari duffel, headlamp, fleece. Reconfirm JKIA pickup Jan 2 (~4–5am). Malaria pills from Jan 1.
+- **Now (Oct 7–15):** Price + book TK round trip (out Dec 26, TK10→TK607; back Jan 9 with IST stopover). Send route to 3 KATO operators: ask $145–165/day festive, itemized repositioning. Buy insurance once ticketed.
+- **Before deposit (by Oct 31):** In writing: Enonkishu mobile camping allowed, site held Dec 29–Jan 1, 2026/27 fee (~$80?), Ngerende strip + strip→camp time. Else Pardamat/Ol Chorro. KWS Nakuru campsite. OPC campsite. Then lock operator.
+- **By Nov 15:** Book Wilson→Ngerende Dec 29 afternoon, CHANGEABLE fare. Ngerende→Nanyuki Jan 1, latest/direct sector. Karen B&B (Dec 27 held + Dec 28). Airport-area hotel Jan 7–8 + 03:00 shuttle.
+- **Mid–late Nov:** Travel clinic: yellow fever (≥10 days before), malaria Rx.
+- **Right after ticketing; ≥72h before latest:** Request free TK Stopover hotel Jan 9–10.
+- **~Dec 1–5:** Kenya eTA on etas.gov.ke. eSIM. Small USD bills. Release contingency only after quotes signed.
+- **Dec 20–24:** Reconfirm bush flights + Jan 1 holiday schedule, 04:00 JKIA pickup Dec 28, hotel shuttle Jan 9. Check KWS fee ruling + Mai Mahiu road. Pack 15 kg soft bags.
 
 ## Practical
 
 ## Entry
-- **Türkiye:** visa-free for US (90/180 days).
-- **Kenya:** eTA $30, **etas.gov.ke only**; apply ~3 wks out.
-- Passport valid 6+ mo, 2 blank pages.
+- Kenya eTA $30, **etas.gov.ke only**. Türkiye transit/stopover visa-free. Passport 6+ mo, 2 blank pages.
 
-## TK Stopover
-- Stop 20h–7 days; ticket no. starts 235; round trip, one booking.
-- US economy: **2 free 4-star nights, one leg only**. N/R fares reportedly excluded.
-- Request after ticketing, ≥72h before. Hotel assigned.
+## Flights
+- TK10 19:45→19:00+1 (from Oct 24, 2026). TK607 **20:30 → 03:05**. 1.5h connect: real, tight.
+- **Missed connect fallback:** TK rebooks next night → land **03:05 Dec 29**. Sleep at Karen (room already held). Move Mara flight to **Dec 30** (changeable fare). Mara drops to 2n; NYE still in camp. Karen room +1 night (~$60 pp).
+- Free TK Stopover: **once per ticket**, not N/R fares. Used on return.
+- Bush flights **15 kg pp**, soft bags. Mara strip = **Ngerende** (Safarilink/AirKenya, ~2×/day), ~15m to Enonkishu.
+
+## Jet lag (+11h)
+- Shift sleep 1–2h earlier the week before. Sleep on Kenya time on board.
+- Dec 28 full rest. Dec 29 afternoon flight = lazy morning. Dec 30–31 zero travel.
+
+## Road reality
+- Nakuru→OPC leg (Jan 3) **4–5h door to door**. Falls stop ≤45m.
+- Mara fly-in both ways. Mulot road never used.
+- Naivasha→JKIA area 2.5–3h via A104/Southern Bypass.
+- Jan 1: **3–4.5h** door to door after NYE. Want it easier? +1 Mara night (+$300).
+
+## Fees
+- KWS court case: only **Hell's Gate + Nakuru** (new $50/$90 vs old $26/$60).
+- Nakuru 2×24h, single entry; camp inside.
+- OPC + Mara conservancies not KWS. Cashless.
+
+## Operator must confirm in writing
+- Enonkishu mobile camping allowed + fee + strip→camp time. Else Pardamat/Ol Chorro.
+- Per-day rate incl. festive uplift. Repositioning in/out.
 
 ## Health (CDC)
-- Yellow fever recommended, not required. Book clinic early.
-- Malaria: atovaquone-proguanil Jan 1 → 7 days after Kenya. DEET, long sleeves at dusk.
-- Routine + Hep A, typhoid, Tdap. Bottled/filtered water.
+- Yellow fever recommended outside Nairobi. Malaria pills from Dec 27 to 7 days after. DEET.
 
-## Camping safari
-- Walk-in tents, beds, bedding; cook does 3 hot meals. Bucket shower + toilet tent.
-- Askari guards camp; never walk out after dark unescorted.
-- Bring headlamp, power bank, fleece/beanie (Laikipia nights ~8–12°C). Ask: charging, sleeping bags?
+## Camping
+- Walk-in tents, beds, bucket shower, toilet tent. Askari at night. Laikipia/Nakuru nights ~8–12°C: fleece.
 
-## Insurance
-- Comprehensive, **≥$250k evac**, covers road safari.
-- AMREF Maisha Bronze ($10). Cancellation cover: balances nonrefundable inside 30–60 days.
-
-## Packing
-- Istanbul ~3–9°C, rain: warm waterproof jacket + shoes. Mosques: headscarf (women), cover shoulders/knees.
-- Safari: neutral colors (no camo), layers, hat, sunscreen, binoculars, Type G adapter. Soft duffels.
-- **Plastic bags banned in Kenya.**
-
-## Tips (pp)
-- Guide $10–15/day, cook $5–8/day, transfers $5–10; Istanbul ~10%.
-
-## Money
-- Kenya ~130 KES/$; gates cashless (card/M-Pesa). Small crisp post-2013 USD for tips.
-- Türkiye ~48 TRY/$; cards widely accepted.
-
-## Safety + weather
-- Kenya Level 2. Nairobi: Uber/Bolt, no night walks. Avoid Somalia border, Lamu, Tana River.
-- NYE Istanbul: crowds, pickpockets.
-- Laikipia/Mara 25–28°C day, 8–13°C dawn; Nairobi 18–24°C.
-
-## Re-check
-- OPC 2027 tariff, KWS fees, NW rhino status.
+## Money/safety
+- ~130 KES/$. Crisp USD for tips. Kenya Level 2: Uber/Bolt, no night walks. Plastic bags banned.
 
 ## Open questions
 
-1. Is $5–6k per person (assumed) or total for both? If total, trip needs a very different design.
-2. Camping OK as main plan? Or upgrade: Serena (+$340), Dorobo (+$800), Porini lodge + fly-in (+$1,850)?
-3. Istanbul 5n NYE + 2n on return right? Or trade nights for Kenya days (~$250–350 each)?
-4. Return Thu Jan 14 OK, or Fri Jan 15 (+1 day, ~+$150)?
-5. OK with 4–6h road days? Or pay +$290–690 to fly some legs?
-6. Any musts: balloon (~$450–550), lion tracking/NW rhino (~$70), Maasai village, Nairobi NP?
+1. Confirm the $5–6k budget is per person (assumed), not total for both.
+2. Base ~$6,574 (realistic $6,400–6,900) OK? Or ≤$6k by dropping Naivasha (~$5,984) or Nakuru (~$5,989, one 4.5–5h day)?
+3. +1 Mara night (+$300) so Jan 1 after NYE is a zero day?
+4. Straight LAX→IST→Nairobi (~22h) or add 2 outbound Istanbul nights (+$235)?
+5. Camping all the way OK, or tented-camp upgrade (+$800)?
+6. Already have yellow fever shots? (−$200 if yes.)
 
 ## Sources
 
-- https://www.turkishairlines.com/en-us/flights-from-los-angeles-to-nairobi
-- https://blog.wego.com/turkish-airlines-stopover-program/
-- https://www.travelpulse.com/news/airlines-airports/turkish-airlines-expands-stopover-service
-- https://blog.skyluxtravel.com/turkish-airlines-stopover-program/
-- https://insideflyer.com/2025/05/12/turkish-airlines-expands-free-stopover-program-in-istanbul/
-- https://www.turkishairlines.com/en-br/flights/fly-different/touristanbul/faq
-- https://www.klm.com/en-us/flights-from-los-angeles-to-nairobi
-- https://www.travelocity.com/es/lp/flight-routes/qatar-airways-from-los-angeles-intl-to-jomo-kenyatta-intl/qr/lax/nbo
-- https://www.skyscanner.co.in/routes/nyk/mdr/nanyuki-to-musiara.html
-- https://www.travelbutlers.com/safari/general-information-safarilink-terms-and-conditions/
+- https://uk.trip.com/flights/status-tk607
+- https://www.airpaz.com/en/flight/code/TK-607
+- https://info.flightmapper.net/flight/Turkish_Airlines_TK_10
+- https://www.flight.info/TK608
+- https://www.airpaz.com/en/flight/code/TK-9
+- https://www.turkishairlines.com/en-us/flights/stopover/
+- https://awardwallet.com/airlines/turkish-airlines-stopover/
+- https://africanspicesafaris.com/tour/kenya-local-flights-safari-link-air-ticket-prices/
+- https://africanspicesafaris.com/tour/kenya-local-flights-air-kenya-ticket-prices/
+- https://nz.trip.com/flights/nanyuki-to-masai-mara/airfares-nyk-mre
+- https://www.skyscanner.co.za/routes/uas/mrea/samburu-to-maasai-mara.html
+- https://monkey.travel/en/usd/tour/mara-north-conservancy-4-days/
+- https://masaimara.ke/safarilink-flights/
+- https://cheetahsafaris.com/national-park/enonkishu-conservancy
+- https://blog.biosphere-expeditions.org/2020/01/31/kenya-bring-your-wellies/
+- https://standardmedia.co.ke/article/2001398762/ride-to-paradise-made-easier-with-paved-mara-road
+- https://monkey.travel/en/usd/tour/olpejeta-nakuru-4-days/
+- https://safaribookings.com/day/t67935
+- https://monkey.travel/en/tour/samburu-olpejeta-7-days
+- https://www.kenyans.co.ke/news/115091-full-list-proposed-new-prices-nairobi-amboseli-tsavo-all-other-parks
+- https://www.kenyans.co.ke/news/116749-court-temporarily-stops-new-kws-park-entry-fees
+- https://capitalfm.africa/blow-to-kws-as-high-court-stops-park-fees-hike/
+- https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-effective-october-1-2025
 - https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf
-- https://www.olpejetaconservancy.org/?p=24515
-- https://africanspicesafaris.com/tour/sweetwaters-serena-camp-morani-wing-luxury-tents/
-- https://africanspicesafaris.com/tour/dorobo-mobile-camp-mara-naboisho-conservancy/
-- https://africanspicesafaris.com/tour/porini-camp-masai-mara/
-- https://www.porini.com/wp-content/uploads/2026/07/Reduced-Rates-for-6-nights.pdf
-- https://www.porini.com/wp-content/uploads/2026/06/Maasai-Mara-Big-Cat-Safari-05-Days-04-Nights.pdf
-- https://www.porini.com/special-offers/
-- https://www.porini.com/?p=480
-- https://www.rhinoafrica.com/en/accommodation/gamewatchers-ol-kinyei-adventure-camp/24317
-- https://africanspicesafaris.com/tour/siana-springs-tented-camp-masai-mara/
-- https://www.expedia.com/cn/Enonkishu-Conservancy-Lodges.d553248621576636488-aaLodges.Travel-Guide-Accommodation
-- https://masaimarasafari.travel/budget-camps-masai-mara/
-- https://www.africansafarimag.com/kenya-safari-cost
-- https://www.tourradar.com/t/5158
-- https://thekenyatimes.com/lifestyle/travel-tourism/masai-mara-entrance-fees-and-park-charges-2026-updated-for-tourists/
+- https://samburureserve.org/entry-fees/
+- https://ajkenyasafaris.com/14-day-kenya-safari-itinerary/
+- https://www.imaraafricasafaris.com/african-travel-blog/kenya-safari-cost-2026
+- https://beyondkenyasafaris.com/flamingo-hill-camp/
 - https://monkey.travel/en/usd/accommodation/naivasha-sopa/
-- https://www.go2africa.com/accommodation/macushla-house
-- https://discoverkenya.co.ke/listing/sheldrick-wildlife-trust-nursery
-- https://giraffecentre.org/faqs/
-- https://thekenyatimes.com/latest-kenya-times-news/kws-park-fee-suspended/
-- https://www.safarifind.com/blog/kenya-visa-for-american-citizens-2026-complete-eta-guide
-- https://relief.unboundmedicine.com/relief/view/cdc-yellow-book/204310/all/
-- https://flydoc.org/maisha-plan-new-page-2/
-- https://www.squaremouth.com/resources/destinations/kenya
-- https://africafreak.com/tipping-on-safari
-- https://travel.state.gov/en/international-travel/travel-advisories/kenya.html
-- https://safarifind.com/blog/diani-beach-kenya-2027-holiday-packages-resort-prices
-- https://www.expedia.com/lp/flights/nbo/uka/nairobi-to-ukunda
-- https://www.afar.com/magazine/turkiye-drops-visa-requirement-for-u-s-and-canada
-- https://www.hagiasophia.com/hagia-sophia-entrance-fee
-- https://istanbul.com/topkapi-palace
-- https://istanbul.com/dolmabahce-palace
-- https://istanbulclues.com/galata-tower-entrance-fee/
-- https://istanbulclues.com/istanbul-bosphorus-cruise-tours/
-- https://istanbul.com/blog/general-info/best-hammams-in-istanbul
-- https://blog.wego.com/istanbul-airport-transfer/
-- https://hotelierschoice.com/de/guide/istanbul/budget/
-- https://thebettervacation.com/istanbul/istanbul-trip-cost/amp/
-- https://www.easyjet.com/en/holidays/weather/turkey/istanbul/january
+- https://www.porini.com/wp-content/uploads/2026/07/Reduced-Rates-for-6-nights.pdf
+- https://www.kayak.com/Nairobi-Hotels-Four-Points-by-Sheraton-Nairobi-Airport.3500194.ksp
+- https://africanspicesafaris.com/tour/four-points-by-sheraton-nairobi-jkia-hotel/
+- https://www.africanmeccasafaris.com/travel-guide/kenya/accommodation/nairobi/southern/ole-sereni-hotel/room-rates
+- https://id.trip.com/flights/status-f2031/
+- https://atcnews.org/new-airstrip-makes-access-to-mara-conservancies-easier/
