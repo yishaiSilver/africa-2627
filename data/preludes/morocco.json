@@ -1,0 +1,627 @@
+{
+  "country": "Morocco",
+  "label": "Morocco Atlas + Sahara",
+  "summary": "7 nights: Marrakech, High Atlas, Erg Chebbi dunes (Christmas Eve camp), Middle Atlas cedars for Barbary macaques. Out CMN via Cairo; land NBO ~04:55 Dec 28.",
+  "verdict": "Big culture/scenery change before Kenya; wildlife thin beyond macaques, camels, birds. Costs: long Dec 27 via Cairo (verify MS849 23:55 not 20:55), freezing desert nights, ~+$1,995 pp.",
+  "safety": {
+    "advisory_level": "US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.",
+    "summary": "Stable, tourist-friendly; Level 2 for general terrorism (tourist sites, transport, markets; last deadly attacks 2011 Marrakech, 2018 Imlil). Daily risks: petty theft, medina hustlers, winter mountain roads. Merzouga near closed Algerian border, but dune zone safe.",
+    "precautions": [
+      "Licensed driver, daylight only; Tizi n'Tichka (2,260 m), Midelt road may ice. Check night before.",
+      "Medina: ignore faux guides; agree henna/photo prices first; watch pickpockets.",
+      "Stay in Erg Chebbi tourist zone, not east toward Algeria; stick with camp guide at night.",
+      "Bottled/filtered water, few raw salads early; carry rehydration salts.",
+      "Desert and Azrou below 0 C at night: warm layer, hat, sleeping-bag liner.",
+      "Women may get medina catcalls; modest dress, firm 'la, shukran'.",
+      "Stay airside in Cairo; one ticket for whole routing. EgyptAir ~50-60% on time.",
+      "Enroll STEP; carry passport copy for rural police checkpoints."
+    ]
+  },
+  "visa": "US: Morocco visa-free 90 days (passport 6+ months, 1 blank page). CDG airside transit: no visa, no EES/ETIAS. Cairo airside: no visa. Kenya eTA must cover Dec 28 entry.",
+  "weather_dec": "Dry, sunny. Marrakech 18-20 C / 5-7 C. Ouarzazate/Dades 16-18 C / 0-3 C. Merzouga 17-20 C / 1-5 C (heavy blankets). Azrou/Ifrane (1,250-1,650 m) ~10 C, nights below freezing, snow possible. Tichka may close briefly after snow. Sunset ~17:45.",
+  "highlights": [
+    "Christmas Eve Erg Chebbi camp: sunset camels, stars, Berber drums, sunrise on 150 m dunes",
+    "Barbary macaques, Cedre Gouraud forest near Azrou (Africa's only macaque, endangered)",
+    "High Atlas via Tizi n'Tichka to UNESCO ksar Ait Benhaddou",
+    "Todra Gorge (300 m walls), Dades 'road of a thousand kasbahs'",
+    "Marrakech medina, Jemaa el-Fna night market, Majorelle + Berber Museum",
+    "Merzouga/Dayet Srji birding: desert sparrow, fulvous babbler, flamingos if wet",
+    "Khamlia Gnawa music on Christmas Day"
+  ],
+  "drawbacks": [
+    "Wildlife weak vs Kenya: macaques only real mammal; fennec, Barbary sheep rare",
+    "No Morocco-NBO nonstop. MS848 CMN 13:30-CAI 20:25, then MS849; only 23:55 slot connects (20:55 seen in 2026). Verify",
+    "Dec 26 (~5h road) + Dec 27 (~3.5h road + ~13h flights/layover) back to back; Dec 28 rest absorbs",
+    "Dec 19 is Sat; AT251 LAX-CMN (10:20) flies Sun/Tue/Fri only, so connect via Europe or leave Fri Dec 18. Turkish forces Istanbul overnight",
+    "Cold desert/Middle Atlas nights; budget riads, auberges poorly heated",
+    "Peak European holiday season: book camps, riads now",
+    "Upgrade: luxury camp ($180-350 pp/night) + private 4x4 guide, ~+$400-700 pp",
+    "Cheaper: shared 3-day Marrakech-Merzouga-Fes tours (~$190-300 pp), but 9-10h drives break pace rule"
+  ],
+  "places": [
+    {
+      "code": "LAX",
+      "name": "Los Angeles (home)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA",
+      "wiki": [
+        "Los_Angeles_International_Airport",
+        "Los_Angeles"
+      ]
+    },
+    {
+      "code": "CDG",
+      "name": "Paris Charles de Gaulle (transit)",
+      "lat": 49.0097,
+      "lng": 2.5479,
+      "kind": "transit",
+      "country": "France",
+      "wiki": [
+        "Charles_de_Gaulle_Airport",
+        "Paris"
+      ]
+    },
+    {
+      "code": "RAK",
+      "name": "Marrakech",
+      "lat": 31.6295,
+      "lng": -7.9811,
+      "kind": "abroad",
+      "country": "Morocco",
+      "wiki": [
+        "Marrakesh",
+        "Jemaa_el-Fnaa",
+        "Majorelle_Garden",
+        "Medina_of_Marrakesh"
+      ]
+    },
+    {
+      "code": "AITB",
+      "name": "Ait Benhaddou",
+      "lat": 31.047,
+      "lng": -7.1318,
+      "kind": "abroad",
+      "country": "Morocco",
+      "wiki": [
+        "Ait_Benhaddou",
+        "Tizi_n'Tichka",
+        "High_Atlas"
+      ]
+    },
+    {
+      "code": "TODR",
+      "name": "Todra Gorge / Tinghir",
+      "lat": 31.587,
+      "lng": -5.589,
+      "kind": "nature",
+      "country": "Morocco",
+      "wiki": [
+        "Todgha_Gorge",
+        "Dadès_Gorges",
+        "Tinghir"
+      ]
+    },
+    {
+      "code": "ERG",
+      "name": "Erg Chebbi desert camp",
+      "lat": 31.14,
+      "lng": -3.97,
+      "kind": "nature",
+      "country": "Morocco",
+      "wiki": [
+        "Erg_Chebbi",
+        "Sahara",
+        "Dromedary"
+      ]
+    },
+    {
+      "code": "MRZ",
+      "name": "Merzouga",
+      "lat": 31.0802,
+      "lng": -4.0133,
+      "kind": "nature",
+      "country": "Morocco",
+      "wiki": [
+        "Merzouga",
+        "Erg_Chebbi",
+        "Gnawa_music"
+      ]
+    },
+    {
+      "code": "AZR",
+      "name": "Azrou / Cedre Gouraud forest",
+      "lat": 33.434,
+      "lng": -5.221,
+      "kind": "nature",
+      "country": "Morocco",
+      "wiki": [
+        "Azrou",
+        "Ifrane_National_Park",
+        "Barbary_macaque",
+        "Middle_Atlas"
+      ]
+    },
+    {
+      "code": "CMN",
+      "name": "Casablanca Mohammed V (transit)",
+      "lat": 33.3675,
+      "lng": -7.5898,
+      "kind": "transit",
+      "country": "Morocco",
+      "wiki": [
+        "Mohammed_V_International_Airport",
+        "Casablanca"
+      ]
+    },
+    {
+      "code": "CAI",
+      "name": "Cairo International (transit)",
+      "lat": 30.1219,
+      "lng": 31.4056,
+      "kind": "transit",
+      "country": "Egypt",
+      "wiki": [
+        "Cairo_International_Airport",
+        "EgyptAir"
+      ]
+    },
+    {
+      "code": "NBO",
+      "name": "Nairobi JKIA",
+      "lat": -1.3192,
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya",
+      "wiki": [
+        "Jomo_Kenyatta_International_Airport",
+        "Nairobi"
+      ]
+    }
+  ],
+  "legs": [
+    {
+      "date": "2026-12-19",
+      "from": "LAX",
+      "to": "CDG",
+      "mode": "flight",
+      "duration": "~10.5h",
+      "detail": "Overnight, e.g. Air France/Delta afternoon dep, arr ~10:00-11:30 Dec 20. Alts: Iberia via MAD, Star Alliance via FRA/MUC. AT251 nonstop not Sat (Sun/Tue/Fri)."
+    },
+    {
+      "date": "2026-12-20",
+      "from": "CDG",
+      "to": "RAK",
+      "mode": "flight",
+      "duration": "~3.5h",
+      "detail": "Air France/Transavia/RAM, ~2-3h connection; arr RAK late afternoon. ~25 min taxi/riad pickup to medina (~150-200 MAD)."
+    },
+    {
+      "date": "2026-12-22",
+      "from": "RAK",
+      "to": "AITB",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Private driver via Tizi n'Tichka (2,260 m), ~190 km. Argan co-op, viewpoints; optional Telouet lunch."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "AITB",
+      "to": "TODR",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Ouarzazate, Skoura palmery, Dades Gorge switchbacks, Todra. ~280 km, many stops."
+    },
+    {
+      "date": "2026-12-24",
+      "from": "TODR",
+      "to": "MRZ",
+      "mode": "road",
+      "duration": "~3h",
+      "detail": "Tinghir-Alnif-Rissani-Merzouga, ~200 km. Leave luggage at auberge; small overnight bag."
+    },
+    {
+      "date": "2026-12-24",
+      "from": "MRZ",
+      "to": "ERG",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Sunset camel (or 4x4) into Erg Chebbi to camp."
+    },
+    {
+      "date": "2026-12-25",
+      "from": "ERG",
+      "to": "MRZ",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "Camel/4x4 back after dune sunrise; easy day in Merzouga."
+    },
+    {
+      "date": "2026-12-26",
+      "from": "MRZ",
+      "to": "AZR",
+      "mode": "road",
+      "duration": "~5h",
+      "detail": "Erfoud-Errachidia-Ziz Gorges-Midelt-Azrou, ~370 km. Break Errachidia, lunch Midelt; Cedre Gouraud ~15:00 for macaques. Longest drive, at 5h limit."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "AZR",
+      "to": "CMN",
+      "mode": "road",
+      "duration": "~3.5h",
+      "detail": "Leave ~07:30 via Meknes, A2/A1 toll motorways, ~300 km; arr CMN ~11:00 for 13:30. Backup: Fes airport (1h15) + RAM domestic to CMN."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "CMN",
+      "to": "CAI",
+      "mode": "flight",
+      "duration": "~5h",
+      "detail": "EgyptAir MS848 CMN 13:30 (T2)-CAI 20:25 (T3), A321neo, daily per 2026 data. ~3.5h airside."
+    },
+    {
+      "date": "2026-12-28",
+      "from": "CAI",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~5h",
+      "detail": "MS849 CAI 23:55 Dec 27-NBO 04:55 Dec 28 (737-800). Some 2026 dates 20:55 (no connect); verify. Backups: QR1396 CMN 20:50 Dec 26-DOH 06:00, QR1341 DOH 18:45-NBO 23:50 Dec 27 (drops Azrou). Or TK618 CMN Dec 26-IST overnight, TK607 IST 18:45 Dec 27-NBO 01:25 Dec 28."
+    }
+  ],
+  "stays": [
+    {
+      "place": "RAK",
+      "from": "2026-12-20",
+      "nights": 2,
+      "label": "Marrakech medina riad"
+    },
+    {
+      "place": "AITB",
+      "from": "2026-12-22",
+      "nights": 1,
+      "label": "Ait Benhaddou kasbah"
+    },
+    {
+      "place": "TODR",
+      "from": "2026-12-23",
+      "nights": 1,
+      "label": "Todra Gorge auberge"
+    },
+    {
+      "place": "ERG",
+      "from": "2026-12-24",
+      "nights": 1,
+      "label": "Erg Chebbi camp (Christmas Eve)"
+    },
+    {
+      "place": "MRZ",
+      "from": "2026-12-25",
+      "nights": 1,
+      "label": "Merzouga auberge (Christmas)"
+    },
+    {
+      "place": "AZR",
+      "from": "2026-12-26",
+      "nights": 1,
+      "label": "Azrou/Ifrane hotel"
+    }
+  ],
+  "itinerary": [
+    {
+      "date": "2026-12-19",
+      "location": "LAX to Paris",
+      "title": "Depart LAX",
+      "details": "Afternoon LAX-CDG (~10.5h, overnight). Sleep on plane.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-20",
+      "location": "Paris to Marrakech",
+      "title": "Arrive Marrakech",
+      "details": "Land CDG ~10-11:30, connect to RAK (~3.5h), arr late afternoon. Riad pickup ~25 min. Mint tea, early night. ~6h travel + yesterday's 10.5h.",
+      "overnight": "Marrakech",
+      "meals": "In-flight / riad dinner"
+    },
+    {
+      "date": "2026-12-21",
+      "location": "Marrakech",
+      "title": "Rest + medina",
+      "details": "No transport. Slow morning. Majorelle + Berber Museum, souks, Ben Youssef Medersa. Sunset terrace over Jemaa el-Fna, night food stalls. Driver briefing.",
+      "overnight": "Marrakech",
+      "meals": "B riad, L/D medina"
+    },
+    {
+      "date": "2026-12-22",
+      "location": "High Atlas",
+      "title": "Over the Atlas",
+      "details": "Driver 08:30. Tizi n'Tichka, ~4h with stops. Afternoon Ait Benhaddou ksar walk, granary at sunset. Moussier's redstart on pass.",
+      "overnight": "Ait Benhaddou",
+      "meals": "B, L roadside tagine, D guesthouse (half board)"
+    },
+    {
+      "date": "2026-12-23",
+      "location": "Dades + Todra",
+      "title": "Kasbah valley",
+      "details": "~4h: Ouarzazate, Skoura, Dades switchbacks, Todra. Late-afternoon gorge walk (300 m walls).",
+      "overnight": "Todra Gorge",
+      "meals": "B, L Dades, D auberge (HB)"
+    },
+    {
+      "date": "2026-12-24",
+      "location": "Erg Chebbi",
+      "title": "Christmas Eve, dunes",
+      "details": "Morning gorge walk, ~3h road to Merzouga. ~15:30 camel 1-1.5h to camp; sunset, dinner, drums, stars. Cold (1-5 C).",
+      "overnight": "Erg Chebbi desert camp",
+      "meals": "B, L Rissani/Merzouga, D camp"
+    },
+    {
+      "date": "2026-12-25",
+      "location": "Merzouga",
+      "title": "Christmas rest",
+      "details": "Dune sunrise, camel back ~1h, breakfast + shower at auberge. Lazy. Optional: Khamlia Gnawa, Dayet Srji birding, nap.",
+      "overnight": "Merzouga",
+      "meals": "B camp, L/D auberge (HB)"
+    },
+    {
+      "date": "2026-12-26",
+      "location": "Middle Atlas",
+      "title": "Cedars + macaques",
+      "details": "Dep 08:00. ~5h: Ziz Gorges, Midelt lunch, Azrou. ~15:00 Cedre Gouraud macaques; Levaillant's woodpecker possible. Snow possible.",
+      "overnight": "Azrou / Ifrane",
+      "meals": "B, L Midelt, D hotel"
+    },
+    {
+      "date": "2026-12-27",
+      "location": "CMN-CAI-NBO",
+      "title": "Long haul to Kenya",
+      "details": "Leave 07:30, ~3.5h (~300 km) to CMN. MS848 13:30-CAI 20:25, ~3.5h airside, MS849 23:55-NBO 04:55 Dec 28. Then Nairobi rest day.",
+      "overnight": "Plane",
+      "meals": "B hotel, in-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Riad Dar Najat (or similar budget medina riad)",
+      "place": "RAK",
+      "location": "Marrakech medina, near Jemaa el-Fna",
+      "nights": 2,
+      "pppn_usd": 35,
+      "style": "Budget riad, double",
+      "includes": "Rooftop breakfast",
+      "why": "Walk to square, souks; quiet courtyard for jet lag",
+      "url": "https://www.booking.com/searchresults.html?ss=Marrakech+Medina&checkin=2026-12-20&checkout=2026-12-22&group_adults=2",
+      "alternatives": "Riad Laaroussa/Yasmine (~$90-150 pp); Equity Point hostel (~$20 pp)"
+    },
+    {
+      "name": "Kasbah guesthouse, e.g. Dar Mouna",
+      "place": "AITB",
+      "location": "Facing the ksar, Ait Benhaddou",
+      "nights": 1,
+      "pppn_usd": 35,
+      "style": "Kasbah guesthouse",
+      "includes": "Half board",
+      "why": "Ksar at sunrise, no drive",
+      "url": "https://www.booking.com/searchresults.html?ss=Ait+Benhaddou&checkin=2026-12-22&checkout=2026-12-23&group_adults=2",
+      "alternatives": "Ouarzazate hotels (cheaper, bland)"
+    },
+    {
+      "name": "Gorge auberge, e.g. Hotel Yasmina or Auberge Le Festival",
+      "place": "TODR",
+      "location": "Inside or near the Todra Gorge",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Simple auberge",
+      "includes": "Half board",
+      "why": "Gorge walks late afternoon, early morning",
+      "url": "https://www.booking.com/searchresults.html?ss=Todra+Gorge&checkin=2026-12-23&checkout=2026-12-24&group_adults=2",
+      "alternatives": "Tinghir hotels"
+    },
+    {
+      "name": "Standard Erg Chebbi desert camp (private tent with bed)",
+      "place": "ERG",
+      "location": "Erg Chebbi dunes, ~1h camel from Merzouga",
+      "nights": 1,
+      "pppn_usd": 75,
+      "style": "Desert camp, private tent",
+      "includes": "Camel both ways, dinner, breakfast, blankets; bathroom sometimes shared",
+      "why": "Christmas Eve highlight; pick en-suite or heated tent",
+      "url": "https://www.booking.com/searchresults.html?ss=Merzouga&checkin=2026-12-24&checkout=2026-12-25&group_adults=2",
+      "alternatives": "Luxury camps (heated, en-suite) $180-350 pp"
+    },
+    {
+      "name": "Merzouga auberge, e.g. Kasbah Mohayut or Riad Madu",
+      "place": "MRZ",
+      "location": "Merzouga village, at the dune edge",
+      "nights": 1,
+      "pppn_usd": 35,
+      "style": "Auberge, pool, dune views",
+      "includes": "Half board",
+      "why": "Christmas rest, hot showers; luggage stays here",
+      "url": "https://www.booking.com/searchresults.html?ss=Merzouga&checkin=2026-12-25&checkout=2026-12-26&group_adults=2",
+      "alternatives": "Ali & Sara's Desert Palace, similar"
+    },
+    {
+      "name": "Azrou/Ifrane hotel, e.g. Hotel Le Panorama Azrou",
+      "place": "AZR",
+      "location": "Azrou town, 15 min from the Cedre Gouraud",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Simple heated hotel",
+      "includes": "Breakfast",
+      "why": "Near macaque forest, on motorway route to CMN",
+      "url": "https://www.booking.com/searchresults.html?ss=Azrou&checkin=2026-12-26&checkout=2026-12-27&group_adults=2",
+      "alternatives": "Ifrane hotels (~$40-60 pp, better heat)"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "Multi-city: LAX-RAK Dec 19 via Europe; CMN-CAI-NBO Dec 27 (MS848/MS849); NBO-LAX Jan 16 (TK608/TK9)",
+      "per_person_usd": 2400,
+      "low_usd": 2000,
+      "high_usd": 2900,
+      "notes": "Replaces $1,500 base: ~+$900 pp (+$500 to +$1,400). Morocco-NBO one-way ~$630-710; LAX-Morocco ~$800-1,100; NBO-LAX ~$800-1,100. One Star Alliance ticket protects connections. Estimate; no live festive fare, verify."
+    },
+    {
+      "category": "Lodging",
+      "item": "7 nights: 2 riad, kasbah, auberge, camp, auberge, Azrou hotel (shared doubles)",
+      "per_person_usd": 275,
+      "low_usd": 200,
+      "high_usd": 600,
+      "notes": "70+35+30+75+35+30. Mostly half board. High end: luxury camp, nicer riads."
+    },
+    {
+      "category": "Tours/transport",
+      "item": "Private driver + car, 6 days Marrakech-CMN one-way + RAK transfer",
+      "per_person_usd": 530,
+      "low_usd": 420,
+      "high_usd": 700,
+      "notes": "~$150-180/day per vehicle incl. fuel, driver lodging, plus one-way surcharge, split 2. Get local quotes; private 4-day Marrakech-Fes tours ~$750-940 pp incl. lodging. Shared ~$190-300 pp, 9-10h days."
+    },
+    {
+      "category": "Permits/fees",
+      "item": "Majorelle + Berber Museum, Ben Youssef, Ait Benhaddou, gorge guide, Khamlia, tips",
+      "per_person_usd": 80,
+      "low_usd": 50,
+      "high_usd": 120,
+      "notes": "Majorelle + Berber Museum ~200 MAD. Driver tip ~$10-15/day per car."
+    },
+    {
+      "category": "Food",
+      "item": "Lunches, 2-3 dinners, water/snacks",
+      "per_person_usd": 150,
+      "low_usd": 100,
+      "high_usd": 220,
+      "notes": "Tagine lunch ~$6-12; half board covers most dinners."
+    },
+    {
+      "category": "Visa",
+      "item": "Morocco visa-free; Egypt airside no visa",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 0,
+      "notes": "Kenya eTA in base plan."
+    },
+    {
+      "category": "Misc",
+      "item": "SIM/eSIM, warm layers, laundry, buffer",
+      "per_person_usd": 60,
+      "low_usd": 30,
+      "high_usd": 120,
+      "notes": "Total ~$3,495 pp vs $1,500 base: ~+$1,995 pp."
+    }
+  ],
+  "wildlife": [
+    {
+      "name": "Barbary macaque",
+      "wiki": "Barbary_macaque",
+      "where": "Cedre Gouraud, Azrou/Ifrane",
+      "odds": "Very high (~90%); habituated, near road"
+    },
+    {
+      "name": "Dromedary",
+      "wiki": "Dromedary",
+      "where": "Merzouga/Erg Chebbi",
+      "odds": "Certain (you ride them)"
+    },
+    {
+      "name": "Desert sparrow",
+      "wiki": "Desert_sparrow",
+      "where": "Merzouga (guides know spots)",
+      "odds": "Good with guide"
+    },
+    {
+      "name": "Moussier's redstart",
+      "wiki": "Moussier's_redstart",
+      "where": "High Atlas (Tichka), Middle Atlas",
+      "odds": "High"
+    },
+    {
+      "name": "Levaillant's woodpecker",
+      "wiki": "Levaillant's_woodpecker",
+      "where": "Azrou cedars",
+      "odds": "Moderate"
+    },
+    {
+      "name": "Greater flamingo",
+      "wiki": "Greater_flamingo",
+      "where": "Dayet Srji, Merzouga",
+      "odds": "Low-moderate; needs water after rain"
+    },
+    {
+      "name": "White stork",
+      "wiki": "White_stork",
+      "where": "Marrakech rooftops, Ouarzazate",
+      "odds": "Moderate in winter"
+    },
+    {
+      "name": "Fennec fox",
+      "wiki": "Fennec_fox",
+      "where": "Erg Chebbi at night",
+      "odds": "Low (~10%); tracks common"
+    },
+    {
+      "name": "Barbary ground squirrel",
+      "wiki": "Barbary_ground_squirrel",
+      "where": "Rocky Atlas slopes/Dades",
+      "odds": "Low-moderate in Dec"
+    }
+  ],
+  "booking": [
+    {
+      "when": "Now (Oct 2026)",
+      "task": "Book multi-city (LAX-RAK Dec 19 / CMN-NBO Dec 27 / NBO-LAX Jan 16), one ticket. Confirm Dec MS849 23:55 not 20:55 (MS848 arr 20:25). Compare Qatar/Turkish."
+    },
+    {
+      "when": "Now (Oct 2026)",
+      "task": "Book Dec 24 Erg Chebbi camp, Marrakech riad: peak season."
+    },
+    {
+      "when": "By end Oct",
+      "task": "Book licensed driver Dec 22-27, one-way to CMN; confirm 07:30 Dec 27 dep, motorway route."
+    },
+    {
+      "when": "By end Oct",
+      "task": "Book Ait Benhaddou, Todra, Merzouga, Azrou (half board)."
+    },
+    {
+      "when": "Nov",
+      "task": "Insurance with trip-delay cover; check Kenya eTA covers Dec 28."
+    },
+    {
+      "when": "Early Dec",
+      "task": "Reconfirm flights (MS849 shifted often in 2026); pack warm layers."
+    },
+    {
+      "when": "Dec 21 evening",
+      "task": "Brief driver; check Tizi n'Tichka snow for Dec 22."
+    }
+  ],
+  "fatigue": "Travel h/day. Dec 19: ~10.5h flight. Dec 20: ~6h (connection, 3.5h flight, transfer). Dec 21: 0. Dec 22: ~4h road. Dec 23: ~4h. Dec 24: ~3h + 1.5h camel. Dec 25: ~1h. Dec 26: ~5h. Dec 27: ~3.5h road + ~5h flight + ~3.5h layover + ~5h overnight flight (NBO 04:55 Dec 28). Dec 28: Nairobi rest. 5h road max met; Dec 26 at limit. Rest days Dec 21, Dec 25. Weak spot: Dec 26-27 back to back into overnight flight. Fix: drop Azrou, fly Errachidia-CMN Dec 26, or overnight Casablanca.",
+  "sources": [
+    "https://travel.state.gov/en/international-travel/travel-advisories/morocco.html",
+    "https://www.airwaysmag.com/new-post/royal-air-maroc-first-la-casablanca-nonstop",
+    "https://www.flight.info/AT251",
+    "https://www.royalairmaroc.com/en_ma/flights-from-casablanca-to-nairobi",
+    "https://www.airportoverview.com/routes/NBO/CMN",
+    "https://www.planemapper.com/flights/MS849",
+    "https://www.airnavradar.com/data/flights/MS849/2967563754",
+    "https://www.trip.com/flights/status-ms849",
+    "https://proflightsearch.com/flight/MS848",
+    "https://ca.trip.com/flights/status-ms848",
+    "https://www.ixigo.com/airlines/egyptair-ms/ms-848-flight-status",
+    "https://info.flightmapper.net/flight/Qatar_Airways_QR_1396",
+    "https://kvikr.com/flight/qr1341_qatar_airways",
+    "https://www.airnavradar.com/data/flights/TK607",
+    "https://www.flightradar24.com/data/flights/tk618",
+    "https://www.expedia.com/lp/flights/rak/nbo/marrakech-to-nairobi",
+    "https://www.travelocity.com/lp/flight-routes/turkish-airlines-from-menara-to-jomo-kenyatta-intl/tk/rak/nbo",
+    "https://www.tourradar.com/t/357270",
+    "https://www.tourradar.com/t/345340",
+    "https://www.aaa.com/tripcanvas/thing-to-do/private-4-days-tour-to-fes-via-desert-and-experience-in-merzouga-from-marrakech-100273P17"
+  ],
+  "safety_short": "Stable, tourist-friendly. Risks: terrorism alert, petty theft, hustlers, winter mountain roads."
+}

@@ -1,0 +1,513 @@
+{
+  "country": "Egypt",
+  "label": "Egypt pyramids + Nile",
+  "summary": "Giza pyramids + GEM; fly to Aswan: Nubian guesthouse, felucca, Nile birding; drive via Kom Ombo/Edfu to Luxor; EgyptAir red-eye CAI-NBO, lands ~02:00-05:00 Dec 28.",
+  "verdict": "Biggest wow per dollar: pyramids, GEM, Valley of the Kings, ~$1,400-1,450 pp extra incl. flight delta. Culture week, not wildlife; costs: Christmas crowds, touts, pre-dawn Dec 21 arrival, long Dec 27 + 5h red-eye.",
+  "safety": {
+    "advisory_level": "US State Dept Level 2: Increased Caution (terrorism, crime, health), countrywide. Level 4 Do Not Travel: North/Central Sinai (terrorism), Western Desert (smuggling, remoteness), border areas incl. Libya, Sudan. Recheck travel.state.gov before booking; 2026 US-Iran/Israel tensions, fragile ceasefire.",
+    "summary": "Cairo/Giza, Aswan, Luxor: heavily policed tourist corridors, far from Do Not Travel zones; UK/Australia agree. Real risks: scams, touts, overcharging, traffic, stomach bugs, verbal harassment of women; checkpoints at sites. No Sinai/Western Desert (no Siwa, White Desert, Bahariya); optional Fayoum/Wadi El-Hitan only with licensed operator after advisory check.",
+    "precautions": [
+      "Stay out of North/Central Sinai, Western Desert, borders. Plan stays in Nile Valley.",
+      "Giza: enter via Pyramids Visitor Centre (free shuttle) or Sphinx gate. Ignore 'gate closed'/'police' hustlers; camel price in writing, incl. return.",
+      "Cairo: Uber/Careem, no street taxis. ~04:00 CAI pickup via Giza guesthouse.",
+      "Small EGP for baksheesh, toilets. Fees by card at official windows (many card-only). GEM online only (visit-gem.com).",
+      "Bottled water only; no street salads/ice; pack rehydration salts.",
+      "Enroll STEP. Carry passport copy for checkpoints.",
+      "Aswan-Luxor driver via guesthouse; police may impose convoy timing, follow driver.",
+      "Dual US-Egyptian nationals: limited consular help (only if Egyptian citizen)."
+    ]
+  },
+  "visa": "US passport: VOA at CAI, single entry, 30 days, US$30 since Mar 1 2026 (was $25), USD cash at bank kiosk before immigration. Alt: e-visa visa2egypt.gov.eg ($25 or $30, sources conflict); avoid resellers. Passport 6+ months valid. Kenya eTA already in base trip.",
+  "weather_dec": "Ideal. Cairo: 19-21C days, 9-11C nights, some haze/smog. Aswan/Luxor: 23-26C sunny days, 7-10C nights; fleece for felucca, early starts. No rain. Peak crowds, esp. Dec 24-31.",
+  "highlights": [
+    "Giza pyramids + Sphinx at opening; pyramid-view guesthouse, rooftop breakfast",
+    "Grand Egyptian Museum (opened 2025): full Tutankhamun collection",
+    "Aswan: sunset felucca, Elephantine/Kitchener's Island; birding boat through First Cataract islands",
+    "Christmas Eve in Nubian village guesthouse, Gharb Soheil",
+    "Philae temple by boat",
+    "Kom Ombo (crocodile temple, croc mummy museum) + Edfu, Egypt's best-preserved temple",
+    "Luxor: Valley of the Kings, Hatshepsut, Karnak; optional sunrise balloon",
+    "MS849 direct CAI-NBO red-eye, no Istanbul backtrack"
+  ],
+  "drawbacks": [
+    "Weak wildlife: Nile birds only (kingfishers, egrets, kites, hoopoes). No big game, no primates.",
+    "Christmas week = peak. Crowds; Christmas lodging sells out, book now.",
+    "Heavy touts, tipping demands at Giza, Luxor.",
+    "TK10 lands IST ~19:00; only TK692 01:55 (TK694 18:25 leaves earlier). ~7h layover, CAI ~03:30-04:30 Dec 21. Alt: Europe routing or YOTEL Air pod.",
+    "Long Dec 27: early-afternoon LXR flight, hours at CAI, red-eye. MS849 dep 21:35/22:55/23:55, lands NBO ~02:35-04:55; reconfirm.",
+    "Abu Simbel skipped: ~7h round trip by road; flight ~$250-350 pp upgrade.",
+    "Upgrades: dahabiya 3-4 nights ~$250-450 pppn, 3-night cruise $400+ pp; Egyptologist ~$40-60/day/group.",
+    "Entry fees jumped 2025-26, sources conflict; budget is estimate.",
+    "Open-jaw: separate CAI-NBO one-way means misconnect risk is yours; low, 4-day buffer."
+  ],
+  "places": [
+    {
+      "code": "LAX",
+      "name": "Los Angeles (home)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA",
+      "wiki": [
+        "Los_Angeles_International_Airport",
+        "Los_Angeles"
+      ]
+    },
+    {
+      "code": "IST",
+      "name": "Istanbul Airport (transit)",
+      "lat": 41.2753,
+      "lng": 28.7519,
+      "kind": "transit",
+      "country": "Turkey",
+      "wiki": [
+        "Istanbul_Airport",
+        "Istanbul"
+      ]
+    },
+    {
+      "code": "CAI",
+      "name": "Cairo International Airport",
+      "lat": 30.1219,
+      "lng": 31.4056,
+      "kind": "transit",
+      "country": "Egypt",
+      "wiki": [
+        "Cairo_International_Airport",
+        "Cairo"
+      ]
+    },
+    {
+      "code": "GIZ",
+      "name": "Giza (pyramids)",
+      "lat": 29.9792,
+      "lng": 31.1342,
+      "kind": "abroad",
+      "country": "Egypt",
+      "wiki": [
+        "Giza_pyramid_complex",
+        "Great_Sphinx_of_Giza",
+        "Grand_Egyptian_Museum",
+        "Great_Pyramid_of_Giza"
+      ]
+    },
+    {
+      "code": "ASW",
+      "name": "Aswan (Nubian west bank)",
+      "lat": 24.0889,
+      "lng": 32.8998,
+      "kind": "abroad",
+      "country": "Egypt",
+      "wiki": [
+        "Aswan",
+        "Philae",
+        "Elephantine",
+        "Felucca"
+      ]
+    },
+    {
+      "code": "LXR",
+      "name": "Luxor (West Bank)",
+      "lat": 25.7206,
+      "lng": 32.6105,
+      "kind": "abroad",
+      "country": "Egypt",
+      "wiki": [
+        "Valley_of_the_Kings",
+        "Karnak",
+        "Mortuary_Temple_of_Hatshepsut",
+        "Luxor"
+      ]
+    },
+    {
+      "code": "NBO",
+      "name": "Nairobi Jomo Kenyatta Intl (transit)",
+      "lat": -1.3192,
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya",
+      "wiki": [
+        "Jomo_Kenyatta_International_Airport",
+        "Nairobi"
+      ]
+    }
+  ],
+  "legs": [
+    {
+      "date": "2026-12-19",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "TK10 daily B777-300ER, LAX 19:45 (winter sked from Oct 24 2026) → IST 19:00 Dec 20. Reconfirm."
+    },
+    {
+      "date": "2026-12-21",
+      "from": "IST",
+      "to": "CAI",
+      "mode": "flight",
+      "duration": "~2h25",
+      "detail": "TK692 daily A330, IST 01:55 Dec 21 after ~7h layover → CAI ~03:20-04:20 (UTC+2). TK694 (18:25) leaves before TK10 lands. VOA $30 cash."
+    },
+    {
+      "date": "2026-12-21",
+      "from": "CAI",
+      "to": "GIZ",
+      "mode": "road",
+      "duration": "~45min",
+      "detail": "Guesthouse pre-dawn pickup (~$20-25/car) to Nazlet el-Semman. Empty roads."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "GIZ",
+      "to": "CAI",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "Early Uber to domestic terminal. Pad for traffic."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "CAI",
+      "to": "ASW",
+      "mode": "flight",
+      "duration": "~1h25",
+      "detail": "EgyptAir/Nile Air morning CAI-ASW, ~$60-130 one-way."
+    },
+    {
+      "date": "2026-12-25",
+      "from": "ASW",
+      "to": "LXR",
+      "mode": "road",
+      "duration": "~4h driving (+3h stops)",
+      "detail": "Private car + driver via guesthouse (~$90-120/car). Leave ~8am; Kom Ombo 1h, Edfu 1.5h; Luxor West Bank late afternoon."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "LXR",
+      "to": "CAI",
+      "mode": "flight",
+      "duration": "~1h05",
+      "detail": "EgyptAir LXR-CAI early afternoon, land CAI by ~17:00 for any MS849 time. ~$60-120."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "CAI",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~5h",
+      "detail": "MS849 daily B737-800. CAI 23:55 → NBO 04:55 Dec 28 per trackers; some dates 20:55, Dec snapshots 21:35 (lands ~02:35). All land before 06:00. Reconfirm."
+    }
+  ],
+  "stays": [
+    {
+      "place": "GIZ",
+      "from": "2026-12-20",
+      "nights": 3,
+      "label": "Pyramid-view guesthouse, Giza (Dec 20 night held for ~05:00 Dec 21 check-in)"
+    },
+    {
+      "place": "ASW",
+      "from": "2026-12-23",
+      "nights": 2,
+      "label": "Nubian guesthouse, Aswan west bank"
+    },
+    {
+      "place": "LXR",
+      "from": "2026-12-25",
+      "nights": 2,
+      "label": "West Bank guesthouse, Luxor"
+    }
+  ],
+  "itinerary": [
+    {
+      "date": "2026-12-19",
+      "location": "LAX → Istanbul",
+      "title": "Depart LAX",
+      "details": "TK10 LAX 19:45 → IST, ~13h overnight. Sleep.",
+      "overnight": "Plane",
+      "meals": "Dinner and breakfast onboard"
+    },
+    {
+      "date": "2026-12-20",
+      "location": "Istanbul Airport",
+      "title": "IST layover",
+      "details": "Land ~19:00. ~7h airside: lounge, food, optional YOTEL Air pod. TK692 01:55.",
+      "overnight": "Plane",
+      "meals": "Onboard + IST airport dinner"
+    },
+    {
+      "date": "2026-12-21",
+      "location": "Cairo → Giza",
+      "title": "Pre-dawn arrival, rest, GEM",
+      "details": "Land CAI ~03:30-04:30. VOA $30 cash. Pickup ~45 min; room ready (Dec 20 prebooked). Sleep till noon. Optional late GEM (10-15 min Uber, 2-3h) or tomorrow. Early night.",
+      "overnight": "Giza",
+      "meals": "B guesthouse late; L/D local koshari/grill"
+    },
+    {
+      "date": "2026-12-22",
+      "location": "Giza",
+      "title": "Pyramids + Sphinx",
+      "details": "Gate ~7-8am, beat crowds. Visitor Centre shuttle, panorama, Sphinx; optional Khufu interior. Back 1pm, nap. PM: GEM if skipped, or Saqqara (40 min). Rooftop evening.",
+      "overnight": "Giza",
+      "meals": "B guesthouse; L/D local"
+    },
+    {
+      "date": "2026-12-23",
+      "location": "Giza → Aswan",
+      "title": "Fly to Aswan, sunset felucca",
+      "details": "Uber ~1h to CAI, fly ~1h25. Car ~30 min + ferry to west bank. Felucca 1-2h, Elephantine/Kitchener's, birds. ~3.5h travel.",
+      "overnight": "Aswan",
+      "meals": "B guesthouse; L/D Nubian home cooking"
+    },
+    {
+      "date": "2026-12-24",
+      "location": "Aswan",
+      "title": "Philae + birding (Christmas Eve)",
+      "details": "AM: Philae (taxi 20 min + boat 10 min). PM: ~2h birding boat, First Cataract; Botanical Island walk. Christmas Eve dinner at guesthouse. Easy.",
+      "overnight": "Aswan",
+      "meals": "B/D guesthouse; L Aswan corniche"
+    },
+    {
+      "date": "2026-12-25",
+      "location": "Aswan → Kom Ombo → Edfu → Luxor",
+      "title": "Temple road (Christmas)",
+      "details": "Car 8am. Kom Ombo 1h, Edfu 1.5h. ~4h driving; Luxor West Bank ~16:00. Relax.",
+      "overnight": "Luxor",
+      "meals": "B guesthouse; L roadside Edfu; D guesthouse"
+    },
+    {
+      "date": "2026-12-26",
+      "location": "Luxor West Bank",
+      "title": "Valley of the Kings",
+      "details": "Optional balloon 05:30. VoK (3 tombs), Hatshepsut, Colossi by taxi/bike, done 1pm. Rest. Evening: lit Luxor Temple (ferry 10 min).",
+      "overnight": "Luxor",
+      "meals": "B guesthouse; L local; D east bank"
+    },
+    {
+      "date": "2026-12-27",
+      "location": "Luxor → Cairo → (Nairobi)",
+      "title": "Karnak, fly out",
+      "details": "Karnak at opening (~6-7am), 2h. Checkout. LXR-CAI ~13:00-15:00, 1h05. Wait CAI T3. MS849 21:35-23:55 (reconfirm) → NBO ~5h, lands ~02:35-04:55 Dec 28. Dec 28 Nairobi rest.",
+      "overnight": "Plane",
+      "meals": "B guesthouse; L Luxor/airport; D CAI airport"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Pyramid-view guesthouse, Nazlet el-Semman (e.g. Pyramids View Inn / Great Pyramid Inn type)",
+      "place": "GIZ",
+      "location": "Nazlet el-Semman, Giza, next to the Sphinx gate",
+      "nights": 3,
+      "pppn_usd": 25,
+      "style": "Budget guesthouse, private double",
+      "includes": "Rooftop breakfast, pyramid view. Airport pickup extra; essential for ~04:00 arrival.",
+      "why": "Walk to Sphinx gate, 10-15 min to GEM, no Cairo traffic. Great value. Book Dec 20 night for pre-dawn arrival. Basic rooms, noisy touty street.",
+      "url": "https://www.booking.com/searchresults.html?ss=Nazlet+El-Semman%2C+Giza",
+      "alternatives": "Upgrade: Marriott Mena House ($250+/room). Downtown hostels cheaper, 1h away."
+    },
+    {
+      "name": "Nubian guesthouse, Gharb Soheil / Elephantine (e.g. Anakato-area or Bet El Kerem style)",
+      "place": "ASW",
+      "location": "West bank / Nubian village, Aswan",
+      "nights": 2,
+      "pppn_usd": 30,
+      "style": "Nubian family guesthouse, private room",
+      "includes": "Breakfast; dinners on request; boat transfers",
+      "why": "Colorful, quiet Nubian village on Nile; calm Christmas Eve. Hosts arrange felucca, birding boat, Luxor car.",
+      "url": "https://www.booking.com/searchresults.html?ss=Gharb+Soheil%2C+Aswan",
+      "alternatives": "Splurge: Old Cataract (Sofitel Legend, $400+). Dahabiya Aswan-Luxor (3-4 nights, $250-450 pppn) replaces car + hotels."
+    },
+    {
+      "name": "Nour El Gourna Hotel (or similar West Bank guesthouse)",
+      "place": "LXR",
+      "location": "Gourna, Luxor West Bank, near the Valley of the Kings",
+      "nights": 2,
+      "pppn_usd": 25,
+      "style": "Simple mud-brick guesthouse",
+      "includes": "Breakfast; balloon, taxi bookings",
+      "why": "Walk/bike to VoK side, near balloon launch, quieter than east bank. Long-running budget favorite.",
+      "url": "https://www.booking.com/searchresults.html?ss=West+Bank%2C+Luxor",
+      "alternatives": "Boutique: Al Moudira ($150+/room). East-bank Nile-view mid-range $40-70/room."
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "LAX-IST-CAI (TK10 Dec 19 + TK692 Dec 21), CAI-NBO MS849 (Dec 27), NBO-IST-LAX TK608/TK9 (Jan 16)",
+      "per_person_usd": 1950,
+      "low_usd": 1750,
+      "high_usd": 2350,
+      "notes": "~+$450 pp vs $1,500 base. Best: one Star Alliance ticket incl. MS849 (turkishairlines.com or agent). Fallback: TK open-jaw LAX→CAI/NBO→LAX (~$1,550-1,800) + EgyptAir CAI-NBO one-way (~$200-350; peak budget $275-415). Estimates; price now."
+    },
+    {
+      "category": "Domestic transport",
+      "item": "CAI-ASW + LXR-CAI",
+      "per_person_usd": 170,
+      "low_usd": 120,
+      "high_usd": 260,
+      "notes": "EgyptAir/Nile Air. Cheaper, harder: Abela/Watania sleeper train ~$90-110 pp, 13h."
+    },
+    {
+      "category": "Lodging",
+      "item": "7 guesthouse nights (3 Giza incl. Dec 20 hold, 2 Aswan, 2 Luxor), shared double",
+      "per_person_usd": 185,
+      "low_usd": 120,
+      "high_usd": 450,
+      "notes": "3x$25 + 2x$30 + 2x$25. Christmas peak, book now. High = mid-range Nile-view."
+    },
+    {
+      "category": "Permits/fees",
+      "item": "GEM, Giza, Philae, Kom Ombo, Edfu, VoK, Hatshepsut, Karnak, Luxor Temple",
+      "per_person_usd": 160,
+      "low_usd": 120,
+      "high_usd": 280,
+      "notes": "2026 foreigner EGP: GEM 1,450 (online only), Giza 700, VoK 750, Karnak 600, Luxor Temple 500, Hatshepsut 440, + Philae, Kom Ombo, Edfu. Total ~5,800-6,500 EGP; sources conflict. High adds Khufu interior (900), Tutankhamun (700)/Seti I (2,000), Saqqara. Bring cards; some cashless."
+    },
+    {
+      "category": "Tours/transport",
+      "item": "Aswan-Luxor car, felucca, birding boat, Philae boat, Uber/taxis/ferries, airport transfers",
+      "per_person_usd": 140,
+      "low_usd": 100,
+      "high_usd": 350,
+      "notes": "Car ~$100-120, felucca ~$15-25/boat-hour, birding boat ~$30-40, CAI pickup ~$20-25. High adds Egyptologist or Abu Simbel."
+    },
+    {
+      "category": "Food",
+      "item": "8 days meals (breakfasts included)",
+      "per_person_usd": 180,
+      "low_usd": 120,
+      "high_usd": 300,
+      "notes": "Local food (koshari, ful, grills) $3-8; tourist restaurants $15-25."
+    },
+    {
+      "category": "Visa",
+      "item": "Egypt VOA / e-visa",
+      "per_person_usd": 30,
+      "low_usd": 25,
+      "high_usd": 30,
+      "notes": "VOA $30 since Mar 2026, USD cash at CAI kiosk. E-visa visa2egypt.gov.eg $25 or $30 (sources conflict)."
+    },
+    {
+      "category": "Misc",
+      "item": "Tips, SIM, water, optional IST pod, optional balloon",
+      "per_person_usd": 110,
+      "low_usd": 40,
+      "high_usd": 280,
+      "notes": "Includes share of YOTEL Air IST pod ~4h Dec 20 (~$100-150/room, ~$60 pp). Balloon ~$60-120 pp, not included. SIM ~$10."
+    }
+  ],
+  "wildlife": [
+    {
+      "name": "Pied kingfisher",
+      "wiki": "Pied_kingfisher",
+      "where": "First Cataract islands, Nile banks everywhere",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Egyptian goose",
+      "wiki": "Egyptian_goose",
+      "where": "Nile islands, Aswan, Luxor",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Cattle egret",
+      "wiki": "Western_cattle_egret",
+      "where": "Nile fields, Luxor West Bank",
+      "odds": "Certain"
+    },
+    {
+      "name": "Black kite",
+      "wiki": "Black_kite",
+      "where": "Over Cairo, Aswan",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Eurasian hoopoe",
+      "wiki": "Eurasian_hoopoe",
+      "where": "Gardens, Kitchener's Island, Luxor fields",
+      "odds": "Likely"
+    },
+    {
+      "name": "Senegal thick-knee",
+      "wiki": "Senegal_thick-knee",
+      "where": "Rocky islands near Aswan",
+      "odds": "Possible with birding boatman"
+    },
+    {
+      "name": "Western swamphen",
+      "wiki": "Western_swamphen",
+      "where": "Aswan island reedbeds",
+      "odds": "Possible"
+    },
+    {
+      "name": "Nile crocodile",
+      "wiki": "Nile_crocodile",
+      "where": "Kom Ombo museum mummies only; none wild below Aswan dams",
+      "odds": "Mummies certain; wild ~none"
+    },
+    {
+      "name": "Dromedary camel",
+      "wiki": "Dromedary",
+      "where": "Giza plateau (domestic)",
+      "odds": "Certain"
+    }
+  ],
+  "booking": [
+    {
+      "when": "Now (Oct 2026)",
+      "task": "Price/book multi-city: TK10 + TK692 (Dec 19-21), MS849 CAI-NBO (Dec 27). Check MS849 Dec time (21:35/22:55/23:55)."
+    },
+    {
+      "when": "Now",
+      "task": "Book guesthouses: Giza Dec 20-23 (held for ~04:00 Dec 21), Aswan Dec 23-25, Luxor Dec 25-27. Free cancellation."
+    },
+    {
+      "when": "By end Oct",
+      "task": "Domestic flights: CAI-ASW Dec 23 AM; LXR-CAI Dec 27 early PM, land by ~17:00."
+    },
+    {
+      "when": "Nov",
+      "task": "Giza guesthouse: pre-dawn CAI pickup. Aswan guesthouse: Luxor car, felucca, birding boat. Optional YOTEL Air IST pod Dec 20."
+    },
+    {
+      "when": "Nov",
+      "task": "GEM tickets online (visit-gem.com only). Optional: Dec 26 balloon (licensed), Abu Simbel flight."
+    },
+    {
+      "when": "Early Dec",
+      "task": "E-visa (visa2egypt.gov.eg) or $30 cash each for VOA. STEP; recheck advisory."
+    },
+    {
+      "when": "Dec 19",
+      "task": "Carry USD cash (visa, small bills), fleece for cold nights."
+    }
+  ],
+  "fatigue": "Dec 19: ~13h overnight flight. Dec 20: ~7h IST layover overnight. Dec 21: 2h25 flight, land ~03:30-04:30, ~45min road, sleep AM (heavy start, light PM). Dec 22: ~0.5h. Dec 23: ~3.5h (1h road + 1h25 flight + 0.5h transfer + waits). Dec 24: ~1h boats. Dec 25: ~4h road, temple breaks. Dec 26: ~0.5h. Dec 27: 1h05 flight + ~5-7h CAI wait + 5h red-eye (heavy). Dec 28: Nairobi rest. Road max ~4h/day (under 5h cap); light day after each long haul. Strain: IST layover + pre-dawn Cairo; Dec 27 + red-eye. Europe routing landing Cairo evening eases first if TK692 too harsh.",
+  "sources": [
+    "https://info.flightmapper.net/flight/Turkish_Airlines_TK_10",
+    "https://www.aeroroutes.com/eng/260424-tkjul26cai",
+    "https://www.trip.com/flights/status-tk694",
+    "https://www.flight.info/TK692",
+    "https://www.planemapper.com/flights/MS738",
+    "https://proflightsearch.com/flight/MS849",
+    "https://www.airnavradar.com/data/flights/MS849/2967563754",
+    "https://www.trip.com/flights/status-ms849",
+    "https://www.planemapper.com/flights/MS849",
+    "https://www.skyscanner.com/routes/cai/nboa/cairo-to-nairobi.html",
+    "https://orbitz.com/lp/flights/178243/178290/cairo-to-nairobi",
+    "https://www.kayak.com/flight-routes/Los-Angeles-LAX/Cairo-CAI",
+    "https://osac.gov/Content/Report/f9535564-b44b-40f6-971b-1c31033d9a55",
+    "https://egyptianstreets.com/2026/03/08/egypt-is-broadly-safe-for-tourists-says-travel-advisory/",
+    "https://www.traveladvisory.io/advisory/egypt",
+    "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/egypt-travel-advisory.html",
+    "https://www.pyramidsland.com/blog/grand-egyptian-museum",
+    "https://www.khaleejtimes.com/world/mena/egypt-grand-egyptian-museum-visitors-guide",
+    "https://www.egypttoursplus.com/how-much-to-visit-pyramids-in-egypt/",
+    "https://discoverdiscomfort.com/ultimate-guide-to-luxor-egypt/",
+    "https://visasnews.com/en/egypt-is-the-visa-on-arrival-fee-about-to-increase/",
+    "https://www.travelnews.ch/english-corner/31643-new-pricing-model-for-visas-in-egypt.html",
+    "https://tripprof.com/en/blog/uk-egypt-visa-fee-increase/",
+    "https://www.encounterstravel.com/blog/egypt-sleeper-train"
+  ],
+  "safety_short": "Cairo, Luxor, Aswan: heavily policed tourist corridors, outside Do Not Travel zones. Real issues: touts, scams, traffic, stomach bugs."
+}

@@ -1,0 +1,511 @@
+{
+  "country": "Türkiye",
+  "label": "Türkiye: Istanbul + Cappadocia",
+  "summary": "3 nights Istanbul, 4 in Göreme cave hostel; balloon tries, valley hikes. On existing TK route: flights ~+$150 pp. All-in ~$2,760 pp (~+$1,260 over Kenya-only).",
+  "verdict": "Easiest, cheapest stopover: on TK route, no visa, short transfers, Christmas among rock churches. Weak wildlife (birds, cats), cold grey winter, ~50/50 balloon odds per morning.",
+  "safety": {
+    "advisory_level": "US State Dept Level 2: Exercise Increased Caution (page dated Jun 9 2026). Do not travel to southeast Türkiye or the Syria/Iraq border region.",
+    "summary": "Istanbul + Cappadocia: Level 2, far from no-go southeast. Risks: terrorism in crowds, protests, anti-US mood since Feb 28 2026 US–Iran hostilities, scams; Consulate Adana drawn down (off-route). Practical: icy trails, balloon operator choice; re-check advisory pre-departure.",
+    "precautions": [
+      "Enroll STEP; re-check travel.state.gov week before (advisory updated twice in 2026).",
+      "Low profile as Americans: skip demos/political gatherings; no posts criticizing Turkish state.",
+      "Exit plan without US govt help; TK ticket out of IST is built-in exit.",
+      "Alert in crowds: Sultanahmet, Istiklal, bazaars, transit hubs, holidays/New Year.",
+      "Sultanahmet scams: dropped shoe brush, 'let's have a drink' bars, carpet hard sells. Use BiTaksi/metered taxi.",
+      "Balloons: SHGM-licensed, well-reviewed only; accept weather calls; avoid anyone flying when others grounded.",
+      "Traction spikes/grippy boots (Rose, Red, Love valleys ice over); offline map (Maps.me/AllTrails).",
+      "Secure passports. Basilica Cistern: card/Istanbulkart only, no cash."
+    ]
+  },
+  "visa": "US passport: visa-free tourism, 90 days per 180 (since early 2024; no e-visa). Passport valid 6 months past stay (safe choice). Kenya eTA still needed.",
+  "weather_dec": "Istanbul ~5–11°C, grey, damp, windy; rain ~1 day in 2; sunset ~16:40. Cappadocia ~−3 to 5°C, freezing nights, possible snow, icy trails. Balloons fly ~50–60% of mornings (unverified); plan 4 dawns. Pack layers, hat, gloves, waterproof boots (also for Kenya dawn drives).",
+  "highlights": [
+    "Hagia Sophia, Blue Mosque, Basilica Cistern, Topkapı: all walkable from Sultanahmet",
+    "Şehir Hatları Bosphorus ferry (~$10–20): two continents, shearwaters, cormorants, slim dolphin chance",
+    "Christmas Day at Göreme Open Air Museum + Dark Church (10th–12th c. frescoes)",
+    "4 dawn balloon chances, or free view of ~100 balloons rising",
+    "Easy–moderate hikes: Rose, Red, Love, Pigeon valleys to Uçhisar castle, maybe snow",
+    "Night in carved cave room",
+    "Green Tour: Derinkuyu underground city (8 levels) + Ihlara canyon walk",
+    "No visa, shortest flights; on TK routing, ASR→IST→NBO protected on one ticket"
+  ],
+  "drawbacks": [
+    "Weakest wildlife: mostly birds, off-peak at Sultan Sazlığı. Fails 'wildlife first'.",
+    "Cold, grey: Cappadocia mornings below freezing, Istanbul drizzly.",
+    "Balloons fly ~50–60% of mornings; 4 tries, no guarantee. Book full refund if all cancelled.",
+    "Balloon ~$180 pp winter (~$100–330); comfort baskets more; ground view free.",
+    "Christmas–New Year busy; book cave rooms early.",
+    "More volatile since Feb 2026 US–Iran hostilities; still Level 2, anti-US sentiment up.",
+    "Long Dec 27: shuttle, domestic flight, ~3h layover, 6h45 to NBO, land ~01:25; Dec 28 rest day.",
+    "Istanbul fees high, in euros: Topkapı ~€55, Cistern ~€38, Hagia Sophia €25.",
+    "Upgrades: boutique cave hotel $150–300/room/night vs ~$80; guide ~$150/day; Pamukkale doesn't fit."
+  ],
+  "places": [
+    {
+      "code": "LAX",
+      "name": "Los Angeles (home)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA",
+      "wiki": [
+        "Los_Angeles_International_Airport",
+        "Los_Angeles"
+      ]
+    },
+    {
+      "code": "IST",
+      "name": "Istanbul Airport",
+      "lat": 41.2753,
+      "lng": 28.7519,
+      "kind": "transit",
+      "country": "Türkiye",
+      "wiki": [
+        "Istanbul_Airport",
+        "Turkish_Airlines"
+      ]
+    },
+    {
+      "code": "SULT",
+      "name": "Istanbul – Sultanahmet",
+      "lat": 41.0055,
+      "lng": 28.9768,
+      "kind": "abroad",
+      "country": "Türkiye",
+      "wiki": [
+        "Hagia_Sophia",
+        "Sultan_Ahmed_Mosque",
+        "Basilica_Cistern",
+        "Bosphorus"
+      ]
+    },
+    {
+      "code": "ASR",
+      "name": "Kayseri Erkilet Airport",
+      "lat": 38.7704,
+      "lng": 35.4954,
+      "kind": "transit",
+      "country": "Türkiye",
+      "wiki": [
+        "Kayseri_Erkilet_Airport",
+        "Kayseri"
+      ]
+    },
+    {
+      "code": "GOR",
+      "name": "Göreme, Cappadocia",
+      "lat": 38.6431,
+      "lng": 34.8289,
+      "kind": "nature",
+      "country": "Türkiye",
+      "wiki": [
+        "Göreme",
+        "Cappadocia",
+        "Göreme_National_Park",
+        "Uçhisar"
+      ]
+    },
+    {
+      "code": "IHL",
+      "name": "Ihlara Valley & Derinkuyu (day trip)",
+      "lat": 38.2425,
+      "lng": 34.3011,
+      "kind": "nature",
+      "country": "Türkiye",
+      "wiki": [
+        "Ihlara_Valley",
+        "Derinkuyu_underground_city"
+      ]
+    },
+    {
+      "code": "NBO",
+      "name": "Nairobi Jomo Kenyatta Intl",
+      "lat": -1.3192,
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya",
+      "wiki": [
+        "Jomo_Kenyatta_International_Airport",
+        "Nairobi"
+      ]
+    }
+  ],
+  "legs": [
+    {
+      "date": "2026-12-19",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h15",
+      "detail": "TK10 nonstop 777-300ER. Winter schedule (from Oct 24): LAX 19:45 → IST 19:00 Dec 20 (+11h). Some sites show 20:00–20:10; verify. First segment of multi-city TK ticket."
+    },
+    {
+      "date": "2026-12-20",
+      "from": "IST",
+      "to": "SULT",
+      "mode": "road",
+      "duration": "~1.25–1.5h",
+      "detail": "Havaist bus (~$5–8) or M11 metro + T1 tram. Taxi ~$35–45/car, sensible for ~20:00 arrival."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "SULT",
+      "to": "IST",
+      "mode": "road",
+      "duration": "~1.25h",
+      "detail": "Havaist bus or tram + metro to IST. SAW (~1.5h) if cheaper Pegasus/AJet fare leaves there."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "IST",
+      "to": "ASR",
+      "mode": "flight",
+      "duration": "~1h30",
+      "detail": "Late-morning domestic to Kayseri, ~$40–110 one way. TK several daily (737); AJet/Pegasus from SAW often cheapest. NAV closer (40 min), fewer flights."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "ASR",
+      "to": "GOR",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "Pre-booked shared shuttle (Helios/Kapadokya Express, ~$12–15 pp) to Göreme hostel door."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "GOR",
+      "to": "ASR",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "Shared shuttle to Kayseri late morning, after last dawn balloon try."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "ASR",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~1h35",
+      "detail": "TK ASR→IST midday/early afternoon (TK2011/TK2013; summer 2026 08:40, 10:40; winter differs). Same multi-city ticket protects NBO connection; aim 3h+ layover."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "IST",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~6h45",
+      "detail": "TK607 IST 18:40 → NBO 01:25 Mon Dec 28. Trackers confirm 18:40–18:45/01:25 through Sep 2026; older: 20:30 → 03:05. Both arrive before 06:00. Reconfirm."
+    }
+  ],
+  "stays": [
+    {
+      "place": "SULT",
+      "from": "2026-12-20",
+      "nights": 3,
+      "label": "Istanbul hostel, Sultanahmet"
+    },
+    {
+      "place": "GOR",
+      "from": "2026-12-23",
+      "nights": 4,
+      "label": "Göreme cave hostel"
+    }
+  ],
+  "itinerary": [
+    {
+      "date": "2026-12-19",
+      "location": "LAX → Istanbul",
+      "title": "Depart LAX",
+      "details": "TK10 ~19:45 nonstop, ~13h. Sleep; set watches +11h.",
+      "overnight": "Plane",
+      "meals": "Dinner and breakfast on board"
+    },
+    {
+      "date": "2026-12-20",
+      "location": "Istanbul",
+      "title": "Arrive Istanbul",
+      "details": "Land IST ~19:00. Bus/metro/taxi to Sultanahmet ~1.25–1.5h. Check in, short walk to lit Blue Mosque, sleep.",
+      "overnight": "Istanbul – Sultanahmet hostel",
+      "meals": "Meals on the plane; light late dinner near the hostel (döner, pide)"
+    },
+    {
+      "date": "2026-12-21",
+      "location": "Istanbul",
+      "title": "Old City on foot",
+      "details": "All walking. Hagia Sophia at opening (€25), Blue Mosque (free, modest dress), Basilica Cistern (~€38, card only), Hippodrome. Afternoon: Grand Bazaar. Early night.",
+      "overnight": "Istanbul – Sultanahmet hostel",
+      "meals": "Hostel breakfast; simit and street-food lunch; lokanta dinner"
+    },
+    {
+      "date": "2026-12-22",
+      "location": "Istanbul",
+      "title": "Bosphorus + Topkapı",
+      "details": "Topkapı + Harem ~€55; closed Tuesdays (Dec 22 is Tue), so swap with Dec 21. Afternoon: Şehir Hatları ferry from Eminönü (~1.5h each way, cheap): shearwaters, cormorants, maybe dolphins. Or ferry to Kadıköy food market. Spice Bazaar on return.",
+      "overnight": "Istanbul – Sultanahmet hostel",
+      "meals": "Breakfast; balık-ekmek (fish sandwich) at Eminönü; meyhane dinner in Kadıköy"
+    },
+    {
+      "date": "2026-12-23",
+      "location": "Istanbul → Göreme",
+      "title": "Fly to Cappadocia",
+      "details": "Bus ~1.25h + flight ~1.5h + shuttle ~1h ≈ 3.75h plus airport time. Check into cave room; walk to Sunset Point. Confirm balloon pickup.",
+      "overnight": "Göreme cave hostel",
+      "meals": "Breakfast; airport snack; testi kebab (pottery-pot stew) dinner"
+    },
+    {
+      "date": "2026-12-24",
+      "location": "Göreme",
+      "title": "Balloon #1 + Red/Rose Valley",
+      "details": "~05:30 pickup, ~1h flight, ~50–60% odds; if cancelled, watch from roof. Late morning: Rose/Red Valley loop ~3–4h, easy–moderate, icy spots, sunset view. Christmas Eve dinner.",
+      "overnight": "Göreme cave hostel",
+      "meals": "Cave breakfast spread; packed lunch; Christmas Eve dinner out"
+    },
+    {
+      "date": "2026-12-25",
+      "location": "Göreme",
+      "title": "Christmas among rock churches",
+      "details": "Dawn: balloon backup. Open Air Museum (€20) + Dark Church (€6), ~2–3h, 15-min walk. Afternoon: Love/Pigeon Valley to Uçhisar Castle ~2–3h; bus/taxi back ~15 min. Relaxed.",
+      "overnight": "Göreme cave hostel",
+      "meals": "Breakfast; gözleme lunch; dinner in Uçhisar or Göreme"
+    },
+    {
+      "date": "2026-12-26",
+      "location": "Cappadocia",
+      "title": "Green Tour: Derinkuyu + Ihlara",
+      "details": "Dawn: balloon backup. 09:30 minibus (~$45–80 with lunch; check entries, Derinkuyu ~€13): Derinkuyu, Ihlara river walk ~1.5h, Selime monastery. ~2.5h driving total; back ~17:30.",
+      "overnight": "Göreme cave hostel",
+      "meals": "Breakfast; lunch included by the river; easy dinner"
+    },
+    {
+      "date": "2026-12-27",
+      "location": "Göreme → Istanbul → Nairobi",
+      "title": "Fly to Nairobi",
+      "details": "Dawn: last balloon backup/viewpoint. Shuttle ~1h, ASR→IST ~1h35, ~3h connection, TK607 18:40 → NBO 01:25 Dec 28 (~6h45). Dec 28 rest day.",
+      "overnight": "Plane",
+      "meals": "Breakfast; lunch at the airport; dinner on board"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Cheers Hostel (or similar Sultanahmet hostel)",
+      "place": "SULT",
+      "location": "Sultanahmet, Istanbul (steps from Hagia Sophia)",
+      "nights": 3,
+      "pppn_usd": 35,
+      "style": "Hostel private double (dorm ~$18–25 pp)",
+      "includes": "Breakfast usually; Wi-Fi; rooftop/common room",
+      "why": "Old City sights walkable; T1 tram at door to ferry.",
+      "url": "https://www.hostelworld.com/st/hostels/istanbul/",
+      "alternatives": "Sultan Hostel, Bunk Hostel Taksim (livelier), Agora Life (pricier)"
+    },
+    {
+      "name": "Diadem Cappadocia Guest House & Hostel (or similar cave hostel)",
+      "place": "GOR",
+      "location": "Göreme village center, Cappadocia",
+      "nights": 4,
+      "pppn_usd": 40,
+      "style": "Cave guesthouse/hostel private double (dorm from ~$35/bed)",
+      "includes": "Breakfast; heated cave room; balloon-view rooftop; balloon/tour desk",
+      "why": "Real cave room; walk to trailheads and Open Air Museum; balloon/Green Tour door pickups.",
+      "url": "https://www.hostelz.com/en/best-hostels-goreme",
+      "alternatives": "Kamelya, Garden Cave, HomeStay Cave hostels; upgrade: Kelebek or Sultan Cave Suites ($150–300/room)"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "TK multi-city: LAX→IST Dec 19; ASR→IST→NBO Dec 27; NBO→IST→LAX Jan 16",
+      "per_person_usd": 1650,
+      "low_usd": 1500,
+      "high_usd": 2100,
+      "notes": "Replaces $1,500 base (~+$150 pp). Off-peak RT from ~$1,000; no Dec 2026 fare verified; Dec 19 peak. ASR origin protects connection. TK Stopover free hotel likely N/A on multi-city."
+    },
+    {
+      "category": "Flights (domestic)",
+      "item": "IST/SAW → Kayseri, Dec 23",
+      "per_person_usd": 60,
+      "low_usd": 40,
+      "high_usd": 110,
+      "notes": "AJet/Pegasus cheapest (bag fees); TK from IST pricier, simpler."
+    },
+    {
+      "category": "Lodging",
+      "item": "Istanbul hostel private double, 3 nights",
+      "per_person_usd": 105,
+      "low_usd": 60,
+      "high_usd": 180,
+      "notes": "$35 pppn shared private; dorm ~$20."
+    },
+    {
+      "category": "Lodging",
+      "item": "Göreme cave hostel private double, 4 nights",
+      "per_person_usd": 160,
+      "low_usd": 110,
+      "high_usd": 280,
+      "notes": "$40 pppn with breakfast; holiday week pricier, book early."
+    },
+    {
+      "category": "Tours/activities",
+      "item": "Cappadocia balloon (standard basket)",
+      "per_person_usd": 180,
+      "low_usd": 0,
+      "high_usd": 330,
+      "notes": "Optional. Winter 2026 ~€90–220 standard; comfort more; $0 ground view. Check cancellation refund."
+    },
+    {
+      "category": "Permits/fees",
+      "item": "Istanbul entries: Hagia Sophia, Topkapı+Harem, Cistern",
+      "per_person_usd": 140,
+      "low_usd": 110,
+      "high_usd": 190,
+      "notes": "Hagia Sophia €25; Topkapı ~2,750 TL (~€55, one source €85); Cistern 1,950 TL (~€38, repricing after Jun 2026 handover). Mosques free."
+    },
+    {
+      "category": "Permits/fees",
+      "item": "Göreme Open Air Museum + Dark Church, Uçhisar",
+      "per_person_usd": 40,
+      "low_usd": 30,
+      "high_usd": 55,
+      "notes": "€20 + €6; Uçhisar castle extra. Valleys free, minor trail tolls."
+    },
+    {
+      "category": "Tours/activities",
+      "item": "Green Tour (Derinkuyu + Ihlara + Selime)",
+      "per_person_usd": 60,
+      "low_usd": 45,
+      "high_usd": 80,
+      "notes": "Group minibus, lunch. Check entries (Derinkuyu ~€13)."
+    },
+    {
+      "category": "Transport",
+      "item": "Airport buses, shuttles, Istanbulkart, ferries",
+      "per_person_usd": 65,
+      "low_usd": 45,
+      "high_usd": 110,
+      "notes": "Havaist ×2, Kayseri shuttle ×2, tram, ferry; taxis extra."
+    },
+    {
+      "category": "Food",
+      "item": "8 days of meals",
+      "per_person_usd": 240,
+      "low_usd": 180,
+      "high_usd": 360,
+      "notes": "~$30/day: breakfasts included, lokanta/street food, some sit-down dinners. High inflation; check prices."
+    },
+    {
+      "category": "Visa",
+      "item": "Türkiye entry (US passport)",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 0,
+      "notes": "Visa-free, 90 days per 180."
+    },
+    {
+      "category": "Misc",
+      "item": "eSIM, tips, insurance increment, trail spikes",
+      "per_person_usd": 60,
+      "low_usd": 35,
+      "high_usd": 100,
+      "notes": "Total ~$2,760 pp (~$2,155–3,895); ~+$1,260 over Kenya-only."
+    }
+  ],
+  "wildlife": [
+    {
+      "name": "Yelkouan shearwater",
+      "wiki": "Yelkouan_shearwater",
+      "where": "Bosphorus ferry",
+      "odds": "Moderate (winter flocks along strait)"
+    },
+    {
+      "name": "Short-beaked common dolphin / harbour porpoise",
+      "wiki": "Short-beaked_common_dolphin",
+      "where": "Bosphorus ferry",
+      "odds": "Low (~15–25%)"
+    },
+    {
+      "name": "Istanbul street cats",
+      "wiki": "Tombili",
+      "where": "All over Istanbul",
+      "odds": "Certain"
+    },
+    {
+      "name": "Western rock nuthatch",
+      "wiki": "Western_rock_nuthatch",
+      "where": "Göreme rocky valleys",
+      "odds": "Moderate"
+    },
+    {
+      "name": "Long-legged buzzard",
+      "wiki": "Long-legged_buzzard",
+      "where": "Cappadocia valleys, Ihlara road",
+      "odds": "Moderate"
+    },
+    {
+      "name": "Greater flamingo",
+      "wiki": "Greater_flamingo",
+      "where": "Sultan Sazlığı (~1.5h, private driver only)",
+      "odds": "Low late Dec (flocks in spring)"
+    }
+  ],
+  "booking": [
+    {
+      "when": "Now (Oct 2026)",
+      "task": "Book TK multi-city: LAX→IST Dec 19 / ASR→IST→NBO Dec 27 / NBO→IST→LAX Jan 16; compare to $1,500 base."
+    },
+    {
+      "when": "Now",
+      "task": "Reserve Istanbul + Göreme hostels, free cancellation; holiday cave rooms fill."
+    },
+    {
+      "when": "Oct–Nov",
+      "task": "Book IST/SAW→Kayseri Dec 23 (or add to TK ticket); pre-book Kayseri shuttles both ways."
+    },
+    {
+      "when": "Nov",
+      "task": "Book Dec 24 balloon: SHGM-licensed, rebooks Dec 25–27, full refund if all cancelled."
+    },
+    {
+      "when": "Early Dec",
+      "task": "Book Dec 26 Green Tour; eSIMs; STEP; microspikes; re-check advisory."
+    },
+    {
+      "when": "Dec 24–26 (daily)",
+      "task": "Check next morning's balloon status each evening; roll forward if cancelled."
+    },
+    {
+      "when": "Dec 26",
+      "task": "Reconfirm TK607 (18:40 vs 20:30) and ASR→IST times; online check-in; Kenya eTA ready."
+    }
+  ],
+  "fatigue": "Dec 19: ~13h flight (overnight). Dec 20: arrive ~19:00, ~1.25–1.5h road. Dec 21: 0h. Dec 22: 0h road (ferry ~3h RT, seated). Dec 23: ~3.75h door to door (1.25h road + 1.5h flight + 1h road). Dec 24: 0h (3–4h hike). Dec 25: 0h (2–3h hike). Dec 26: ~2.5h road, spread out. Dec 27: 1h road + 1.6h flight + ~3h layover + 6.75h flight, land NBO 01:25 Dec 28 (~12h). Dec 28: Nairobi rest. Pace rules met: max ~2.5h road/day; easy days after arrival and before Dec 27; rest day after.",
+  "sources": [
+    "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkey-travel-advisory.html",
+    "https://travel.state.gov/en/international-travel/travel-advisories/destination.tur.html",
+    "https://www.osac.gov/Content/Report/7b0542a1-bf37-49a1-8169-2994ccf026a6",
+    "https://info.flightmapper.net/flight/Turkish_Airlines_TK_10",
+    "https://www.airpaz.com/en/flight/code/TK-10",
+    "https://www.airnavradar.com/data/flights/TK607",
+    "https://www.airpaz.com/en/flight/code/TK-607",
+    "https://www.trip.com/flights/status-tk607",
+    "https://www.airlineinformation.com/ASR-IST",
+    "https://www.flightsfrom.com/ASR-IST",
+    "https://www.airportia.com/flights/tk2013/kayseri/istanbul/",
+    "https://www.turkishairlines.com/en-us/flights-from-los-angeles-to-nairobi",
+    "https://www.turkishairlines.com/en-us/flights-from-los-angeles-to-istanbul",
+    "https://blog.wego.com/turkish-airlines-stopover-program/",
+    "https://kupi.com/en/flights/from-istanbul/to-kayseri",
+    "https://www.travelarbitrage.net/en/blog/cappadocia-balloon-guide-2026",
+    "https://myturkeyadventure.com/blog/cappadocia-in-winter-snow-balloons-prices-2026",
+    "https://myturkeyadventure.com/blog/best-time-to-visit-cappadocia-balloon-weather-2026",
+    "https://www.roadiscalling.com/visiting-cappadocia-in-winter-should-you-do-it/",
+    "https://www.globalcitizensolutions.com/visa-requirements-for-us-citizens-to-turkey/",
+    "https://www.hostelz.com/en/best-hostels-goreme",
+    "https://blog.wego.com/hagia-sophia-visitor-guide/",
+    "https://istanbul.com/blog/topkapi-palace-guide",
+    "https://istanbulclues.com/istanbul-basilica-cistern-entrance-fee/",
+    "https://myturkeyadventure.com/blog/basilica-cistern-night-ticket-vs-day",
+    "https://audiala.com/de/turkei/cappadocia/goreme-open-air-museum",
+    "https://istanbulclues.com/derinkuyu-underground-city-entrance-fee/",
+    "https://fatbirder.com/?p=19002"
+  ],
+  "safety_short": "Far from restricted southeast. Risks: low-odds crowd attack, protests (anti-US mood since Feb 2026 US–Iran hostilities), scams, icy trails."
+}

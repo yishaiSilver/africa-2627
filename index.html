@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trip Planner</title>
+  <meta name="description" content="Draft trip plans: itinerary, route map, lodging, full budget and side-by-side comparison of trip versions, for feedback.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/leaflet/leaflet.css">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <nav id="trip-tabs" class="trip-tabs" aria-label="Trips">
+    <div class="wrap"><span class="tabs-label">Trips</span><div class="tabs" role="tablist"></div></div>
+  </nav>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Draft plan · for feedback</p>
+      <h1 id="title">Trip</h1>
+      <p id="dates" class="hero-dates"></p>
+      <div id="stats" class="stats"></div>
+    </div>
+  </header>
+
+  <nav class="toc" aria-label="Sections">
+    <div class="wrap">
+      <a href="#overview">Overview</a>
+      <a href="#places">Places</a>
+      <a href="#wildlife">Wildlife</a>
+      <a href="#route">Route</a>
+      <a href="#itinerary">Itinerary</a>
+      <a href="#lodging">Lodging</a>
+      <a href="#budget">Budget</a>
+      <a href="#alternatives">Options</a>
+      <a href="#booking">Booking</a>
+      <a href="#practical">Practical</a>
+      <a href="#feedback" class="toc-cta">Feedback <span id="fb-count" class="pill">0</span></a>
+    </div>
+  </nav>
+
+  <main class="wrap">
+    <section id="compare" class="compare" hidden>
+      <div class="cmp-pick" role="group" aria-label="Trips to compare"></div>
+      <h3 class="cmp-h">Calendar</h3>
+      <p class="hint">Each day shows every picked trip, one row each: where you sleep that night, and ✈/🚙 travel time that day. Hover for details.</p>
+      <div class="cmp-cal"></div>
+      <h3 class="cmp-h">Side by side</h3>
+      <div class="cmp-table table-scroll"></div>
+      <p class="hint">All numbers come from each trip's file in <code>data/trips/</code>. Open a trip's tab for its full plan, map and options.</p>
+      <div class="cmp-screen"></div>
+    </section>
+
+    <section id="overview" data-section="Overview">
+      <h2>Overview</h2>
+      <div id="overview-body" class="prose"></div>
+    </section>
+
+    <section id="places" data-section="Destinations">
+      <h2>Where you'll be</h2>
+      <div id="places-grid" class="places"></div>
+      <p class="hint photo-credit">Photos load from Wikipedia / Wikimedia Commons (free licenses). Tap any photo to enlarge and see its source.</p>
+    </section>
+
+    <section id="wildlife" data-section="Wildlife">
+      <h2>Wildlife to look for</h2>
+      <p class="hint">The rarer and more unusual animals on this route, where you're most likely to see them, and the odds.</p>
+      <div id="wildlife-grid" class="wildlife"></div>
+    </section>
+
+    <section id="route" data-section="Route">
+      <h2>Route &amp; travel times</h2>
+      <div class="map-tools" role="group" aria-label="Map view">
+        <button type="button" class="chip on" data-view="all">Whole trip</button>
+        <button type="button" class="chip" data-view="region">Zoom in</button>
+      </div>
+      <div id="map" class="map" aria-label="Map of the trip route"></div>
+      <p class="legend"><span class="lg flight"></span> flight <span class="lg road"></span> road <span class="lg opt"></span> option · one card per travel day (door to door) · tap to zoom</p>
+      <ol id="legs-list" class="legs"></ol>
+
+      <div id="choices" class="choices">
+        <h3 class="tl-title">Drive or fly?</h3>
+        <p class="hint">Where a leg can be driven or flown, both are shown side by side with door-to-door time and the net cost difference. Tick the linked option to switch it into the plan and the budget.</p>
+        <div class="choices-list"></div>
+      </div>
+
+      <h3 class="tl-title">Trip timeline</h3>
+      <p id="tl-totals" class="hint"></p>
+      <div class="tl-scroll"><div id="trip-timeline" class="tl"></div></div>
+      <p class="legend tl-key"><span class="key light"></span> ≤4h <span class="key medium"></span> 4–5h <span class="key heavy"></span> &gt;5h <span class="key longhaul"></span> long-haul flight</p>
+      <details id="pace" class="pace" hidden>
+        <summary>Pace check: travel per day vs. the no-exhaustion rules</summary>
+        <div id="pace-body" class="prose"></div>
+      </details>
+    </section>
+
+    <section id="itinerary" data-section="Itinerary">
+      <h2>Day by day</h2>
+      <p class="hint">Tap 💬 on any day to leave a note. Notes save in your browser until you send them.</p>
+      <ol id="itinerary-list" class="timeline"></ol>
+    </section>
+
+    <section id="lodging" data-section="Lodging">
+      <h2>Where we'd stay</h2>
+      <div id="lodging-grid" class="cards"></div>
+    </section>
+
+    <section id="budget" data-section="Budget">
+      <h2>Full budget <small>(per person, USD)</small></h2>
+      <div id="budget-summary" class="budget-summary"></div>
+      <div class="table-scroll">
+        <table id="budget-table" class="budget-table">
+          <thead><tr><th>Item</th><th class="num">Planned</th><th class="num">Range</th><th>Notes</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="alternatives" data-section="Options">
+      <h2>Options &amp; swaps</h2>
+      <p class="hint">Toggle options to see how the per-person total changes.</p>
+      <div id="alt-list" class="alts"></div>
+    </section>
+
+    <section id="booking" data-section="Booking timeline">
+      <h2>Booking timeline</h2>
+      <ol id="booking-list" class="checklist"></ol>
+    </section>
+
+    <section id="practical" data-section="Practical">
+      <h2>Practical notes</h2>
+      <div id="practical-body" class="prose"></div>
+    </section>
+
+    <section id="questions" data-section="Open questions">
+      <h2>Decisions for you</h2>
+      <ol id="questions-list" class="questions"></ol>
+    </section>
+
+    <section id="feedback">
+      <h2>Send feedback</h2>
+      <p>Your notes below are collected from every 💬 on the page. Send them as a GitHub issue (best — I can act on it) or copy them.</p>
+      <label for="fb-general" class="label">General thoughts</label>
+      <textarea id="fb-general" rows="4" placeholder="Overall reaction, must-haves, deal-breakers…"></textarea>
+      <div id="fb-preview" class="fb-preview"></div>
+      <div class="actions">
+        <button id="fb-issue" class="btn primary">Open as GitHub issue</button>
+        <button id="fb-copy" class="btn">Copy as text</button>
+        <button id="fb-clear" class="btn ghost">Clear notes</button>
+      </div>
+      <p id="fb-status" class="hint" role="status"></p>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul id="sources-list" class="sources"></ul>
+      <p class="hint">Prices were researched October 2026 and are estimates. Festive-season rates change; confirm when booking.</p>
+    </section>
+  </main>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <button type="button" class="lb-close" aria-label="Close">×</button>
+    <figure><img alt=""><figcaption></figcaption></figure>
+  </div>
+
+  <footer class="wrap foot">
+    <p>Trips are listed in <code>data/trips.json</code>; each trip is one file in <code>data/trips/</code>. Add a file + a line in the list and it gets its own tab.</p>
+  </footer>
+
+  <script src="assets/marked.min.js"></script>
+  <script src="assets/leaflet/leaflet.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

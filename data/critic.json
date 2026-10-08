@@ -1,0 +1,69 @@
+{
+  "issues": [
+    {
+      "severity": "high",
+      "issue": "The return date breaks the user's brief. The user asked to come back 'on January 16th or slightly earlier'. The plan returns Sat Jan 9, a full week early and 7 days short of the window, to save money. That is a change to the brief, not an option to leave in open questions.",
+      "fix": "Make the main plan return about Thu Jan 14 or Fri Jan 15 (NBO–IST late Jan 13 or 14, IST–LAX TK9 the next day). Fill the extra 5–6 nights with low-cost days instead of more premium safari nights. Options: 2–3 nights at Lake Naivasha or Nakuru by road (mid-range about $150–250 pppn full board), or Diani at about $110–165 pppn half board. Return-leg Istanbul nights also work (stopover allowed up to 7 days; a January hotel is about $100/room). Pay for it by downgrading elsewhere (see the budget issues). Keep Jan 9 only as a 'short version' alternative."
+    },
+    {
+      "severity": "high",
+      "issue": "The Dorobo Mobile Camp pricing and inclusions look wrong. A web search snippet of the same africanspicesafaris page (Oct 2026; the page itself was blocked, so not checked first-hand) gives Jan 3–31, 2027 as $380 pp sharing with a MINIMUM OF 4 GUESTS, $500 single occupancy, and says 'conservancy fees for Naboisho Conservancy are not included'. Dorobo appears to be a small Basecamp mobile camp sold to groups. Two travelers may be refused or charged near the single or exclusive rate. Naboisho conservancy fees (about $100–130 pppn) would then be extra. The plan assumes $475 all-inclusive with a $0 conservancy fee, so the Mara line could be $350–700 pp too low. Also, a Jan 4 check-in is safely after Dorobo's festive period (Dec 20 – Jan 2).",
+      "fix": "Re-price the Mara at about $500 pppn plus about $115 pppn conservancy fee, roughly $1,850 pp for 3 nights. Put the conservancy fee on its own budget line, not $0. Better, make the default an all-inclusive conservancy camp that sells to couples and includes fees. Porini Mara or Porini Cheetah (Ol Kinyei) is about $570–650 pppn in Jan 2027, including the conservancy fee, drives, night drives and walks. The 4-nights-for-3 offer also fills the extra days. Keep Dorobo as an option to confirm, for 2 guests only."
+    },
+    {
+      "severity": "high",
+      "issue": "The real budget is over the $6,000 cap. The $5,992 total checks out arithmetically (the 26 lines sum to 5,992). But it is already at the ceiling while several lines are optimistic: Dorobo plus conservancy fee (+$350–700), Istanbul NYE hotel (+$60), Istanbul food and NYE dinner (+$100–150), insurance (+$100), the unbudgeted Jan 8 day room (+$60–125), transfers, tips, Serena drinks and meals (+$80). A realistic mid estimate is about $6,700–7,000 pp before adding the days needed to reach Jan 14–16.",
+      "fix": "Re-baseline every line, then rebalance to land at about $5,800–6,000. Options: (a) make the camping or road-safari version the main plan: OPC campsite or Serena at Ol Pejeta, a road transfer to an Ol Kinyei or Enonkishu budget camp at about $250–450 pppn including the vehicle, no bush flights (saves about $800); (b) drive Ol Pejeta → Nairobi and fly only Wilson → Mara return (about $300–550 pp return instead of $685 one way and one way); (c) cut Istanbul paid nights over NYE. Raise contingency to about 5% ($300). Report a low, mid and high total that sum the low_usd and high_usd columns, which is about $5.1k–$8.4k as currently written."
+    },
+    {
+      "severity": "medium",
+      "issue": "The night of Jan 8 is unaccounted for. The plan says 'keep the hotel room or a day room until… a pre-dawn departure' but budgets only 1 Nairobi night (Jan 7). Turkish's NBO→IST flight that connects to TK9 the same day leaves in the early hours of the morning, so travelers need a room until about midnight or 1am on Jan 8. A Sheldrick and Karen sightseeing car is also needed that day.",
+      "fix": "Add a second Nairobi night or a guaranteed late checkout (about $60–125 pp). Add a hired car with driver for Jan 8 (Sheldrick, Blixen Museum, JKIA; about $80–120 per car). Note the actual TK NBO→IST departure time once booked, and set the Jan 8 or Jan 9 overnight to match."
+    },
+    {
+      "severity": "medium",
+      "issue": "Istanbul costs are underestimated. Food is $30–40/day, but the plan's own research says mid-range is $40–70/day, and an NYE dinner with a Bosphorus view is often $100–200 pp set menu. The boutique hotel is $330/room for 3 nights including NYE, but Karaköy and Sultanahmet boutiques are about $100–130 normally and often 2–3× on Dec 31 with 3-night minimums.",
+      "fix": "Budget food at about $50/day × 5 plus about $120 for NYE dinner (about $370 pp). Budget the hotel at about $450–500/room (about $240 pp). Or cut the paid Istanbul nights to 2 and move 1 Istanbul night to the return leg in January, when it is low season."
+    },
+    {
+      "severity": "medium",
+      "issue": "Insurance is underpriced. Comprehensive cover with trip cancellation on about $6k of prepaid, nonrefundable costs (camps want full payment 60 days out) usually costs 4–8% of the insured amount, about $240–480 pp. The plan's own research gives a $200–450 range for about 3.5 weeks; $200 is the floor.",
+      "fix": "Raise the insurance line to about $300–350 pp. State that it must include at least $250k medical evacuation and cover the bush-flight legs."
+    },
+    {
+      "severity": "medium",
+      "issue": "International fare may be optimistic, and the multi-city routing is untested. $1,250 pp is near TK's advertised 'from $1,000' off-peak fare (the TK route page and Travelocity show about $1,000–1,041 for undated searches). A Dec 26 departure, plus a multi-city ticket with a 5-day IST stopover, plus a fare class eligible for the free stopover hotel usually prices higher in the holiday window.",
+      "fix": "Use the research range: about $1,400 mid, $1,250–1,800 range. Before booking anything else, price the exact multi-city ticket (LAX–IST Dec 26 / IST–NBO Jan 1 / NBO–IST–LAX on the final return date) on turkishairlines.com and confirm the fare class qualifies for the stopover hotel. Also price Qatar and KLM for the same dates as a fallback."
+    },
+    {
+      "severity": "medium",
+      "issue": "The stopover rules need care. The free TK Stopover hotel needs a layover of at least 20h and at most 7 days. US-origin economy gets 2 nights at a 4-star hotel (confirmed by Wego/TravelPulse 2026). You must apply after ticketing and at least 72h before travel, and the hotel is assigned, often away from Sultanahmet. The plan has guests changing hotels on Dec 29, which costs half a day.",
+      "fix": "Keep it, but note the 7-day limit if Istanbul time is extended. Consider booking the boutique hotel for all 5 nights (about +$100 pp) to avoid the move and the remote hotel. Or ask for the stopover hotel on the return leg instead, if returning via a 20h+ IST stop in January."
+    },
+    {
+      "severity": "low",
+      "issue": "The Nanyuki → Mara flight timing is tight. Safarilink's Nanyuki–Mara flight (flight 31) leaves Nanyuki at about 09:50, about 35 min to Musiara, and the Naboisho or Ol Kinyei airstrip may be an extra stop. Day 10's 'early drive, then transfer to Nanyuki airstrip' needs leaving Sweetwaters by about 08:45. The Safarilink fare figure ($376–409) is from the research and was not checked again.",
+      "fix": "State the 09:50 departure. Turn the morning into a short 06:30–08:00 drive or an en-route drive to the airstrip. Confirm which airstrip serves the chosen Mara camp, and that it is a scheduled stop that day."
+    },
+    {
+      "severity": "low",
+      "issue": "Tips and transfers are a little low. Tips: $130 pp for 5 safari days plus Istanbul and Nairobi. The research gives $20–30 pp per safari day, plus transfer drivers, hammam at 10–15% and restaurants at 10%. Transfers: $55 pp for Serena → airstrip, Wilson → hotel, a sightseeing car and hotel → JKIA (about $130–180 per car in total).",
+      "fix": "Budget tips at about $170 pp and local transfers at about $80 pp, unless the Jan 8 car is moved to its own line."
+    },
+    {
+      "severity": "low",
+      "issue": "Drinks and extras at Sweetwaters Serena are not budgeted. Serena is full board only, so drinks, laundry and the chimp-sanctuary donation are extra. The 'Meals not included' line ($50) is also thin for 2 days of Nairobi meals plus airport meals.",
+      "fix": "Add about $40 pp for Serena drinks and sundries, and raise unincluded meals to about $80 pp."
+    },
+    {
+      "severity": "low",
+      "issue": "Flight number and wording slips. Day 15 says 'TK9 or TK10' to LAX, but TK10 is LAX→IST and TK9 is IST→LAX. Day 9 mentions 'unverified 2026 reports about Fatu', an unconfirmed rumour about a named northern white rhino.",
+      "fix": "Use TK9 for the IST→LAX leg. Replace the Fatu line with 'check Ol Pejeta's site for the current status of the northern white rhinos before booking the Morani visit'."
+    },
+    {
+      "severity": "low",
+      "issue": "Ol Pejeta's location is handled well. The plan correctly says Ol Pejeta is in Laikipia, not the Masai Mara, and uses a flight instead of the 7–8h road trip. The dates also check out: Dec 26, 2026 is a Saturday, Jan 1, 2027 a Friday and Jan 9 a Saturday. The LAX–IST overnight lands Sunday evening, and IST–NBO is a same-time-zone overnight.",
+      "fix": "No change needed. When the return is extended to Jan 14–16, recheck that each night is covered exactly once (night count = return date minus Dec 27 arrival, less the in-flight nights)."
+    }
+  ]
+}
