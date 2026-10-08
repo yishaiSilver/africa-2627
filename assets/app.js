@@ -41,7 +41,7 @@
   }
 
   // ---------- feedback store ----------
-  var store = { notes: {}, reacts: {}, general: '', alts: {} };
+  var store = { notes: {}, reacts: {}, general: '', altsById: {} };
   try {
     var raw = localStorage.getItem(STORE_KEY);
     if (raw) store = Object.assign(store, JSON.parse(raw));
@@ -109,11 +109,14 @@
   }
 
   // ---------- renderers ----------
+  // option state is keyed by each alternative's stable id (not its array index)
   var plan, altState = {}, optLayers = {};
+  function altId(a, i) { return a.id || 'alt-' + i; }
+  function altById(id) { return (plan.alternatives || []).filter(function (a, i) { return altId(a, i) === id; })[0]; }
   function syncOptionLayers() {
-    Object.keys(optLayers).forEach(function (i) {
-      var on = !!altState[i];
-      optLayers[i].forEach(function (lay) {
+    Object.keys(optLayers).forEach(function (id) {
+      var on = !!altState[id];
+      optLayers[id].forEach(function (lay) {
         if (lay.setStyle) lay.setStyle({ opacity: on ? 1 : .55, color: on ? '#b5542a' : '#8a7f73' });
         var elx = lay.getElement && lay.getElement();
         if (elx) elx.classList.toggle('opt-on', on);
@@ -158,8 +161,8 @@
           (day.overnight ? '🛏 <b>' + mdInline(day.overnight) + '</b>' : '') +
           (day.meals ? ' &nbsp;·&nbsp; 🍽 ' + esc(day.meals) : '') +
         '</div>';
-      (plan.legs || []).filter(function (l) { return l.date === day.date && l.choice; }).forEach(function (l) {
-        card.insertAdjacentHTML('beforeend', choiceHTML(l));
+      (choiceLegsByDate()[day.date] || []).forEach(function (l) {
+        card.insertAdjacentHTML('beforeend', '<div class="choice-slot" data-leg="' + (plan.legs || []).indexOf(l) + '">' + choiceHTML(l) + '</div>');
       });
       card.appendChild(feedbackTools('day:' + day.date, fmtDate(day.date) + ' — ' + day.title));
       li.appendChild(card);
@@ -195,7 +198,7 @@
 
   function altDelta() {
     return (plan.alternatives || []).reduce(function (sum, a, i) {
-      return sum + (altState[i] ? (a.cost_delta_per_person_usd || 0) : 0);
+      return sum + (altState[altId(a, i)] ? (a.cost_delta_per_person_usd || 0) : 0);
     }, 0);
   }
 
@@ -242,21 +245,21 @@
 
   function renderAlternatives() {
     var list = $('#alt-list');
-    altState = store.alts || {};
+    altState = store.altsById || {};
     (plan.alternatives || []).forEach(function (a, i) {
+      var id = altId(a, i);
       var d = a.cost_delta_per_person_usd || 0;
       var lab = el('label', { class: 'alt' });
       lab.innerHTML =
-        '<input type="checkbox"' + (altState[i] ? ' checked' : '') + '>' +
+        '<input type="checkbox"' + (altState[id] ? ' checked' : '') + '>' +
         '<div><b>' + esc(a.name) + '</b><p>' + mdInline(a.description) + '</p></div>' +
         '<span class="delta ' + (d > 0 ? 'up' : 'down') + '">' + (d > 0 ? '+' : d < 0 ? '−' : '±') + usd(Math.abs(d)) + ' pp</span>';
       lab.querySelector('input').addEventListener('change', function (e) {
-        altState[i] = e.target.checked; store.alts = altState;
-        store.labels = store.labels || {}; store.labels['alt:' + i] = a.name;
-        save(); renderBudgetSummary(); syncOptionLayers();
+        altState[id] = e.target.checked; store.altsById = altState;
+        save(); renderBudgetSummary(); syncOptionLayers(); refreshChoices();
       });
-      if (!a.days) { list.appendChild(lab); return; }
-      var wrap = el('div', { class: 'alt-wrap', id: 'opt-' + (a.id || i) });
+      if (!a.days) { lab.id = 'opt-' + id; list.appendChild(lab); return; }
+      var wrap = el('div', { class: 'alt-wrap', id: 'opt-' + id });
       wrap.appendChild(lab);
       var det = el('details', { class: 'alt-days' });
       det.innerHTML = '<summary>Days, travel times &amp; costs</summary>' +
@@ -318,8 +321,8 @@
       return line;
     });
     if (items.length) out.push('## Notes\n' + items.join('\n'));
-    var alts = Object.keys(store.alts || {}).filter(function (k) { return store.alts[k]; })
-      .map(function (k) { return '- ' + ((plan.alternatives || [])[k] || {}).name; });
+    var alts = Object.keys(store.altsById || {}).filter(function (k) { return store.altsById[k] && altById(k); })
+      .map(function (k) { return '- ' + altById(k).name; });
     if (alts.length) out.push('## Options I\'m interested in\n' + alts.join('\n'));
     return out.join('\n\n');
   }
@@ -350,7 +353,7 @@
     });
     $('#fb-clear').addEventListener('click', function () {
       if (!confirm('Clear all your notes on this device?')) return;
-      store = { notes: {}, reacts: {}, general: '', alts: {} };
+      store = { notes: {}, reacts: {}, general: '', altsById: {} };
       save(); location.reload();
     });
   }
@@ -495,7 +498,7 @@
               .setLatLng(mid).setContent('option ' + (flight ? '✈ ' : '🚙 ') + l.duration).addTo(map));
           }
         });
-        optLayers[ai] = grp;
+        optLayers[altId(alt, ai)] = grp;
       });
       syncOptionLayers();
 
@@ -762,25 +765,51 @@
   }
 
   // ---------- drive vs fly side-by-side ----------
+  var _choiceMap = null;
+  function choiceLegsByDate() {
+    if (!_choiceMap) {
+      _choiceMap = {};
+      (plan.legs || []).forEach(function (l) { if (l.choice) (_choiceMap[l.date] = _choiceMap[l.date] || []).push(l); });
+    }
+    return _choiceMap;
+  }
+  function signedUsd(n) {
+    if (n == null) return '—';
+    if (n === 0) return 'included';
+    return (n > 0 ? '+' : '−') + usd(Math.abs(n)) + ' pp';
+  }
+  // Each card's "other" cost is that leg's net change; ticking the linked option (choice.alt_id) swaps which side is in the plan.
   function choiceHTML(l) {
     var c = l.choice; if (!c) return '';
-    var col = function (o, chosen) {
-      var cost = o.cost_pp == null ? '—' : o.cost_pp === 0 ? 'included' : '+' + usd(o.cost_pp) + ' pp';
+    var switched = !!(c.alt_id && altState[c.alt_id]);
+    var alt = c.alt_id && altById(c.alt_id);
+    var col = function (o, chosen, delta) {
       return '<div class="choice-col' + (chosen ? ' chosen' : '') + '">' +
         '<div class="choice-tag">' + (chosen ? '✓ In plan' : 'Alternative') + '</div>' +
-        '<div class="choice-h">' + (o.mode === 'flight' ? '✈ ' : '🚙 ') + esc(o.label) + '</div>' +
-        '<div class="choice-n"><span>' + esc(o.door_to_door) + '</span><span>' + esc(cost) + '</span></div>' +
+        '<div class="choice-h">' + ({ flight: '✈ ', train: '🚆 ' }[o.mode] || '🚙 ') + esc(o.label) + '</div>' +
+        '<div class="choice-n"><span>' + esc(o.door_to_door) + '</span><span>' + esc(signedUsd(delta)) + '</span></div>' +
         '<div class="choice-note">' + mdInline(o.note || '') + '</div></div>';
     };
+    var d = c.other.cost_pp;
     var pl = plan.places || {};
+    var a = switched ? col(c.chosen, false, d == null ? null : -d) : col(c.chosen, true, 0);
+    var b = switched ? col(c.other, true, 0) : col(c.other, false, d);
     return '<div class="choice"><div class="choice-title">' + esc(fmtDate(l.date)) + ': ' + esc((pl[l.from] || {}).name || l.from) + ' → ' + esc((pl[l.to] || {}).name || l.to) + '</div>' +
-      '<div class="choice-grid">' + col(c.chosen, true) + col(c.other, false) + '</div></div>';
+      '<div class="choice-grid">' + a + b + '</div>' +
+      (alt ? '<div class="choice-link"><a href="#opt-' + esc(c.alt_id) + '">Option: ' + esc(alt.name) + ' (' + esc(signedUsd(alt.cost_delta_per_person_usd)) + ' total)</a></div>' : '') +
+      '</div>';
   }
   function renderChoices() {
     var box = $('#choices'); if (!box) return;
     var legs = (plan.legs || []).filter(function (l) { return l.choice; });
     if (!legs.length) { box.hidden = true; return; }
     box.querySelector('.choices-list').innerHTML = legs.map(choiceHTML).join('');
+  }
+  function refreshChoices() {
+    renderChoices();
+    document.querySelectorAll('.choice-slot').forEach(function (slot) {
+      slot.innerHTML = choiceHTML((plan.legs || [])[+slot.getAttribute('data-leg')]);
+    });
   }
 
   fetch('data/plan.json', { cache: 'no-cache' })
@@ -789,7 +818,7 @@
       plan = data;
       renderHero(); renderProse(); renderPlaces(); renderRoute(); renderChoices(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
       renderAlternatives(); renderBudgetSummary(); renderBudgetTable();
-      renderBooking(); renderQuestions(); addSectionTools(); wireFeedback(); refreshFeedback();
+      refreshChoices(); renderBooking(); renderQuestions(); addSectionTools(); wireFeedback(); refreshFeedback();
       if (location.hash) { var t = document.querySelector(location.hash); if (t) t.scrollIntoView(); }
     })
     .catch(function (e) {

@@ -278,6 +278,5 @@ main section { padding: 40px 0 8px; }
 .choice-n { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; font-variant-numeric: tabular-nums; font-weight: 600; color: var(--accent); }
 .choice-col.chosen .choice-n { color: var(--green); }
 .choice-note { color: var(--muted); font-size: .8rem; margin-top: 2px; }
-.day-card .choice { grid-column: 2; }
-.day-card:not(.with-photo) .choice { grid-column: auto; }
-@media (max-width: 420px) { .choice-grid { grid-template-columns: 1fr 1fr; gap: 6px; } .choice-col { padding: 6px 8px; } }
+.choice-link { font-size: .8rem; margin-top: 4px; }
+@media (max-width: 520px) { .choice-grid { grid-template-columns: 1fr; gap: 6px; } .choice-col { padding: 6px 8px; } }
