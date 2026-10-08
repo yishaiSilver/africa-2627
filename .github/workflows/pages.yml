@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Validate plan data
-        run: python3 scripts/check_plan.py data/plan.json
+        run: python3 scripts/check_plan.py
       - name: Stage site
         run: |
           mkdir -p _site

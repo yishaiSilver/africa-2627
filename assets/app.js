@@ -1,9 +1,11 @@
 (function () {
   'use strict';
 
-  var REPO = 'yishaiSilver/africa-2627';
-  var STORE_KEY = 'africa2627-feedback-v1';
-  var TARGET_LOW = 5000, TARGET_HIGH = 6000;
+  // Set from data/trips.json + the selected trip's "config" block (see boot at the bottom).
+  var MANIFEST = null, TRIP = null;
+  var REPO = '', STORE_KEY = '';
+  var TARGET_LOW = null, TARGET_HIGH = null;
+  var LEGACY_STORE_KEY = 'africa2627-feedback-v1';
 
   // ---------- helpers ----------
   function $(sel, root) { return (root || document).querySelector(sel); }
@@ -41,11 +43,15 @@
   }
 
   // ---------- feedback store ----------
+  // One store per trip, so notes and ticked options never leak between trips.
   var store = { notes: {}, reacts: {}, general: '', altsById: {} };
-  try {
-    var raw = localStorage.getItem(STORE_KEY);
-    if (raw) store = Object.assign(store, JSON.parse(raw));
-  } catch (e) { /* storage unavailable */ }
+  function initStore(isDefault) {
+    try {
+      var raw = localStorage.getItem(STORE_KEY);
+      if (!raw && isDefault) raw = localStorage.getItem(LEGACY_STORE_KEY);
+      if (raw) store = Object.assign(store, JSON.parse(raw));
+    } catch (e) { /* storage unavailable */ }
+  }
   function save() {
     try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* ignore */ }
     refreshFeedback();
@@ -100,13 +106,32 @@
   }
 
   // ---------- location colors ----------
-  function locStyle(loc) {
-    var l = (loc || '').toLowerCase();
-    if (/istanbul|turkey/.test(l)) return ['var(--blue)', 'var(--blue-soft)'];
-    if (/mara|pejeta|laikipia|amboseli|samburu|conserv|safari/.test(l)) return ['var(--green)', 'var(--green-soft)'];
-    if (/flight|air|transit|lax|los angeles/.test(l)) return ['var(--muted)', 'var(--line)'];
+  // Colors come from each place's "kind" (home | abroad | city | transit | nature), not its name.
+  function kindOf(code) { return ((plan.places || {})[code] || {}).kind || 'city'; }
+  function locStyle(date) {
+    var k = kindOf(placeForDate(date));
+    if (k === 'abroad') return ['var(--blue)', 'var(--blue-soft)'];
+    if (k === 'nature') return ['var(--green)', 'var(--green-soft)'];
+    if (k === 'home' || k === 'transit') return ['var(--muted)', 'var(--line)'];
     return ['var(--accent)', 'var(--accent-soft)'];
   }
+  function tripDates(p) {
+    var d = (p || plan).dates || {};
+    return { depart: d.depart || d.depart_lax, ret: d['return'] || d.return_lax };
+  }
+  function cfg(p) { return (p || plan).config || {}; }
+  // nights per country, from stays + places[].country
+  function nightsByCountry(p) {
+    var out = {}, order = [];
+    ((p || plan).stays || []).forEach(function (s) {
+      var c = (((p || plan).places || {})[s.place] || {}).country || '?';
+      if (!(c in out)) { out[c] = 0; order.push(c); }
+      out[c] += s.nights;
+    });
+    return order.map(function (c) { return [c, out[c]]; });
+  }
+  function kfmt(n) { return '$' + (Math.round(n / 100) / 10).toString().replace(/\.0$/, '') + 'k'; }
+  function targetLabel() { return TARGET_LOW == null ? '' : kfmt(TARGET_LOW).replace(/k$/, '') + '–' + kfmt(TARGET_HIGH).slice(1); }
 
   // ---------- renderers ----------
   // option state is keyed by each alternative's stable id (not its array index)
@@ -126,18 +151,15 @@
 
   function renderHero() {
     document.title = plan.title || document.title;
-    $('#title').textContent = plan.title || 'Kenya & Istanbul';
-    var d = plan.dates || {};
-    $('#dates').textContent = fmtDate(d.depart_lax, { weekday: 'short', month: 'long', day: 'numeric', year: 'numeric' }) +
-      '  →  ' + fmtDate(d.return_lax, { weekday: 'short', month: 'long', day: 'numeric', year: 'numeric' });
+    $('#title').textContent = plan.title || 'Trip';
+    var d = tripDates();
+    var long = { weekday: 'short', month: 'long', day: 'numeric', year: 'numeric' };
+    $('#dates').textContent = fmtDate(d.depart, long) + '  →  ' + fmtDate(d.ret, long);
     var days = (plan.itinerary || []).length;
-    var stats = [
-      [days, 'days door to door'],
-      [d.nights_kenya != null ? d.nights_kenya : '—', 'nights in Kenya'],
-      d.nights_istanbul ? [d.nights_istanbul, 'nights in Istanbul'] : null,
-      [usd(plan.budget_total_per_person_usd), 'planned per person'],
-      ['$5–6k', 'target per person']
-    ];
+    var stats = [[days, 'days door to door']]
+      .concat(nightsByCountry().filter(function (c) { return c[1] > 0; }).map(function (c) { return [c[1], 'nights in ' + c[0]]; }))
+      .concat([[usd(plan.budget_total_per_person_usd), 'planned per person'],
+               TARGET_LOW != null ? [targetLabel(), 'target per person'] : null]);
     $('#stats').innerHTML = stats.filter(Boolean).map(function (s) {
       return '<div class="stat"><b>' + esc(s[0]) + '</b><span>' + esc(s[1]) + '</span></div>';
     }).join('');
@@ -146,7 +168,7 @@
   function renderItinerary() {
     var list = $('#itinerary-list');
     (plan.itinerary || []).forEach(function (day, i) {
-      var c = locStyle(day.location);
+      var c = locStyle(day.date);
       var li = el('li', { class: 'day', id: 'day-' + (i + 1) });
       li.style.setProperty('--loc', c[0]); li.style.setProperty('--loc-soft', c[1]);
       var card = el('div', { class: 'day-card' });
@@ -211,7 +233,8 @@
     var total = base + delta;
     var scaleMax = Math.max(7000, high, total) * 1.02;
     var pct = function (v) { return Math.min(100, (v / scaleMax) * 100); };
-    var status = total < TARGET_LOW ? 'under target' : total <= TARGET_HIGH ? 'within target' : 'over target';
+    var hasTarget = TARGET_LOW != null;
+    var status = !hasTarget ? 'planned' : total < TARGET_LOW ? 'under target' : total <= TARGET_HIGH ? 'within target' : 'over target';
     var maxCat = Math.max.apply(null, groups.map(function (g) { return g.total; }).concat([1]));
 
     $('#budget-summary').innerHTML =
@@ -219,11 +242,11 @@
         (delta ? ' <span class="hint">(base ' + usd(base) + (delta > 0 ? ' + ' : ' − ') + usd(Math.abs(delta)) + ' in selected options)</span>' : '') +
         ' · about <b style="font-size:1.1rem">' + usd(total * 2) + '</b> for two' +
       '</div>' +
-      '<div><div class="meter" role="img" aria-label="Planned total ' + usd(total) + ' against the $5,000 to $6,000 target">' +
+      '<div><div class="meter" role="img" aria-label="Planned total ' + usd(total) + (hasTarget ? ' against the ' + usd(TARGET_LOW) + ' to ' + usd(TARGET_HIGH) + ' target' : '') + '">' +
         '<div class="meter-fill" style="width:' + pct(total) + '%"></div>' +
-        '<div class="meter-band" style="left:' + pct(TARGET_LOW) + '%;width:' + (pct(TARGET_HIGH) - pct(TARGET_LOW)) + '%" title="Target $5k–$6k"></div>' +
+        (hasTarget ? '<div class="meter-band" style="left:' + pct(TARGET_LOW) + '%;width:' + (pct(TARGET_HIGH) - pct(TARGET_LOW)) + '%" title="Target ' + targetLabel() + '"></div>' : '') +
       '</div>' +
-      '<div class="meter-labels"><span>$0</span><span>Target band $5k–$6k (dashed) · realistic range ' + usd(low) + '–' + usd(high) + '</span><span>' + usd(scaleMax) + '</span></div></div>' +
+      '<div class="meter-labels"><span>$0</span><span>' + (hasTarget ? 'Target band ' + targetLabel() + ' (dashed) · ' : '') + 'realistic range ' + usd(low) + '–' + usd(high) + '</span><span>' + usd(scaleMax) + '</span></div></div>' +
       '<div class="cat-bars">' + groups.map(function (g) {
         return '<div class="cat-bar"><span>' + esc(g.name) + '</span><div class="bar" style="width:' + Math.max(2, g.total / maxCat * 100) + '%"></div><span class="num">' + usd(g.total) + '</span></div>';
       }).join('') + '</div>';
@@ -341,7 +364,7 @@
     $('#fb-issue').addEventListener('click', function () {
       var body = feedbackText() || '(no notes)';
       var url = 'https://github.com/' + REPO + '/issues/new?labels=feedback&title=' +
-        encodeURIComponent('Trip feedback') + '&body=' + encodeURIComponent(body.slice(0, 6000));
+        encodeURIComponent('Trip feedback: ' + (TRIP ? TRIP.label : plan.title)) + '&body=' + encodeURIComponent(body.slice(0, 6000));
       window.open(url, '_blank', 'noopener');
       $('#fb-status').textContent = body.length > 6000 ? 'Long feedback was truncated in the link — use "Copy as text" and paste the rest.' : 'Opened GitHub — review and press "Submit new issue".';
     });
@@ -389,15 +412,18 @@
     if (lo === hi) return '~' + hi;
     return '~' + (/h$/.test(lo) && /h$/.test(hi) ? lo.replace(/h$/, '') : lo) + '–' + hi;
   }
-  var CITY = { NBO: 1, KAR: 1, WIL: 1, JKH: 1, LAX: 1 };
-  function isKenya(code) {
-    var p = (plan.places || {})[code];
-    return p && p.lat > -5 && p.lat < 5 && p.lng > 33 && p.lng < 42;
+  // "Region" = places in config.region.country (e.g. the safari country); used for the zoomed map view.
+  function inRegion(code) {
+    var p = (plan.places || {})[code], r = cfg().region;
+    if (!p) return false;
+    if (r && r.country) return p.country === r.country;
+    return p.kind !== 'home' && p.kind !== 'abroad';
   }
   function stayClass(code) {
-    if (code === 'IST') return 'stay-ist';
-    if (CITY[code]) return 'stay-city';
-    return 'stay-k';
+    var k = kindOf(code);
+    if (k === 'abroad') return 'stay-ist';
+    if (k === 'nature') return 'stay-k';
+    return 'stay-city';
   }
 
   function arc(a, b) {
@@ -447,7 +473,7 @@
       order.forEach(function (code) {
         var p = places[code]; if (!p) return;
         var n = stops.indexOf(code);
-        var kenya = isKenya(code) && !CITY[code];
+        var kenya = kindOf(code) === 'nature';
         var icon = n >= 0
           ? L.divIcon({ className: '', html: '<div class="stop-pin' + (kenya ? ' k' : '') + '">' + (n + 1) + '</div>', iconSize: [24, 24], iconAnchor: [12, 12] })
           : L.divIcon({ className: '', html: '<div class="via-dot"></div>', iconSize: [10, 10], iconAnchor: [5, 5] });
@@ -503,8 +529,11 @@
       syncOptionLayers();
 
       var allB = L.featureGroup(legLayers).getBounds();
-      var keB = L.latLngBounds(Object.keys(places).filter(isKenya).map(function (c) { return [places[c].lat, places[c].lng]; }));
-      var views = { all: function () { map.fitBounds(allB, { padding: [30, 30] }); }, kenya: function () { map.fitBounds(keB, { padding: [50, 50] }); } };
+      var regionCodes = Object.keys(places).filter(inRegion);
+      var keB = regionCodes.length ? L.latLngBounds(regionCodes.map(function (c) { return [places[c].lat, places[c].lng]; })) : allB;
+      var views = { all: function () { map.fitBounds(allB, { padding: [30, 30] }); }, region: function () { map.fitBounds(keB, { padding: [50, 50] }); } };
+      var rb = $('.map-tools [data-view=region]');
+      if (rb) { rb.textContent = (cfg().region && cfg().region.label) || 'Zoom in'; rb.hidden = !regionCodes.length; }
       views.all();
       var syncZoom = function () { $('#map').classList.toggle('zoomed-out', map.getZoom() < 6); };
       map.on('zoomend', syncZoom); syncZoom();
@@ -554,7 +583,7 @@
 
   function renderTripTimeline() {
     var box = $('#trip-timeline'); if (!box) return;
-    var start = plan.dates.depart_lax, end = plan.dates.return_lax;
+    var td = tripDates(), start = td.depart, end = td.ret;
     var days = []; for (var d = start; d <= end; d = addDays(d, 1)) days.push(d);
     var col = function (iso) { return days.indexOf(iso) + 1; };
     box.style.setProperty('--cols', days.length);
@@ -687,7 +716,7 @@
     var seen = {};
     (plan.stays || []).forEach(function (st) {
       var ph = (plan.photos || {})[st.place];
-      if (!ph || seen[st.place] || st.place === 'JKH') { if (seen[st.place]) seen[st.place].nights += st.nights; return; }
+      if (!ph || seen[st.place] || kindOf(st.place) === 'transit') { if (seen[st.place]) seen[st.place].nights += st.nights; return; }
       var rec = seen[st.place] = { nights: st.nights };
       var card = el('article', { class: 'place-card' });
       var thumbs = ph.wiki.slice(1, 4).map(function () { return '<div class="ph ph-sm"><img loading="lazy" alt=""></div>'; }).join('');
@@ -828,16 +857,160 @@
     });
   }
 
-  fetch('data/plan.json', { cache: 'no-cache' })
-    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(function (data) {
+  // ---------- trips: tabs + side-by-side compare ----------
+  function getJSON(url) {
+    return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(url + ': ' + r.status); return r.json(); });
+  }
+  function tripUrl(id) { return '?trip=' + encodeURIComponent(id); }
+  function renderTabs(activeId) {
+    var bar = $('#trip-tabs'); if (!bar || !MANIFEST) return;
+    var links = MANIFEST.trips.map(function (t) {
+      return '<a role="tab" href="' + tripUrl(t.id) + '"' + (t.id === activeId ? ' class="on" aria-selected="true"' : '') + ' title="' + esc(t.summary || '') + '">' + esc(t.label) + '</a>';
+    });
+    if (MANIFEST.trips.length > 1) links.push('<a role="tab" href="?view=compare" class="tab-compare' + (activeId === 'compare' ? ' on' : '') + '">⇆ Compare</a>');
+    bar.querySelector('.tabs').innerHTML = links.join('');
+  }
+
+  // Numbers that can be lined up across trips. Everything is derived from the trip file.
+  function tripMetrics(p) {
+    var places = p.places || {}, legs = p.legs || [], td = tripDates(p);
+    var perDay = {}, fl = [0, 0], rd = [0, 0];
+    legs.forEach(function (l) {
+      var h = hoursOf(l.duration);
+      var acc = l.mode === 'flight' ? fl : rd;
+      acc[0] += h[0]; acc[1] += h[1];
+      var d = perDay[l.date] = perDay[l.date] || { road: [0, 0] };
+      if (l.mode !== 'flight') { d.road[0] += h[0]; d.road[1] += h[1]; }
+    });
+    var days = (p.itinerary || []).map(function (d) { return d.date; });
+    var longest = Object.keys(perDay).reduce(function (m, k) { return perDay[k].road[1] > m[1] ? perDay[k].road : m; }, [0, 0]);
+    var stops = [], seen = {};
+    (p.stays || []).forEach(function (s) {
+      var k = (places[s.place] || {}).kind;
+      if (k === 'transit') return;
+      var name = s.label || (places[s.place] || {}).name || s.place;
+      if (seen[s.place]) { seen[s.place].n += s.nights; return; }
+      seen[s.place] = { name: name, n: s.nights, nature: k === 'nature' };
+      stops.push(seen[s.place]);
+    });
+    var cats = {};
+    (p.budget || []).forEach(function (b) { cats[b.category] = (cats[b.category] || 0) + (b.per_person_usd || 0); });
+    var bedNights = (p.stays || []).reduce(function (a, s) { return a + s.nights; }, 0);
+    return {
+      depart: td.depart, ret: td.ret, days: days.length,
+      nights: nightsByCountry(p), bedNights: bedNights, planeNights: Math.max(0, days.length - 1 - bedNights),
+      stops: stops, parks: stops.filter(function (s) { return s.nature; }).length,
+      total: p.budget_total_per_person_usd,
+      low: (p.budget || []).reduce(function (a, b) { return a + (b.low_usd || 0); }, 0),
+      high: (p.budget || []).reduce(function (a, b) { return a + (b.high_usd || 0); }, 0),
+      cats: cats, flying: fl, road: rd, longest: longest,
+      restDays: days.filter(function (d) { return !perDay[d]; }).length,
+      wildlife: (p.wildlife || []).length, options: (p.alternatives || []).length,
+      flightChoices: legs.filter(function (l) { return l.choice; }).length
+    };
+  }
+
+  function renderCompare() {
+    document.body.classList.add('compare-mode');
+    document.title = 'Compare trips';
+    $('#title').textContent = 'Compare trips';
+    $('#dates').textContent = 'Pick trips to line up side by side. Cheapest / easiest values are highlighted.';
+    var picked = {};
+    try { picked = JSON.parse(localStorage.getItem('trip-compare:' + REPO) || 'null') || {}; } catch (e) { /* ignore */ }
+    var all = MANIFEST.trips;
+    if (!Object.keys(picked).length) all.forEach(function (t) { picked[t.id] = true; });
+    var box = $('#compare');
+    box.hidden = false;
+    box.querySelector('.cmp-pick').innerHTML = all.map(function (t) {
+      return '<label class="chip-check"><input type="checkbox" value="' + esc(t.id) + '"' + (picked[t.id] ? ' checked' : '') + '> ' + esc(t.label) + '</label>';
+    }).join('');
+    Promise.all(all.map(function (t) { return getJSON(t.file).catch(function () { return null; }); })).then(function (trips) {
+      var byId = {};
+      trips.forEach(function (p, i) { if (p) byId[all[i].id] = { meta: all[i], plan: p, m: tripMetrics(p) }; });
+      var draw = function () {
+        var cols = all.filter(function (t) { return picked[t.id] && byId[t.id]; }).map(function (t) { return byId[t.id]; });
+        var tbl = box.querySelector('.cmp-table');
+        if (!cols.length) { tbl.innerHTML = '<p class="hint">Pick at least one trip.</p>'; return; }
+        var catNames = [];
+        cols.forEach(function (c) { Object.keys(c.m.cats).forEach(function (k) { if (catNames.indexOf(k) < 0) catNames.push(k); }); });
+        // best = lowest (or highest when hi=true) value across the shown columns
+        var best = function (vals, hi) {
+          var nums = vals.filter(function (v) { return typeof v === 'number'; });
+          if (nums.length < 2 || Math.min.apply(null, nums) === Math.max.apply(null, nums)) return null;
+          return hi ? Math.max.apply(null, nums) : Math.min.apply(null, nums);
+        };
+        var row = function (label, vals, fmt, opts) {
+          opts = opts || {};
+          var b = opts.noBest ? null : best(vals, opts.hi);
+          return '<tr' + (opts.cls ? ' class="' + opts.cls + '"' : '') + '><th scope="row">' + label + '</th>' + vals.map(function (v) {
+            return '<td' + (b != null && v === b ? ' class="best"' : '') + '>' + (v == null ? '—' : fmt ? fmt(v) : esc(v)) + '</td>';
+          }).join('') + '</tr>';
+        };
+        var short = { weekday: 'short', month: 'short', day: 'numeric' };
+        var html = '<table class="cmp"><thead><tr><th></th>' + cols.map(function (c) {
+          return '<th scope="col"><a href="' + tripUrl(c.meta.id) + '">' + esc(c.meta.label) + '</a><div class="cmp-sum">' + esc(c.meta.summary || '') + '</div></th>';
+        }).join('') + '</tr></thead><tbody>';
+        html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Shape</th></tr>';
+        html += row('Dates', cols.map(function (c) { return fmtDate(c.m.depart, short) + ' → ' + fmtDate(c.m.ret, short); }), null, { noBest: true });
+        html += row('Days door to door', cols.map(function (c) { return c.m.days; }), String, { noBest: true });
+        html += row('Nights by country', cols.map(function (c) { return c.m.nights.map(function (n) { return n[1] + ' ' + n[0]; }).join(' · '); }), null, { noBest: true });
+        html += row('Stops', cols.map(function (c) { return c.m.stops.map(function (s) { return (s.nature ? '🌿 ' : '') + s.name + ' ' + s.n + 'n'; }).join('<br>'); }), function (v) { return v; }, { noBest: true });
+        html += row('Wild places (🌿)', cols.map(function (c) { return c.m.parks; }), String, { hi: true });
+        html += row('Wildlife checklist', cols.map(function (c) { return c.m.wildlife || null; }), function (v) { return v + ' species'; }, { noBest: true });
+        html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Cost per person</th></tr>';
+        html += row('<b>Planned total</b>', cols.map(function (c) { return c.m.total; }), function (v) { return '<b>' + usd(v) + '</b>'; }, { cls: 'total' });
+        html += row('Realistic range', cols.map(function (c) { return usd(c.m.low) + '–' + usd(c.m.high); }), null, { noBest: true });
+        html += row('For two', cols.map(function (c) { return c.m.total * 2; }), usd);
+        catNames.forEach(function (k) {
+          html += row(esc(k), cols.map(function (c) { return k in c.m.cats ? c.m.cats[k] : null; }), usd, { cls: 'sub' });
+        });
+        html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Pace</th></tr>';
+        html += row('Flying', cols.map(function (c) { return c.m.flying[1]; }), function (v) { return '~' + Math.round(v) + 'h'; });
+        html += row('On the road', cols.map(function (c) { return c.m.road[1]; }), function (v) { return '~' + Math.round(v) + 'h'; });
+        html += row('Longest road day', cols.map(function (c) { return c.m.longest[1]; }), function (v) { return fmtRange([v, v]).replace('~', '≤'); });
+        html += row('No-travel days', cols.map(function (c) { return c.m.restDays; }), String, { hi: true });
+        html += row('Nights on planes', cols.map(function (c) { return c.m.planeNights; }), String);
+        html += row('Options to tweak', cols.map(function (c) { return c.m.options; }), String, { noBest: true });
+        html += '</tbody></table>';
+        tbl.innerHTML = html;
+      };
+      box.querySelectorAll('.cmp-pick input').forEach(function (inp) {
+        inp.addEventListener('change', function () {
+          picked[inp.value] = inp.checked;
+          try { localStorage.setItem('trip-compare:' + REPO, JSON.stringify(picked)); } catch (e) { /* ignore */ }
+          draw();
+        });
+      });
+      draw();
+    });
+  }
+
+  function renderTrip(meta) {
+    return getJSON(meta.file).then(function (data) {
       plan = data;
+      var c = cfg();
+      if (c.budget_target) { TARGET_LOW = c.budget_target.low; TARGET_HIGH = c.budget_target.high; }
+      STORE_KEY = 'trip-feedback:' + REPO + ':' + meta.id;
+      initStore(meta.id === MANIFEST['default']);
       renderHero(); renderProse(); renderPlaces(); renderWildlife(); renderRoute(); renderChoices(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
       renderAlternatives(); renderBudgetSummary(); renderBudgetTable();
       refreshChoices(); renderBooking(); renderQuestions(); addSectionTools(); wireFeedback(); refreshFeedback();
       if (location.hash) { var t = document.querySelector(location.hash); if (t) t.scrollIntoView(); }
+    });
+  }
+
+  getJSON('data/trips.json')
+    .then(function (m) {
+      MANIFEST = m;
+      REPO = m.repo || '';
+      var q = new URLSearchParams(location.search);
+      if (q.get('view') === 'compare') { renderTabs('compare'); return renderCompare(); }
+      var id = q.get('trip') || m['default'];
+      TRIP = m.trips.filter(function (t) { return t.id === id; })[0] || m.trips.filter(function (t) { return t.id === m['default']; })[0] || m.trips[0];
+      renderTabs(TRIP.id);
+      return renderTrip(TRIP);
     })
     .catch(function (e) {
-      $('#overview-body').innerHTML = '<p>Could not load <code>data/plan.json</code> (' + esc(e.message) + ').</p>';
+      $('#overview-body').innerHTML = '<p>Could not load trip data (' + esc(e.message) + ').</p>';
     });
 })();

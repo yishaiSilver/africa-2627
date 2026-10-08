@@ -1,0 +1,992 @@
+{
+  "title": "Kenya Road Loop + Istanbul Hostel (budget)",
+  "overview": "- **Dates:** LAX Sat Dec 26 → LAX Sat Jan 9. 14 nights: **10 Kenya**, 2 Istanbul (hostel), 2 on planes.\n- **Route (all road, one crew):** Nairobi 1n rest → Ol Pejeta 2n → Lake Nakuru 2n (NYE) → Mara conservancy 3n → Naivasha 1n → airport hotel 1n → Istanbul hostel 2n → home.\n- **Parks (4–5):** Ol Pejeta, Lake Nakuru, Mara conservancy, Lake Naivasha (+ optional Hell's Gate bike).\n- **Budget: ~$5,260 pp** (2 sharing, incl. flights + $250 contingency). Down from $6,574: no bush flights, one crew loop, 3 fewer days, hostel, budget Nairobi beds.\n- **Closer to $5k:** yellow fever already done (−$200 → ~$5,060), free TK hotel instead of hostel (−$50), dorm beds (−$20), skip paid Istanbul sights (−$30).\n- **Drive vs fly:** every leg with a flight option shows both side by side (Route section). Road chosen = cheaper.\n- **Fatigue:** max ~4.5–5h road/day, rest day before every long drive, 5 no-travel days + arrival rest day.\n- Ol Pejeta ≠ Mara: rhinos/chimps in Laikipia vs big cats on the plains.",
+  "dates": {
+    "depart": "2026-12-26",
+    "return": "2027-01-09"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-26",
+      "day_label": "Day 1 – Sat",
+      "location": "Los Angeles → in flight",
+      "title": "Fly toward Nairobi",
+      "details": "Christmas at home. TK10 LAX 19:45 → IST 19:00 next day (~13h). Sleep on Kenya time.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-27",
+      "day_label": "Day 2 – Sun",
+      "location": "Istanbul (airside) → in flight",
+      "title": "Connect at IST",
+      "details": "~1.5h airside connect (tight but legal). TK607 20:30 → NBO 03:05.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 3 – Mon",
+      "location": "Nairobi",
+      "title": "Land + rest day",
+      "details": "Land 03:05. Pre-booked taxi (~20m) to budget guesthouse near JKIA/Langata (room held from Dec 27). Sleep. Zero travel. Shop for snacks, SIM.",
+      "overnight": "Budget guesthouse, Nairobi",
+      "meals": "Own"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 4 – Tue",
+      "location": "Nairobi → Ol Pejeta",
+      "title": "Drive north to Ol Pejeta",
+      "details": "Crew pickup ~08:30. ~4h via Nanyuki, equator stop. Camp set at OPC campsite. PM: chimp sanctuary + sunset drive.",
+      "overnight": "Operator camp, OPC campsite",
+      "meals": "L, D camp"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 5 – Wed",
+      "location": "Ol Pejeta Conservancy",
+      "title": "Rhinos + Mt Kenya",
+      "details": "Zero travel. Dawn + late drives. Black/white rhino, lion, elephant, Grevy's zebra. Optional lion tracking (~$70; not budgeted).",
+      "overnight": "Operator camp, OPC campsite",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 6 – Thu",
+      "location": "Ol Pejeta → Lake Nakuru",
+      "title": "Road to Nakuru + NYE in camp",
+      "details": "4–5h via Nyahururu (Thomson's Falls stop). Camp inside Lake Nakuru NP. Quiet New Year's Eve by the fire.",
+      "overnight": "KWS campsite, Lake Nakuru NP",
+      "meals": "B, L packed, D"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 7 – Fri",
+      "location": "Lake Nakuru NP",
+      "title": "Nakuru day",
+      "details": "Zero travel. Dawn drive to Baboon Cliff. Rhino, Rothschild giraffe, flamingos/pelicans, maybe tree-climbing lions. Siesta.",
+      "overnight": "KWS campsite, Lake Nakuru NP",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 8 – Sat",
+      "location": "Lake Nakuru → Masai Mara",
+      "title": "Road to the Mara conservancy",
+      "details": "~4.5–5h via Mau Narok + Narok. Lunch stop Narok. Camp in Enonkishu (or Pardamat/Ol Chorro). Short dusk drive.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 9 – Sun",
+      "location": "Mara conservancy",
+      "title": "Full Mara day",
+      "details": "Zero travel. Dawn + late drives, off-road, few vehicles. Big cats, plains game, newborn topi. Siesta.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 10 – Mon",
+      "location": "Mara conservancy",
+      "title": "Maasai walk + last drives",
+      "details": "Zero travel. Morning walk with Maasai ranger. PM drive. Night drive if conservancy allows. Tip crew tomorrow.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 11 – Tue",
+      "location": "Mara → Lake Naivasha",
+      "title": "Road to Naivasha",
+      "details": "~4–4.5h via Narok + Mai Mahiu. Lakeshore camp by mid-afternoon. Hippos at dusk. Optional boat (~$20 pp).",
+      "overnight": "Lakeshore campsite, Naivasha",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 12 – Wed",
+      "location": "Naivasha → Nairobi (JKIA area)",
+      "title": "Hell's Gate option + Nairobi",
+      "details": "Optional early Hell's Gate bike (2–3h; +$55 pp, not budgeted). Then 2.5–3h to budget hotel near JKIA. Early night.",
+      "overnight": "Budget hotel near JKIA",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 13 – Thu",
+      "location": "Nairobi → Istanbul",
+      "title": "Early flight to Istanbul",
+      "details": "Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45 (~7h). Havaist bus + tram to hostel. Nap, easy evening.",
+      "overnight": "Hostel private room, Sultanahmet",
+      "meals": "In-flight; D own"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 14 – Fri",
+      "location": "Istanbul",
+      "title": "Cheap Istanbul day",
+      "details": "Zero travel. Blue Mosque (free), Hagia Sophia gallery (€25) or just exterior, Grand Bazaar, Spice Bazaar, ferry to Kadıköy (~$1). Street food.",
+      "overnight": "Hostel private room, Sultanahmet",
+      "meals": "B (hostel); L, D street food"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 15 – Sat",
+      "location": "Istanbul → Los Angeles",
+      "title": "Fly home",
+      "details": "Easy morning. Havaist to IST. TK9 ~14:30 → LAX ~18:15 same day (~13h45). Stay up till ~21:00 LA time.",
+      "overnight": "Home",
+      "meals": "In-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Budget guesthouse near JKIA / Langata",
+      "place": "KAR",
+      "location": "Nairobi",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Guesthouse",
+      "includes": "~$60/room/night; held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights).",
+      "why": "Cheap, safe, 15–20m from JKIA. Crew picks up here.",
+      "alternatives": "Karen B&B ~$120/room",
+      "url": "https://www.booking.com/city/ke/nairobi.html"
+    },
+    {
+      "name": "Operator camp at an OPC campsite",
+      "place": "OPC",
+      "location": "Ol Pejeta Conservancy, Laikipia",
+      "nights": 2,
+      "pppn_usd": 70,
+      "style": "Private serviced camping",
+      "includes": "OPC campsite $70 pppn (2026 tariff); entry separate",
+      "why": "Cheapest way to sleep inside OPC.",
+      "alternatives": "Sweetwaters Serena (~$240 pp FB)",
+      "url": "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf"
+    },
+    {
+      "name": "KWS public campsite inside Lake Nakuru NP",
+      "place": "NAK",
+      "location": "Lake Nakuru NP",
+      "nights": 2,
+      "pppn_usd": 30,
+      "style": "Serviced camping",
+      "includes": "KWS campsite $30 pppn; 2×24h park fee separate",
+      "why": "Wake up inside the park. NYE by the fire.",
+      "alternatives": "Flamingo Hill tented camp (~$150–185 pp FB)",
+      "url": "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025"
+    },
+    {
+      "name": "Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)",
+      "place": "MARA",
+      "location": "Northern Greater Mara",
+      "nights": 3,
+      "pppn_usd": 25,
+      "style": "Private serviced camping",
+      "includes": "Site/community fee ~$25 pppn est. Conservancy fee (~$80) separate.",
+      "why": "Conservancy: few vehicles, walks, off-road. Confirm mobile camping in writing.",
+      "alternatives": "Mara tented camps $400–860 pppn festive",
+      "url": "https://cheetahsafaris.com/national-park/enonkishu-conservancy"
+    },
+    {
+      "name": "Camp Carnelley's or Fisherman's Camp",
+      "place": "NAI",
+      "location": "Lake Naivasha, south shore",
+      "nights": 1,
+      "pppn_usd": 15,
+      "style": "Lakeshore campsite",
+      "includes": "Campsite fee; operator tents, cook, meals",
+      "why": "Splits Mara → Nairobi. 30m to Hell's Gate.",
+      "alternatives": "Banda same camp (~$40–60 pp)",
+      "url": "https://monkey.travel/en/usd/accommodation/naivasha-sopa/"
+    },
+    {
+      "name": "Budget hotel near JKIA (free shuttle)",
+      "place": "JKH",
+      "location": "Nairobi, Mombasa Rd",
+      "nights": 1,
+      "pppn_usd": 40,
+      "style": "Budget airport hotel",
+      "includes": "~$80/room B&B; 24h shuttle",
+      "why": "02:45 wake, 10–20m to JKIA. No 01:30 cross-city ride.",
+      "alternatives": "Ole Sereni ~$150/room",
+      "url": "https://www.booking.com/city/ke/nairobi.html"
+    },
+    {
+      "name": "Hostel private double, Sultanahmet (e.g. Cheers Hostel)",
+      "place": "IST",
+      "location": "Istanbul",
+      "nights": 2,
+      "pppn_usd": 25,
+      "style": "Hostel (private room)",
+      "includes": "~$47–55/room/night; breakfast often included. Dorm beds ~$15 pp if you want even cheaper.",
+      "why": "Walk to Hagia Sophia, Blue Mosque, bazaars. Rooftop views. Cheapest central option.",
+      "alternatives": "Free TK Stopover hotel if fare qualifies ($0, outside old city); Bunk Hostel Taksim/Karaköy",
+      "url": "https://www.hostelz.com/how-to-choose-a-hostel-in-istanbul-turkey"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "TK round trip LAX–IST–NBO, back via IST (2n stop)",
+      "per_person_usd": 1500,
+      "low_usd": 1350,
+      "high_usd": 1800,
+      "notes": "Planning figure; price now. EcoFly or cheaper; stopover legal on any fare."
+    },
+    {
+      "category": "Kenya domestic flights",
+      "item": "None (all road)",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 0,
+      "notes": "Fly options shown side by side in Route (+$60 / +$204 pp)."
+    },
+    {
+      "category": "Lodging",
+      "item": "Private camping crew 9 days Dec 29–Jan 6: vehicle, guide, cook, tents, meals, fuel",
+      "per_person_usd": 1460,
+      "low_usd": 1250,
+      "high_usd": 1850,
+      "notes": "5 festive days (Dec 29–Jan 2) × $170 + 4 × $152. Get 3 KATO quotes."
+    },
+    {
+      "category": "Lodging",
+      "item": "Ol Pejeta OPC campsite, 2n",
+      "per_person_usd": 140,
+      "low_usd": 140,
+      "high_usd": 150,
+      "notes": "$70 pppn"
+    },
+    {
+      "category": "Lodging",
+      "item": "Nakuru KWS campsite inside park, 2n",
+      "per_person_usd": 60,
+      "low_usd": 60,
+      "high_usd": 80,
+      "notes": "$30 public; $40 special"
+    },
+    {
+      "category": "Lodging",
+      "item": "Mara conservancy campsite/community fee, 3n",
+      "per_person_usd": 75,
+      "low_usd": 0,
+      "high_usd": 150,
+      "notes": "Est. ~$25 pppn"
+    },
+    {
+      "category": "Lodging",
+      "item": "Naivasha lakeshore campsite, 1n",
+      "per_person_usd": 15,
+      "low_usd": 15,
+      "high_usd": 60,
+      "notes": "High = banda"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Ol Pejeta entry, 2 × 24h",
+      "per_person_usd": 230,
+      "low_usd": 220,
+      "high_usd": 260,
+      "notes": "~$115/day non-resident"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Lake Nakuru NP, 2 × 24h",
+      "per_person_usd": 180,
+      "low_usd": 120,
+      "high_usd": 180,
+      "notes": "KWS new $90; $60 if old rate stands"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Mara conservancy fee, 3n",
+      "per_person_usd": 240,
+      "low_usd": 240,
+      "high_usd": 390,
+      "notes": "~$80 pppn Enonkishu; Pardamat higher"
+    },
+    {
+      "category": "Activities",
+      "item": "Mara Maasai walk / night drive",
+      "per_person_usd": 25,
+      "low_usd": 0,
+      "high_usd": 60,
+      "notes": "Often in conservancy fee"
+    },
+    {
+      "category": "Nairobi",
+      "item": "Guesthouse 2 room-nights (Dec 27 held + Dec 28)",
+      "per_person_usd": 60,
+      "low_usd": 50,
+      "high_usd": 120,
+      "notes": "~$60/room"
+    },
+    {
+      "category": "Nairobi",
+      "item": "Budget JKIA hotel 1n Jan 6",
+      "per_person_usd": 40,
+      "low_usd": 35,
+      "high_usd": 75,
+      "notes": "~$80/room, shuttle"
+    },
+    {
+      "category": "Istanbul",
+      "item": "Hostel private double, 2n Jan 7–8",
+      "per_person_usd": 50,
+      "low_usd": 30,
+      "high_usd": 70,
+      "notes": "~$50/room/night; dorm $15 pp; $0 if TK stopover hotel"
+    },
+    {
+      "category": "Istanbul",
+      "item": "Sights (Hagia Sophia gallery €25; mosques free)",
+      "per_person_usd": 30,
+      "low_usd": 0,
+      "high_usd": 60,
+      "notes": "Skip paid sights → $0"
+    },
+    {
+      "category": "Istanbul",
+      "item": "Food, 2 days street food/lokanta",
+      "per_person_usd": 60,
+      "low_usd": 40,
+      "high_usd": 90,
+      "notes": "~$25–35 pp/day"
+    },
+    {
+      "category": "Istanbul",
+      "item": "Havaist bus + tram, Istanbulkart",
+      "per_person_usd": 15,
+      "low_usd": 10,
+      "high_usd": 40,
+      "notes": "Taxi ~$30–50/car instead"
+    },
+    {
+      "category": "Transfers",
+      "item": "JKIA → guesthouse 03:30 taxi",
+      "per_person_usd": 10,
+      "low_usd": 8,
+      "high_usd": 20,
+      "notes": "~$15–20/car"
+    },
+    {
+      "category": "Visas/eTA",
+      "item": "Kenya eTA (Türkiye visa-free)",
+      "per_person_usd": 30,
+      "low_usd": 30,
+      "high_usd": 35,
+      "notes": "etas.gov.ke only"
+    },
+    {
+      "category": "Health",
+      "item": "Yellow fever vaccine",
+      "per_person_usd": 200,
+      "low_usd": 0,
+      "high_usd": 350,
+      "notes": "$0 if already vaccinated"
+    },
+    {
+      "category": "Health",
+      "item": "Malaria pills + clinic",
+      "per_person_usd": 80,
+      "low_usd": 40,
+      "high_usd": 200,
+      "notes": "Generic atovaquone-proguanil"
+    },
+    {
+      "category": "Travel insurance + evac",
+      "item": "Comprehensive, ≥$250k evac (15 days)",
+      "per_person_usd": 240,
+      "low_usd": 180,
+      "high_usd": 400,
+      "notes": "Shorter trip = cheaper"
+    },
+    {
+      "category": "Travel insurance + evac",
+      "item": "AMREF Maisha (Kenya air evac)",
+      "per_person_usd": 10,
+      "low_usd": 0,
+      "high_usd": 24,
+      "notes": ""
+    },
+    {
+      "category": "Tips",
+      "item": "Guide ~$11 + cook ~$5 pp/day × 9 days + misc",
+      "per_person_usd": 155,
+      "low_usd": 120,
+      "high_usd": 240,
+      "notes": "Small crisp USD"
+    },
+    {
+      "category": "Meals not included",
+      "item": "Nairobi + transit meals",
+      "per_person_usd": 50,
+      "low_usd": 30,
+      "high_usd": 90,
+      "notes": ""
+    },
+    {
+      "category": "Misc/souvenirs",
+      "item": "eSIM / Safaricom SIM",
+      "per_person_usd": 15,
+      "low_usd": 8,
+      "high_usd": 25,
+      "notes": ""
+    },
+    {
+      "category": "Misc/souvenirs",
+      "item": "Souvenirs, laundry, sundries",
+      "per_person_usd": 40,
+      "low_usd": 20,
+      "high_usd": 200,
+      "notes": ""
+    },
+    {
+      "category": "Contingency",
+      "item": "~5%: operator quotes, fares, KWS ruling, FX",
+      "per_person_usd": 250,
+      "low_usd": 200,
+      "high_usd": 450,
+      "notes": "Hold until quotes are signed"
+    }
+  ],
+  "budget_total_per_person_usd": 5260,
+  "alternatives": [
+    {
+      "name": "Already have yellow fever shot",
+      "description": "Skip the $200 vaccine. Bring your yellow card.",
+      "cost_delta_per_person_usd": -200,
+      "id": "yf-done"
+    },
+    {
+      "name": "Free TK Stopover hotel instead of hostel",
+      "description": "If your fare qualifies, TK gives free 4-star nights in Istanbul (request ≥72h ahead; hotel assigned, often outside the old city). Cheaper than the hostel.",
+      "cost_delta_per_person_usd": -50,
+      "id": "tk-hotel"
+    },
+    {
+      "name": "Fly Mara → Wilson instead of Naivasha",
+      "description": "~2.5h door to door vs 2 drive days. Lose the lake night. Flight $230 minus crew day + camp ~$170.",
+      "cost_delta_per_person_usd": 60,
+      "id": "fly-mara"
+    },
+    {
+      "name": "Fly Nairobi → Nanyuki for Ol Pejeta",
+      "description": "~2.5h door to door vs ~4h drive. Crew drives up empty anyway.",
+      "cost_delta_per_person_usd": 204,
+      "id": "fly-nanyuki"
+    },
+    {
+      "name": "Tented-camp comfort at Ol Pejeta + Nakuru",
+      "description": "Sweetwaters Serena 2n + Flamingo Hill 2n, full board; crew becomes vehicle + guide only.",
+      "cost_delta_per_person_usd": 600,
+      "id": "comfort"
+    },
+    {
+      "id": "kakamega",
+      "name": "Add Kakamega rainforest (+3 nights, via Kericho tea country)",
+      "cost_delta_per_person_usd": 800,
+      "place": "KAK",
+      "description": "Kenya's last Guineo-Congolian rainforest: colobus + De Brazza's monkeys, great blue turaco, 300+ birds. Inserted between Nakuru and the Mara; Kericho tea-estate night longest drive ~4–4.5h. Home Jan 12.",
+      "days": [
+        {
+          "date": "2027-01-02",
+          "title": "Nakuru → Kakamega Forest",
+          "details": "~4–4.5h via Kericho or Eldoret (rest day before). Rondo Retreat inside the forest, full board. Dusk walk."
+        },
+        {
+          "date": "2027-01-03",
+          "title": "Rainforest day",
+          "details": "Zero travel. Dawn bird walk with local guide (~Ksh300–500 pp). Colobus, De Brazza's, blue turaco. Lirhanda Hill sunrise."
+        },
+        {
+          "date": "2027-01-04",
+          "title": "Kakamega → Kericho",
+          "details": "~2.5–3h. Tea-estate stay + factory walk. Easy afternoon."
+        },
+        {
+          "date": "2027-01-05",
+          "title": "Kericho → Mara conservancy",
+          "details": "~3–3.5h via Bomet + Mulot. Mara 3n then continues as main plan (all dates +3)."
+        }
+      ],
+      "legs": [
+        {
+          "date": "2027-01-02",
+          "from": "NAK",
+          "to": "KAK",
+          "mode": "road",
+          "duration": "~4–4.5h",
+          "detail": "Via Kericho or Eldoret"
+        },
+        {
+          "date": "2027-01-04",
+          "from": "KAK",
+          "to": "KER",
+          "mode": "road",
+          "duration": "~2.5–3h",
+          "detail": "Via Kisumu"
+        },
+        {
+          "date": "2027-01-05",
+          "from": "KER",
+          "to": "MARA",
+          "mode": "road",
+          "duration": "~3–3.5h",
+          "detail": "Via Bomet + Mulot"
+        }
+      ],
+      "cost_notes": "+ Rondo Retreat FB 2n ~$260 pp · + Kericho tea hotel 1n ~$50 pp · + 3 crew days ~$455 · + forest fees ~$25–100 · + guides ~$10 · + tips/meals ~$40. ≈ +$800 pp (range +$700–1,000). Flights home move to Jan 9 → Jan 12 (rebook fee risk; book with these dates if you choose it)."
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 7–15)",
+      "task": "Price + book TK round trip (out Dec 26 TK10→TK607; back Jan 7 TK608, 2n IST, Jan 9 TK9). Send route to 3 KATO operators for an 8-day private camping quote."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Operator confirms in writing: Enonkishu (or Pardamat) mobile camping Jan 2–4, KWS Nakuru campsite Dec 31–Jan 1, OPC campsite Dec 29–30. Pay deposit."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book Nairobi guesthouse (Dec 27 + 28), JKIA hotel Jan 6 + 03:00 shuttle, Istanbul hostel private room Jan 7–8 (free cancellation)."
+    },
+    {
+      "when": "Mid–late Nov",
+      "task": "Travel clinic: yellow fever (≥10 days before) unless already done; malaria Rx. Buy insurance."
+    },
+    {
+      "when": "~Dec 1–5",
+      "task": "Kenya eTA on etas.gov.ke. eSIM. Small USD bills for tips."
+    },
+    {
+      "when": "Dec 20–24",
+      "task": "Reconfirm crew pickup Dec 29, taxi 03:30 Dec 28, KWS fee ruling, Mai Mahiu road status."
+    }
+  ],
+  "practical": "## Entry\n- Kenya eTA $30, **etas.gov.ke only**. Türkiye visa-free. Passport 6+ mo, 2 blank pages.\n\n## Flights\n- TK10 19:45→19:00+1. TK607 **20:30 → 03:05**. 1.5h connect: tight. Missed → next night; Ol Pejeta 1n shorter.\n- Return TK608 04:50 → IST 11:45; TK9 Jan 9.\n\n## Istanbul hostel\n- Book a **private double** in a hostel (~$50/room). Dorm beds ~$15 pp if you don't mind sharing.\n- Sultanahmet = walk to sights. Check reviews for heat (Jan is ~3–9°C) and lockers.\n- Havaist bus IST → Sultanahmet/Taksim ~$6, then tram.\n\n## Road reality\n- Longest days: Dec 31 (4–5h), Jan 2 (4.5–5h). Rest day before each.\n- All transfers in crew vehicle; no driving yourself, no night driving.\n\n## Fees\n- KWS Nakuru $90 new vs $60 old (court case). OPC + Mara conservancies not KWS. Cashless (card/M-Pesa).\n\n## Operator must confirm in writing\n- Mara conservancy mobile camping allowed + fee. Per-day rate incl. festive days. No hidden repositioning.\n\n## Health (CDC)\n- Yellow fever recommended outside Nairobi. Malaria pills from Dec 27 to 7 days after. DEET.\n\n## Camping\n- Walk-in tents, beds, bucket shower, toilet tent. Askari at night. Laikipia/Nakuru nights ~8–12°C: fleece.\n\n## Money/safety\n- ~130 KES/$. Crisp USD for tips. Kenya Level 2: Uber/Bolt, no night walks. Plastic bags banned.",
+  "open_questions": [
+    "Confirm the $5–6k budget is per person (assumed), not total for both.",
+    "Base ~$5,260 pp OK? Cuts to ~$5k: yellow fever already done (−$200), free TK hotel (−$50), dorms (−$20).",
+    "Hostel: private double (~$25 pp/night) or dorm beds (~$15 pp)?",
+    "Any leg where you'd rather fly (+$204–245 pp each) to cut driving?",
+    "Add Kakamega (+3 nights, ~+$800, home Jan 12)?",
+    "NYE camping in Lake Nakuru OK (quiet, no party)?"
+  ],
+  "sources": [
+    "https://uk.trip.com/flights/status-tk607",
+    "https://www.airpaz.com/en/flight/code/TK-607",
+    "https://info.flightmapper.net/flight/Turkish_Airlines_TK_10",
+    "https://www.flight.info/TK608",
+    "https://www.airpaz.com/en/flight/code/TK-9",
+    "https://www.turkishairlines.com/en-us/flights/stopover/",
+    "https://awardwallet.com/airlines/turkish-airlines-stopover/",
+    "https://africanspicesafaris.com/tour/kenya-local-flights-safari-link-air-ticket-prices/",
+    "https://africanspicesafaris.com/tour/kenya-local-flights-air-kenya-ticket-prices/",
+    "https://nz.trip.com/flights/nanyuki-to-masai-mara/airfares-nyk-mre",
+    "https://www.skyscanner.co.za/routes/uas/mrea/samburu-to-maasai-mara.html",
+    "https://monkey.travel/en/usd/tour/mara-north-conservancy-4-days/",
+    "https://masaimara.ke/safarilink-flights/",
+    "https://cheetahsafaris.com/national-park/enonkishu-conservancy",
+    "https://blog.biosphere-expeditions.org/2020/01/31/kenya-bring-your-wellies/",
+    "https://standardmedia.co.ke/article/2001398762/ride-to-paradise-made-easier-with-paved-mara-road",
+    "https://monkey.travel/en/usd/tour/olpejeta-nakuru-4-days/",
+    "https://safaribookings.com/day/t67935",
+    "https://monkey.travel/en/tour/samburu-olpejeta-7-days",
+    "https://www.kenyans.co.ke/news/115091-full-list-proposed-new-prices-nairobi-amboseli-tsavo-all-other-parks",
+    "https://www.kenyans.co.ke/news/116749-court-temporarily-stops-new-kws-park-entry-fees",
+    "https://capitalfm.africa/blow-to-kws-as-high-court-stops-park-fees-hike/",
+    "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-effective-october-1-2025",
+    "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf",
+    "https://samburureserve.org/entry-fees/",
+    "https://ajkenyasafaris.com/14-day-kenya-safari-itinerary/",
+    "https://www.imaraafricasafaris.com/african-travel-blog/kenya-safari-cost-2026",
+    "https://beyondkenyasafaris.com/flamingo-hill-camp/",
+    "https://monkey.travel/en/usd/accommodation/naivasha-sopa/",
+    "https://www.porini.com/wp-content/uploads/2026/07/Reduced-Rates-for-6-nights.pdf",
+    "https://www.kayak.com/Nairobi-Hotels-Four-Points-by-Sheraton-Nairobi-Airport.3500194.ksp",
+    "https://africanspicesafaris.com/tour/four-points-by-sheraton-nairobi-jkia-hotel/",
+    "https://www.africanmeccasafaris.com/travel-guide/kenya/accommodation/nairobi/southern/ole-sereni-hotel/room-rates",
+    "https://id.trip.com/flights/status-f2031/",
+    "https://atcnews.org/new-airstrip-makes-access-to-mara-conservancies-easier/",
+    "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html",
+    "https://www.frommers.com/destinations/kakamega-forest/planning-a-trip/",
+    "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025",
+    "https://www.expedia.com/lp/flights/kis/nbo/kisumu-to-nairobi",
+    "https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "IST": {
+      "name": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "kind": "abroad",
+      "country": "Türkiye"
+    },
+    "NBO": {
+      "name": "Nairobi (JKIA)",
+      "lat": -1.3192,
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "JKH": {
+      "name": "Airport-area hotel, Mombasa Rd",
+      "lat": -1.3245,
+      "lng": 36.89,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "KAR": {
+      "name": "Nairobi (guesthouse)",
+      "lat": -1.3197,
+      "lng": 36.7076,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "MARA": {
+      "name": "Enonkishu conservancy, Greater Mara",
+      "lat": -1.07,
+      "lng": 35.25,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "lat": -0.0236,
+      "lng": 36.9,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NAK": {
+      "name": "Lake Nakuru NP",
+      "lat": -0.36,
+      "lng": 36.09,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NAI": {
+      "name": "Lake Naivasha",
+      "lat": -0.77,
+      "lng": 36.36,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "KAK": {
+      "name": "Kakamega Forest (Rondo Retreat)",
+      "lat": 0.2406,
+      "lng": 34.8653,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "KIS": {
+      "name": "Kisumu Airport",
+      "lat": -0.0861,
+      "lng": 34.7289,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "KER": {
+      "name": "Kericho (tea estates)",
+      "lat": -0.3689,
+      "lng": 35.2863,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "WIL": {
+      "name": "Wilson Airport",
+      "lat": -1.3217,
+      "lng": 36.8148,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "NYK": {
+      "name": "Nanyuki airstrip",
+      "lat": -0.0624,
+      "lng": 37.041,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "NGE": {
+      "name": "Ngerende airstrip (Mara)",
+      "lat": -1.088,
+      "lng": 35.187,
+      "kind": "transit",
+      "country": "Kenya"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-26",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "TK10 19:45 → IST 19:00 next day"
+    },
+    {
+      "date": "2026-12-27",
+      "from": "IST",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~6.5h",
+      "detail": "TK607 20:30 → 03:05 Dec 28"
+    },
+    {
+      "date": "2026-12-28",
+      "from": "NBO",
+      "to": "KAR",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Pre-booked taxi, ~$15/car"
+    },
+    {
+      "date": "2026-12-29",
+      "from": "KAR",
+      "to": "OPC",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Crew vehicle via Nanyuki",
+      "choice": {
+        "chosen": {
+          "label": "Drive",
+          "mode": "road",
+          "door_to_door": "~4h",
+          "cost_pp": 0,
+          "note": "In crew price. Scenic; equator stop."
+        },
+        "other": {
+          "label": "Fly Wilson → Nanyuki",
+          "mode": "flight",
+          "door_to_door": "~2.5h (50m flight)",
+          "cost_pp": 204,
+          "note": "Safarilink ~$204 pp; crew still drives up empty. 15 kg bags."
+        },
+        "alt_id": "fly-nanyuki"
+      }
+    },
+    {
+      "date": "2026-12-31",
+      "from": "OPC",
+      "to": "NAK",
+      "mode": "road",
+      "duration": "~4–5h",
+      "detail": "Via Nyahururu; Thomson's Falls stop"
+    },
+    {
+      "date": "2027-01-02",
+      "from": "NAK",
+      "to": "MARA",
+      "mode": "road",
+      "duration": "~4.5–5h",
+      "detail": "Via Mau Narok + Narok"
+    },
+    {
+      "date": "2027-01-05",
+      "from": "MARA",
+      "to": "NAI",
+      "mode": "road",
+      "duration": "~4–4.5h",
+      "detail": "Via Narok + Mai Mahiu",
+      "choice": {
+        "chosen": {
+          "label": "Drive to Naivasha (1 night), then Nairobi",
+          "mode": "road",
+          "door_to_door": "~4–4.5h, then 2.5–3h next day",
+          "cost_pp": 0,
+          "note": "Splits the trip home; adds a lake + Hell's Gate."
+        },
+        "other": {
+          "label": "Fly Mara → Wilson",
+          "mode": "flight",
+          "door_to_door": "~2.5h (45m flight)",
+          "cost_pp": 60,
+          "note": "Skips Naivasha night (saves ~$170 crew + camp). Net ≈ +$60 pp; one less bush day."
+        },
+        "alt_id": "fly-mara"
+      }
+    },
+    {
+      "date": "2027-01-06",
+      "from": "NAI",
+      "to": "JKH",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "A104 + Southern Bypass"
+    },
+    {
+      "date": "2027-01-07",
+      "from": "JKH",
+      "to": "NBO",
+      "mode": "road",
+      "duration": "~15m",
+      "detail": "03:00 hotel shuttle"
+    },
+    {
+      "date": "2027-01-07",
+      "from": "NBO",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~7h",
+      "detail": "TK608 04:50 → 11:45"
+    },
+    {
+      "date": "2027-01-09",
+      "from": "IST",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~13h45",
+      "detail": "TK9 ~14:30 → ~18:15 same day"
+    }
+  ],
+  "stays": [
+    {
+      "place": "KAR",
+      "from": "2026-12-28",
+      "nights": 1,
+      "label": "Nairobi rest"
+    },
+    {
+      "place": "OPC",
+      "from": "2026-12-29",
+      "nights": 2,
+      "label": "Ol Pejeta"
+    },
+    {
+      "place": "NAK",
+      "from": "2026-12-31",
+      "nights": 2,
+      "label": "Lake Nakuru"
+    },
+    {
+      "place": "MARA",
+      "from": "2027-01-02",
+      "nights": 3,
+      "label": "Mara conservancy"
+    },
+    {
+      "place": "NAI",
+      "from": "2027-01-05",
+      "nights": 1,
+      "label": "Naivasha"
+    },
+    {
+      "place": "JKH",
+      "from": "2027-01-06",
+      "nights": 1,
+      "label": "Airport hotel"
+    },
+    {
+      "place": "IST",
+      "from": "2027-01-07",
+      "nights": 2,
+      "label": "Istanbul hostel"
+    }
+  ],
+  "fatigue_check": "Door-to-door travel per day:\n- Dec 26 | ~13h flight | long-haul\n- Dec 27 | 1.5h connect + 6.5h flight | long-haul\n- Dec 28 | 20m at 03:30 | REST\n- Dec 29 | ~4h road | medium (after rest day)\n- Dec 30 | 0 | REST\n- Dec 31 | 4–5h road | long (after rest day)\n- Jan 1 | 0 | REST\n- Jan 2 | 4.5–5h road | long (after rest day)\n- Jan 3 | 0 | REST\n- Jan 4 | 0 | REST\n- Jan 5 | 4–4.5h road | medium-long (after 2 rest days)\n- Jan 6 | 2.5–3h road | light\n- Jan 7 | 15m + 7h flight | long-haul (02:45 wake)\n- Jan 8 | 0 | REST\n- Jan 9 | ~13h45 flight | long-haul\n\nRules:\n- **Max ~5h road:** met. Longest Dec 31 + Jan 2 (≤5h).\n- **No back-to-back ≥3.5h:** met. Rest day before every long drive. Jan 5 (4–4.5h) → Jan 6 (2.5–3h, light).\n- **Min 2 nights/stop:** Ol Pejeta 2, Nakuru 2, Mara 3, Istanbul 2. 1-night: Nairobi arrival, Naivasha, JKIA (transit).\n- **Light arrival:** full rest day Dec 28.\n- **Rest days:** 5 with zero travel (Dec 30, Jan 1, 3, 4, 8) + Dec 28 (only a 20m taxi at 03:30).\n- Want less road? Fly Mara → Wilson (+$60 net) or Nairobi → Nanyuki (+$204).",
+  "hero_photo": "Maasai_Mara",
+  "photos": {
+    "MARA": {
+      "name": "Masai Mara conservancy",
+      "wiki": [
+        "Maasai_Mara",
+        "Lion",
+        "Cheetah",
+        "Maasai_people"
+      ]
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "wiki": [
+        "Ol_Pejeta_Conservancy",
+        "Black_rhinoceros",
+        "Northern_white_rhinoceros",
+        "Mount_Kenya"
+      ]
+    },
+    "NAK": {
+      "name": "Lake Nakuru",
+      "wiki": [
+        "Lake_Nakuru_National_Park",
+        "Lesser_flamingo",
+        "Rothschild's_giraffe",
+        "Southern_white_rhinoceros"
+      ]
+    },
+    "NAI": {
+      "name": "Lake Naivasha & Hell's Gate",
+      "wiki": [
+        "Lake_Naivasha",
+        "Hell's_Gate_National_Park",
+        "Hippopotamus",
+        "African_fish_eagle"
+      ]
+    },
+    "KAR": {
+      "name": "Nairobi",
+      "wiki": [
+        "Giraffe_Centre",
+        "David_Sheldrick_Wildlife_Trust",
+        "Nairobi_National_Park",
+        "Karen_Blixen_Museum"
+      ]
+    },
+    "JKH": {
+      "name": "Nairobi airport area",
+      "wiki": [
+        "Jomo_Kenyatta_International_Airport"
+      ]
+    },
+    "IST": {
+      "name": "Istanbul",
+      "wiki": [
+        "Hagia_Sophia",
+        "Bosphorus",
+        "Basilica_Cistern",
+        "Galata_Tower"
+      ]
+    },
+    "KAK": {
+      "name": "Kakamega rainforest",
+      "wiki": [
+        "Kakamega_Forest",
+        "Mantled_guereza",
+        "Great_blue_turaco",
+        "De_Brazza's_monkey"
+      ]
+    },
+    "KER": {
+      "name": "Kericho tea country",
+      "wiki": [
+        "Kericho"
+      ]
+    }
+  },
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Kenya",
+      "country": "Kenya"
+    },
+    "budget_target": {
+      "low": 5000,
+      "high": 6000
+    },
+    "currency": "USD"
+  },
+  "id": "budget-istanbul",
+  "label": "Budget loop · Jan 9",
+  "summary": "Cheapest version: road safari loop + Istanbul hostel 2n, home Jan 9."
+}
