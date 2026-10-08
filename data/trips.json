@@ -12,19 +12,22 @@
       "id": "diani",
       "label": "Safari + Diani coast · Jan 16",
       "summary": "Road safari loop, then 5 beach nights + Shimba Hills, Istanbul hostel 2n.",
-      "file": "data/trips/diani.json"
+      "file": "data/trips/diani.json",
+      "compare": false
     },
     {
       "id": "budget-istanbul",
       "label": "Budget loop · Jan 9",
       "summary": "Cheapest version: road safari loop + Istanbul hostel 2n, home Jan 9.",
-      "file": "data/trips/budget-istanbul.json"
+      "file": "data/trips/budget-istanbul.json",
+      "compare": false
     },
     {
       "id": "fly-in",
       "label": "Fly-in Mara + lakes · Jan 11",
       "summary": "Earlier draft: bush flights to the Mara + Ol Pejeta, NYE in camp, Istanbul 2n.",
-      "file": "data/trips/fly-in.json"
+      "file": "data/trips/fly-in.json",
+      "compare": false
     }
   ]
 }
