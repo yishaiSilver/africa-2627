@@ -1,0 +1,1793 @@
+{
+  "title": "Morocco first, then Kenya's Wild Loop",
+  "overview": "- **Dates:** LAX **Sat Dec 19** → Morocco → Nairobi → LAX **Sat Jan 16**. Christmas in Morocco; Kenya from Dec 28 is the Wild loop unchanged.\n- **Stopover:** 7 nights from Marrakech over the High Atlas to the Erg Chebbi dunes (Christmas Eve in a desert camp), then north to the Middle Atlas cedar forest for Barbary macaques. Fly out from Casablanca via Cairo and land in Nairobi at about 04:55 on Dec 28.\n- **Verdict:** Worth it if you want a big change of scenery and culture before Kenya: Atlas passes, kasbahs, gorges, Sahara dunes and the macaques. The wildlife is thin next to East Africa, though: apart from the macaques and camels it is mostly birds. The main drawbacks are the long Dec 27 flight day via Cairo, with no nonstop to Nairobi, and desert nights near freezing. It adds about $2,000 pp all-in over the base trip. Checked: Level 2 advisory (Sep 4 2026), visa-free entry, the AT251 Sun/Tue/Fri pattern and MS848 (daily, 13:30-20:25) are all confirmed. Changed: flagged that MS849's Cairo departure has moved between 20:55 and 23:55 during 2026 (the 20:55 slot would break the connection), corrected the Azrou-CMN distance to ~300 km, and confirmed that the budget sums (~$3,495 pp, +$1,995 vs base) and every low ≤ planned ≤ high range hold.\n- **Safety:** US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.. Morocco is one of the more stable and tourist-friendly countries in Africa. The Level 2 rating reflects a general terrorism risk; terrorists may target tourist sites, transport hubs and markets. The last deadly attacks on tourists were the 2011 Marrakech cafe bombing and the 2018 killing of two hikers near Imlil. The everyday risks are petty theft, medina hustlers, and mountain driving in winter. Merzouga is close to the closed Algerian border, but the tourist dune area is routinely visited and safe.\n- **Cost:** $9,595 pp, **+$1,995** vs the Wild loop alone ($7,600).\n\n**Highlights:** Christmas Eve in an Erg Chebbi dune camp: camel trek at sunset, stars, Berber drumming, sunrise from the 150 m dunes · Barbary macaques in the Cedre Gouraud cedar forest near Azrou (the only macaque in Africa, endangered) · Crossing the High Atlas on the Tizi n'Tichka pass to the UNESCO ksar of Ait Benhaddou · Todra Gorge (300 m walls) and the Dades Valley 'road of a thousand kasbahs' · Marrakech medina, Jemaa el-Fna night market, Jardin Majorelle and Berber Museum · Desert birding around Merzouga/Dayet Srji (desert sparrow, fulvous babbler, maybe flamingos if the lake has water) · Gnawa music village of Khamlia on Christmas Day\n\n**Drawbacks:** Weak on 'exotic wildlife' compared with Kenya: the macaques are the only real mammal highlight; fennec fox and Barbary sheep sightings are rare · Getting to Nairobi is awkward: there is no confirmed nonstop from Morocco. The best timing is EgyptAir MS848 CMN 13:30 to CAI 20:25, then MS849 to NBO. MS849 has shown both 23:55 and 20:55 Cairo departures in 2026; only the 23:55 slot connects, so verify the December timetable before booking · Dec 26 (~5h road) and Dec 27 (~3.5h road + ~13h of flights and layover) are back-to-back hard days; the Dec 28 Nairobi rest day absorbs it · Outbound Dec 19 is a Saturday, and the Royal Air Maroc LAX-CMN nonstop (AT251, 10:20 departure) only flies Sun/Tue/Fri, so you connect via Europe. The exception is leaving a day early, Fri Dec 18. Turkish via Istanbul forces an overnight in Istanbul and loses a Morocco day · Cold nights in the desert and the Middle Atlas; some budget riads and auberges have weak heating · Late December is peak European holiday season in Marrakech and Merzouga: book camps and riads now · Upgrade option: a luxury desert camp ($180-350 pp/night) and a private 4x4 with a guide add ~$400-700 pp · Cheaper option: shared 3-day Marrakech-Merzouga-Fes tours (~$190-300 pp), but they involve 9-10h drive days, which breaks the pace rule\n\n### Then Kenya (Wild loop)\n- **Route (one camping crew, all road):** Nairobi → Ol Pejeta 2n → **Samburu 3n** (NYE) → Thomson's Falls 1n → Lake Nakuru 2n → **Kakamega rainforest 2n** → Kericho 1n → **Mara conservancy 4n** → Naivasha + Hell's Gate 2n → airport hotel → fly home.\n- **Exotic wildlife focus:** Samburu's Special Five + vulturine guineafowl, chimps + black rhino (Ol Pejeta), Rothschild's giraffe (Nakuru), colobus + De Brazza's monkeys + great blue turaco (Kakamega), big cats (Mara). See **Wildlife**.\n- **No beach, no rental car:** crew 4x4 + driver-guide included.\n- **Budget: ~$7,600 pp** (incl. flights + $300 contingency). Crew days are the cost driver.\n- **Cuts:** skip Kakamega (−$800), home Jan 14 (−$450), yellow fever done (−$200), fly out of the Mara (−$90).\n- **Fatigue:** max ~4.5h road/day, overnight stops split every long leg, 9 zero-travel days. Last day is a ~25h journey home.",
+  "dates": {
+    "depart": "2026-12-19",
+    "return": "2027-01-16"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-19",
+      "location": "LAX to Paris",
+      "title": "Depart LAX",
+      "details": "Afternoon flight LAX-CDG (~10.5h, overnight). Sleep on the plane.",
+      "overnight": "Plane",
+      "meals": "In-flight",
+      "day_label": "Day 1 – Sat"
+    },
+    {
+      "date": "2026-12-20",
+      "location": "Paris to Marrakech",
+      "title": "Arrive Marrakech",
+      "details": "Land CDG ~10-11:30, connect to RAK (~3.5h), arrive late afternoon. Riad pickup (~25 min). Mint tea, early night. Travel ~6h today plus yesterday's 10.5h.",
+      "overnight": "Marrakech",
+      "meals": "In-flight / riad dinner",
+      "day_label": "Day 2 – Sun"
+    },
+    {
+      "date": "2026-12-21",
+      "location": "Marrakech",
+      "title": "Rest + medina",
+      "details": "No transport. Slow morning. Jardin Majorelle + Berber Museum, souks, Ben Youssef Medersa. Sunset from a cafe terrace over Jemaa el-Fna, food stalls at night. Meet the driver for a briefing.",
+      "overnight": "Marrakech",
+      "meals": "B riad, L/D medina",
+      "day_label": "Day 3 – Mon"
+    },
+    {
+      "date": "2026-12-22",
+      "location": "High Atlas",
+      "title": "Over the Atlas",
+      "details": "Driver 08:30. Tizi n'Tichka pass, ~4h road with stops. Afternoon walk through the Ait Benhaddou ksar, climb to the granary at sunset. Moussier's redstart on the pass.",
+      "overnight": "Ait Benhaddou",
+      "meals": "B, L roadside tagine, D guesthouse (half board)",
+      "day_label": "Day 4 – Tue"
+    },
+    {
+      "date": "2026-12-23",
+      "location": "Dades + Todra",
+      "title": "Valley of kasbahs",
+      "details": "~4h road: Ouarzazate, Skoura palmery, Dades Gorge switchbacks, Todra. Late-afternoon walk into the Todra Gorge (300 m walls).",
+      "overnight": "Todra Gorge",
+      "meals": "B, L Dades, D auberge (HB)",
+      "day_label": "Day 5 – Wed"
+    },
+    {
+      "date": "2026-12-24",
+      "location": "Erg Chebbi",
+      "title": "Christmas Eve in the dunes",
+      "details": "Morning gorge walk, then ~3h road to Merzouga. ~15:30 camel trek 1-1.5h to the camp, sunset on the dunes, dinner, drums, stars. Cold night (1-5 C).",
+      "overnight": "Erg Chebbi desert camp",
+      "meals": "B, L Rissani/Merzouga, D camp",
+      "day_label": "Day 6 – Thu"
+    },
+    {
+      "date": "2026-12-25",
+      "location": "Merzouga",
+      "title": "Christmas rest day",
+      "details": "Dune sunrise, camel back ~1h, then breakfast and a shower at the auberge. Lazy day. Optional: Khamlia Gnawa music, Dayet Srji lake birding (desert sparrow, flamingos if wet), afternoon nap.",
+      "overnight": "Merzouga",
+      "meals": "B camp, L/D auberge (HB)",
+      "day_label": "Day 7 – Fri"
+    },
+    {
+      "date": "2026-12-26",
+      "location": "Middle Atlas",
+      "title": "Cedars + macaques",
+      "details": "Depart 08:00. ~5h road: Ziz Gorges, Midelt (lunch), Azrou. ~15:00 Cedre Gouraud forest for the Barbary macaques; Levaillant's woodpecker possible. Snow possible.",
+      "overnight": "Azrou / Ifrane",
+      "meals": "B, L Midelt, D hotel",
+      "day_label": "Day 8 – Sat"
+    },
+    {
+      "date": "2026-12-27",
+      "location": "Casablanca to Cairo to Nairobi",
+      "title": "Long haul to Kenya",
+      "details": "Leave 07:30, ~3.5h (~300 km) to CMN airport. EgyptAir MS848 13:30 to CAI 20:25 (~5h), ~3.5h airside wait, MS849 23:55 to NBO, landing 04:55 Dec 28, then straight to the Nairobi rest day.",
+      "overnight": "Plane",
+      "meals": "B hotel, in-flight",
+      "day_label": "Day 9 – Sun"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 10 – Mon",
+      "location": "Nairobi",
+      "title": "Land + rest day",
+      "details": "Land early morning (see Route). Taxi (~20m) to guesthouse (room held from Dec 27). Sleep. Optional: Sheldrick baby elephants 11:00 ($20, ~20m away; book online now).",
+      "overnight": "Budget guesthouse, Nairobi",
+      "meals": "Own"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 11 – Tue",
+      "location": "Nairobi → Ol Pejeta",
+      "title": "Drive north to Ol Pejeta",
+      "details": "Crew pickup ~08:30. ~4h via Nanyuki, equator stop. Camp set at OPC campsite. PM: chimp sanctuary + sunset drive.",
+      "overnight": "Operator camp, OPC campsite",
+      "meals": "L, D camp"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 12 – Wed",
+      "location": "Ol Pejeta Conservancy",
+      "title": "Rhinos + Mt Kenya",
+      "details": "Zero travel. Dawn + late drives. Black/white rhino, lion, elephant, Grevy's zebra. Optional lion tracking (~$70; not budgeted).",
+      "overnight": "Operator camp, OPC campsite",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 13 – Thu",
+      "location": "Ol Pejeta → Samburu",
+      "title": "North to Samburu + NYE by the river",
+      "details": "~2.5–3h via Nanyuki + Isiolo; drop into hot, dry north. Camp on the Ewaso Ng'iro river. PM drive. Quiet NYE under the stars.",
+      "overnight": "Operator camp, Samburu/Buffalo Springs campsite",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 14 – Fri",
+      "location": "Samburu National Reserve",
+      "title": "Samburu Special Five",
+      "details": "Zero travel. Dawn + late drives: Grevy's zebra, reticulated giraffe, gerenuk, Beisa oryx, Somali ostrich. Vulturine guineafowl, river elephants. Midday siesta (30–35°C).",
+      "overnight": "Operator camp, Samburu",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 15 – Sat",
+      "location": "Samburu National Reserve",
+      "title": "Leopards + river day",
+      "details": "Zero travel. Search riverine forest for leopard; lions, cheetah possible. Optional Samburu village visit (~$20–30 pp, paid locally).",
+      "overnight": "Operator camp, Samburu",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 16 – Sun",
+      "location": "Samburu → Nyahururu",
+      "title": "Back to the cool highlands",
+      "details": "~3.5h via Isiolo + Nanyuki. Thomson's Falls (74 m) walk to the bottom. Camp at the falls; cool night (fleece).",
+      "overnight": "Thomson's Falls campsite, Nyahururu",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 17 – Mon",
+      "location": "Nyahururu → Lake Nakuru",
+      "title": "Short hop to Nakuru",
+      "details": "~1.5h downhill to Lake Nakuru NP. Camp inside the park. PM drive: rhino, Rothschild's giraffe.",
+      "overnight": "KWS campsite, Lake Nakuru NP",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 18 – Tue",
+      "location": "Lake Nakuru NP",
+      "title": "Nakuru day",
+      "details": "Zero travel. Dawn drive to Baboon Cliff. Black + white rhino, flamingos/pelicans (numbers vary), tree-climbing lions if lucky. Siesta.",
+      "overnight": "KWS campsite, Lake Nakuru NP",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 19 – Wed",
+      "location": "Lake Nakuru → Kakamega Forest",
+      "title": "West to the rainforest",
+      "details": "~4–4.5h via Eldoret. Rondo Retreat inside the forest, full board. Dusk walk: colobus calling.",
+      "overnight": "Rondo Retreat, Kakamega Forest",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 20 – Thu",
+      "location": "Kakamega Forest",
+      "title": "Rainforest day",
+      "details": "Zero travel. Dawn bird walk with local guide (~Ksh300–500 pp): great blue turaco, hornbills. Black-and-white colobus, De Brazza's + red-tailed monkeys. Lirhanda Hill. Optional night walk (pottos, bushbabies).",
+      "overnight": "Rondo Retreat, Kakamega Forest",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 21 – Fri",
+      "location": "Kakamega → Kericho",
+      "title": "Tea country",
+      "details": "~2.5–3h via Kisumu. Tea-estate walk, factory visit. Easy afternoon.",
+      "overnight": "Budget hotel, Kericho",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 22 – Sat",
+      "location": "Kericho → Masai Mara",
+      "title": "Into the Mara conservancy",
+      "details": "~3–3.5h via Bomet + Mulot (last hour rough). Camp in Enonkishu (or Pardamat/Ol Chorro). Dusk drive.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-10",
+      "day_label": "Day 23 – Sun",
+      "location": "Mara conservancy",
+      "title": "Full Mara day",
+      "details": "Zero travel. Dawn + late drives, off-road, few vehicles. Big cats, plains game, newborn topi. Siesta.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-11",
+      "day_label": "Day 24 – Mon",
+      "location": "Mara conservancy",
+      "title": "Maasai walk + night drive",
+      "details": "Zero travel. Morning walk with Maasai ranger. PM drive. Night drive if allowed (aardvark, bat-eared fox, genets).",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-12",
+      "day_label": "Day 25 – Tue",
+      "location": "Mara conservancy",
+      "title": "Extra Mara day",
+      "details": "Zero travel. Full-day drive with picnic lunch, following whatever the guides found. Sundowner.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-13",
+      "day_label": "Day 26 – Wed",
+      "location": "Mara → Lake Naivasha",
+      "title": "Road to Naivasha",
+      "details": "~4–4.5h via Narok + Mai Mahiu. Lakeshore camp. Hippos at dusk.",
+      "overnight": "Lakeshore campsite, Naivasha",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-14",
+      "day_label": "Day 27 – Thu",
+      "location": "Lake Naivasha / Hell's Gate",
+      "title": "Hell's Gate + boat",
+      "details": "No long travel (30m local). Bike or walk Hell's Gate among zebra + giraffe, gorge hike. PM boat + Crescent Island walk. Rest.",
+      "overnight": "Lakeshore campsite, Naivasha",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-15",
+      "day_label": "Day 28 – Fri",
+      "location": "Naivasha → Nairobi (JKIA area)",
+      "title": "Airport hotel",
+      "details": "~2.5–3h via A104 + Southern Bypass. Tip crew. Shower, repack, early night.",
+      "overnight": "Budget hotel near JKIA",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-16",
+      "day_label": "Day 29 – Sat",
+      "location": "Nairobi → Istanbul → Los Angeles",
+      "title": "Fly home",
+      "details": "Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect. TK9 ~14:30 → LAX ~18:15 same day. ~25h door to door.",
+      "overnight": "Home",
+      "meals": "In-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Riad Dar Najat (or similar budget medina riad)",
+      "place": "RAK",
+      "location": "Marrakech medina, near Jemaa el-Fna",
+      "nights": 2,
+      "pppn_usd": 35,
+      "style": "Budget riad, double room",
+      "includes": "Breakfast on the roof terrace",
+      "why": "Walkable to the square and souks; a quiet courtyard for jet-lag recovery",
+      "url": "https://www.booking.com/searchresults.html?ss=Marrakech+Medina&checkin=2026-12-20&checkout=2026-12-22&group_adults=2",
+      "alternatives": "Riad Laaroussa or Riad Yasmine (~$90-150 pp, more style); Equity Point hostel (~$20 pp)"
+    },
+    {
+      "name": "Kasbah guesthouse, e.g. Dar Mouna",
+      "place": "AITB",
+      "location": "Facing the ksar, Ait Benhaddou",
+      "nights": 1,
+      "pppn_usd": 35,
+      "style": "Kasbah-style guesthouse",
+      "includes": "Half board (dinner + breakfast)",
+      "why": "Wake up to the ksar at sunrise without a long drive",
+      "url": "https://www.booking.com/searchresults.html?ss=Ait+Benhaddou&checkin=2026-12-22&checkout=2026-12-23&group_adults=2",
+      "alternatives": "Ouarzazate hotels (cheaper, less atmospheric)"
+    },
+    {
+      "name": "Gorge auberge, e.g. Hotel Yasmina or Auberge Le Festival",
+      "place": "TODR",
+      "location": "Inside or near the Todra Gorge",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Simple auberge",
+      "includes": "Half board",
+      "why": "Lets you walk the gorge in the late afternoon and early morning",
+      "url": "https://www.booking.com/searchresults.html?ss=Todra+Gorge&checkin=2026-12-23&checkout=2026-12-24&group_adults=2",
+      "alternatives": "Tinghir town hotels"
+    },
+    {
+      "name": "Standard Erg Chebbi desert camp (private tent with bed)",
+      "place": "ERG",
+      "location": "Erg Chebbi dunes, ~1h camel from Merzouga",
+      "nights": 1,
+      "pppn_usd": 75,
+      "style": "Desert camp, private tent",
+      "includes": "Camel trek both ways, dinner, breakfast, blankets; sometimes shared bathroom",
+      "why": "The Christmas Eve highlight; standard camps are fine, so pick one with en-suite or heated tents",
+      "url": "https://www.booking.com/searchresults.html?ss=Merzouga&checkin=2026-12-24&checkout=2026-12-25&group_adults=2",
+      "alternatives": "Luxury camps (heated tents, en-suite) $180-350 pp"
+    },
+    {
+      "name": "Merzouga auberge, e.g. Kasbah Mohayut or Riad Madu",
+      "place": "MRZ",
+      "location": "Merzouga village, at the dune edge",
+      "nights": 1,
+      "pppn_usd": 35,
+      "style": "Auberge with pool and dune views",
+      "includes": "Half board",
+      "why": "Christmas rest day with hot showers after the camp; luggage stays here",
+      "url": "https://www.booking.com/searchresults.html?ss=Merzouga&checkin=2026-12-25&checkout=2026-12-26&group_adults=2",
+      "alternatives": "Ali & Sara's Desert Palace and similar"
+    },
+    {
+      "name": "Azrou/Ifrane hotel, e.g. Hotel Le Panorama Azrou",
+      "place": "AZR",
+      "location": "Azrou town, 15 min from the Cedre Gouraud",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Simple heated hotel",
+      "includes": "Breakfast",
+      "why": "Close to the macaque forest and on the motorway route to Casablanca",
+      "url": "https://www.booking.com/searchresults.html?ss=Azrou&checkin=2026-12-26&checkout=2026-12-27&group_adults=2",
+      "alternatives": "Ifrane hotels (~$40-60 pp, better heating)"
+    },
+    {
+      "name": "Budget guesthouse near JKIA / Langata",
+      "place": "KAR",
+      "location": "Nairobi",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Guesthouse",
+      "includes": "~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights).",
+      "why": "Cheap, safe, ~20m from Sheldrick + JKIA. Crew picks up here.",
+      "alternatives": "Karen B&B ~$120/room",
+      "url": "https://www.booking.com/city/ke/nairobi.html"
+    },
+    {
+      "name": "Operator camp at an OPC campsite",
+      "place": "OPC",
+      "location": "Ol Pejeta Conservancy, Laikipia",
+      "nights": 2,
+      "pppn_usd": 70,
+      "style": "Private serviced camping",
+      "includes": "OPC campsite $70 pppn (2026 tariff); entry separate",
+      "why": "Cheapest way to sleep inside OPC.",
+      "alternatives": "Sweetwaters Serena (~$240 pp FB)",
+      "url": "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf"
+    },
+    {
+      "name": "Operator camp at a Samburu / Buffalo Springs campsite",
+      "place": "SAM",
+      "location": "Samburu National Reserve",
+      "nights": 3,
+      "pppn_usd": 30,
+      "style": "Private serviced camping",
+      "includes": "Campsite ~$20–50 pppn (public vs special site); reserve fee separate",
+      "why": "Wake up on the Ewaso Ng'iro river among the Special Five.",
+      "alternatives": "Samburu Riverside Camp ~$85–170 pp FB",
+      "url": "https://www.safarifind.com/accommodations/samburu-riverside-camp"
+    },
+    {
+      "name": "Thomson's Falls campsite",
+      "place": "NYA",
+      "location": "Nyahururu",
+      "nights": 1,
+      "pppn_usd": 10,
+      "style": "Campsite",
+      "includes": "Campsite fee; operator tents, cook, meals",
+      "why": "Splits Samburu → Nakuru into two easy days. Waterfall at the door.",
+      "alternatives": "Thomson's Falls Lodge rooms ~$50–70 pp B&B",
+      "url": "https://en.wikipedia.org/wiki/Thomson%27s_Falls"
+    },
+    {
+      "name": "KWS public campsite inside Lake Nakuru NP",
+      "place": "NAK",
+      "location": "Lake Nakuru NP",
+      "nights": 2,
+      "pppn_usd": 30,
+      "style": "Serviced camping",
+      "includes": "KWS campsite $30 pppn; 2×24h park fee separate",
+      "why": "Wake up inside the park. NYE by the fire.",
+      "alternatives": "Flamingo Hill tented camp (~$150–185 pp FB)",
+      "url": "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025"
+    },
+    {
+      "name": "Rondo Retreat",
+      "place": "KAK",
+      "location": "Kakamega Forest",
+      "nights": 2,
+      "pppn_usd": 130,
+      "style": "Forest lodge (full board)",
+      "includes": "Full board; ~$260/double/night non-resident",
+      "why": "Only comfortable bed inside the rainforest. Guides at the gate.",
+      "alternatives": "KWS Udo's bandas (cheap, self-catering)",
+      "url": "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html"
+    },
+    {
+      "name": "Budget hotel, Kericho",
+      "place": "KER",
+      "location": "Kericho tea country",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Town hotel",
+      "includes": "~$60/room B&B est.",
+      "why": "Breaks Kakamega → Mara into two short drives.",
+      "alternatives": "Tea-estate guesthouse",
+      "url": "https://www.booking.com/city/ke/kericho.html"
+    },
+    {
+      "name": "Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)",
+      "place": "MARA",
+      "location": "Northern Greater Mara",
+      "nights": 4,
+      "pppn_usd": 25,
+      "style": "Private serviced camping",
+      "includes": "Site/community fee ~$25 pppn est. Conservancy fee (~$80) separate.",
+      "why": "Conservancy: few vehicles, walks, off-road. Confirm mobile camping in writing.",
+      "alternatives": "Mara tented camps $400–860 pppn festive",
+      "url": "https://cheetahsafaris.com/national-park/enonkishu-conservancy"
+    },
+    {
+      "name": "Camp Carnelley's or Fisherman's Camp",
+      "place": "NAI",
+      "location": "Lake Naivasha, south shore",
+      "nights": 2,
+      "pppn_usd": 15,
+      "style": "Lakeshore campsite",
+      "includes": "Campsite fee; operator tents, cook, meals",
+      "why": "Soft finish: Hell's Gate + boat day, 2.5–3h from the airport.",
+      "alternatives": "Banda same camp (~$40–60 pp)",
+      "url": "https://monkey.travel/en/usd/accommodation/naivasha-sopa/"
+    },
+    {
+      "name": "Budget hotel near JKIA (free shuttle)",
+      "place": "JKH",
+      "location": "Nairobi, Mombasa Rd",
+      "nights": 1,
+      "pppn_usd": 40,
+      "style": "Budget airport hotel",
+      "includes": "~$80/room B&B; 24h shuttle",
+      "why": "02:45 wake, 10–20m to JKIA before TK608.",
+      "alternatives": "Ole Sereni ~$150/room",
+      "url": "https://www.booking.com/city/ke/nairobi.html"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "Full multi-city ticket: LAX-RAK Dec 19 (via Paris/Europe), CMN-CAI-NBO Dec 27 (EgyptAir MS848/MS849), NBO-LAX Jan 16 (TK608/TK9)",
+      "per_person_usd": 2400,
+      "low_usd": 2000,
+      "high_usd": 2900,
+      "notes": "Replaces the $1,500 base; delta ~+$900 pp (range +$500 to +$1,400). Components: one-way Morocco-NBO fares seen at ~$630-710; festive LAX-Morocco one-way ~$800-1,100; NBO-LAX one-way ~$800-1,100. A single Star Alliance ticket (LH/TK to Morocco + EgyptAir + TK home) gives connection protection. Estimate only; no live festive fare was confirmed, so verify."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Lodging: 7 nights: 2 riad, 1 kasbah, 1 auberge, 1 desert camp, 1 auberge, 1 Azrou hotel (double rooms shared)",
+      "per_person_usd": 275,
+      "low_usd": 200,
+      "high_usd": 600,
+      "notes": "Sum of the lodging list: 70+35+30+75+35+30. Most stays half board. The high end adds a luxury camp and nicer riads."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Tours/transport: Private driver + car, 6 days Marrakech to Casablanca airport (one-way) + RAK airport transfer",
+      "per_person_usd": 530,
+      "low_usd": 420,
+      "high_usd": 700,
+      "notes": "~$150-180/day per vehicle incl. fuel and driver lodging, plus a one-way surcharge, split by 2. Get quotes from local operators; packaged 4-day private Marrakech-Fes desert tours list at ~$750-940 pp including lodging. Shared tours are ~$190-300 pp but have 9-10h days."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Permits/fees: Majorelle + Berber Museum, Ben Youssef, Ait Benhaddou, gorge guide, Khamlia music, tips (driver, camel guide)",
+      "per_person_usd": 80,
+      "low_usd": 50,
+      "high_usd": 120,
+      "notes": "Majorelle + Berber Museum ~200 MAD combined; tip the driver ~$10-15/day per car."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Food: Lunches, 2-3 non-included dinners, water/snacks",
+      "per_person_usd": 150,
+      "low_usd": 100,
+      "high_usd": 220,
+      "notes": "Tagine lunches ~$6-12; half board covers most dinners."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Visa: Morocco visa-free; Egypt airside transit no visa",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 0,
+      "notes": "Kenya eTA is already in the base plan."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Misc: Local SIM/eSIM, warm layers, laundry, buffer",
+      "per_person_usd": 60,
+      "low_usd": 30,
+      "high_usd": 120,
+      "notes": "Total ~$3,495 pp all-in vs the $1,500 base, so ~+$1,995 pp."
+    },
+    {
+      "category": "Kenya domestic flights",
+      "item": "None (all road)",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 0,
+      "notes": "Fly options shown side by side in Route."
+    },
+    {
+      "category": "Lodging",
+      "item": "Private camping crew 18 days Dec 29–Jan 15: 4x4, guide, cook, tents, meals, fuel",
+      "per_person_usd": 2735,
+      "low_usd": 2350,
+      "high_usd": 3450,
+      "notes": "5 festive days × $170 + 13 × $145. Get 3 KATO quotes."
+    },
+    {
+      "category": "Lodging",
+      "item": "Ol Pejeta OPC campsite, 2n",
+      "per_person_usd": 140,
+      "low_usd": 140,
+      "high_usd": 150,
+      "notes": "$70 pppn"
+    },
+    {
+      "category": "Lodging",
+      "item": "Samburu campsite, 3n",
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 150,
+      "notes": "$20–50 pppn"
+    },
+    {
+      "category": "Lodging",
+      "item": "Thomson's Falls campsite, 1n",
+      "per_person_usd": 10,
+      "low_usd": 5,
+      "high_usd": 70,
+      "notes": "High = lodge room"
+    },
+    {
+      "category": "Lodging",
+      "item": "Nakuru KWS campsite inside park, 2n",
+      "per_person_usd": 60,
+      "low_usd": 60,
+      "high_usd": 80,
+      "notes": "$30 public; $40 special"
+    },
+    {
+      "category": "Lodging",
+      "item": "Rondo Retreat Kakamega FB, 2n",
+      "per_person_usd": 260,
+      "low_usd": 240,
+      "high_usd": 300,
+      "notes": "$260/double/night"
+    },
+    {
+      "category": "Lodging",
+      "item": "Kericho budget hotel, 1n",
+      "per_person_usd": 30,
+      "low_usd": 25,
+      "high_usd": 60,
+      "notes": "~$60/room"
+    },
+    {
+      "category": "Lodging",
+      "item": "Mara conservancy campsite/community fee, 4n",
+      "per_person_usd": 100,
+      "low_usd": 0,
+      "high_usd": 200,
+      "notes": "Est. ~$25 pppn"
+    },
+    {
+      "category": "Lodging",
+      "item": "Naivasha lakeshore campsite, 2n",
+      "per_person_usd": 30,
+      "low_usd": 30,
+      "high_usd": 120,
+      "notes": "High = banda"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Ol Pejeta entry, 2 × 24h",
+      "per_person_usd": 230,
+      "low_usd": 220,
+      "high_usd": 260,
+      "notes": "~$115/day"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Samburu reserve, 3 × 24h",
+      "per_person_usd": 255,
+      "low_usd": 210,
+      "high_usd": 255,
+      "notes": "$85/24h (2026 county rate)"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Lake Nakuru NP, 2 × 24h",
+      "per_person_usd": 180,
+      "low_usd": 120,
+      "high_usd": 180,
+      "notes": "KWS new $90; $60 if old rate stands"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Kakamega forest entry + guides",
+      "per_person_usd": 60,
+      "low_usd": 35,
+      "high_usd": 120,
+      "notes": "KFS/KWS fee unclear ($25–50) + guide ~$5"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Mara conservancy fee, 4n",
+      "per_person_usd": 320,
+      "low_usd": 320,
+      "high_usd": 520,
+      "notes": "~$80 pppn Enonkishu"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Hell's Gate NP, 1 day",
+      "per_person_usd": 50,
+      "low_usd": 26,
+      "high_usd": 50,
+      "notes": "KWS new $50; $26 if old rate stands"
+    },
+    {
+      "category": "Activities",
+      "item": "Mara Maasai walk / night drive",
+      "per_person_usd": 25,
+      "low_usd": 0,
+      "high_usd": 60,
+      "notes": "Often in conservancy fee"
+    },
+    {
+      "category": "Activities",
+      "item": "Hell's Gate bike + Naivasha boat/Crescent Island",
+      "per_person_usd": 40,
+      "low_usd": 30,
+      "high_usd": 90,
+      "notes": ""
+    },
+    {
+      "category": "Nairobi",
+      "item": "Guesthouse 2 room-nights (Dec 27 held + Dec 28)",
+      "per_person_usd": 60,
+      "low_usd": 50,
+      "high_usd": 120,
+      "notes": "~$60/room"
+    },
+    {
+      "category": "Nairobi",
+      "item": "Budget JKIA hotel 1n Jan 15",
+      "per_person_usd": 40,
+      "low_usd": 35,
+      "high_usd": 75,
+      "notes": "~$80/room, shuttle"
+    },
+    {
+      "category": "Transfers",
+      "item": "JKIA → guesthouse 03:30 taxi",
+      "per_person_usd": 10,
+      "low_usd": 8,
+      "high_usd": 20,
+      "notes": "~$15–20/car"
+    },
+    {
+      "category": "Visas/eTA",
+      "item": "Kenya eTA (Türkiye visa-free)",
+      "per_person_usd": 30,
+      "low_usd": 30,
+      "high_usd": 35,
+      "notes": "etas.gov.ke only"
+    },
+    {
+      "category": "Health",
+      "item": "Yellow fever vaccine",
+      "per_person_usd": 200,
+      "low_usd": 0,
+      "high_usd": 350,
+      "notes": "$0 if already vaccinated"
+    },
+    {
+      "category": "Health",
+      "item": "Malaria pills + clinic",
+      "per_person_usd": 100,
+      "low_usd": 50,
+      "high_usd": 240,
+      "notes": "Longer course"
+    },
+    {
+      "category": "Travel insurance + evac",
+      "item": "Comprehensive, ≥$250k evac (22 days)",
+      "per_person_usd": 300,
+      "low_usd": 230,
+      "high_usd": 480,
+      "notes": ""
+    },
+    {
+      "category": "Travel insurance + evac",
+      "item": "AMREF Maisha (Kenya air evac)",
+      "per_person_usd": 10,
+      "low_usd": 0,
+      "high_usd": 24,
+      "notes": ""
+    },
+    {
+      "category": "Tips",
+      "item": "Guide ~$11 + cook ~$5 pp/day × 18 days + misc",
+      "per_person_usd": 300,
+      "low_usd": 250,
+      "high_usd": 420,
+      "notes": "Small crisp USD"
+    },
+    {
+      "category": "Meals not included",
+      "item": "Nairobi, Kericho dinner + transit meals (incl. IST connection)",
+      "per_person_usd": 70,
+      "low_usd": 45,
+      "high_usd": 120,
+      "notes": ""
+    },
+    {
+      "category": "Misc/souvenirs",
+      "item": "eSIM / Safaricom SIM",
+      "per_person_usd": 15,
+      "low_usd": 8,
+      "high_usd": 25,
+      "notes": ""
+    },
+    {
+      "category": "Misc/souvenirs",
+      "item": "Souvenirs, laundry, sundries",
+      "per_person_usd": 50,
+      "low_usd": 30,
+      "high_usd": 250,
+      "notes": ""
+    },
+    {
+      "category": "Contingency",
+      "item": "~5%: operator quotes, fares, fees, FX",
+      "per_person_usd": 300,
+      "low_usd": 250,
+      "high_usd": 500,
+      "notes": "Hold until quotes are signed"
+    }
+  ],
+  "budget_total_per_person_usd": 9595,
+  "alternatives": [
+    {
+      "id": "yf-done",
+      "name": "Already have yellow fever shot",
+      "description": "Skip the $200 vaccine. Bring your yellow card.",
+      "cost_delta_per_person_usd": -200
+    },
+    {
+      "id": "skip-kakamega",
+      "name": "Skip Kakamega + Kericho; home Jan 13",
+      "description": "Nakuru → Mara direct (~4.5–5h). Loses the rainforest primates + turacos; 3 days shorter.",
+      "cost_delta_per_person_usd": -800
+    },
+    {
+      "id": "home-jan14",
+      "name": "Come home Jan 14 instead of Jan 16",
+      "description": "Drop the extra Mara day + Hell's Gate day. Same loop otherwise.",
+      "cost_delta_per_person_usd": -450
+    },
+    {
+      "id": "opc-specials",
+      "name": "Ol Pejeta specials: northern white rhino + lion tracking",
+      "description": "Visit the last northern white rhino(s) with their keepers (~$70; check status before booking) + lion tracking with researchers (~$70).",
+      "cost_delta_per_person_usd": 140
+    },
+    {
+      "id": "fly-mara",
+      "name": "Fly Mara → Wilson; Nairobi instead of Naivasha",
+      "description": "~2.5h door to door vs 4–4.5h drive. Drops Naivasha + Hell's Gate; 2 Nairobi hotel nights instead (Sheldrick, Giraffe Centre possible).",
+      "cost_delta_per_person_usd": -90
+    },
+    {
+      "id": "fly-nanyuki",
+      "name": "Fly Nairobi → Nanyuki for Ol Pejeta",
+      "description": "~2.5h door to door vs ~4h drive. Crew drives up empty anyway.",
+      "cost_delta_per_person_usd": 204
+    },
+    {
+      "id": "comfort",
+      "name": "Tented-camp comfort at Ol Pejeta + Samburu",
+      "description": "Sweetwaters Serena 2n + Samburu Riverside Camp 3n, full board; crew keeps vehicle + guide.",
+      "cost_delta_per_person_usd": 650
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 2026)",
+      "task": "Morocco: Price and book the multi-city ticket (LAX-RAK Dec 19 / CMN-NBO Dec 27 / NBO-LAX Jan 16). Confirm that the December MS849 departure is 23:55, not 20:55, so the connection from MS848 (arr 20:25) is legal; prefer one ticket. Compare with the Qatar and Turkish backup routings."
+    },
+    {
+      "when": "Now (Oct 2026)",
+      "task": "Morocco: Book the Erg Chebbi camp for Dec 24 and the Marrakech riad: peak European holiday period."
+    },
+    {
+      "when": "By end Oct",
+      "task": "Morocco: Book a licensed private driver for Dec 22-27 (one-way Marrakech to Casablanca airport); confirm the 07:30 Dec 27 departure and the motorway route."
+    },
+    {
+      "when": "By end Oct",
+      "task": "Morocco: Book the Ait Benhaddou, Todra, Merzouga and Azrou guesthouses (half board)."
+    },
+    {
+      "when": "Nov",
+      "task": "Morocco: Travel insurance with trip-delay cover (two long connections); check that the Kenya eTA covers Dec 28 arrival."
+    },
+    {
+      "when": "Early Dec",
+      "task": "Morocco: Reconfirm all flight times (EgyptAir has shifted MS849 several times in 2026); pack warm layers."
+    },
+    {
+      "when": "Dec 21 evening",
+      "task": "Morocco: Brief the driver; check the Tizi n'Tichka snow status for Dec 22."
+    },
+    {
+      "when": "Now (Oct 8–15)",
+      "task": "Book Sheldrick 11:00 for Dec 28 (optional; opens ~90 days ahead). Price + book TK round trip (out Dec 26; home Jan 16 TK608 + TK9 same day). Ask 3 KATO operators for an 18-day private camping quote (Dec 29–Jan 15)."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Operator confirms in writing: OPC campsite Dec 29–30, Samburu Dec 31–Jan 2, Thomson's Falls Jan 3, Nakuru KWS Jan 4–5, Mara conservancy mobile camping Jan 9–12, Naivasha Jan 13–14. Pay deposit."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book Rondo Retreat Jan 6–7, Kericho hotel Jan 8, Nairobi guesthouse Dec 27–28, JKIA hotel Jan 15."
+    },
+    {
+      "when": "Mid–late Nov",
+      "task": "Travel clinic: yellow fever unless done; malaria Rx. Buy insurance."
+    },
+    {
+      "when": "~Dec 1–5",
+      "task": "Kenya eTA on etas.gov.ke. eSIM. Small USD bills for tips."
+    },
+    {
+      "when": "Dec 20–24",
+      "task": "Reconfirm crew pickup Dec 29, 03:30 taxi Dec 28, KWS fee ruling, Mulot road status."
+    }
+  ],
+  "practical": "## Morocco stopover\n- **Visa (US passport):** US passport: Morocco is visa-free for up to 90 days (passport must be valid 6+ months on entry; one blank page). Paris (CDG) airside transit needs no visa, and the EU EES/ETIAS systems do not apply to airside transit. Cairo transit: no Egyptian visa needed if you stay airside. Kenya eTA is still required as in the base plan, so make sure it covers a Dec 28 entry.\n- **Safety — US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.:** Morocco is one of the more stable and tourist-friendly countries in Africa. The Level 2 rating reflects a general terrorism risk; terrorists may target tourist sites, transport hubs and markets. The last deadly attacks on tourists were the 2011 Marrakech cafe bombing and the 2018 killing of two hikers near Imlil. The everyday risks are petty theft, medina hustlers, and mountain driving in winter. Merzouga is close to the closed Algerian border, but the tourist dune area is routinely visited and safe.\n  - Hire a licensed driver and drive in daylight only; the Tizi n'Tichka pass (2,260 m) and the Midelt road can get snow or ice in late December. Check road status the night before.\n  - In the Marrakech medina, ignore 'the square is closed' and 'follow me' faux guides; agree prices before henna or photos at Jemaa el-Fna, and watch for pickpockets in crowds.\n  - Do not wander east of the Erg Chebbi tourist zone toward the Algerian border, and stay with your camp guide at night.\n  - Drink bottled or filtered water and go easy on raw salads for the first days; carry rehydration salts.\n  - Pack for cold: desert camps and Azrou can drop below 0 C at night. Bring a warm layer, a hat, and a sleeping-bag liner.\n  - Women may get verbal attention in medinas; modest dress helps, and firm 'la, shukran' (no thanks) works.\n  - Stay airside at Cairo (CAI) on the EgyptAir transit, and keep the whole routing on one ticket so a missed connection is the airline's problem. EgyptAir punctuality is mediocre (~50-60% on time).\n  - Enroll in STEP; carry a copy of your passport, since there are police checkpoints on rural roads.\n- **Weather in late Dec:** Dry season, mostly sunny. Marrakech highs ~18-20 C, lows ~5-7 C. Ouarzazate/Dades: highs ~16-18 C, nights ~0-3 C. Merzouga/Erg Chebbi: days ~17-20 C, nights ~1-5 C (camps provide heavy blankets). Azrou/Ifrane (1,250-1,650 m): highs ~10 C, nights below freezing; snow is possible, and the macaques in snow are a bonus. Tizi n'Tichka can close briefly after snowfall. Short days: sunset ~17:45.\n\n## Entry\n- Kenya eTA $30, **etas.gov.ke only**. Türkiye: airside connections only, no visa needed. Passport 6+ mo, 2 blank pages.\n\n## Flights\n- TK10 19:45→19:00+1. TK607 **20:30 → 03:05**. 1.5h connect: tight. Missed → next night; Ol Pejeta 1n shorter.\n- Return Jan 16: TK608 04:50 → IST 11:45, ~2h45 airside connect, TK9 ~14:30 → LAX ~18:15. Check times when booking; keep ≥2h connect.\n\n## Do we need a rental car? No.\n- Safari days: the camping operator's 4x4 + driver-guide is in the crew price. You never drive.\n- Self-drive is possible (e.g. Roadtrip Africa Land Cruisers + rooftop tent), but **Mara conservancies don't allow self-drive vehicles**, you'd do every 4–5h drive yourselves on the left, and an 8-day self-drive package starts ~€1,730 pp: not cheaper.\n- Nairobi: Uber/Bolt. Everything else in the crew vehicle.\n\n## Road reality\n- Longest days: Dec 29 (~4h), Jan 6 (4–4.5h), Jan 13 (4–4.5h). Rest day before each.\n- Samburu → Nakuru and Kakamega → Mara are split with overnights (Thomson's Falls, Kericho).\n- Kericho → Mara via Mulot: last hour rough; ask operator about rain.\n\n## Weather\n- Samburu hot + dry (30–35°C days). Kakamega: afternoon showers, muddy trails: rain jacket + closed shoes. Highlands cold at night.\n\n\n## Fees\n- KWS Nakuru $90 new vs $60 old (court case). OPC + Mara conservancies not KWS. Cashless (card/M-Pesa).\n\n## Operator must confirm in writing\n- Mara conservancy mobile camping allowed + fee. Per-day rate incl. festive days. No hidden repositioning.\n\n## Health (CDC)\n- Yellow fever recommended outside Nairobi. Malaria pills from Dec 27 to 7 days after leaving Kenya (Kakamega/west is higher risk). DEET.\n\n## Camping\n- Walk-in tents, beds, bucket shower, toilet tent. Askari at night. Laikipia/Nakuru nights ~8–12°C: fleece.\n\n## Money/safety\n- ~130 KES/$. Crisp USD for tips. Kenya Level 2: Uber/Bolt, no night walks. Plastic bags banned.",
+  "open_questions": [
+    "Morocco stopover adds $1,995 pp and a week. Worth it vs. Christmas at home?",
+    "Confirm the budget is per person (assumed), not total for both.",
+    "Exotic loop is ~$7,600 pp. OK, or cut (skip Kakamega −$800, home Jan 14 −$450)?",
+    "Extra 2 days went to Mara + Hell's Gate. Prefer them elsewhere (e.g. 4th Samburu night)?",
+    "Any must-see animals not on the Wildlife list (e.g. wild dogs, bongo, black leopard)?",
+    "NYE camping in Samburu OK (quiet, hot, no party)?",
+    "Add Ol Pejeta northern white rhino + lion tracking (+$140)?"
+  ],
+  "sources": [
+    "https://travel.state.gov/en/international-travel/travel-advisories/morocco.html",
+    "https://www.airwaysmag.com/new-post/royal-air-maroc-first-la-casablanca-nonstop",
+    "https://www.flight.info/AT251",
+    "https://www.royalairmaroc.com/en_ma/flights-from-casablanca-to-nairobi",
+    "https://www.airportoverview.com/routes/NBO/CMN",
+    "https://www.planemapper.com/flights/MS849",
+    "https://www.airnavradar.com/data/flights/MS849/2967563754",
+    "https://www.trip.com/flights/status-ms849",
+    "https://proflightsearch.com/flight/MS848",
+    "https://ca.trip.com/flights/status-ms848",
+    "https://www.ixigo.com/airlines/egyptair-ms/ms-848-flight-status",
+    "https://info.flightmapper.net/flight/Qatar_Airways_QR_1396",
+    "https://kvikr.com/flight/qr1341_qatar_airways",
+    "https://www.airnavradar.com/data/flights/TK607",
+    "https://www.flightradar24.com/data/flights/tk618",
+    "https://www.expedia.com/lp/flights/rak/nbo/marrakech-to-nairobi",
+    "https://www.travelocity.com/lp/flight-routes/turkish-airlines-from-menara-to-jomo-kenyatta-intl/tk/rak/nbo",
+    "https://www.tourradar.com/t/357270",
+    "https://www.tourradar.com/t/345340",
+    "https://www.aaa.com/tripcanvas/thing-to-do/private-4-days-tour-to-fes-via-desert-and-experience-in-merzouga-from-marrakech-100273P17",
+    "https://uk.trip.com/flights/status-tk607",
+    "https://www.airpaz.com/en/flight/code/TK-607",
+    "https://info.flightmapper.net/flight/Turkish_Airlines_TK_10",
+    "https://www.flight.info/TK608",
+    "https://www.airpaz.com/en/flight/code/TK-9",
+    "https://www.turkishairlines.com/en-us/flights/stopover/",
+    "https://awardwallet.com/airlines/turkish-airlines-stopover/",
+    "https://africanspicesafaris.com/tour/kenya-local-flights-safari-link-air-ticket-prices/",
+    "https://africanspicesafaris.com/tour/kenya-local-flights-air-kenya-ticket-prices/",
+    "https://nz.trip.com/flights/nanyuki-to-masai-mara/airfares-nyk-mre",
+    "https://www.skyscanner.co.za/routes/uas/mrea/samburu-to-maasai-mara.html",
+    "https://monkey.travel/en/usd/tour/mara-north-conservancy-4-days/",
+    "https://masaimara.ke/safarilink-flights/",
+    "https://cheetahsafaris.com/national-park/enonkishu-conservancy",
+    "https://blog.biosphere-expeditions.org/2020/01/31/kenya-bring-your-wellies/",
+    "https://standardmedia.co.ke/article/2001398762/ride-to-paradise-made-easier-with-paved-mara-road",
+    "https://monkey.travel/en/usd/tour/olpejeta-nakuru-4-days/",
+    "https://safaribookings.com/day/t67935",
+    "https://monkey.travel/en/tour/samburu-olpejeta-7-days",
+    "https://www.kenyans.co.ke/news/115091-full-list-proposed-new-prices-nairobi-amboseli-tsavo-all-other-parks",
+    "https://www.kenyans.co.ke/news/116749-court-temporarily-stops-new-kws-park-entry-fees",
+    "https://capitalfm.africa/blow-to-kws-as-high-court-stops-park-fees-hike/",
+    "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-effective-october-1-2025",
+    "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf",
+    "https://samburureserve.org/entry-fees/",
+    "https://ajkenyasafaris.com/14-day-kenya-safari-itinerary/",
+    "https://www.imaraafricasafaris.com/african-travel-blog/kenya-safari-cost-2026",
+    "https://beyondkenyasafaris.com/flamingo-hill-camp/",
+    "https://monkey.travel/en/usd/accommodation/naivasha-sopa/",
+    "https://www.porini.com/wp-content/uploads/2026/07/Reduced-Rates-for-6-nights.pdf",
+    "https://www.kayak.com/Nairobi-Hotels-Four-Points-by-Sheraton-Nairobi-Airport.3500194.ksp",
+    "https://africanspicesafaris.com/tour/four-points-by-sheraton-nairobi-jkia-hotel/",
+    "https://www.africanmeccasafaris.com/travel-guide/kenya/accommodation/nairobi/southern/ole-sereni-hotel/room-rates",
+    "https://id.trip.com/flights/status-f2031/",
+    "https://atcnews.org/new-airstrip-makes-access-to-mara-conservancies-easier/",
+    "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html",
+    "https://www.frommers.com/destinations/kakamega-forest/planning-a-trip/",
+    "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025",
+    "https://www.expedia.com/lp/flights/kis/nbo/kisumu-to-nairobi",
+    "https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve",
+    "https://en.wikipedia.org/wiki/Maasai_Mara_conservancies",
+    "https://roadtripafrica.com/kenya/self-drive-tours/taste-of-kenya/"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "IST": {
+      "name": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "kind": "abroad",
+      "country": "Türkiye"
+    },
+    "NBO": {
+      "name": "Nairobi (JKIA)",
+      "lat": -1.3192,
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "JKH": {
+      "name": "Airport-area hotel, Mombasa Rd",
+      "lat": -1.3245,
+      "lng": 36.89,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "KAR": {
+      "name": "Nairobi (guesthouse)",
+      "lat": -1.3197,
+      "lng": 36.7076,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "MARA": {
+      "name": "Enonkishu conservancy, Greater Mara",
+      "lat": -1.07,
+      "lng": 35.25,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "lat": -0.0236,
+      "lng": 36.9,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NAK": {
+      "name": "Lake Nakuru NP",
+      "lat": -0.36,
+      "lng": 36.09,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NAI": {
+      "name": "Lake Naivasha",
+      "lat": -0.77,
+      "lng": 36.36,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "KAK": {
+      "name": "Kakamega Forest (Rondo Retreat)",
+      "lat": 0.2406,
+      "lng": 34.8653,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "KIS": {
+      "name": "Kisumu Airport",
+      "lat": -0.0861,
+      "lng": 34.7289,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "KER": {
+      "name": "Kericho (tea estates)",
+      "lat": -0.3689,
+      "lng": 35.2863,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "WIL": {
+      "name": "Wilson Airport",
+      "lat": -1.3217,
+      "lng": 36.8148,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "NYK": {
+      "name": "Nanyuki airstrip",
+      "lat": -0.0624,
+      "lng": 37.041,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "NGE": {
+      "name": "Ngerende airstrip (Mara)",
+      "lat": -1.088,
+      "lng": 35.187,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "SAM": {
+      "name": "Samburu / Buffalo Springs",
+      "lat": 0.585,
+      "lng": 37.555,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NYA": {
+      "name": "Thomson's Falls (Nyahururu)",
+      "lat": 0.045,
+      "lng": 36.3639,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "CDG": {
+      "name": "Paris Charles de Gaulle (transit)",
+      "lat": 49.0097,
+      "lng": 2.5479,
+      "kind": "transit",
+      "country": "France"
+    },
+    "RAK": {
+      "name": "Marrakech",
+      "lat": 31.6295,
+      "lng": -7.9811,
+      "kind": "abroad",
+      "country": "Morocco"
+    },
+    "AITB": {
+      "name": "Ait Benhaddou",
+      "lat": 31.047,
+      "lng": -7.1318,
+      "kind": "abroad",
+      "country": "Morocco"
+    },
+    "TODR": {
+      "name": "Todra Gorge / Tinghir",
+      "lat": 31.587,
+      "lng": -5.589,
+      "kind": "nature",
+      "country": "Morocco"
+    },
+    "ERG": {
+      "name": "Erg Chebbi desert camp",
+      "lat": 31.14,
+      "lng": -3.97,
+      "kind": "nature",
+      "country": "Morocco"
+    },
+    "MRZ": {
+      "name": "Merzouga",
+      "lat": 31.0802,
+      "lng": -4.0133,
+      "kind": "nature",
+      "country": "Morocco"
+    },
+    "AZR": {
+      "name": "Azrou / Cedre Gouraud forest",
+      "lat": 33.434,
+      "lng": -5.221,
+      "kind": "nature",
+      "country": "Morocco"
+    },
+    "CMN": {
+      "name": "Casablanca Mohammed V (transit)",
+      "lat": 33.3675,
+      "lng": -7.5898,
+      "kind": "transit",
+      "country": "Morocco"
+    },
+    "CAI": {
+      "name": "Cairo International (transit)",
+      "lat": 30.1219,
+      "lng": 31.4056,
+      "kind": "transit",
+      "country": "Egypt"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-19",
+      "from": "LAX",
+      "to": "CDG",
+      "mode": "flight",
+      "duration": "~10.5h",
+      "detail": "Overnight transatlantic, e.g. Air France/Delta LAX-CDG afternoon departure, arriving ~10:00-11:30 Dec 20. Alternatives: Iberia via MAD, or a Star Alliance ticket via FRA/MUC. Royal Air Maroc's LAX-CMN nonstop AT251 does not fly Saturdays (Sun/Tue/Fri only)."
+    },
+    {
+      "date": "2026-12-20",
+      "from": "CDG",
+      "to": "RAK",
+      "mode": "flight",
+      "duration": "~3.5h",
+      "detail": "Paris-Marrakech (Air France/Transavia/Royal Air Maroc), ~2-3h connection; arrive RAK late afternoon. Then ~25 min taxi or riad pickup to the medina (~150-200 MAD)."
+    },
+    {
+      "date": "2026-12-22",
+      "from": "RAK",
+      "to": "AITB",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Private driver over the High Atlas via the Tizi n'Tichka pass (2,260 m). ~190 km; stops at an argan co-op and pass viewpoints, lunch at Telouet optional."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "AITB",
+      "to": "TODR",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Via Ouarzazate, Skoura palmery, the Dades Valley and its gorge switchbacks to Todra Gorge. ~280 km with frequent stops."
+    },
+    {
+      "date": "2026-12-24",
+      "from": "TODR",
+      "to": "MRZ",
+      "mode": "road",
+      "duration": "~3h",
+      "detail": "Tinghir-Alnif-Rissani-Merzouga, ~200 km. Drop luggage at the auberge and keep a small overnight bag."
+    },
+    {
+      "date": "2026-12-24",
+      "from": "MRZ",
+      "to": "ERG",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Camel trek (or 4x4 if preferred) into the Erg Chebbi dunes at sunset to the camp."
+    },
+    {
+      "date": "2026-12-25",
+      "from": "ERG",
+      "to": "MRZ",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "Camel or 4x4 back after the dune sunrise; rest of day easy in Merzouga."
+    },
+    {
+      "date": "2026-12-26",
+      "from": "MRZ",
+      "to": "AZR",
+      "mode": "road",
+      "duration": "~5h",
+      "detail": "Erfoud-Errachidia-Ziz Gorges-Midelt-Azrou, ~370 km. Break at Errachidia and lunch in Midelt; arrive at the Cedre Gouraud forest by ~15:00 for macaques. This is the longest drive, at the 5h limit."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "AZR",
+      "to": "CMN",
+      "mode": "road",
+      "duration": "~3.5h",
+      "detail": "Leave ~07:30 via Meknes on the A2/A1 toll motorways to Casablanca Mohammed V airport (~300 km), arriving ~11:00 for the 13:30 departure. Backup: Fes airport (1h15) plus a Royal Air Maroc domestic flight to CMN."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "CMN",
+      "to": "CAI",
+      "mode": "flight",
+      "duration": "~5h",
+      "detail": "EgyptAir MS848 CMN 13:30 (T2) to CAI 20:25 (T3), A321neo, operates daily per 2026 tracker data. ~3.5h airside connection."
+    },
+    {
+      "date": "2026-12-28",
+      "from": "CAI",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~5h",
+      "detail": "EgyptAir MS849 CAI 23:55 Dec 27 to NBO 04:55 Dec 28 (737-800). Some 2026 dates show a 20:55 departure instead, which would not connect, so verify the December schedule before booking. Backups: Qatar QR1396 CMN 20:50 Dec 26 to DOH 06:00, then QR1341 DOH 18:45 to NBO 23:50 Dec 27 (needs a Dec 26 Casablanca departure and drops Azrou). Or Turkish TK618 CMN Dec 26 to IST with an overnight, then TK607 IST 18:45 Dec 27 to NBO 01:25 Dec 28."
+    },
+    {
+      "date": "2026-12-28",
+      "from": "NBO",
+      "to": "KAR",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Pre-booked taxi, ~$15/car"
+    },
+    {
+      "date": "2026-12-29",
+      "from": "KAR",
+      "to": "OPC",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Crew vehicle via Nanyuki",
+      "choice": {
+        "alt_id": "fly-nanyuki",
+        "chosen": {
+          "label": "Drive",
+          "mode": "road",
+          "door_to_door": "~4h",
+          "cost_pp": 0,
+          "note": "In crew price. Scenic; equator stop."
+        },
+        "other": {
+          "label": "Fly Wilson → Nanyuki",
+          "mode": "flight",
+          "door_to_door": "~2.5h (50m flight)",
+          "cost_pp": 204,
+          "note": "Safarilink ~$204 pp; crew still drives up empty. 15 kg soft bags."
+        }
+      }
+    },
+    {
+      "date": "2026-12-31",
+      "from": "OPC",
+      "to": "SAM",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "Via Nanyuki + Isiolo; tarmac"
+    },
+    {
+      "date": "2027-01-03",
+      "from": "SAM",
+      "to": "NYA",
+      "mode": "road",
+      "duration": "~3.5h",
+      "detail": "Via Isiolo + Nanyuki"
+    },
+    {
+      "date": "2027-01-04",
+      "from": "NYA",
+      "to": "NAK",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Downhill via Subukia"
+    },
+    {
+      "date": "2027-01-06",
+      "from": "NAK",
+      "to": "KAK",
+      "mode": "road",
+      "duration": "~4–4.5h",
+      "detail": "Via Eldoret"
+    },
+    {
+      "date": "2027-01-08",
+      "from": "KAK",
+      "to": "KER",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "Via Kisumu"
+    },
+    {
+      "date": "2027-01-09",
+      "from": "KER",
+      "to": "MARA",
+      "mode": "road",
+      "duration": "~3–3.5h",
+      "detail": "Via Bomet + Mulot; last hour rough"
+    },
+    {
+      "date": "2027-01-13",
+      "from": "MARA",
+      "to": "NAI",
+      "mode": "road",
+      "duration": "~4–4.5h",
+      "detail": "Via Narok + Mai Mahiu",
+      "choice": {
+        "alt_id": "fly-mara",
+        "chosen": {
+          "label": "Drive via Naivasha (overnight there)",
+          "mode": "road",
+          "door_to_door": "~4–4.5h, then 2.5–3h next day",
+          "cost_pp": 0,
+          "note": "Two easy road days; adds a lake night + Hell's Gate."
+        },
+        "other": {
+          "label": "Fly Mara → Wilson; Nairobi instead of Naivasha",
+          "mode": "flight",
+          "door_to_door": "~2.5h, one day",
+          "cost_pp": -90,
+          "note": "Flight ~$230, minus 2 crew days + Naivasha camp + Hell's Gate + tips (~$440), plus 2 Nairobi hotel nights + meals (~$120). Loses Naivasha + Hell's Gate."
+        }
+      }
+    },
+    {
+      "date": "2027-01-15",
+      "from": "NAI",
+      "to": "JKH",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "A104 + Southern Bypass"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "JKH",
+      "to": "NBO",
+      "mode": "road",
+      "duration": "~15m",
+      "detail": "03:00 hotel shuttle"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "NBO",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~7h",
+      "detail": "TK608 04:50 → 11:45"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "IST",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~13h45",
+      "detail": "~2h45 connect; TK9 ~14:30 → ~18:15 same day"
+    }
+  ],
+  "stays": [
+    {
+      "place": "RAK",
+      "from": "2026-12-20",
+      "nights": 2,
+      "label": "Marrakech medina riad"
+    },
+    {
+      "place": "AITB",
+      "from": "2026-12-22",
+      "nights": 1,
+      "label": "Ait Benhaddou kasbah guesthouse"
+    },
+    {
+      "place": "TODR",
+      "from": "2026-12-23",
+      "nights": 1,
+      "label": "Todra Gorge auberge"
+    },
+    {
+      "place": "ERG",
+      "from": "2026-12-24",
+      "nights": 1,
+      "label": "Erg Chebbi desert camp"
+    },
+    {
+      "place": "MRZ",
+      "from": "2026-12-25",
+      "nights": 1,
+      "label": "Merzouga auberge"
+    },
+    {
+      "place": "AZR",
+      "from": "2026-12-26",
+      "nights": 1,
+      "label": "Azrou / Ifrane hotel"
+    },
+    {
+      "place": "KAR",
+      "from": "2026-12-28",
+      "nights": 1,
+      "label": "Nairobi rest"
+    },
+    {
+      "place": "OPC",
+      "from": "2026-12-29",
+      "nights": 2,
+      "label": "Ol Pejeta"
+    },
+    {
+      "place": "SAM",
+      "from": "2026-12-31",
+      "nights": 3,
+      "label": "Samburu"
+    },
+    {
+      "place": "NYA",
+      "from": "2027-01-03",
+      "nights": 1,
+      "label": "Thomson's Falls"
+    },
+    {
+      "place": "NAK",
+      "from": "2027-01-04",
+      "nights": 2,
+      "label": "Lake Nakuru"
+    },
+    {
+      "place": "KAK",
+      "from": "2027-01-06",
+      "nights": 2,
+      "label": "Kakamega forest"
+    },
+    {
+      "place": "KER",
+      "from": "2027-01-08",
+      "nights": 1,
+      "label": "Kericho"
+    },
+    {
+      "place": "MARA",
+      "from": "2027-01-09",
+      "nights": 4,
+      "label": "Mara conservancy"
+    },
+    {
+      "place": "NAI",
+      "from": "2027-01-13",
+      "nights": 2,
+      "label": "Naivasha · Hell's Gate"
+    },
+    {
+      "place": "JKH",
+      "from": "2027-01-15",
+      "nights": 1,
+      "label": "Airport hotel"
+    }
+  ],
+  "fatigue_check": "**Morocco stopover (Dec 19–28):**\nTravel hours per day. Dec 19: ~10.5h flight. Dec 20: ~6h (connection + 3.5h flight + transfer). Dec 21: 0 (rest). Dec 22: ~4h road. Dec 23: ~4h road. Dec 24: ~3h road + 1.5h camel. Dec 25: ~1h (rest). Dec 26: ~5h road. Dec 27: ~3.5h road + ~5h flight + ~3.5h layover + ~5h overnight flight (arrives NBO 04:55 Dec 28). Dec 28: Nairobi rest day (Kenya plan). Pace: the ~5h max road rule is met every day, with Dec 26 at the limit. There is a rest day after the long-haul arrival (Dec 21) and after the desert (Dec 25). The weak point is Dec 26-27: two hard days back to back, ending in an overnight flight. The Dec 28 Nairobi rest day softens it. If that is too much, drop Azrou and the macaques and fly Errachidia-Casablanca on Dec 26, or overnight in Casablanca.\n\n**Kenya (from Dec 28):**\nDoor-to-door travel per day:\n- Dec 26–27 | flights (~13h + 6.5h) | long-haul\n- Dec 28 | 20m taxi at 03:30 | REST\n- Dec 29 | ~4h road | medium (after rest day)\n- Dec 30 | 0 | REST\n- Dec 31 | 2.5–3h road | light\n- Jan 1–2 | 0 | REST ×2\n- Jan 3 | ~3.5h road | medium\n- Jan 4 | ~1.5h road | light\n- Jan 5 | 0 | REST\n- Jan 6 | 4–4.5h road | long (after rest day)\n- Jan 7 | 0 | REST\n- Jan 8 | 2.5–3h road | light\n- Jan 9 | 3–3.5h road | medium\n- Jan 10–11 | 0 | REST ×2\n- Jan 12 | 0 | REST (extra Mara day)\n- Jan 13 | 4–4.5h road | long (after 3 Mara rest days)\n- Jan 14 | ~30m local (Hell's Gate) | REST-ish\n- Jan 15 | 2.5–3h road | light\n- Jan 16 | 15m + 7h + 2h45 connect + 13h45 | long-haul home (~25h, 02:45 wake)\n\nRules:\n- **Max ~5h road:** met; longest 4–4.5h.\n- **No back-to-back ≥3.5h:** met.\n- **Rest days:** 9 with no transfer (incl. easy Hell's Gate day) + arrival rest day.\n- 1-night stops are transit: Thomson's Falls, Kericho, airport.\n- Jan 16 is the one hard day: sleep early Jan 15; sleep on the long flight.",
+  "hero_photo": "Todgha_Gorge",
+  "photos": {
+    "MARA": {
+      "name": "Masai Mara conservancy",
+      "wiki": [
+        "Maasai_Mara",
+        "Lion",
+        "Cheetah",
+        "Maasai_people"
+      ]
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "wiki": [
+        "Ol_Pejeta_Conservancy",
+        "Black_rhinoceros",
+        "Northern_white_rhinoceros",
+        "Mount_Kenya"
+      ]
+    },
+    "NAK": {
+      "name": "Lake Nakuru",
+      "wiki": [
+        "Lake_Nakuru_National_Park",
+        "Lesser_flamingo",
+        "Rothschild's_giraffe",
+        "Southern_white_rhinoceros"
+      ]
+    },
+    "NAI": {
+      "name": "Lake Naivasha & Hell's Gate",
+      "wiki": [
+        "Lake_Naivasha",
+        "Hell's_Gate_National_Park",
+        "Hippopotamus",
+        "African_fish_eagle"
+      ]
+    },
+    "KAR": {
+      "name": "Nairobi",
+      "wiki": [
+        "Giraffe_Centre",
+        "David_Sheldrick_Wildlife_Trust",
+        "Nairobi_National_Park",
+        "Karen_Blixen_Museum"
+      ]
+    },
+    "JKH": {
+      "name": "Nairobi airport area",
+      "wiki": [
+        "Jomo_Kenyatta_International_Airport"
+      ]
+    },
+    "KAK": {
+      "name": "Kakamega rainforest",
+      "wiki": [
+        "Kakamega_Forest",
+        "Mantled_guereza",
+        "Great_blue_turaco",
+        "De_Brazza's_monkey"
+      ]
+    },
+    "KER": {
+      "name": "Kericho tea country",
+      "wiki": [
+        "Kericho"
+      ]
+    },
+    "SAM": {
+      "name": "Samburu",
+      "wiki": [
+        "Samburu_National_Reserve",
+        "Grevy's_zebra",
+        "Gerenuk",
+        "Reticulated_giraffe"
+      ]
+    },
+    "NYA": {
+      "name": "Thomson's Falls",
+      "wiki": [
+        "Thomson's_Falls"
+      ]
+    },
+    "RAK": {
+      "name": "Marrakech",
+      "wiki": [
+        "Marrakesh",
+        "Jemaa_el-Fnaa",
+        "Majorelle_Garden",
+        "Medina_of_Marrakesh"
+      ]
+    },
+    "AITB": {
+      "name": "Ait Benhaddou",
+      "wiki": [
+        "Ait_Benhaddou",
+        "Tizi_n'Tichka",
+        "High_Atlas"
+      ]
+    },
+    "TODR": {
+      "name": "Todra Gorge / Tinghir",
+      "wiki": [
+        "Todgha_Gorge",
+        "Dadès_Gorges",
+        "Tinghir"
+      ]
+    },
+    "ERG": {
+      "name": "Erg Chebbi desert camp",
+      "wiki": [
+        "Erg_Chebbi",
+        "Sahara",
+        "Dromedary"
+      ]
+    },
+    "MRZ": {
+      "name": "Merzouga",
+      "wiki": [
+        "Merzouga",
+        "Erg_Chebbi",
+        "Gnawa_music"
+      ]
+    },
+    "AZR": {
+      "name": "Azrou / Cedre Gouraud forest",
+      "wiki": [
+        "Azrou",
+        "Ifrane_National_Park",
+        "Barbary_macaque",
+        "Middle_Atlas"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Barbary macaque",
+      "wiki": "Barbary_macaque",
+      "where": "Cedre Gouraud forest, Azrou/Ifrane (Middle Atlas)",
+      "odds": "Very high (~90%); habituated troops near the road"
+    },
+    {
+      "name": "Dromedary",
+      "wiki": "Dromedary",
+      "where": "Merzouga / Erg Chebbi",
+      "odds": "Certain (you ride them)"
+    },
+    {
+      "name": "Desert sparrow",
+      "wiki": "Desert_sparrow",
+      "where": "Merzouga area (birding guides know the spots)",
+      "odds": "Good with a local guide"
+    },
+    {
+      "name": "Moussier's redstart",
+      "wiki": "Moussier's_redstart",
+      "where": "High Atlas (Tichka) and Middle Atlas",
+      "odds": "High"
+    },
+    {
+      "name": "Levaillant's woodpecker",
+      "wiki": "Levaillant's_woodpecker",
+      "where": "Azrou cedar forest",
+      "odds": "Moderate"
+    },
+    {
+      "name": "Greater flamingo",
+      "wiki": "Greater_flamingo",
+      "where": "Dayet Srji lake, Merzouga",
+      "odds": "Low-moderate; depends on the lake having water after rain"
+    },
+    {
+      "name": "White stork",
+      "wiki": "White_stork",
+      "where": "Marrakech rooftops, Ouarzazate",
+      "odds": "Moderate in winter"
+    },
+    {
+      "name": "Fennec fox",
+      "wiki": "Fennec_fox",
+      "where": "Erg Chebbi at night",
+      "odds": "Low (~10%); tracks are common, sightings are not"
+    },
+    {
+      "name": "Barbary ground squirrel",
+      "wiki": "Barbary_ground_squirrel",
+      "where": "Rocky Atlas slopes / Dades",
+      "odds": "Low-moderate in December"
+    },
+    {
+      "name": "Grevy's zebra",
+      "wiki": "Grevy's_zebra",
+      "where": "Samburu, Ol Pejeta",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Reticulated giraffe",
+      "wiki": "Reticulated_giraffe",
+      "where": "Samburu",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Gerenuk",
+      "wiki": "Gerenuk",
+      "where": "Samburu",
+      "odds": "Likely"
+    },
+    {
+      "name": "Beisa oryx",
+      "wiki": "East_African_oryx",
+      "where": "Samburu",
+      "odds": "Likely"
+    },
+    {
+      "name": "Somali ostrich",
+      "wiki": "Somali_ostrich",
+      "where": "Samburu",
+      "odds": "Likely"
+    },
+    {
+      "name": "Vulturine guineafowl",
+      "wiki": "Vulturine_guineafowl",
+      "where": "Samburu",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Black rhino",
+      "wiki": "Black_rhinoceros",
+      "where": "Ol Pejeta, Nakuru",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Northern white rhino",
+      "wiki": "Northern_white_rhinoceros",
+      "where": "Ol Pejeta (paid visit)",
+      "odds": "With visit"
+    },
+    {
+      "name": "Chimpanzee",
+      "wiki": "Chimpanzee",
+      "where": "Ol Pejeta sanctuary",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Rothschild's giraffe",
+      "wiki": "Rothschild's_giraffe",
+      "where": "Lake Nakuru",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Lesser flamingo",
+      "wiki": "Lesser_flamingo",
+      "where": "Lake Nakuru",
+      "odds": "Varies"
+    },
+    {
+      "name": "Black-and-white colobus",
+      "wiki": "Mantled_guereza",
+      "where": "Kakamega",
+      "odds": "Very likely"
+    },
+    {
+      "name": "De Brazza's monkey",
+      "wiki": "De_Brazza's_monkey",
+      "where": "Kakamega",
+      "odds": "Likely"
+    },
+    {
+      "name": "Great blue turaco",
+      "wiki": "Great_blue_turaco",
+      "where": "Kakamega",
+      "odds": "Likely"
+    },
+    {
+      "name": "Lion",
+      "wiki": "Lion",
+      "where": "Mara, Ol Pejeta",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Cheetah",
+      "wiki": "Cheetah",
+      "where": "Mara, Samburu",
+      "odds": "Likely"
+    },
+    {
+      "name": "Leopard",
+      "wiki": "African_leopard",
+      "where": "Samburu, Mara",
+      "odds": "Lucky"
+    },
+    {
+      "name": "African wild dog",
+      "wiki": "African_wild_dog",
+      "where": "Laikipia, Samburu",
+      "odds": "Lucky"
+    },
+    {
+      "name": "Elephant",
+      "wiki": "African_bush_elephant",
+      "where": "Samburu, Mara, Ol Pejeta",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "where": "Naivasha, Mara",
+      "odds": "Very likely"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Kenya",
+      "country": "Kenya"
+    },
+    "budget_target": {
+      "low": 5000,
+      "high": 6000
+    },
+    "currency": "USD"
+  },
+  "id": "pre-morocco",
+  "label": "Morocco Atlas + Sahara",
+  "summary": "7 nights from Marrakech over the High Atlas to the Erg Chebbi dunes (Christmas Eve in a desert camp), then north to the Middle Atlas cedar forest for Barbary macaques. Fly out from Casablanca via Cairo and land in Nairobi at about 04:55 on Dec 28. Then the Wild loop.",
+  "prelude": {
+    "country": "Morocco",
+    "advisory_level": "US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.",
+    "advisory_short": "Level 2: Exercise Increased Caution",
+    "safety_short": "Stable and tourist-friendly. Risks: general terrorism alert, petty theft, medina hustlers, winter mountain roads.",
+    "verdict_short": "Worth it if you want a big change of scenery and culture before Kenya: Atlas passes, kasbahs, gorges, Sahara dunes and the macaques.",
+    "safety": "Morocco is one of the more stable and tourist-friendly countries in Africa. The Level 2 rating reflects a general terrorism risk; terrorists may target tourist sites, transport hubs and markets. The last deadly attacks on tourists were the 2011 Marrakech cafe bombing and the 2018 killing of two hikers near Imlil. The everyday risks are petty theft, medina hustlers, and mountain driving in winter. Merzouga is close to the closed Algerian border, but the tourist dune area is routinely visited and safe.",
+    "visa": "US passport: Morocco is visa-free for up to 90 days (passport must be valid 6+ months on entry; one blank page). Paris (CDG) airside transit needs no visa, and the EU EES/ETIAS systems do not apply to airside transit. Cairo transit: no Egyptian visa needed if you stay airside. Kenya eTA is still required as in the base plan, so make sure it covers a Dec 28 entry.",
+    "weather": "Dry season, mostly sunny. Marrakech highs ~18-20 C, lows ~5-7 C. Ouarzazate/Dades: highs ~16-18 C, nights ~0-3 C. Merzouga/Erg Chebbi: days ~17-20 C, nights ~1-5 C (camps provide heavy blankets). Azrou/Ifrane (1,250-1,650 m): highs ~10 C, nights below freezing; snow is possible, and the macaques in snow are a bonus. Tizi n'Tichka can close briefly after snowfall. Short days: sunset ~17:45.",
+    "verdict": "Worth it if you want a big change of scenery and culture before Kenya: Atlas passes, kasbahs, gorges, Sahara dunes and the macaques. The wildlife is thin next to East Africa, though: apart from the macaques and camels it is mostly birds. The main drawbacks are the long Dec 27 flight day via Cairo, with no nonstop to Nairobi, and desert nights near freezing. It adds about $2,000 pp all-in over the base trip. Checked: Level 2 advisory (Sep 4 2026), visa-free entry, the AT251 Sun/Tue/Fri pattern and MS848 (daily, 13:30-20:25) are all confirmed. Changed: flagged that MS849's Cairo departure has moved between 20:55 and 23:55 during 2026 (the 20:55 slot would break the connection), corrected the Azrou-CMN distance to ~300 km, and confirmed that the budget sums (~$3,495 pp, +$1,995 vs base) and every low ≤ planned ≤ high range hold.",
+    "extra_usd": 1995,
+    "base": "wild-loop"
+  }
+}

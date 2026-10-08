@@ -1035,11 +1035,9 @@
           html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Stopover before Kenya</th></tr>';
           html += row('Country', cols.map(function (c) { return pre(c) ? pre(c).country : null; }), null, { noBest: true });
           html += row('Extra vs Wild loop', cols.map(function (c) { return pre(c) ? pre(c).extra_usd : null; }), function (v) { return '+' + usd(v); });
-          html += row('US advisory', cols.map(function (c) { return pre(c) ? pre(c).advisory_level : null; }), null, { noBest: true });
-          html += row('Safety', cols.map(function (c) { return pre(c) ? pre(c).safety : null; }), null, { noBest: true, cls: 'long' });
-          html += row('Visa', cols.map(function (c) { return pre(c) ? pre(c).visa : null; }), null, { noBest: true, cls: 'long' });
-          html += row('Late-Dec weather', cols.map(function (c) { return pre(c) ? pre(c).weather : null; }), null, { noBest: true, cls: 'long' });
-          html += row('Verdict', cols.map(function (c) { return pre(c) ? pre(c).verdict : null; }), null, { noBest: true, cls: 'long' });
+          html += row('US advisory', cols.map(function (c) { return pre(c) ? pre(c).advisory_short || pre(c).advisory_level : null; }), null, { noBest: true });
+          html += row('Safety', cols.map(function (c) { return pre(c) ? pre(c).safety_short || pre(c).safety : null; }), null, { noBest: true, cls: 'long' });
+          html += row('Verdict', cols.map(function (c) { return pre(c) ? pre(c).verdict_short || pre(c).verdict : null; }), null, { noBest: true, cls: 'long' });
         }
         html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Cost per person</th></tr>';
         html += row('<b>Planned total</b>', cols.map(function (c) { return c.m.total; }), function (v) { return '<b>' + usd(v) + '</b>'; }, { cls: 'total' });

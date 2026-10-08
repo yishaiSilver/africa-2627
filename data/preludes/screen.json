@@ -1,0 +1,60 @@
+{
+  "options": [
+    {
+      "country": "Rwanda",
+      "idea": "Volcanoes NP mountain gorillas (1 trek), plus Nyungwe Forest chimps and canopy walk, with Kigali Genocide Memorial for culture. Fly Dec 19 LAX-IST-KGL on TK, then RwandAir or Kenya Airways KGL-NBO (about 1h15) on Dec 26/27. Kigali-Musanze is about 2.5h by road and Kigali-Nyungwe about 5-6h, so both fit the road limit but leave you tight on rest days.",
+      "est_cost_pp_usd": "$2,900-4,200 pp with a gorilla permit ($1,500 of that is the permit; flight delta about +$200-500 over the $1,500 base; driver/guide about $150-200 per day for the vehicle, split between 2; guesthouses $40-90). Without gorillas: about $1,400-2,200.",
+      "advisory_level": "Level 3 - Reconsider Travel (issued Jun 4 2026; cites crime, unrest and HEALTH; do not travel within 10 km of the DRC border)",
+      "safety": "Kigali and the tourist circuits are normally among the safest and best organized in Africa. The Level 3 rating is driven mainly by the regional Ebola/Marburg situation (Uganda reported a Marburg case in July 2026 during an Ebola response) and by the eastern DRC conflict. Gisenyi/Rubavu and parts of Volcanoes NP sit near the DRC border, inside the 10 km zone. The State Department says it has limited ability to help US citizens in an emergency. Check the health situation again in Nov/Dec, since gorilla treks get cancelled when there is disease risk.",
+      "fit": "Good fit on wildlife: gorillas are the best 'exotic' complement to a Kenya savanna safari, and travel is short and easy. The current Level 3 health warning and the $1,500 permit are the catch. Uganda gets you gorillas cheaper (permit about $800) but has the active outbreak."
+    },
+    {
+      "country": "Ethiopia",
+      "idea": "Simien Mountains geladas and walia ibex, Bale Mountains Ethiopian wolves, Lalibela rock churches over Ethiopian Christmas. Ethiopian Airlines ADD-NBO runs several flights a day (about 2h), so connections are easy.",
+      "est_cost_pp_usd": "$1,300-2,300 pp (flight delta about +$0-400 routing via ADD; a guided Simien trek with scout and park fees is about $400-800; domestic flights add about $100-200 per leg with an ET international ticket)",
+      "advisory_level": "Level 3 - Reconsider Travel (issued Aug 27 2026); Do Not Travel for Amhara, Tigray, Afar, Gambella, Benishangul-Gumuz and parts of Oromia",
+      "safety": "The headline sites are effectively off-limits: the Simien Mountains, Gondar and Lalibela are all in Amhara, which is Do Not Travel because of the ongoing Fano conflict, road ambushes, kidnappings and communications blackouts. Bale is in Oromia, which also has DNT pockets. The Marburg outbreak in the south was declared over on Jan 26 2026. US dual nationals must not enter on an Ethiopian passport. Note that Ethiopian Christmas is Jan 7, not Dec 25.",
+      "fit": "Poor fit right now. The wildlife (geladas, Ethiopian wolves) is superb and the flights are cheap, but the best areas are in Do Not Travel zones. Addis plus a short stay near Bale is possible but a weak version of the trip."
+    },
+    {
+      "country": "Tanzania",
+      "idea": "Tarangire elephants and baobabs, Ngorongoro Crater, Lake Manyara, starting from Arusha (JRO) with Arusha-Nairobi by shuttle (about 5-6h) or a short flight.",
+      "est_cost_pp_usd": "$1,900-3,200 pp (flight delta about +$150-400; Tanzanian park fees are steep: Tarangire/Manyara about $59-83 pp per day, Ngorongoro about $71 pp plus about $295 per vehicle for the crater descent; a budget camping safari is about $250-350 pp per day)",
+      "advisory_level": "Level 3 - Reconsider Travel since Oct 31 2025, after the election unrest (I found no 2026 change; verify)",
+      "safety": "The northern safari circuit has kept running. Following the disputed October 2025 election there were curfews, internet blackouts, protests (one called for Dec 9 2025), and reports of foreigners being temporarily detained. Watch for any repeat around anniversaries. The usual crime and carjacking warnings apply in towns, and the advisory explicitly flags the targeting of LGBTQ people.",
+      "fit": "Poor-to-ok fit. It is excellent wildlife, but it largely duplicates the 19-night Kenya road safari (same savanna, same species, Ngorongoro aside) at higher park fees. It makes more sense to add Ngorongoro to the Kenya leg than to use it as a separate stopover."
+    },
+    {
+      "country": "Madagascar",
+      "idea": "Lemurs (indri at Andasibe-Mantadia, about 3.5-4h from Antananarivo), chameleons, Ranomafana, and baobabs if you fly to Morondava. Fly into TNR via IST, ADD or NBO; Kenya Airways and Airlink/Ethiopian run TNR-NBO.",
+      "est_cost_pp_usd": "$2,000-3,300 pp (flight delta about +$500-1,000 because TNR is a separate long sector; private driver about $70-100 per day per vehicle; guesthouses $30-70; e-visa about $35-45 for 15 days)",
+      "advisory_level": "Level 2 - Exercise Increased Caution (raised to 3 in Sep 2025 during the unrest and coup, lowered in Dec 2025; verify)",
+      "safety": "The political transition after the 2025 military takeover is still fragile, so protests are possible in Antananarivo. Street crime and night-time road banditry are serious: never drive after dark. December is the start of the rainy season with cyclone risk from about Jan-Mar. Roads (RN7) are slow and potholed, and domestic Tsaradia flights are unreliable.",
+      "fit": "Ok fit. The wildlife is unique and the most 'exotic' option on the list, but rains, slow roads and flight unreliability conflict with the no-exhausting-travel rule. Andasibe plus Antananarivo alone fits the 5h road limit."
+    },
+    {
+      "country": "Jordan",
+      "idea": "Petra (2 days), Wadi Rum desert camp, Dana Biosphere Reserve hiking, Dead Sea float; Christmas in Madaba or Amman. Fly TK via IST to AMM; there is no AMM-NBO nonstop, so connect via IST, ADD or DOH on Dec 26/27.",
+      "est_cost_pp_usd": "$1,400-2,300 pp (flight delta about +$150-450; the Jordan Pass, about $100-115, covers the visa and Petra; rental car about $35-50 per day; guesthouses and camps $30-70)",
+      "advisory_level": "Level 3 - Reconsider Travel (since Mar 2026 regional hostilities with Iran)",
+      "safety": "On the ground, Jordan's tourist sites are normally very safe and friendly. The current Level 3 is regional: during the Iran conflict there were missile and drone overflights, and an Iranian strike in Jul 2026 killed US personnel in the region. Airspace closures could disrupt flights. Avoid the Syria and Iraq border areas. Ceasefire status needs checking close to departure.",
+      "fit": "Ok fit on experience (dramatic desert scenery and strong culture, easy drives of 3h or less), but weak on wildlife, which is your top priority. The regional security picture and the airspace-closure risk to an onward flight into Kenya are real concerns."
+    },
+    {
+      "country": "Oman",
+      "idea": "Wahiba Sands desert camp, Wadi Shab/Bani Khalid, Jebel Shams canyon and Nizwa fort/souq, plus green turtle nesting at Ras al Jinz. Self-drive, with flights via IST or DXB/DOH to NBO.",
+      "est_cost_pp_usd": "$1,600-2,600 pp (flight delta about +$200-500; rental car about $30-45 per day, 4x4 about $80-100; guesthouses $50-100; visa-free for US citizens up to 14 days)",
+      "advisory_level": "Level 3 - Reconsider Travel (raised Aug 31 2026; armed conflict/terrorism, drone and missile threat from Iran)",
+      "safety": "Oman has traditionally been one of the safest Gulf states, with low crime and good roads. The new Level 3 is specifically about Iranian drone and missile risk, and it was raised recently, which suggests the trend is worsening. Gulf airspace closures could strand you before your fixed Nairobi start.",
+      "fit": "Poor fit right now. The landscapes are beautiful and travel is easy, but it is light on wildlife (turtles aside), and the advisory was raised very recently. Risk of missing the fixed Dec 28 Kenya start is the deciding factor."
+    },
+    {
+      "country": "UAE",
+      "idea": "Dubai/Abu Dhabi culture (Sheikh Zayed Mosque, Louvre AD, old Dubai souqs) plus a desert stay at Al Marmoom or Dubai Desert Conservation Reserve (Arabian oryx). Emirates LAX-DXB-NBO is a single, convenient ticket.",
+      "est_cost_pp_usd": "$1,800-3,000 pp (flight delta about +$0-400 on an Emirates multi-city; hotels in Christmas peak season are expensive, $120-250 per room; activities $50-150 per day)",
+      "advisory_level": "Level 3 - Reconsider Travel (since Mar 2026, Iran hostilities)",
+      "safety": "Street crime is very low. The Level 3 is about regional missile and drone risk and possible airspace or airport disruption; DXB is a major hub and would be hit hard by any escalation. Peak-season crowds and prices over Christmas.",
+      "fit": "Poor fit. Wildlife is minimal and it is the most expensive per day, with the same regional risk as Oman and Jordan. Its only advantage is very easy flights."
+    }
+  ]
+}

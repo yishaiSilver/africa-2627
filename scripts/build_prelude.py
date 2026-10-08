@@ -8,6 +8,7 @@ Usage: build_prelude.py [key ...]   (no args = every file in data/preludes/ exce
 """
 import json
 import os
+import re
 import sys
 from datetime import date
 
@@ -19,12 +20,26 @@ def usd(n):
     return f"${n:,.0f}"
 
 
+def short_level(text):
+    m = re.search(r"Level (\d)\s*[–:-]?\s*([A-Za-z ]+?)(?:[.(,;]|$)", text)
+    return f"Level {m.group(1)}: {m.group(2).strip()}" if m else text.split(".")[0]
+
+
+def first_sentence(text):
+    return re.split(r"(?<=[.!?])\s", text.strip(), maxsplit=1)[0]
+
+
 def build(key):
     pre = json.load(open(f"data/preludes/{key}.json"))
     base = json.load(open(BASE))
     country = pre["country"]
 
-    days = [d for d in pre["itinerary"] if d["date"] < JOIN] + [d for d in base["itinerary"] if d["date"] >= JOIN]
+    days = [d for d in pre["itinerary"] if d["date"] < JOIN] + [dict(d) for d in base["itinerary"] if d["date"] >= JOIN]
+    for d in days:
+        if d["date"] == JOIN:  # rewrite the base trip's TK arrival note for this routing
+            first = d["details"].split("Sleep.", 1)
+            d["details"] = ("Wake at the guesthouse (landed last night). Rest." if pre["stays"][-1]["place"] == "KAR"
+                            else "Land early morning (see Route). Taxi (~20m) to guesthouse (room held from Dec 27). Sleep.") + (first[1] if len(first) > 1 else "")
     for i, d in enumerate(days):
         d["day_label"] = f"Day {i + 1} – {date.fromisoformat(d['date']).strftime('%a')}"
 
@@ -38,11 +53,15 @@ def build(key):
         if p.get("wiki") and p["kind"] != "transit":
             photos[code] = {"name": p["name"], "wiki": p["wiki"]}
 
+    arrived_dec27 = pre["stays"][-1]["place"] == "KAR"
     pre_legs = [l for l in pre["legs"] if l["date"] < JOIN or l["to"] == "NBO"]
-    legs = pre_legs + [l for l in base["legs"] if l["date"] >= JOIN]
+    base_legs = [l for l in base["legs"] if l["date"] >= JOIN]
+    if arrived_dec27:  # already at the guesthouse; no 03:00 airport taxi on Dec 28
+        base_legs = [l for l in base_legs if not (l["date"] == JOIN and l["from"] == "NBO")]
+    legs = pre_legs + base_legs
     legs.sort(key=lambda l: l["date"])  # stable: keeps order within a day
 
-    stays = [s for s in pre["stays"] if s["from"] < JOIN]
+    stays = [dict(s, label=re.sub(r"\s*\(.*?\)", "", s["label"]).strip()) for s in pre["stays"] if s["from"] < JOIN]
     base_stays = [dict(s) for s in base["stays"]]
     # Arriving Dec 27 → the Nairobi guesthouse (already held from Dec 27 in the base plan) covers that night too.
     if stays and stays[-1]["place"] == "KAR":
@@ -53,8 +72,9 @@ def build(key):
     base_flight = next(b for b in base["budget"] if b["category"] == "International flights")
     pre_budget = [dict(b) for b in pre["budget"]]
     for b in pre_budget:
-        if b["category"] != "International flights":
-            b["item"] = f"{country}: {b['item']}"
+        if b["category"] != "International flights":  # one compare-table row for the whole stopover
+            b["item"] = f"{b['category']}: {b['item']}"
+            b["category"] = "Stopover (excl. flights)"
     budget = pre_budget + [b for b in base["budget"] if b is not base_flight]
     for b in budget:
         b["low_usd"] = min(b["low_usd"], b["per_person_usd"])
@@ -127,6 +147,9 @@ def build(key):
         "prelude": {
             "country": country,
             "advisory_level": safety["advisory_level"],
+            "advisory_short": short_level(safety["advisory_level"]),
+            "safety_short": pre.get("safety_short") or first_sentence(safety["summary"]),
+            "verdict_short": first_sentence(pre["verdict"]),
             "safety": safety["summary"],
             "visa": pre["visa"],
             "weather": pre["weather_dec"],
