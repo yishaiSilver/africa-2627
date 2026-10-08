@@ -7,14 +7,14 @@
 ## Overview
 
 - **Dates:** LAX **Sat Dec 19** → Egypt → Nairobi → LAX **Sat Jan 16**. Christmas in Egypt; Kenya from Dec 28 is the Wild loop unchanged.
-- **Stopover:** Giza pyramids and the Grand Egyptian Museum, then a flight to Aswan for a Nubian guesthouse, felucca and Nile birding, a drive via Kom Ombo and Edfu to Luxor, and the EgyptAir red-eye CAI-NBO that lands about 02:00-05:00 on Dec 28.
-- **Verdict:** For the money, Egypt gives the biggest "wow" of any stopover: the pyramids, the new Grand Egyptian Museum and the Valley of the Kings, all on a cheap guesthouse budget (about $1,400-1,450 pp extra including the flight delta). It suits travelers who are happy to make culture the main event for a week, because the wildlife here is mostly Nile birds and nothing like Kenya. The downsides are peak-season Christmas crowds, aggressive touts in Giza and Luxor, a pre-dawn arrival in Cairo on Dec 21, and a long Dec 27 that ends in a 5h red-eye. Checked: the proposed TK evening IST-CAI connection after TK10 does not exist (TK694 leaves at 18:25, before TK10 lands), so the plan now uses TK692 at 01:55 and arrives in Cairo before dawn on Dec 21 after a ~7h IST layover; MS849's winter departure time is flagged (trackers show 21:35, 22:55 or 23:55), so the LXR-CAI flight moves to early afternoon; an optional IST airside pod is added to misc and the totals are updated; the advisory (Level 2), visa ($30 VOA since Mar 2026), entry fees, CAI-NBO fares and budget arithmetic were confirmed.
-- **Safety:** US State Dept Level 2: Exercise Increased Caution (terrorism, crime, health). This applies countrywide. Level 4 Do Not Travel covers North and Central Sinai (terrorism), the Western Desert (smuggling, remoteness) and the Egyptian border areas, including Libya and Sudan. Check travel.state.gov before booking, because the 2026 US-Iran/Israel tensions and a fragile ceasefire may change it.. Cairo/Giza, Aswan and Luxor are heavily policed tourist corridors well outside the Do Not Travel zones, and the UK and Australia also treat them as open. The real day-to-day problems are scams, touts, overcharging, traffic and stomach upsets from food or water, not violence. Tourist sites have checkpoints and metal detectors. Women travelers often report verbal harassment. The plan avoids all Sinai and Western Desert travel (no Siwa, White Desert or Bahariya). The optional Fayoum or Wadi El-Hitan day trip sits at the edge of the Western Desert, so only do it with a licensed operator after checking the current advisory wording.
+- **Stopover:** Giza pyramids + GEM; fly to Aswan: Nubian guesthouse, felucca, Nile birding; drive via Kom Ombo/Edfu to Luxor; EgyptAir red-eye CAI-NBO, lands ~02:00-05:00 Dec 28.
+- **Verdict:** Biggest wow per dollar: pyramids, GEM, Valley of the Kings, ~$1,400-1,450 pp extra incl. flight delta. Culture week, not wildlife; costs: Christmas crowds, touts, pre-dawn Dec 21 arrival, long Dec 27 + 5h red-eye.
+- **Safety:** US State Dept Level 2: Increased Caution (terrorism, crime, health), countrywide. Level 4 Do Not Travel: North/Central Sinai (terrorism), Western Desert (smuggling, remoteness), border areas incl. Libya, Sudan. Recheck travel.state.gov before booking; 2026 US-Iran/Israel tensions, fragile ceasefire.. Cairo/Giza, Aswan, Luxor: heavily policed tourist corridors, far from Do Not Travel zones; UK/Australia agree. Real risks: scams, touts, overcharging, traffic, stomach bugs, verbal harassment of women; checkpoints at sites. No Sinai/Western Desert (no Siwa, White Desert, Bahariya); optional Fayoum/Wadi El-Hitan only with licensed operator after advisory check.
 - **Cost:** $9,025 pp, **+$1,425** vs the Wild loop alone ($7,600).
 
-**Highlights:** Giza pyramids and the Sphinx at opening time, staying in a pyramid-view guesthouse with rooftop breakfast · Grand Egyptian Museum (GEM): the full Tutankhamun collection, opened in 2025 · Aswan: sunset felucca around Elephantine and Kitchener's (Botanical) Island, plus a Nile birding boat through the First Cataract granite islands · Christmas Eve in a Nubian village guesthouse on Aswan's west bank (Gharb Soheil) · Philae temple by boat · Kom Ombo (crocodile temple and mummified-crocodile museum) and Edfu, the best-preserved temple in Egypt, on the way to Luxor · Luxor: Valley of the Kings, Hatshepsut temple and Karnak, with an optional sunrise hot-air balloon over the West Bank · EgyptAir MS849 direct CAI-NBO red-eye: no backtracking through Istanbul
+**Highlights:** Giza pyramids + Sphinx at opening; pyramid-view guesthouse, rooftop breakfast · Grand Egyptian Museum (opened 2025): full Tutankhamun collection · Aswan: sunset felucca, Elephantine/Kitchener's Island; birding boat through First Cataract islands · Christmas Eve in Nubian village guesthouse, Gharb Soheil · Philae temple by boat · Kom Ombo (crocodile temple, croc mummy museum) + Edfu, Egypt's best-preserved temple · Luxor: Valley of the Kings, Hatshepsut, Karnak; optional sunrise balloon · MS849 direct CAI-NBO red-eye, no Istanbul backtrack
 
-**Drawbacks:** Wildlife is weak compared with your top interest. You get Nile birds (kingfishers, egrets, kites, hoopoes) and that is about it: no big game and no primates. · December, and Christmas week especially, is peak season. Sites are crowded and Christmas-night lodging books out, so reserve now. · Expect a lot of touts and hassle at Giza and Luxor. Constant tipping requests get tiring. · Getting there is long. TK10 lands at IST about 19:00, and the only same-night TK flight to Cairo is TK692 at 01:55, which means a ~7h layover and landing in CAI about 03:30-04:30 on Dec 21. The earlier TK694 (18:25) leaves before TK10 lands. Alternatives are a non-TK routing via Europe or an IST airside pod (YOTEL Air) to nap in. · Dec 27 is a long day: early-afternoon flight from Luxor, several hours at Cairo airport, then a red-eye. MS849's winter time is unclear: trackers show 21:35, 22:55 or 23:55 departure, landing NBO about 02:35-04:55. All of these land before 06:00, but reconfirm the time once it is ticketed. · Abu Simbel is skipped because it means about 7h round trip by road. The flight version (about $250-350 pp) is the pricier upgrade. · Upgrades: a 3-4 night Nile dahabiya (about $250-450 pppn) or a 3-night cruise ($400+ pp) instead of the car and guesthouses. A private Egyptologist guide costs about $40-60 per day per group. · Entry fees rose sharply in 2025-26 and online sources conflict, so the budget figures are estimates. · This is an open-jaw ticket. If TK will not price LAX-CAI / NBO-LAX cheaply, a separate CAI-NBO one-way leaves the misconnect risk on you. The risk is low here because there is a 4-day buffer before the next flight.
+**Drawbacks:** Weak wildlife: Nile birds only (kingfishers, egrets, kites, hoopoes). No big game, no primates. · Christmas week = peak. Crowds; Christmas lodging sells out, book now. · Heavy touts, tipping demands at Giza, Luxor. · TK10 lands IST ~19:00; only TK692 01:55 (TK694 18:25 leaves earlier). ~7h layover, CAI ~03:30-04:30 Dec 21. Alt: Europe routing or YOTEL Air pod. · Long Dec 27: early-afternoon LXR flight, hours at CAI, red-eye. MS849 dep 21:35/22:55/23:55, lands NBO ~02:35-04:55; reconfirm. · Abu Simbel skipped: ~7h round trip by road; flight ~$250-350 pp upgrade. · Upgrades: dahabiya 3-4 nights ~$250-450 pppn, 3-night cruise $400+ pp; Egyptologist ~$40-60/day/group. · Entry fees jumped 2025-26, sources conflict; budget is estimate. · Open-jaw: separate CAI-NBO one-way means misconnect risk is yours; low, 4-day buffer.
 
 ### Then Kenya (Wild loop)
 - **Route (one camping crew, all road):** Nairobi → Ol Pejeta 2n → **Samburu 3n** (NYE) → Thomson's Falls 1n → Lake Nakuru 2n → **Kakamega rainforest 2n** → Kericho 1n → **Mara conservancy 4n** → Naivasha + Hell's Gate 2n → airport hotel → fly home.
@@ -28,14 +28,14 @@
 
 | Date | Leg | Mode | Time | Notes |
 |---|---|---|---|---|
-| 2026-12-19 | Los Angeles (LAX) → Istanbul Airport (transit) | flight | ~13h | Turkish Airlines TK10, daily. Departs LAX 19:45 (winter schedule from Oct 24 2026), arrives IST 19:00 on Dec 20. B777-300ER. Reconfirm. |
-| 2026-12-21 | Istanbul Airport (transit) → Cairo International Airport | flight | ~2h25 | TK692, daily A330. Departs IST 01:55 on Dec 21 after a ~7h layover; arrives CAI about 03:20-04:20 local (Egypt is on UTC+2 in winter). TK694 (18:25) leaves before TK10 lands, so it is not an option. Visa on arrival: $30 cash. |
-| 2026-12-21 | Cairo International Airport → Giza (pyramids) | road | ~45min | Guesthouse pre-dawn pickup (about $20-25 per car) to the pyramid-view guesthouse in Nazlet el-Semman. Empty roads at that hour. |
-| 2026-12-23 | Giza (pyramids) → Cairo International Airport | road | ~1h | Early-morning Uber to the domestic terminal. Allow extra time for Cairo traffic. |
-| 2026-12-23 | Cairo International Airport → Aswan (Nubian west bank) | flight | ~1h25 | EgyptAir (or Nile Air) morning CAI-ASW, about $60-130 one-way. |
-| 2026-12-25 | Aswan (Nubian west bank) → Luxor (West Bank) | road | ~4h driving (+3h stops) | Private car with driver through the guesthouse (about $90-120 per car). Leave about 8am, stop at Kom Ombo (1h) and Edfu (1.5h), arrive Luxor West Bank late afternoon. |
-| 2026-12-27 | Luxor (West Bank) → Cairo International Airport | flight | ~1h05 | EgyptAir LXR-CAI, early afternoon (aim to land CAI by ~17:00 so any MS849 timing works), about $60-120. |
-| 2026-12-27 | Cairo International Airport → Nairobi (JKIA) | flight | ~5h | EgyptAir MS849, daily B737-800. Trackers show it leaving CAI at 23:55 (landing NBO 04:55 Dec 28), but some dates are 20:55 and December snapshots show 21:35 (landing about 02:35). Every version lands before 06:00 on Dec 28. Reconfirm once ticketed. |
+| 2026-12-19 | Los Angeles (LAX) → Istanbul Airport (transit) | flight | ~13h | TK10 daily B777-300ER, LAX 19:45 (winter sked from Oct 24 2026) → IST 19:00 Dec 20. Reconfirm. |
+| 2026-12-21 | Istanbul Airport (transit) → Cairo International Airport | flight | ~2h25 | TK692 daily A330, IST 01:55 Dec 21 after ~7h layover → CAI ~03:20-04:20 (UTC+2). TK694 (18:25) leaves before TK10 lands. VOA $30 cash. |
+| 2026-12-21 | Cairo International Airport → Giza (pyramids) | road | ~45min | Guesthouse pre-dawn pickup (~$20-25/car) to Nazlet el-Semman. Empty roads. |
+| 2026-12-23 | Giza (pyramids) → Cairo International Airport | road | ~1h | Early Uber to domestic terminal. Pad for traffic. |
+| 2026-12-23 | Cairo International Airport → Aswan (Nubian west bank) | flight | ~1h25 | EgyptAir/Nile Air morning CAI-ASW, ~$60-130 one-way. |
+| 2026-12-25 | Aswan (Nubian west bank) → Luxor (West Bank) | road | ~4h driving (+3h stops) | Private car + driver via guesthouse (~$90-120/car). Leave ~8am; Kom Ombo 1h, Edfu 1.5h; Luxor West Bank late afternoon. |
+| 2026-12-27 | Luxor (West Bank) → Cairo International Airport | flight | ~1h05 | EgyptAir LXR-CAI early afternoon, land CAI by ~17:00 for any MS849 time. ~$60-120. |
+| 2026-12-27 | Cairo International Airport → Nairobi (JKIA) | flight | ~5h | MS849 daily B737-800. CAI 23:55 → NBO 04:55 Dec 28 per trackers; some dates 20:55, Dec snapshots 21:35 (lands ~02:35). All land before 06:00. Reconfirm. |
 | 2026-12-28 | Nairobi (JKIA) → Nairobi (guesthouse) | road | ~20m | Pre-booked taxi, ~$15/car |
 | 2026-12-29 | Nairobi (guesthouse) → Ol Pejeta Conservancy | road | ~4h | Crew vehicle via Nanyuki |
 | 2026-12-31 | Ol Pejeta Conservancy → Samburu / Buffalo Springs | road | ~2.5–3h | Via Nanyuki + Isiolo; tarmac |
@@ -54,55 +54,55 @@
 
 ### Sat Dec 19 — Depart LAX (LAX → Istanbul)
 
-TK10 LAX 19:45 → IST, ~13h overnight. Sleep on the plane.
+TK10 LAX 19:45 → IST, ~13h overnight. Sleep.
 
 *Overnight:* Plane · *Meals:* Dinner and breakfast onboard
 
-### Sun Dec 20 — Long IST layover (Istanbul Airport)
+### Sun Dec 20 — IST layover (Istanbul Airport)
 
-Land IST ~19:00. ~7h airside wait. Lounge, food, or YOTEL Air pod nap (optional). TK692 departs 01:55.
+Land ~19:00. ~7h airside: lounge, food, optional YOTEL Air pod. TK692 01:55.
 
 *Overnight:* Plane · *Meals:* Onboard + IST airport dinner
 
 ### Mon Dec 21 — Pre-dawn arrival, rest, GEM (Cairo → Giza)
 
-Land CAI ~03:30-04:30. Visa $30 cash. Pickup ~45 min. Room ready (Dec 20 night prebooked). Sleep till noon. Late afternoon GEM optional (10-15 min Uber), 2-3h, or save for tomorrow. Early night.
+Land CAI ~03:30-04:30. VOA $30 cash. Pickup ~45 min; room ready (Dec 20 prebooked). Sleep till noon. Optional late GEM (10-15 min Uber, 2-3h) or tomorrow. Early night.
 
 *Overnight:* Giza · *Meals:* B guesthouse late; L/D local koshari/grill
 
 ### Tue Dec 22 — Pyramids + Sphinx (Giza)
 
-Gate opens ~7-8am, so beat the crowds. Visitor Centre shuttle, panorama point, Sphinx. Optional Khufu interior. Back by 1pm, nap. Afternoon GEM if skipped yesterday, or Saqqara (40 min). Evening on the rooftop.
+Gate ~7-8am, beat crowds. Visitor Centre shuttle, panorama, Sphinx; optional Khufu interior. Back 1pm, nap. PM: GEM if skipped, or Saqqara (40 min). Rooftop evening.
 
 *Overnight:* Giza · *Meals:* B guesthouse; L/D local
 
 ### Wed Dec 23 — Fly to Aswan, sunset felucca (Giza → Aswan)
 
-Uber ~1h to CAI, fly ~1h25 to ASW. Car ~30 min + ferry to the Nubian west bank. Late-afternoon felucca 1-2h around Elephantine/Kitchener's Island, birds. Travel ~3.5h total.
+Uber ~1h to CAI, fly ~1h25. Car ~30 min + ferry to west bank. Felucca 1-2h, Elephantine/Kitchener's, birds. ~3.5h travel.
 
 *Overnight:* Aswan · *Meals:* B guesthouse; L/D Nubian home cooking
 
-### Thu Dec 24 — Philae + Nile birding (Christmas Eve) (Aswan)
+### Thu Dec 24 — Philae + birding (Christmas Eve) (Aswan)
 
-Morning: Philae by boat (taxi 20 min + boat 10 min). Afternoon: ~2h birding motorboat through the First Cataract islands, Botanical Island walk. Christmas Eve dinner at the guesthouse. Easy day.
+AM: Philae (taxi 20 min + boat 10 min). PM: ~2h birding boat, First Cataract; Botanical Island walk. Christmas Eve dinner at guesthouse. Easy.
 
 *Overnight:* Aswan · *Meals:* B/D guesthouse; L Aswan corniche
 
-### Fri Dec 25 — Temple road to Luxor (Christmas) (Aswan → Kom Ombo → Edfu → Luxor)
+### Fri Dec 25 — Temple road (Christmas) (Aswan → Kom Ombo → Edfu → Luxor)
 
-Private car at 8am. Kom Ombo (crocodile museum) 1h, Edfu 1.5h. ~4h driving total, arrive Luxor West Bank ~16:00. Relax.
+Car 8am. Kom Ombo 1h, Edfu 1.5h. ~4h driving; Luxor West Bank ~16:00. Relax.
 
 *Overnight:* Luxor · *Meals:* B guesthouse; L roadside Edfu; D guesthouse
 
 ### Sat Dec 26 — Valley of the Kings (Luxor West Bank)
 
-Optional sunrise balloon at 05:30. Valley of the Kings (3 tombs), Hatshepsut, Colossi of Memnon by taxi/bike, done by 1pm. Afternoon rest. Evening: Luxor Temple lit up (ferry 10 min).
+Optional balloon 05:30. VoK (3 tombs), Hatshepsut, Colossi by taxi/bike, done 1pm. Rest. Evening: lit Luxor Temple (ferry 10 min).
 
 *Overnight:* Luxor · *Meals:* B guesthouse; L local; D east bank
 
-### Sun Dec 27 — Karnak, then fly out (Luxor → Cairo → (Nairobi))
+### Sun Dec 27 — Karnak, fly out (Luxor → Cairo → (Nairobi))
 
-Karnak at opening (~6-7am), 2h. Back, checkout. ~13:00-15:00 LXR-CAI, 1h05. Wait at CAI T3. MS849 evening (21:35-23:55, reconfirm) → NBO ~5h, landing ~02:35-04:55 Dec 28. Long day; Dec 28 is the Nairobi rest day.
+Karnak at opening (~6-7am), 2h. Checkout. LXR-CAI ~13:00-15:00, 1h05. Wait CAI T3. MS849 21:35-23:55 (reconfirm) → NBO ~5h, lands ~02:35-04:55 Dec 28. Dec 28 Nairobi rest.
 
 *Overnight:* Plane · *Meals:* B guesthouse; L Luxor/airport; D CAI airport
 
@@ -230,9 +230,9 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Pyramid-view guesthouse, Nazlet el-Semman (e.g. Pyramids View Inn / Great Pyramid Inn type) | Nazlet el-Semman, Giza, next to the Sphinx gate | 3 | $25 | Rooftop breakfast facing the pyramids. Airport pickup available at extra cost; essential for the ~04:00 arrival. |
-| Nubian guesthouse, Gharb Soheil / Elephantine (e.g. Anakato-area or Bet El Kerem style) | West bank / Nubian village, Aswan | 2 | $30 | Breakfast; dinners on request; boat transfers arranged |
-| Nour El Gourna Hotel (or similar West Bank guesthouse) | Gourna, Luxor West Bank, near the Valley of the Kings | 2 | $25 | Breakfast; balloon and taxi bookings |
+| Pyramid-view guesthouse, Nazlet el-Semman (e.g. Pyramids View Inn / Great Pyramid Inn type) | Nazlet el-Semman, Giza, next to the Sphinx gate | 3 | $25 | Rooftop breakfast, pyramid view. Airport pickup extra; essential for ~04:00 arrival. |
+| Nubian guesthouse, Gharb Soheil / Elephantine (e.g. Anakato-area or Bet El Kerem style) | West bank / Nubian village, Aswan | 2 | $30 | Breakfast; dinners on request; boat transfers |
+| Nour El Gourna Hotel (or similar West Bank guesthouse) | Gourna, Luxor West Bank, near the Valley of the Kings | 2 | $25 | Breakfast; balloon, taxi bookings |
 | Budget guesthouse near JKIA / Langata | Nairobi | 1 | $30 | ~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights). |
 | Operator camp at an OPC campsite | Ol Pejeta Conservancy, Laikipia | 2 | $70 | OPC campsite $70 pppn (2026 tariff); entry separate |
 | Operator camp at a Samburu / Buffalo Springs campsite | Samburu National Reserve | 3 | $30 | Campsite ~$20–50 pppn (public vs special site); reserve fee separate |
@@ -248,14 +248,14 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
-| International flights | Multi-city / open-jaw: LAX-IST-CAI (TK10 Dec 19 + TK692 Dec 21), CAI-NBO MS849 (Dec 27), NBO-IST-LAX TK608/TK9 (Jan 16) | $1,950 | $1,750–$2,350 | About +$450 pp vs the $1,500 base. Best option: one Star Alliance ticket on turkishairlines.com, or through an agent, with the MS849 segment included. Fallback: a TK open-jaw LAX→CAI / NBO→LAX (about $1,550-1,800) plus a separate EgyptAir CAI-NBO one-way (aggregators show about $200-350; budget $275-415 for peak season). These are estimates, so price it now. |
-| Stopover (excl. flights) | Domestic transport: Domestic flights CAI-ASW + LXR-CAI | $170 | $120–$260 | EgyptAir or Nile Air. The Abela/Watania sleeper train (about $90-110 pp, 13h) is a cheaper but more tiring way to Aswan. |
-| Stopover (excl. flights) | Lodging: 7 nights in guesthouses (3 Giza incl. the Dec 20 night held for early arrival, 2 Aswan, 2 Luxor), sharing a double | $185 | $120–$450 | 3x$25 + 2x$30 + 2x$25. Christmas nights are in peak demand, so book now. The high figure is mid-range Nile-view hotels. |
-| Stopover (excl. flights) | Permits/fees: Site entries: GEM, Giza, Philae, Kom Ombo, Edfu, Valley of the Kings, Hatshepsut, Karnak, Luxor Temple | $160 | $120–$280 | 2026 foreigner prices: GEM 1,450 EGP (online only), Giza 700, VoK 750, Karnak 600, Luxor Temple 500, Hatshepsut 440, plus Philae, Kom Ombo and Edfu. Total about 5,800-6,500 EGP. Prices rose sharply and sources conflict. The high figure adds the Khufu interior (900 EGP), Tutankhamun (700) or Seti I (2,000) tombs, and Saqqara. Bring cards; some sites are cashless. |
-| Stopover (excl. flights) | Tours/transport: Aswan-Luxor car with stops, felucca, birding boat, Philae boat, Uber/taxis/ferries, airport transfers | $140 | $100–$350 | Car about $100-120 per car, felucca about $15-25 per boat-hour, birding boat about $30-40 per boat, pre-dawn CAI pickup about $20-25. The high figure adds a private Egyptologist or the Abu Simbel trip. |
-| Stopover (excl. flights) | Food: 8 days of meals (guesthouse breakfasts included) | $180 | $120–$300 | Local food (koshari, ful, grills) is very cheap at $3-8. Tourist restaurants run $15-25. |
-| Stopover (excl. flights) | Visa: Egypt visa on arrival / e-visa | $30 | $25–$30 | VOA has been $30 since Mar 2026: USD cash at the CAI bank kiosk. The e-visa at visa2egypt.gov.eg costs $25 or $30 (sources conflict). |
-| Stopover (excl. flights) | Misc: Baksheesh/tips, SIM, water, optional IST airside nap pod, optional Luxor balloon | $110 | $40–$280 | Planned figure includes a share of a YOTEL Air IST pod for ~4h on Dec 20 (about $100-150 per room, so ~$60 pp). Balloon is about $60-120 pp (not in the planned figure). Egyptian SIM about $10. |
+| International flights | LAX-IST-CAI (TK10 Dec 19 + TK692 Dec 21), CAI-NBO MS849 (Dec 27), NBO-IST-LAX TK608/TK9 (Jan 16) | $1,950 | $1,750–$2,350 | ~+$450 pp vs $1,500 base. Best: one Star Alliance ticket incl. MS849 (turkishairlines.com or agent). Fallback: TK open-jaw LAX→CAI/NBO→LAX (~$1,550-1,800) + EgyptAir CAI-NBO one-way (~$200-350; peak budget $275-415). Estimates; price now. |
+| Stopover (excl. flights) | Domestic transport: CAI-ASW + LXR-CAI | $170 | $120–$260 | EgyptAir/Nile Air. Cheaper, harder: Abela/Watania sleeper train ~$90-110 pp, 13h. |
+| Stopover (excl. flights) | Lodging: 7 guesthouse nights (3 Giza incl. Dec 20 hold, 2 Aswan, 2 Luxor), shared double | $185 | $120–$450 | 3x$25 + 2x$30 + 2x$25. Christmas peak, book now. High = mid-range Nile-view. |
+| Stopover (excl. flights) | Permits/fees: GEM, Giza, Philae, Kom Ombo, Edfu, VoK, Hatshepsut, Karnak, Luxor Temple | $160 | $120–$280 | 2026 foreigner EGP: GEM 1,450 (online only), Giza 700, VoK 750, Karnak 600, Luxor Temple 500, Hatshepsut 440, + Philae, Kom Ombo, Edfu. Total ~5,800-6,500 EGP; sources conflict. High adds Khufu interior (900), Tutankhamun (700)/Seti I (2,000), Saqqara. Bring cards; some cashless. |
+| Stopover (excl. flights) | Tours/transport: Aswan-Luxor car, felucca, birding boat, Philae boat, Uber/taxis/ferries, airport transfers | $140 | $100–$350 | Car ~$100-120, felucca ~$15-25/boat-hour, birding boat ~$30-40, CAI pickup ~$20-25. High adds Egyptologist or Abu Simbel. |
+| Stopover (excl. flights) | Food: 8 days meals (breakfasts included) | $180 | $120–$300 | Local food (koshari, ful, grills) $3-8; tourist restaurants $15-25. |
+| Stopover (excl. flights) | Visa: Egypt VOA / e-visa | $30 | $25–$30 | VOA $30 since Mar 2026, USD cash at CAI kiosk. E-visa visa2egypt.gov.eg $25 or $30 (sources conflict). |
+| Stopover (excl. flights) | Misc: Tips, SIM, water, optional IST pod, optional balloon | $110 | $40–$280 | Includes share of YOTEL Air IST pod ~4h Dec 20 (~$100-150/room, ~$60 pp). Balloon ~$60-120 pp, not included. SIM ~$10. |
 | Kenya domestic flights | None (all road) | $0 | $0–$0 | Fly options shown side by side in Route. |
 | Lodging | Private camping crew 18 days Dec 29–Jan 15: 4x4, guide, cook, tents, meals, fuel | $2,735 | $2,350–$3,450 | 5 festive days × $170 + 13 × $145. Get 3 KATO quotes. |
 | Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$150 | $70 pppn |
@@ -301,13 +301,13 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 ## Booking timeline
 
-- **Now (Oct 2026):** Egypt: Price and book the multi-city or open-jaw ticket with TK10 + TK692 (Dec 19-21) and MS849 CAI-NBO (Dec 27). Check MS849's December departure time (21:35, 22:55 or 23:55).
-- **Now:** Egypt: Book Christmas-week guesthouses in Giza (Dec 20-23, so the room is held for the ~04:00 Dec 21 arrival), Aswan (Dec 23-25) and Luxor (Dec 25-27). Use free-cancellation rates where possible.
-- **By end Oct:** Egypt: Book domestic flights: CAI-ASW (Dec 23 morning) and LXR-CAI (Dec 27 early afternoon, landing CAI by ~17:00).
-- **Nov:** Egypt: Arrange the pre-dawn CAI pickup with the Giza guesthouse, and the Aswan-Luxor car, felucca and birding boat with the Aswan guesthouse. Optional: book a YOTEL Air IST pod for the Dec 20 layover.
-- **Nov:** Egypt: Buy GEM tickets online (visit-gem.com only). Optional: Luxor sunrise balloon for Dec 26 (licensed operator) and an Abu Simbel flight upgrade.
-- **Early Dec:** Egypt: Get the Egypt e-visa at visa2egypt.gov.eg, or bring $30 cash each for the visa on arrival. Enroll in STEP and recheck the State Dept advisory.
-- **Dec 19:** Egypt: Carry USD cash for the visa and small bills, plus fleece layers for cold desert nights.
+- **Now (Oct 2026):** Egypt: Price/book multi-city: TK10 + TK692 (Dec 19-21), MS849 CAI-NBO (Dec 27). Check MS849 Dec time (21:35/22:55/23:55).
+- **Now:** Egypt: Book guesthouses: Giza Dec 20-23 (held for ~04:00 Dec 21), Aswan Dec 23-25, Luxor Dec 25-27. Free cancellation.
+- **By end Oct:** Egypt: Domestic flights: CAI-ASW Dec 23 AM; LXR-CAI Dec 27 early PM, land by ~17:00.
+- **Nov:** Egypt: Giza guesthouse: pre-dawn CAI pickup. Aswan guesthouse: Luxor car, felucca, birding boat. Optional YOTEL Air IST pod Dec 20.
+- **Nov:** Egypt: GEM tickets online (visit-gem.com only). Optional: Dec 26 balloon (licensed), Abu Simbel flight.
+- **Early Dec:** Egypt: E-visa (visa2egypt.gov.eg) or $30 cash each for VOA. STEP; recheck advisory.
+- **Dec 19:** Egypt: Carry USD cash (visa, small bills), fleece for cold nights.
 - **Now (Oct 8–15):** Book Sheldrick 11:00 for Dec 28 (optional; opens ~90 days ahead). Price + book TK round trip (out Dec 26; home Jan 16 TK608 + TK9 same day). Ask 3 KATO operators for an 18-day private camping quote (Dec 29–Jan 15).
 - **By Oct 31:** Operator confirms in writing: OPC campsite Dec 29–30, Samburu Dec 31–Jan 2, Thomson's Falls Jan 3, Nakuru KWS Jan 4–5, Mara conservancy mobile camping Jan 9–12, Naivasha Jan 13–14. Pay deposit.
 - **By Nov 15:** Book Rondo Retreat Jan 6–7, Kericho hotel Jan 8, Nairobi guesthouse Dec 27–28, JKIA hotel Jan 15.
@@ -318,17 +318,17 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 ## Practical
 
 ## Egypt stopover
-- **Visa (US passport):** US passport: visa on arrival at Cairo airport, single entry, 30 days. It has cost US$30 since Mar 1 2026 (it was $25), paid in USD cash at the bank kiosk before immigration. The alternative is an e-visa at visa2egypt.gov.eg, where sources disagree on $25 vs $30. Avoid reseller sites. Your passport needs 6+ months of validity. Kenya separately requires its eTA, which is already part of the base trip.
-- **Safety — US State Dept Level 2: Exercise Increased Caution (terrorism, crime, health). This applies countrywide. Level 4 Do Not Travel covers North and Central Sinai (terrorism), the Western Desert (smuggling, remoteness) and the Egyptian border areas, including Libya and Sudan. Check travel.state.gov before booking, because the 2026 US-Iran/Israel tensions and a fragile ceasefire may change it.:** Cairo/Giza, Aswan and Luxor are heavily policed tourist corridors well outside the Do Not Travel zones, and the UK and Australia also treat them as open. The real day-to-day problems are scams, touts, overcharging, traffic and stomach upsets from food or water, not violence. Tourist sites have checkpoints and metal detectors. Women travelers often report verbal harassment. The plan avoids all Sinai and Western Desert travel (no Siwa, White Desert or Bahariya). The optional Fayoum or Wadi El-Hitan day trip sits at the edge of the Western Desert, so only do it with a licensed operator after checking the current advisory wording.
-  - Do not travel to North/Central Sinai, the Western Desert or the border areas. The itinerary stays in the Nile Valley.
-  - Giza touts: enter through the new Pyramids Visitor Centre (free shuttle) or the Sphinx gate. Ignore 'the gate is closed' and 'police' camel or horse hustlers. Agree any camel price in writing beforehand, including the return.
-  - Use Uber or Careem in Cairo, not street taxis. Arrange the pre-dawn (~04:00) CAI airport pickup through your Giza guesthouse.
-  - Carry small EGP notes for baksheesh (tips) and toilets. Pay entry fees by card at official windows, because many sites are now card-only. GEM tickets are online only (visit-gem.com).
-  - Drink only bottled water, avoid salads and ice at street stalls, and bring rehydration salts.
-  - Enroll in STEP. Carry a passport copy, because checkpoints sometimes ask for it.
-  - Hire the Aswan to Luxor driver through your guesthouse. Police occasionally impose convoy-style timing on that road, so follow the driver's guidance.
-  - Dual US-Egyptian nationals get limited consular help. This only matters if one of you holds Egyptian citizenship.
-- **Weather in late Dec:** Ideal sightseeing weather. Cairo: days about 19-21C, nights 9-11C, sometimes hazy or smoggy. Aswan and Luxor: days about 23-26C, sunny and dry, but nights drop to 7-10C, so bring a fleece for felucca rides and early starts. Rain is essentially zero. Expect peak-season crowds, especially Dec 24-31.
+- **Visa (US passport):** US passport: VOA at CAI, single entry, 30 days, US$30 since Mar 1 2026 (was $25), USD cash at bank kiosk before immigration. Alt: e-visa visa2egypt.gov.eg ($25 or $30, sources conflict); avoid resellers. Passport 6+ months valid. Kenya eTA already in base trip.
+- **Safety — US State Dept Level 2: Increased Caution (terrorism, crime, health), countrywide. Level 4 Do Not Travel: North/Central Sinai (terrorism), Western Desert (smuggling, remoteness), border areas incl. Libya, Sudan. Recheck travel.state.gov before booking; 2026 US-Iran/Israel tensions, fragile ceasefire.:** Cairo/Giza, Aswan, Luxor: heavily policed tourist corridors, far from Do Not Travel zones; UK/Australia agree. Real risks: scams, touts, overcharging, traffic, stomach bugs, verbal harassment of women; checkpoints at sites. No Sinai/Western Desert (no Siwa, White Desert, Bahariya); optional Fayoum/Wadi El-Hitan only with licensed operator after advisory check.
+  - Stay out of North/Central Sinai, Western Desert, borders. Plan stays in Nile Valley.
+  - Giza: enter via Pyramids Visitor Centre (free shuttle) or Sphinx gate. Ignore 'gate closed'/'police' hustlers; camel price in writing, incl. return.
+  - Cairo: Uber/Careem, no street taxis. ~04:00 CAI pickup via Giza guesthouse.
+  - Small EGP for baksheesh, toilets. Fees by card at official windows (many card-only). GEM online only (visit-gem.com).
+  - Bottled water only; no street salads/ice; pack rehydration salts.
+  - Enroll STEP. Carry passport copy for checkpoints.
+  - Aswan-Luxor driver via guesthouse; police may impose convoy timing, follow driver.
+  - Dual US-Egyptian nationals: limited consular help (only if Egyptian citizen).
+- **Weather in late Dec:** Ideal. Cairo: 19-21C days, 9-11C nights, some haze/smog. Aswan/Luxor: 23-26C sunny days, 7-10C nights; fleece for felucca, early starts. No rain. Peak crowds, esp. Dec 24-31.
 
 ## Entry
 - Kenya eTA $30, **etas.gov.ke only**. Türkiye: airside connections only, no visa needed. Passport 6+ mo, 2 blank pages.

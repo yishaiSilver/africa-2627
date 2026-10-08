@@ -7,14 +7,14 @@
 ## Overview
 
 - **Dates:** LAX **Sat Dec 19** → Türkiye → Nairobi → LAX **Sat Jan 16**. Christmas in Türkiye; Kenya from Dec 28 is the Wild loop unchanged.
-- **Stopover:** 3 nights in Istanbul and 4 in a Göreme cave hostel, with balloon tries and valley hikes. It sits on the existing TK route, so the flight costs about $150 pp more than the base ticket. All-in about $2,760 pp, or about $1,260 pp more than Kenya alone.
-- **Verdict:** This is the easiest and cheapest stopover to add. It sits on the TK route you already fly, needs no visa, has the shortest transfers and gives a good Christmas setting among Cappadocia's rock churches. Culture and landscape are excellent, but wildlife is the weak point: mostly birds and street cats, so it does not meet a 'wildlife first' goal, and winter brings cold, grey weather and roughly a coin-flip chance for each balloon morning. Checked: TK10 winter schedule (from Oct 24 it leaves LAX 19:45 and lands IST 19:00 the next day) and TK607 18:40→01:25 both confirmed. Kayseri–Istanbul flights take about 1h35, not 1h20. Istanbul entry fees rose to about $140 pp (Topkapı combined ~€55, Cistern ~€38). The balloon is now $180 because winter prices are lower. The flight high was raised to $2,100. Totals were recomputed. The safety note now mentions the post-Feb 2026 US–Iran hostilities, anti-US sentiment and the Adana consulate drawdown.
-- **Safety:** US State Dept Level 2: Exercise Increased Caution (page dated Jun 9 2026). Do not travel to southeast Türkiye or the Syria/Iraq border region.. Istanbul and Cappadocia are both in the Level 2 area, far from the restricted southeast. The advisory cites terrorism, armed conflict and arbitrary detentions. Since the US–Iran hostilities began on Feb 28 2026 it also warns of heightened anti-US and anti-Israel sentiment. Non-emergency staff were ordered out of Consulate Adana, which has suspended services; Adana is in the south and not on this route. The realistic risks are a low-probability attack in crowded places, being caught up in protests, and tourist scams. On this route, winter ice on hiking trails and the choice of balloon operator are the practical safety issues. Because the regional situation is fluid, re-check the advisory close to departure.
+- **Stopover:** 3 nights Istanbul, 4 in Göreme cave hostel; balloon tries, valley hikes. On existing TK route: flights ~+$150 pp. All-in ~$2,760 pp (~+$1,260 over Kenya-only).
+- **Verdict:** Easiest, cheapest stopover: on TK route, no visa, short transfers, Christmas among rock churches. Weak wildlife (birds, cats), cold grey winter, ~50/50 balloon odds per morning.
+- **Safety:** US State Dept Level 2: Exercise Increased Caution (page dated Jun 9 2026). Do not travel to southeast Türkiye or the Syria/Iraq border region.. Istanbul + Cappadocia: Level 2, far from no-go southeast. Risks: terrorism in crowds, protests, anti-US mood since Feb 28 2026 US–Iran hostilities, scams; Consulate Adana drawn down (off-route). Practical: icy trails, balloon operator choice; re-check advisory pre-departure.
 - **Cost:** $8,860 pp, **+$1,260** vs the Wild loop alone ($7,600).
 
-**Highlights:** Hagia Sophia, the Blue Mosque, the Basilica Cistern and Topkapı Palace, all walkable from a Sultanahmet hostel · A public Şehir Hatları ferry up the Bosphorus (about $10–20): the Europe and Asia shores, shearwaters and cormorants, and a slim chance of dolphins · Christmas Day among the frescoed 10th–12th-century rock churches of Göreme Open Air Museum and the Dark Church · Four dawn chances at a Cappadocia balloon flight, or watching about 100 balloons rise from a sunrise viewpoint for free · Easy-to-moderate valley hikes through Rose, Red, Love and Pigeon valleys to Uçhisar castle, possibly in snow · A night in a carved cave room · A Green Tour day: Derinkuyu underground city (8 levels deep) plus the Ihlara canyon walk · No visa and the shortest flights of any option. It sits on your existing TK routing, and the final ASR→IST→NBO connection is protected on one ticket
+**Highlights:** Hagia Sophia, Blue Mosque, Basilica Cistern, Topkapı: all walkable from Sultanahmet · Şehir Hatları Bosphorus ferry (~$10–20): two continents, shearwaters, cormorants, slim dolphin chance · Christmas Day at Göreme Open Air Museum + Dark Church (10th–12th c. frescoes) · 4 dawn balloon chances, or free view of ~100 balloons rising · Easy–moderate hikes: Rose, Red, Love, Pigeon valleys to Uçhisar castle, maybe snow · Night in carved cave room · Green Tour: Derinkuyu underground city (8 levels) + Ihlara canyon walk · No visa, shortest flights; on TK routing, ASR→IST→NBO protected on one ticket
 
-**Drawbacks:** Weakest wildlife of the candidate stopovers: nothing exotic, mostly birds, and winter is not peak birding at Sultan Sazlığı. It does not suit a 'wildlife first' priority. · Cold, grey winter weather. Cappadocia mornings are below freezing and Istanbul is often drizzly. · Balloon flights are unreliable in December, flying on about 50–60% of mornings. Four tries give good odds but no guarantee. Book with a full refund if every morning is cancelled. · The balloon costs about $180 pp in winter (range ~$100–330), which is a lot for a frugal trip. Comfort baskets cost more; watching from the ground is free. · Christmas week through New Year is busy in Göreme and Istanbul, so book cave rooms early. · The regional security picture has been more volatile since the Feb 2026 US–Iran hostilities. The destinations stay at Level 2, but there is heightened anti-US sentiment. · Long departure day on Dec 27: shuttle, domestic flight, about a 3h layover, then 6h45 to Nairobi, landing about 01:25. This is mitigated because Dec 28 is already a Nairobi rest day. · Museum fees in Istanbul are now high and set in euros: Topkapı ~€55, Cistern ~€38, Hagia Sophia €25. · Upgrades cost more. A boutique cave hotel such as Sultan Cave Suites or Kelebek runs $150–300 per room per night instead of about $80, and a private guide about $150/day. A 2-night side trip to Pamukkale does not fit without long hauls.
+**Drawbacks:** Weakest wildlife: mostly birds, off-peak at Sultan Sazlığı. Fails 'wildlife first'. · Cold, grey: Cappadocia mornings below freezing, Istanbul drizzly. · Balloons fly ~50–60% of mornings; 4 tries, no guarantee. Book full refund if all cancelled. · Balloon ~$180 pp winter (~$100–330); comfort baskets more; ground view free. · Christmas–New Year busy; book cave rooms early. · More volatile since Feb 2026 US–Iran hostilities; still Level 2, anti-US sentiment up. · Long Dec 27: shuttle, domestic flight, ~3h layover, 6h45 to NBO, land ~01:25; Dec 28 rest day. · Istanbul fees high, in euros: Topkapı ~€55, Cistern ~€38, Hagia Sophia €25. · Upgrades: boutique cave hotel $150–300/room/night vs ~$80; guide ~$150/day; Pamukkale doesn't fit.
 
 ### Then Kenya (Wild loop)
 - **Route (one camping crew, all road):** Nairobi → Ol Pejeta 2n → **Samburu 3n** (NYE) → Thomson's Falls 1n → Lake Nakuru 2n → **Kakamega rainforest 2n** → Kericho 1n → **Mara conservancy 4n** → Naivasha + Hell's Gate 2n → airport hotel → fly home.
@@ -28,14 +28,14 @@
 
 | Date | Leg | Mode | Time | Notes |
 |---|---|---|---|---|
-| 2026-12-19 | Los Angeles (LAX) → Istanbul Airport | flight | ~13h15 | Turkish Airlines TK10, nonstop 777-300ER. The winter schedule from Oct 24 shows LAX 19:45 → IST 19:00 on Dec 20 (+11h time difference). Some aggregators show 20:00–20:10, so verify when booking. This is the first segment of the multi-city TK ticket. |
-| 2026-12-20 | Istanbul Airport → Istanbul – Sultanahmet | road | ~1.25–1.5h | Havaist airport bus (~$5–8) or M11 metro + T1 tram to Sultanahmet. A taxi costs ~$35–45 per car and is sensible for a ~20:00 arrival. |
-| 2026-12-23 | Istanbul – Sultanahmet → Istanbul Airport | road | ~1.25h | Havaist bus, or tram + metro, to Istanbul Airport. Use SAW instead (~1.5h) if the cheaper Pegasus/AJet fare departs there. |
-| 2026-12-23 | Istanbul Airport → Kayseri Erkilet Airport | flight | ~1h30 | Domestic flight to Kayseri, late morning. Turkish runs several flights a day on this route (737), and AJet/Pegasus fly from SAW and are often cheapest. About $40–110 one way. Nevşehir (NAV) airport is closer (40 min) but has fewer flights. |
-| 2026-12-23 | Kayseri Erkilet Airport → Göreme, Cappadocia | road | ~1h | Pre-booked shared airport shuttle (Helios or Kapadokya Express style, ~$12–15 pp) to the hostel door in Göreme. |
-| 2026-12-27 | Göreme, Cappadocia → Kayseri Erkilet Airport | road | ~1h | Shared shuttle to Kayseri airport late morning, after a final dawn balloon attempt. |
-| 2026-12-27 | Kayseri Erkilet Airport → Istanbul Airport | flight | ~1h35 | TK domestic flight ASR→IST around midday or early afternoon (TK2011/TK2013-series; summer 2026 times were 08:40 and 10:40, winter times differ). Ticket it on the same multi-city TK ticket so the NBO connection is protected, and aim for a connection of 3h or more. |
-| 2026-12-27 | Istanbul Airport → Nairobi (JKIA) | flight | ~6h45 | TK607 IST 18:40 → NBO 01:25 Mon Dec 28. Trackers confirm 18:40–18:45 / 01:25 through Sep 2026; older listings show 20:30 → 03:05. Either time arrives before 06:00. Reconfirm closer to departure. |
+| 2026-12-19 | Los Angeles (LAX) → Istanbul Airport | flight | ~13h15 | TK10 nonstop 777-300ER. Winter schedule (from Oct 24): LAX 19:45 → IST 19:00 Dec 20 (+11h). Some sites show 20:00–20:10; verify. First segment of multi-city TK ticket. |
+| 2026-12-20 | Istanbul Airport → Istanbul – Sultanahmet | road | ~1.25–1.5h | Havaist bus (~$5–8) or M11 metro + T1 tram. Taxi ~$35–45/car, sensible for ~20:00 arrival. |
+| 2026-12-23 | Istanbul – Sultanahmet → Istanbul Airport | road | ~1.25h | Havaist bus or tram + metro to IST. SAW (~1.5h) if cheaper Pegasus/AJet fare leaves there. |
+| 2026-12-23 | Istanbul Airport → Kayseri Erkilet Airport | flight | ~1h30 | Late-morning domestic to Kayseri, ~$40–110 one way. TK several daily (737); AJet/Pegasus from SAW often cheapest. NAV closer (40 min), fewer flights. |
+| 2026-12-23 | Kayseri Erkilet Airport → Göreme, Cappadocia | road | ~1h | Pre-booked shared shuttle (Helios/Kapadokya Express, ~$12–15 pp) to Göreme hostel door. |
+| 2026-12-27 | Göreme, Cappadocia → Kayseri Erkilet Airport | road | ~1h | Shared shuttle to Kayseri late morning, after last dawn balloon try. |
+| 2026-12-27 | Kayseri Erkilet Airport → Istanbul Airport | flight | ~1h35 | TK ASR→IST midday/early afternoon (TK2011/TK2013; summer 2026 08:40, 10:40; winter differs). Same multi-city ticket protects NBO connection; aim 3h+ layover. |
+| 2026-12-27 | Istanbul Airport → Nairobi (JKIA) | flight | ~6h45 | TK607 IST 18:40 → NBO 01:25 Mon Dec 28. Trackers confirm 18:40–18:45/01:25 through Sep 2026; older: 20:30 → 03:05. Both arrive before 06:00. Reconfirm. |
 | 2026-12-28 | Nairobi (JKIA) → Nairobi (guesthouse) | road | ~20m | Pre-booked taxi, ~$15/car |
 | 2026-12-29 | Nairobi (guesthouse) → Ol Pejeta Conservancy | road | ~4h | Crew vehicle via Nanyuki |
 | 2026-12-31 | Ol Pejeta Conservancy → Samburu / Buffalo Springs | road | ~2.5–3h | Via Nanyuki + Isiolo; tarmac |
@@ -54,55 +54,55 @@
 
 ### Sat Dec 19 — Depart LAX (LAX → Istanbul)
 
-TK10 at ~19:45, nonstop to Istanbul, ~13h. Sleep on the plane and set watches +11h.
+TK10 ~19:45 nonstop, ~13h. Sleep; set watches +11h.
 
 *Overnight:* Plane · *Meals:* Dinner and breakfast on board
 
 ### Sun Dec 20 — Arrive Istanbul (Istanbul)
 
-Land IST ~19:00. Havaist bus, metro or taxi to Sultanahmet, ~1.25–1.5h. Check in, take a short walk to see the lit-up Blue Mosque, then sleep.
+Land IST ~19:00. Bus/metro/taxi to Sultanahmet ~1.25–1.5h. Check in, short walk to lit Blue Mosque, sleep.
 
 *Overnight:* Istanbul – Sultanahmet hostel · *Meals:* Meals on the plane; light late dinner near the hostel (döner, pide)
 
 ### Mon Dec 21 — Old City on foot (Istanbul)
 
-No transport, all walking. Hagia Sophia at opening (€25, to beat the queue), Blue Mosque (free, dress modestly), Basilica Cistern (~€38, card only) and the Hippodrome. Afternoon: Grand Bazaar. Early night for jet lag.
+All walking. Hagia Sophia at opening (€25), Blue Mosque (free, modest dress), Basilica Cistern (~€38, card only), Hippodrome. Afternoon: Grand Bazaar. Early night.
 
 *Overnight:* Istanbul – Sultanahmet hostel · *Meals:* Hostel breakfast; simit and street-food lunch; lokanta dinner
 
-### Tue Dec 22 — Bosphorus and Topkapı (Istanbul)
+### Tue Dec 22 — Bosphorus + Topkapı (Istanbul)
 
-Morning: Topkapı Palace (~€55 combined with the Harem; it is closed Tuesdays, and Dec 22 is a Tuesday, so swap with Dec 21). Afternoon: public Şehir Hatları Bosphorus ferry from Eminönü (~1.5h each way, cheap); watch for shearwaters, cormorants and the occasional dolphin. Or take the short ferry to Kadıköy (Asian side) for the food market. Spice Bazaar on the way back.
+Topkapı + Harem ~€55; closed Tuesdays (Dec 22 is Tue), so swap with Dec 21. Afternoon: Şehir Hatları ferry from Eminönü (~1.5h each way, cheap): shearwaters, cormorants, maybe dolphins. Or ferry to Kadıköy food market. Spice Bazaar on return.
 
 *Overnight:* Istanbul – Sultanahmet hostel · *Meals:* Breakfast; balık-ekmek (fish sandwich) at Eminönü; meyhane dinner in Kadıköy
 
 ### Wed Dec 23 — Fly to Cappadocia (Istanbul → Göreme)
 
-Bus to the airport ~1.25h, flight to Kayseri ~1.5h and shuttle ~1h: about 3.75h door to door, plus airport time. Afternoon: check into the cave room and take a short walk to Sunset Point above Göreme. Confirm tomorrow's balloon pickup.
+Bus ~1.25h + flight ~1.5h + shuttle ~1h ≈ 3.75h plus airport time. Check into cave room; walk to Sunset Point. Confirm balloon pickup.
 
 *Overnight:* Göreme cave hostel · *Meals:* Breakfast; airport snack; testi kebab (pottery-pot stew) dinner
 
-### Thu Dec 24 — Balloon try #1 and Red/Rose Valley (Göreme)
+### Thu Dec 24 — Balloon #1 + Red/Rose Valley (Göreme)
 
-~05:30 balloon pickup (~1h flight, about a 50–60% chance it flies). If it is cancelled, watch the sky from the hostel roof anyway. Late morning: Rose Valley and Red Valley loop hike, ~3–4h, easy to moderate with icy spots, ending at a sunset view. Christmas Eve dinner in Göreme.
+~05:30 pickup, ~1h flight, ~50–60% odds; if cancelled, watch from roof. Late morning: Rose/Red Valley loop ~3–4h, easy–moderate, icy spots, sunset view. Christmas Eve dinner.
 
 *Overnight:* Göreme cave hostel · *Meals:* Cave breakfast spread; packed lunch; Christmas Eve dinner out
 
 ### Fri Dec 25 — Christmas among rock churches (Göreme)
 
-Dawn: balloon backup try. Göreme Open Air Museum (€20) plus the Dark Church (€6), ~2–3h, a 15-min walk from town. Afternoon: Love Valley or Pigeon Valley hike to Uçhisar Castle, ~2–3h, then bus or taxi back (~15 min). A relaxed day.
+Dawn: balloon backup. Open Air Museum (€20) + Dark Church (€6), ~2–3h, 15-min walk. Afternoon: Love/Pigeon Valley to Uçhisar Castle ~2–3h; bus/taxi back ~15 min. Relaxed.
 
 *Overnight:* Göreme cave hostel · *Meals:* Breakfast; gözleme lunch; dinner in Uçhisar or Göreme
 
-### Sat Dec 26 — Green Tour: underground city + Ihlara (Cappadocia)
+### Sat Dec 26 — Green Tour: Derinkuyu + Ihlara (Cappadocia)
 
-Dawn: balloon backup try. 09:30 Green Tour minibus (~$45–80 with lunch; check whether entries are included, Derinkuyu is ~€13): Derinkuyu underground city, the Ihlara Valley canyon walk (~1.5h along the river) and Selime monastery. About 2.5h of driving spread across the day, back ~17:30.
+Dawn: balloon backup. 09:30 minibus (~$45–80 with lunch; check entries, Derinkuyu ~€13): Derinkuyu, Ihlara river walk ~1.5h, Selime monastery. ~2.5h driving total; back ~17:30.
 
 *Overnight:* Göreme cave hostel · *Meals:* Breakfast; lunch included by the river; easy dinner
 
 ### Sun Dec 27 — Fly to Nairobi (Göreme → Istanbul → Nairobi)
 
-Dawn: last balloon backup or a final viewpoint. Shuttle to Kayseri ~1h, ASR→IST ~1h35, then a connection of about 3h before TK607 18:40 → NBO 01:25 Dec 28 (~6h45). The Dec 28 Nairobi rest day follows.
+Dawn: last balloon backup/viewpoint. Shuttle ~1h, ASR→IST ~1h35, ~3h connection, TK607 18:40 → NBO 01:25 Dec 28 (~6h45). Dec 28 rest day.
 
 *Overnight:* Plane · *Meals:* Breakfast; lunch at the airport; dinner on board
 
@@ -230,8 +230,8 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Cheers Hostel (or similar Sultanahmet hostel) | Sultanahmet, Istanbul (steps from Hagia Sophia) | 3 | $35 | Breakfast usually included; Wi-Fi; rooftop/common room |
-| Diadem Cappadocia Guest House & Hostel (or similar cave hostel) | Göreme village center, Cappadocia | 4 | $40 | Breakfast; heated cave room; rooftop for balloon viewing; balloon and tour bookings at the desk |
+| Cheers Hostel (or similar Sultanahmet hostel) | Sultanahmet, Istanbul (steps from Hagia Sophia) | 3 | $35 | Breakfast usually; Wi-Fi; rooftop/common room |
+| Diadem Cappadocia Guest House & Hostel (or similar cave hostel) | Göreme village center, Cappadocia | 4 | $40 | Breakfast; heated cave room; balloon-view rooftop; balloon/tour desk |
 | Budget guesthouse near JKIA / Langata | Nairobi | 1 | $30 | ~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights). |
 | Operator camp at an OPC campsite | Ol Pejeta Conservancy, Laikipia | 2 | $70 | OPC campsite $70 pppn (2026 tariff); entry separate |
 | Operator camp at a Samburu / Buffalo Springs campsite | Samburu National Reserve | 3 | $30 | Campsite ~$20–50 pppn (public vs special site); reserve fee separate |
@@ -247,18 +247,18 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
-| International flights | TK multi-city: LAX→IST Dec 19; ASR→IST→NBO Dec 27; NBO→IST→LAX Jan 16 | $1,650 | $1,500–$2,100 | Replaces the $1,500 base, about +$150 pp. TK's LAX–NBO page shows round trips from ~$1,000 off-peak, but no December 2026 fare was verifiable, and Dec 19 is peak festive demand. Adding ASR as an origin protects the final connection. The TK Stopover Program (free hotel for 20h+ transfers) likely does not apply to a multi-city fare. |
-| Stopover (excl. flights) | Flights (domestic): IST/SAW → Kayseri, Dec 23 | $60 | $40–$110 | AJet/Pegasus are cheapest (watch bag fees); TK from IST is pricier but simpler. |
-| Stopover (excl. flights) | Lodging: Istanbul hostel private double, 3 nights | $105 | $60–$180 | $35 pppn sharing a private room; a dorm is about $20 pppn. |
-| Stopover (excl. flights) | Lodging: Göreme cave hostel private double, 4 nights | $160 | $110–$280 | $40 pppn with breakfast; holiday-week prices are higher, so book early. |
-| Stopover (excl. flights) | Tours/activities: Cappadocia hot-air balloon (standard basket) | $180 | $0–$330 | Optional. Winter 2026 quotes run about €90–220 for a standard flight, and comfort baskets cost more. $0 if you watch from the ground. Check the refund policy for cancellations. |
-| Stopover (excl. flights) | Permits/fees: Istanbul entries: Hagia Sophia, Topkapı+Harem, Basilica Cistern | $140 | $110–$190 | Hagia Sophia €25; Topkapı combined ~2,750 TL (~€55, one source says up to €85); Cistern 1,950 TL (~€38, under repricing after the June 2026 handover). Mosques are free. |
-| Stopover (excl. flights) | Permits/fees: Göreme Open Air Museum + Dark Church, Uçhisar | $40 | $30–$55 | Open Air Museum €20 + Dark Church €6; Uçhisar castle is extra. The valleys are free, apart from some small trail tolls. |
-| Stopover (excl. flights) | Tours/activities: Green Tour (Derinkuyu + Ihlara + Selime) | $60 | $45–$80 | Group minibus with lunch. Check whether entries are included (Derinkuyu ~€13). |
-| Stopover (excl. flights) | Transport: Airport buses, shuttles, Istanbulkart, ferries | $65 | $45–$110 | Havaist ×2, Kayseri shuttle ×2, tram and ferry rides; an occasional taxi adds more. |
-| Stopover (excl. flights) | Food: 8 days of meals | $240 | $180–$360 | About $30/day: breakfasts included, cheap lokanta and street food, and a few sit-down dinners. Inflation is high, so check current prices. |
-| Stopover (excl. flights) | Visa: Türkiye entry (US passport) | $0 | $0–$0 | Visa-free, 90 days in any 180. |
-| Stopover (excl. flights) | Misc: eSIM, tips, travel-insurance increment, trail spikes | $60 | $35–$100 | Total about $2,760 pp (range ~$2,155–3,895), or about +$1,260 pp over the Kenya-only trip. |
+| International flights | TK multi-city: LAX→IST Dec 19; ASR→IST→NBO Dec 27; NBO→IST→LAX Jan 16 | $1,650 | $1,500–$2,100 | Replaces $1,500 base (~+$150 pp). Off-peak RT from ~$1,000; no Dec 2026 fare verified; Dec 19 peak. ASR origin protects connection. TK Stopover free hotel likely N/A on multi-city. |
+| Stopover (excl. flights) | Flights (domestic): IST/SAW → Kayseri, Dec 23 | $60 | $40–$110 | AJet/Pegasus cheapest (bag fees); TK from IST pricier, simpler. |
+| Stopover (excl. flights) | Lodging: Istanbul hostel private double, 3 nights | $105 | $60–$180 | $35 pppn shared private; dorm ~$20. |
+| Stopover (excl. flights) | Lodging: Göreme cave hostel private double, 4 nights | $160 | $110–$280 | $40 pppn with breakfast; holiday week pricier, book early. |
+| Stopover (excl. flights) | Tours/activities: Cappadocia balloon (standard basket) | $180 | $0–$330 | Optional. Winter 2026 ~€90–220 standard; comfort more; $0 ground view. Check cancellation refund. |
+| Stopover (excl. flights) | Permits/fees: Istanbul entries: Hagia Sophia, Topkapı+Harem, Cistern | $140 | $110–$190 | Hagia Sophia €25; Topkapı ~2,750 TL (~€55, one source €85); Cistern 1,950 TL (~€38, repricing after Jun 2026 handover). Mosques free. |
+| Stopover (excl. flights) | Permits/fees: Göreme Open Air Museum + Dark Church, Uçhisar | $40 | $30–$55 | €20 + €6; Uçhisar castle extra. Valleys free, minor trail tolls. |
+| Stopover (excl. flights) | Tours/activities: Green Tour (Derinkuyu + Ihlara + Selime) | $60 | $45–$80 | Group minibus, lunch. Check entries (Derinkuyu ~€13). |
+| Stopover (excl. flights) | Transport: Airport buses, shuttles, Istanbulkart, ferries | $65 | $45–$110 | Havaist ×2, Kayseri shuttle ×2, tram, ferry; taxis extra. |
+| Stopover (excl. flights) | Food: 8 days of meals | $240 | $180–$360 | ~$30/day: breakfasts included, lokanta/street food, some sit-down dinners. High inflation; check prices. |
+| Stopover (excl. flights) | Visa: Türkiye entry (US passport) | $0 | $0–$0 | Visa-free, 90 days per 180. |
+| Stopover (excl. flights) | Misc: eSIM, tips, insurance increment, trail spikes | $60 | $35–$100 | Total ~$2,760 pp (~$2,155–3,895); ~+$1,260 over Kenya-only. |
 | Kenya domestic flights | None (all road) | $0 | $0–$0 | Fly options shown side by side in Route. |
 | Lodging | Private camping crew 18 days Dec 29–Jan 15: 4x4, guide, cook, tents, meals, fuel | $2,735 | $2,350–$3,450 | 5 festive days × $170 + 13 × $145. Get 3 KATO quotes. |
 | Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$150 | $70 pppn |
@@ -304,13 +304,13 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 ## Booking timeline
 
-- **Now (Oct 2026):** Türkiye: Book the TK multi-city ticket: LAX→IST Dec 19 / ASR→IST→NBO Dec 27 / NBO→IST→LAX Jan 16. Price it against the $1,500 base.
-- **Now:** Türkiye: Reserve the Istanbul and Göreme hostels on free-cancellation rates; Christmas through New Year fills cave rooms.
-- **Oct–Nov:** Türkiye: Book IST/SAW→Kayseri for Dec 23 (or add it to the TK ticket), and pre-book Kayseri airport shuttles both ways.
-- **Nov:** Türkiye: Book the balloon for Dec 24 with an SHGM-licensed operator that rebooks to Dec 25–27 and refunds in full if every morning is cancelled.
-- **Early Dec:** Türkiye: Book the Green Tour for Dec 26, buy eSIMs, enroll in STEP, buy trail microspikes and re-check the advisory, given the regional situation.
-- **Dec 24–26 (daily):** Türkiye: Check the next morning's balloon status the evening before, and move to the next morning if it is cancelled.
-- **Dec 26:** Türkiye: Reconfirm the TK607 time (18:40 vs 20:30) and the ASR→IST time, check in online, and have the Kenya eTA in hand.
+- **Now (Oct 2026):** Türkiye: Book TK multi-city: LAX→IST Dec 19 / ASR→IST→NBO Dec 27 / NBO→IST→LAX Jan 16; compare to $1,500 base.
+- **Now:** Türkiye: Reserve Istanbul + Göreme hostels, free cancellation; holiday cave rooms fill.
+- **Oct–Nov:** Türkiye: Book IST/SAW→Kayseri Dec 23 (or add to TK ticket); pre-book Kayseri shuttles both ways.
+- **Nov:** Türkiye: Book Dec 24 balloon: SHGM-licensed, rebooks Dec 25–27, full refund if all cancelled.
+- **Early Dec:** Türkiye: Book Dec 26 Green Tour; eSIMs; STEP; microspikes; re-check advisory.
+- **Dec 24–26 (daily):** Türkiye: Check next morning's balloon status each evening; roll forward if cancelled.
+- **Dec 26:** Türkiye: Reconfirm TK607 (18:40 vs 20:30) and ASR→IST times; online check-in; Kenya eTA ready.
 - **Now (Oct 8–15):** Book Sheldrick 11:00 for Dec 28 (optional; opens ~90 days ahead). Price + book TK round trip (out Dec 26; home Jan 16 TK608 + TK9 same day). Ask 3 KATO operators for an 18-day private camping quote (Dec 29–Jan 15).
 - **By Oct 31:** Operator confirms in writing: OPC campsite Dec 29–30, Samburu Dec 31–Jan 2, Thomson's Falls Jan 3, Nakuru KWS Jan 4–5, Mara conservancy mobile camping Jan 9–12, Naivasha Jan 13–14. Pay deposit.
 - **By Nov 15:** Book Rondo Retreat Jan 6–7, Kericho hotel Jan 8, Nairobi guesthouse Dec 27–28, JKIA hotel Jan 15.
@@ -321,17 +321,17 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 ## Practical
 
 ## Türkiye stopover
-- **Visa (US passport):** US ordinary passport: visa-free for tourism, up to 90 days in any 180 days (in force since early 2024; there is no e-visa for US citizens now). The passport should be valid 6 months beyond the stay; sources quote 60–150 days, so 6 months is the safe choice. You still need a separate Kenya eTA for the onward leg.
-- **Safety — US State Dept Level 2: Exercise Increased Caution (page dated Jun 9 2026). Do not travel to southeast Türkiye or the Syria/Iraq border region.:** Istanbul and Cappadocia are both in the Level 2 area, far from the restricted southeast. The advisory cites terrorism, armed conflict and arbitrary detentions. Since the US–Iran hostilities began on Feb 28 2026 it also warns of heightened anti-US and anti-Israel sentiment. Non-emergency staff were ordered out of Consulate Adana, which has suspended services; Adana is in the south and not on this route. The realistic risks are a low-probability attack in crowded places, being caught up in protests, and tourist scams. On this route, winter ice on hiking trails and the choice of balloon operator are the practical safety issues. Because the regional situation is fluid, re-check the advisory close to departure.
-  - Enroll in STEP and re-check travel.state.gov the week before departure, because the advisory was updated twice in 2026 and the regional conflict could change it.
-  - Keep a low profile as Americans: avoid demonstrations, especially anti-US or anti-Israel ones, and political gatherings, and do not post or share content critical of the Turkish state or its leaders while in the country.
-  - Have an exit plan that does not depend on US government help. The TK ticket out of IST is your built-in exit.
-  - Stay alert in crowded places such as Sultanahmet Square, Istiklal Avenue, the bazaars and transit hubs, especially around holidays and New Year.
-  - In Sultanahmet, watch for the dropped-shoe-brush trick, 'let's have a drink' bar scams that end with huge bills, and carpet-shop hard sells. Use the BiTaksi app or a metered taxi.
-  - Book balloons only with SHGM-licensed operators that have good reviews, accept the pilot's weather decision, and do not book anyone who flies when others are grounded.
-  - Bring traction spikes or grippy boots for valley hikes, since trails in Rose, Red and Love valleys ice over. Use a downloaded offline map (Maps.me or AllTrails) because trail junctions are confusing.
-  - Keep passports secure. The Basilica Cistern takes card or Istanbulkart only, not cash.
-- **Weather in late Dec:** Istanbul: about 5–11°C, often grey, damp and windy, with rain on roughly 1 day in 2 and short days (sunset around 16:40). Cappadocia: about −3 to 5°C, with nights below freezing. Snow is possible and pretty, but trails get icy. Balloons fly on only about 50–60% of December mornings because of wind and fog (blog estimates, unverified), so plan four dawn attempts. Winter skies are often clearer when flights do go. Pack warm layers, a hat, gloves and waterproof boots, which also help on Kenya's cold early-morning game drives.
+- **Visa (US passport):** US passport: visa-free tourism, 90 days per 180 (since early 2024; no e-visa). Passport valid 6 months past stay (safe choice). Kenya eTA still needed.
+- **Safety — US State Dept Level 2: Exercise Increased Caution (page dated Jun 9 2026). Do not travel to southeast Türkiye or the Syria/Iraq border region.:** Istanbul + Cappadocia: Level 2, far from no-go southeast. Risks: terrorism in crowds, protests, anti-US mood since Feb 28 2026 US–Iran hostilities, scams; Consulate Adana drawn down (off-route). Practical: icy trails, balloon operator choice; re-check advisory pre-departure.
+  - Enroll STEP; re-check travel.state.gov week before (advisory updated twice in 2026).
+  - Low profile as Americans: skip demos/political gatherings; no posts criticizing Turkish state.
+  - Exit plan without US govt help; TK ticket out of IST is built-in exit.
+  - Alert in crowds: Sultanahmet, Istiklal, bazaars, transit hubs, holidays/New Year.
+  - Sultanahmet scams: dropped shoe brush, 'let's have a drink' bars, carpet hard sells. Use BiTaksi/metered taxi.
+  - Balloons: SHGM-licensed, well-reviewed only; accept weather calls; avoid anyone flying when others grounded.
+  - Traction spikes/grippy boots (Rose, Red, Love valleys ice over); offline map (Maps.me/AllTrails).
+  - Secure passports. Basilica Cistern: card/Istanbulkart only, no cash.
+- **Weather in late Dec:** Istanbul ~5–11°C, grey, damp, windy; rain ~1 day in 2; sunset ~16:40. Cappadocia ~−3 to 5°C, freezing nights, possible snow, icy trails. Balloons fly ~50–60% of mornings (unverified); plan 4 dawns. Pack layers, hat, gloves, waterproof boots (also for Kenya dawn drives).
 
 ## Entry
 - Kenya eTA $30, **etas.gov.ke only**. Türkiye: airside connections only, no visa needed. Passport 6+ mo, 2 blank pages.
