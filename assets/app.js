@@ -738,6 +738,22 @@
     });
   }
 
+  function renderWildlife() {
+    var grid = $('#wildlife-grid'); if (!grid) return;
+    var list = plan.wildlife || [];
+    if (!list.length) { $('#wildlife').hidden = true; return; }
+    list.forEach(function (w) {
+      var card = el('article', { class: 'wl-card' });
+      var odds = String(w.odds || '').toLowerCase().replace(/[^a-z]+/g, '-');
+      card.innerHTML = '<div class="ph ph-wl"><img loading="lazy" alt=""></div>' +
+        '<div class="wl-body"><b>' + esc(w.name) + '</b>' +
+        '<span class="wl-where">' + esc(w.where) + '</span>' +
+        '<span class="wl-odds odds-' + esc(odds) + '">' + esc(w.odds) + '</span></div>';
+      grid.appendChild(card);
+      wiki(w.wiki).then(function (info) { fillImg(card.querySelector('img'), info, 400); });
+    });
+  }
+
   function decoratePhotos() {
     // hero
     if (plan.hero_photo) wiki(plan.hero_photo).then(function (info) {
@@ -816,7 +832,7 @@
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (data) {
       plan = data;
-      renderHero(); renderProse(); renderPlaces(); renderRoute(); renderChoices(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
+      renderHero(); renderProse(); renderPlaces(); renderWildlife(); renderRoute(); renderChoices(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
       renderAlternatives(); renderBudgetSummary(); renderBudgetTable();
       refreshChoices(); renderBooking(); renderQuestions(); addSectionTools(); wireFeedback(); refreshFeedback();
       if (location.hash) { var t = document.querySelector(location.hash); if (t) t.scrollIntoView(); }

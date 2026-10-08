@@ -1,18 +1,18 @@
-# Kenya Road Loop + Diani Coast + Istanbul Hostel
+# Kenya Wild Loop: Samburu, Rainforest & Mara + Istanbul Hostel
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-16 · **Planned cost:** $6,170 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-16 · **Planned cost:** $7,215 per person
 
 ## Overview
 
 - **Dates:** LAX Sat Dec 26 → LAX **Sat Jan 16**. 21 nights: **17 Kenya**, 2 Istanbul (hostel), 2 on planes.
-- **Route:** Nairobi rest → Ol Pejeta 2n → Lake Nakuru 2n (NYE) → Mara conservancy 3n → Naivasha 1n → Nairobi 2n (Sheldrick, giraffes) → **Diani Beach 5n** (+ Shimba Hills) → airport hotel → Istanbul hostel 2n → home.
-- **Safari = one private camping crew, all road (Dec 29–Jan 6).** No rental car needed: vehicle + driver-guide included. Coast by short flight.
-- **Parks (5–6):** Ol Pejeta, Lake Nakuru, Mara conservancy, Lake Naivasha, Shimba Hills (+ Hell's Gate / Kisite optional).
-- **Budget: ~$6,170 pp** (incl. flights + $300 contingency). Jan 16 adds 7 days ≈ +$900 vs the Jan 9 plan; extra days are cheap beach/city days.
-- **Closer to $5.5k:** yellow fever done (−$200), SGR train (−$120), skip Shimba (−$90), TK free hotel (−$50).
-- **Fatigue:** max ~4.5–5h road/day, rest day before every long drive, lots of zero-travel beach days.
+- **Route (one camping crew, all road):** Nairobi → Ol Pejeta 2n → **Samburu 3n** (NYE) → Thomson's Falls 1n → Lake Nakuru 2n → **Kakamega rainforest 2n** → Kericho 1n → Mara conservancy 3n → Naivasha 1n → airport hotel → Istanbul 2n.
+- **Exotic wildlife focus:** Samburu "Special Five" (Grevy's zebra, reticulated giraffe, gerenuk, Beisa oryx, Somali ostrich), vulturine guineafowl, chimps + black rhino (Ol Pejeta), Rothschild's giraffe + flamingos (Nakuru), colobus + De Brazza's monkeys + great blue turaco (Kakamega), big cats (Mara). See **Wildlife** checklist.
+- **No beach.** No rental car: crew 4x4 + driver-guide included.
+- **Budget: ~$7,215 pp** (incl. flights + $300 contingency). More bush days = more crew days; that's the cost driver.
+- **Cuts:** skip Kakamega for 3 Istanbul nights (−$650), yellow fever done (−$200), free TK hotel (−$50).
+- **Fatigue:** max ~4.5h road/day, overnight stops split every long leg, 8 zero-travel days + arrival rest day.
 
 ## Travel legs
 
@@ -22,16 +22,14 @@
 | 2026-12-27 | Istanbul → Nairobi (JKIA) | flight | ~6.5h | TK607 20:30 → 03:05 Dec 28 |
 | 2026-12-28 | Nairobi (JKIA) → Nairobi (guesthouse) | road | ~20m | Pre-booked taxi, ~$15/car |
 | 2026-12-29 | Nairobi (guesthouse) → Ol Pejeta Conservancy | road | ~4h | Crew vehicle via Nanyuki |
-| 2026-12-31 | Ol Pejeta Conservancy → Lake Nakuru NP | road | ~4–5h | Via Nyahururu; Thomson's Falls stop |
-| 2027-01-02 | Lake Nakuru NP → Enonkishu conservancy, Greater Mara | road | ~4.5–5h | Via Mau Narok + Narok |
-| 2027-01-05 | Enonkishu conservancy, Greater Mara → Lake Naivasha | road | ~4–4.5h | Via Narok + Mai Mahiu |
-| 2027-01-06 | Lake Naivasha → Nairobi (guesthouse) | road | ~2.5–3h | A104 + Southern Bypass |
-| 2027-01-08 | Nairobi (guesthouse) → Nairobi (JKIA) | road | ~30m | Uber/Bolt |
-| 2027-01-08 | Nairobi (JKIA) → Ukunda airstrip | flight | ~1h15 | Jambojet ~$110 |
-| 2027-01-08 | Ukunda airstrip → Diani Beach | road | ~15m | Tuk-tuk/taxi |
-| 2027-01-13 | Diani Beach → Ukunda airstrip | road | ~15m | Tuk-tuk/taxi |
-| 2027-01-13 | Ukunda airstrip → Nairobi (JKIA) | flight | ~1h15 | Jambojet ~$110 |
-| 2027-01-13 | Nairobi (JKIA) → Airport-area hotel, Mombasa Rd | road | ~15m | Hotel shuttle |
+| 2026-12-31 | Ol Pejeta Conservancy → Samburu / Buffalo Springs | road | ~2.5–3h | Via Nanyuki + Isiolo; tarmac |
+| 2027-01-03 | Samburu / Buffalo Springs → Thomson's Falls (Nyahururu) | road | ~3.5h | Via Isiolo + Nanyuki |
+| 2027-01-04 | Thomson's Falls (Nyahururu) → Lake Nakuru NP | road | ~1.5h | Downhill via Subukia |
+| 2027-01-06 | Lake Nakuru NP → Kakamega Forest (Rondo Retreat) | road | ~4–4.5h | Via Eldoret |
+| 2027-01-08 | Kakamega Forest (Rondo Retreat) → Kericho (tea estates) | road | ~2.5–3h | Via Kisumu |
+| 2027-01-09 | Kericho (tea estates) → Enonkishu conservancy, Greater Mara | road | ~3–3.5h | Via Bomet + Mulot; last hour rough |
+| 2027-01-12 | Enonkishu conservancy, Greater Mara → Lake Naivasha | road | ~4–4.5h | Via Narok + Mai Mahiu |
+| 2027-01-13 | Lake Naivasha → Airport-area hotel, Mombasa Rd | road | ~2.5–3h | A104 + Southern Bypass |
 | 2027-01-14 | Airport-area hotel, Mombasa Rd → Nairobi (JKIA) | road | ~15m | 03:00 hotel shuttle |
 | 2027-01-14 | Nairobi (JKIA) → Istanbul | flight | ~7h | TK608 04:50 → 11:45 |
 | 2027-01-16 | Istanbul → Los Angeles (LAX) | flight | ~13h45 | TK9 ~14:30 → ~18:15 same day |
@@ -52,7 +50,7 @@ Christmas at home. TK10 LAX 19:45 → IST 19:00 next day (~13h). Sleep on Kenya 
 
 ### Mon Dec 28 — Land + rest day (Nairobi)
 
-Land 03:05. Pre-booked taxi (~20m) to budget guesthouse near JKIA/Langata (room held from Dec 27). Sleep. Zero travel. Shop for snacks, SIM.
+Land 03:05. Taxi (~20m) to guesthouse (room held from Dec 27). Sleep. Optional: Sheldrick baby elephants 11:00 ($20, ~20m away; book online now).
 
 *Overnight:* Budget guesthouse, Nairobi · *Meals:* Own
 
@@ -68,89 +66,89 @@ Zero travel. Dawn + late drives. Black/white rhino, lion, elephant, Grevy's zebr
 
 *Overnight:* Operator camp, OPC campsite · *Meals:* B, L, D
 
-### Thu Dec 31 — Road to Nakuru + NYE in camp (Ol Pejeta → Lake Nakuru)
+### Thu Dec 31 — North to Samburu + NYE by the river (Ol Pejeta → Samburu)
 
-4–5h via Nyahururu (Thomson's Falls stop). Camp inside Lake Nakuru NP. Quiet New Year's Eve by the fire.
+~2.5–3h via Nanyuki + Isiolo; drop into hot, dry north. Camp on the Ewaso Ng'iro river. PM drive. Quiet NYE under the stars.
 
-*Overnight:* KWS campsite, Lake Nakuru NP · *Meals:* B, L packed, D
+*Overnight:* Operator camp, Samburu/Buffalo Springs campsite · *Meals:* B, L, D
 
-### Fri Jan 01 — Nakuru day (Lake Nakuru NP)
+### Fri Jan 01 — Samburu Special Five (Samburu National Reserve)
 
-Zero travel. Dawn drive to Baboon Cliff. Rhino, Rothschild giraffe, flamingos/pelicans, maybe tree-climbing lions. Siesta.
+Zero travel. Dawn + late drives: Grevy's zebra, reticulated giraffe, gerenuk, Beisa oryx, Somali ostrich. Vulturine guineafowl, river elephants. Midday siesta (30–35°C).
+
+*Overnight:* Operator camp, Samburu · *Meals:* B, L, D
+
+### Sat Jan 02 — Leopards + river day (Samburu National Reserve)
+
+Zero travel. Search riverine forest for leopard; lions, cheetah possible. Optional Samburu village visit (~$20–30 pp, paid locally).
+
+*Overnight:* Operator camp, Samburu · *Meals:* B, L, D
+
+### Sun Jan 03 — Back to the cool highlands (Samburu → Nyahururu)
+
+~3.5h via Isiolo + Nanyuki. Thomson's Falls (74 m) walk to the bottom. Camp at the falls; cool night (fleece).
+
+*Overnight:* Thomson's Falls campsite, Nyahururu · *Meals:* B, L, D
+
+### Mon Jan 04 — Short hop to Nakuru (Nyahururu → Lake Nakuru)
+
+~1.5h downhill to Lake Nakuru NP. Camp inside the park. PM drive: rhino, Rothschild's giraffe.
 
 *Overnight:* KWS campsite, Lake Nakuru NP · *Meals:* B, L, D
 
-### Sat Jan 02 — Road to the Mara conservancy (Lake Nakuru → Masai Mara)
+### Tue Jan 05 — Nakuru day (Lake Nakuru NP)
 
-~4.5–5h via Mau Narok + Narok. Lunch stop Narok. Camp in Enonkishu (or Pardamat/Ol Chorro). Short dusk drive.
+Zero travel. Dawn drive to Baboon Cliff. Black + white rhino, flamingos/pelicans (numbers vary), tree-climbing lions if lucky. Siesta.
+
+*Overnight:* KWS campsite, Lake Nakuru NP · *Meals:* B, L, D
+
+### Wed Jan 06 — West to the rainforest (Lake Nakuru → Kakamega Forest)
+
+~4–4.5h via Eldoret. Rondo Retreat inside the forest, full board. Dusk walk: colobus calling.
+
+*Overnight:* Rondo Retreat, Kakamega Forest · *Meals:* B, L, D
+
+### Thu Jan 07 — Rainforest day (Kakamega Forest)
+
+Zero travel. Dawn bird walk with local guide (~Ksh300–500 pp): great blue turaco, hornbills. Black-and-white colobus, De Brazza's + red-tailed monkeys. Lirhanda Hill. Optional night walk (pottos, bushbabies).
+
+*Overnight:* Rondo Retreat, Kakamega Forest · *Meals:* B, L, D
+
+### Fri Jan 08 — Tea country (Kakamega → Kericho)
+
+~2.5–3h via Kisumu. Tea-estate walk, factory visit. Easy afternoon.
+
+*Overnight:* Budget hotel, Kericho · *Meals:* B; L, D own
+
+### Sat Jan 09 — Into the Mara conservancy (Kericho → Masai Mara)
+
+~3–3.5h via Bomet + Mulot (last hour rough). Camp in Enonkishu (or Pardamat/Ol Chorro). Dusk drive.
 
 *Overnight:* Operator camp, Mara conservancy · *Meals:* B, L, D
 
-### Sun Jan 03 — Full Mara day (Mara conservancy)
+### Sun Jan 10 — Full Mara day (Mara conservancy)
 
 Zero travel. Dawn + late drives, off-road, few vehicles. Big cats, plains game, newborn topi. Siesta.
 
 *Overnight:* Operator camp, Mara conservancy · *Meals:* B, L, D
 
-### Mon Jan 04 — Maasai walk + last drives (Mara conservancy)
+### Mon Jan 11 — Maasai walk + night drive (Mara conservancy)
 
-Zero travel. Morning walk with Maasai ranger. PM drive. Night drive if conservancy allows. Tip crew tomorrow.
+Zero travel. Morning walk with Maasai ranger. PM drive. Night drive if allowed (aardvark, bat-eared fox, genets).
 
 *Overnight:* Operator camp, Mara conservancy · *Meals:* B, L, D
 
-### Tue Jan 05 — Road to Naivasha (Mara → Lake Naivasha)
+### Tue Jan 12 — Road to Naivasha (Mara → Lake Naivasha)
 
-~4–4.5h via Narok + Mai Mahiu. Lakeshore camp by mid-afternoon. Hippos at dusk. Optional boat (~$20 pp).
+~4–4.5h via Narok + Mai Mahiu. Lakeshore camp. Hippos at dusk. Optional boat (~$20 pp).
 
 *Overnight:* Lakeshore campsite, Naivasha · *Meals:* B, L, D
 
-### Wed Jan 06 — Hell's Gate option + back to Nairobi (Naivasha → Nairobi)
+### Wed Jan 13 — Last morning + airport hotel (Naivasha → Nairobi (JKIA area))
 
-Optional early Hell's Gate bike (2–3h; +$55, not budgeted). 2.5–3h to Nairobi guesthouse. Crew finishes; tip them.
+Optional early Hell's Gate bike (2–3h; +$55, not budgeted). ~2.5–3h to budget hotel near JKIA. Tip crew. Early night.
 
-*Overnight:* Budget guesthouse, Nairobi · *Meals:* B; L, D own
-
-### Thu Jan 07 — Baby elephants + giraffes (Nairobi)
-
-Zero travel. Sheldrick orphanage 11:00 ($20, book online). Giraffe Centre (~$15). Uber/Bolt. Laundry, repack for the beach.
-
-*Overnight:* Budget guesthouse, Nairobi · *Meals:* B; L, D own
-
-### Fri Jan 08 — Fly to the coast (Nairobi → Diani Beach)
-
-~1h15 Jambojet NBO → Ukunda (~$110). 10–15m tuk-tuk to guesthouse. ~3h door to door. Afternoon swim.
-
-*Overnight:* Budget guesthouse/backpackers, Diani · *Meals:* B; L, D own
-
-### Sat Jan 09 — Beach day (Diani Beach)
-
-Zero travel. White sand, warm Indian Ocean (~28°C). Colobus Conservation walk (~$10). Cheap Swahili food.
-
-*Overnight:* Budget guesthouse, Diani · *Meals:* B; L, D own
-
-### Sun Jan 10 — Shimba Hills day trip (Shimba Hills NP)
-
-~45m each way. Shared vehicle + guide. Elephants, sable antelope (only place in Kenya), Sheldrick Falls walk. Back for sunset.
-
-*Overnight:* Budget guesthouse, Diani · *Meals:* B; L packed, D own
-
-### Mon Jan 11 — Free day / Kisite snorkel option (Diani Beach)
-
-Zero travel. Optional Kisite marine park dhow + snorkel + dolphins (~$70, not budgeted). Or just beach.
-
-*Overnight:* Budget guesthouse, Diani · *Meals:* B; L, D own
-
-### Tue Jan 12 — Last beach day (Diani Beach)
-
-Zero travel. Rest before the long trip home. Pack.
-
-*Overnight:* Budget guesthouse, Diani · *Meals:* B; L, D own
-
-### Wed Jan 13 — Fly back to Nairobi (Diani → Nairobi (JKIA area))
-
-Afternoon Jambojet Ukunda → NBO (~1h15). Hotel shuttle 10–20m. ~3h door to door. Early night.
-
-*Overnight:* Budget hotel near JKIA · *Meals:* B; D own
+*Overnight:* Budget hotel near JKIA · *Meals:* B; L, D own
 
 ### Thu Jan 14 — Early flight to Istanbul (Nairobi → Istanbul)
 
@@ -174,75 +172,76 @@ Easy morning. Havaist to IST. TK9 ~14:30 → LAX ~18:15 same day (~13h45).
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Budget guesthouse near JKIA / Langata | Nairobi | 3 | $30 | ~$60/room/night. Dec 27 held (03:30 arrival) + Dec 28, then Jan 6–7. |
+| Budget guesthouse near JKIA / Langata | Nairobi | 1 | $30 | ~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights). |
 | Operator camp at an OPC campsite | Ol Pejeta Conservancy, Laikipia | 2 | $70 | OPC campsite $70 pppn (2026 tariff); entry separate |
+| Operator camp at a Samburu / Buffalo Springs campsite | Samburu National Reserve | 3 | $30 | Campsite ~$20–50 pppn (public vs special site); reserve fee separate |
+| Thomson's Falls campsite | Nyahururu | 1 | $10 | Campsite fee; operator tents, cook, meals |
 | KWS public campsite inside Lake Nakuru NP | Lake Nakuru NP | 2 | $30 | KWS campsite $30 pppn; 2×24h park fee separate |
+| Rondo Retreat | Kakamega Forest | 2 | $130 | Full board; ~$260/double/night non-resident |
+| Budget hotel, Kericho | Kericho tea country | 1 | $30 | ~$60/room B&B est. |
 | Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback) | Northern Greater Mara | 3 | $25 | Site/community fee ~$25 pppn est. Conservancy fee (~$80) separate. |
 | Camp Carnelley's or Fisherman's Camp | Lake Naivasha, south shore | 1 | $15 | Campsite fee; operator tents, cook, meals |
 | Budget hotel near JKIA (free shuttle) | Nairobi, Mombasa Rd | 1 | $40 | ~$80/room B&B; 24h shuttle |
-| Budget guesthouse / backpackers, Diani (e.g. Diani Backpackers) | Diani Beach, south coast | 5 | $25 | ~$50/room/night; some with kitchen + pool |
 | Hostel private double, Sultanahmet (e.g. Cheers Hostel) | Istanbul | 2 | $25 | ~$47–55/room/night; breakfast often included. Dorm beds ~$15 pp if you want even cheaper. |
 
 ## Budget (per person, USD)
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
-| International flights | TK round trip LAX–IST–NBO, back Jan 14 via IST (2n), home Jan 16 | $1,500 | $1,350–$1,800 | Planning figure; price now. Stopover legal on any fare. |
-| Kenya domestic flights | Jambojet Nairobi ↔ Ukunda (Diani), 2 × ~$110 | $220 | $160–$300 | SGR train instead: −$120 (see Drive or fly). Safari legs all road. |
-| Lodging | Private camping crew 9 days Dec 29–Jan 6: vehicle, guide, cook, tents, meals, fuel | $1,460 | $1,250–$1,850 | 5 festive days (Dec 29–Jan 2) × $170 + 4 × $152. Get 3 KATO quotes. |
+| International flights | TK round trip LAX–IST–NBO, back Jan 14 via IST (2n), home Jan 16 | $1,500 | $1,350–$1,800 | Planning figure; price now. |
+| Kenya domestic flights | None (all road) | $0 | $0–$0 | Fly options shown side by side in Route. |
+| Lodging | Private camping crew 16 days Dec 29–Jan 13: 4x4, guide, cook, tents, meals, fuel | $2,445 | $2,100–$3,100 | 5 festive days × $170 + 11 × $145. Get 3 KATO quotes. |
 | Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$150 | $70 pppn |
+| Lodging | Samburu campsite, 3n | $90 | $60–$150 | $20–50 pppn |
+| Lodging | Thomson's Falls campsite, 1n | $10 | $5–$70 | High = lodge room |
 | Lodging | Nakuru KWS campsite inside park, 2n | $60 | $60–$80 | $30 public; $40 special |
+| Lodging | Rondo Retreat Kakamega FB, 2n | $260 | $240–$300 | $260/double/night |
+| Lodging | Kericho budget hotel, 1n | $30 | $25–$60 | ~$60/room |
 | Lodging | Mara conservancy campsite/community fee, 3n | $75 | $0–$150 | Est. ~$25 pppn |
 | Lodging | Naivasha lakeshore campsite, 1n | $15 | $15–$60 | High = banda |
-| Park/conservancy fees | Ol Pejeta entry, 2 × 24h | $230 | $220–$260 | ~$115/day non-resident |
+| Park/conservancy fees | Ol Pejeta entry, 2 × 24h | $230 | $220–$260 | ~$115/day |
+| Park/conservancy fees | Samburu reserve, 3 × 24h | $255 | $210–$255 | $85/24h (2026 county rate) |
 | Park/conservancy fees | Lake Nakuru NP, 2 × 24h | $180 | $120–$180 | KWS new $90; $60 if old rate stands |
-| Park/conservancy fees | Mara conservancy fee, 3n | $240 | $240–$390 | ~$80 pppn Enonkishu; Pardamat higher |
+| Park/conservancy fees | Kakamega forest entry + guides | $60 | $35–$120 | KFS/KWS fee unclear ($25–50) + guide ~$5 |
+| Park/conservancy fees | Mara conservancy fee, 3n | $240 | $240–$390 | ~$80 pppn Enonkishu |
 | Activities | Mara Maasai walk / night drive | $25 | $0–$60 | Often in conservancy fee |
-| Nairobi | Guesthouse 4 room-nights (Dec 27 held, Dec 28, Jan 6, Jan 7) | $120 | $100–$200 | ~$60/room |
+| Nairobi | Guesthouse 2 room-nights (Dec 27 held + Dec 28) | $60 | $50–$120 | ~$60/room |
 | Nairobi | Budget JKIA hotel 1n Jan 13 | $40 | $35–$75 | ~$80/room, shuttle |
-| Nairobi | Sheldrick ($20) + Giraffe Centre (~$15) | $35 | $35–$45 | Sheldrick: book online ~90 days ahead |
-| Diani coast | Guesthouse private room, 5n | $125 | $100–$250 | ~$50/room/night |
-| Diani coast | Food 5 days (local + Swahili) | $125 | $90–$200 | ~$25 pp/day |
-| Diani coast | Shimba Hills NP day trip (park fee + shared vehicle/guide) | $90 | $70–$130 | KWS fee ~$35–50 + vehicle |
-| Diani coast | Tuk-tuks, Colobus Conservation walk | $25 | $15–$50 |  |
-| Istanbul | Hostel private double, 2n Jan 14–15 | $50 | $30–$70 | ~$50/room/night; dorm $15 pp; $0 if TK stopover hotel |
-| Istanbul | Sights (Hagia Sophia gallery €25; mosques free) | $30 | $0–$60 | Skip paid sights → $0 |
+| Istanbul | Hostel private double, 2n Jan 14–15 | $50 | $30–$70 | ~$50/room/night; dorm $15 pp |
+| Istanbul | Sights (Hagia Sophia gallery €25; mosques free) | $30 | $0–$60 |  |
 | Istanbul | Food, 2 days street food/lokanta | $60 | $40–$90 | ~$25–35 pp/day |
-| Istanbul | Havaist bus + tram, Istanbulkart | $15 | $10–$40 | Taxi ~$30–50/car instead |
-| Transfers | Airport taxis (JKIA, Ukunda) + Nairobi Uber | $40 | $25–$70 |  |
+| Istanbul | Havaist bus + tram, Istanbulkart | $15 | $10–$40 |  |
+| Transfers | JKIA → guesthouse 03:30 taxi | $10 | $8–$20 | ~$15–20/car |
 | Visas/eTA | Kenya eTA (Türkiye visa-free) | $30 | $30–$35 | etas.gov.ke only |
 | Health | Yellow fever vaccine | $200 | $0–$350 | $0 if already vaccinated |
-| Health | Malaria pills + clinic | $100 | $50–$240 | Longer course (coast too) |
+| Health | Malaria pills + clinic | $100 | $50–$240 | Longer course |
 | Travel insurance + evac | Comprehensive, ≥$250k evac (22 days) | $300 | $230–$480 |  |
 | Travel insurance + evac | AMREF Maisha (Kenya air evac) | $10 | $0–$24 |  |
-| Tips | Crew tips (guide ~$11 + cook ~$5 pp/day × 9 days) + Diani/Nairobi misc | $175 | $140–$260 | Small crisp USD |
-| Meals not included | Nairobi (3 days) + transit meals | $90 | $60–$140 |  |
+| Tips | Guide ~$11 + cook ~$5 pp/day × 16 days + misc | $270 | $220–$380 | Small crisp USD |
+| Meals not included | Nairobi, Kericho dinner + transit meals | $60 | $40–$110 |  |
 | Misc/souvenirs | eSIM / Safaricom SIM | $15 | $8–$25 |  |
 | Misc/souvenirs | Souvenirs, laundry, sundries | $50 | $30–$250 |  |
-| Contingency | ~5%: operator quotes, fares, KWS ruling, FX | $300 | $250–$500 | Hold until quotes are signed |
-| **Total** | | **$6,170** | | ≈ $12,340 for two |
+| Contingency | ~5%: operator quotes, fares, fees, FX | $300 | $250–$500 | Hold until quotes are signed |
+| **Total** | | **$7,215** | | ≈ $14,430 for two |
 
 ## Options & swaps
 
 - **Already have yellow fever shot** (−$200 pp): Skip the $200 vaccine. Bring your yellow card.
-- **SGR train to/from the coast instead of flying** (−$120 pp): Madaraka Express first class (~$35) + taxi to Diani. ~7h door to door each way vs ~3h flying. Saves ~$60 pp per way.
-- **Free TK Stopover hotel instead of hostel** (−$50 pp): If your fare qualifies, TK gives free 4-star nights in Istanbul (request ≥72h ahead; hotel assigned, often outside the old city).
-- **Skip Shimba Hills day trip** (−$90 pp): Pure beach days instead.
-- **Istanbul 7 nights instead of Diani** (−$200 pp): Fly NBO → IST Jan 9 instead; no Diani flights. Kenya 12 nights, Istanbul 7 (hostel). Cheaper, but cold + rainy in January.
-- **Fly Mara → Wilson instead of Naivasha** (+$60 pp): ~2.5h door to door vs 2 drive days. Flight $230 minus Naivasha crew day + camp ~$170. Extra Nairobi night instead.
+- **Free TK Stopover hotel instead of hostel** (−$50 pp): If your fare qualifies, TK gives free 4-star nights in Istanbul (request ≥72h ahead).
+- **Skip Kakamega + Kericho; 3 more Istanbul nights** (−$650 pp): Nakuru → Mara direct (~4.5–5h). Leave Kenya Jan 11, Istanbul hostel 5n. Loses the rainforest primates + turacos.
+- **Ol Pejeta specials: northern white rhino + lion tracking** (+$140 pp): Visit the last northern white rhino(s) with their keepers (~$70; check status before booking) + lion tracking with researchers (~$70).
+- **Fly Mara → Wilson instead of Naivasha** (+$95 pp): ~2.5h door to door vs 2 drive days. Flight ~$230 minus Naivasha crew day, camp, tips (~$175), plus 2nd airport-hotel night (~$40).
 - **Fly Nairobi → Nanyuki for Ol Pejeta** (+$204 pp): ~2.5h door to door vs ~4h drive. Crew drives up empty anyway.
-- **Tented-camp comfort at Ol Pejeta + Nakuru** (+$600 pp): Sweetwaters Serena 2n + Flamingo Hill 2n, full board; crew becomes vehicle + guide only.
-- **Kakamega rainforest instead of 3 Diani nights** (+$650 pp): Kenya's last Guineo-Congolian rainforest: colobus + De Brazza's monkeys, great blue turaco, 300+ birds. Inserted between Nakuru and the Mara via Kericho tea country; no drive over ~4.5h. Diani drops to 2 nights; home still Jan 16.
+- **Tented-camp comfort at Ol Pejeta + Samburu** (+$650 pp): Sweetwaters Serena 2n + Samburu Riverside Camp 3n, full board; crew keeps vehicle + guide.
 
 ## Booking timeline
 
-- **Now (Oct 8–15):** Price + book TK round trip (out Dec 26 TK10→TK607; back Jan 14 TK608, 2n IST, Jan 16 TK9). Ask 3 KATO operators for a 9-day private camping quote (Dec 29–Jan 6).
-- **By Oct 31:** Operator confirms in writing: Mara conservancy mobile camping Jan 2–4, KWS Nakuru campsite Dec 31–Jan 1, OPC campsite Dec 29–30. Pay deposit.
-- **~Oct 9 (90 days out):** Book Sheldrick 11:00 visit for Jan 7 as soon as the date opens.
-- **By Nov 15:** Book Jambojet NBO↔Ukunda (Jan 8 / Jan 13) or SGR seats. Nairobi guesthouse (Dec 27–28, Jan 6–7), Diani guesthouse Jan 8–12, JKIA hotel Jan 13, Istanbul hostel Jan 14–15.
-- **Mid–late Nov:** Travel clinic: yellow fever unless done; malaria Rx (whole Kenya stay + 7 days). Buy insurance.
+- **Now (Oct 8–15):** Book Sheldrick 11:00 for Dec 28 (optional; opens ~90 days ahead). Price + book TK round trip (out Dec 26; back Jan 14 TK608, Jan 16 TK9). Ask 3 KATO operators for a 16-day private camping quote.
+- **By Oct 31:** Operator confirms in writing: OPC campsite Dec 29–30, Samburu campsite Dec 31–Jan 2, Thomson's Falls Jan 3, Nakuru KWS Jan 4–5, Mara conservancy mobile camping Jan 9–11. Pay deposit.
+- **By Nov 15:** Book Rondo Retreat Jan 6–7, Kericho hotel Jan 8, Nairobi guesthouse Dec 27–28, JKIA hotel Jan 13, Istanbul hostel Jan 14–15.
+- **Mid–late Nov:** Travel clinic: yellow fever unless done; malaria Rx. Buy insurance.
 - **~Dec 1–5:** Kenya eTA on etas.gov.ke. eSIM. Small USD bills for tips.
-- **Dec 20–24:** Reconfirm crew pickup Dec 29, 03:30 taxi Dec 28, KWS fee ruling, Mai Mahiu road status.
+- **Dec 20–24:** Reconfirm crew pickup Dec 29, 03:30 taxi Dec 28, KWS fee ruling, Mulot road status.
 
 ## Practical
 
@@ -261,11 +260,16 @@ Easy morning. Havaist to IST. TK9 ~14:30 → LAX ~18:15 same day (~13h45).
 ## Do we need a rental car? No.
 - Safari days: the camping operator's 4x4 + driver-guide is in the crew price. You never drive.
 - Self-drive is possible (e.g. Roadtrip Africa Land Cruisers + rooftop tent), but **Mara conservancies don't allow self-drive vehicles**, you'd do every 4–5h drive yourselves on the left, and an 8-day self-drive package starts ~€1,730 pp: not cheaper.
-- Nairobi: Uber/Bolt. Diani: tuk-tuks. Shimba Hills: shared tour vehicle.
+- Nairobi: Uber/Bolt. Everything else in the crew vehicle.
 
 ## Road reality
-- Longest days: Dec 31 (4–5h), Jan 2 (4.5–5h). Rest day before each.
-- All transfers in crew vehicle; no driving yourself, no night driving.
+- Longest days: Dec 29 (~4h), Jan 6 (4–4.5h), Jan 12 (4–4.5h). Rest day before each.
+- Samburu → Nakuru and Kakamega → Mara are split with overnights (Thomson's Falls, Kericho).
+- Kericho → Mara via Mulot: last hour rough; ask operator about rain.
+
+## Weather
+- Samburu hot + dry (30–35°C days). Kakamega: afternoon showers, muddy trails: rain jacket + closed shoes. Highlands cold at night.
+
 
 ## Fees
 - KWS Nakuru $90 new vs $60 old (court case). OPC + Mara conservancies not KWS. Cashless (card/M-Pesa).
@@ -274,7 +278,7 @@ Easy morning. Havaist to IST. TK9 ~14:30 → LAX ~18:15 same day (~13h45).
 - Mara conservancy mobile camping allowed + fee. Per-day rate incl. festive days. No hidden repositioning.
 
 ## Health (CDC)
-- Yellow fever recommended outside Nairobi. Malaria pills from Dec 27 to 7 days after leaving Kenya (coast is higher risk). DEET; dengue on coast.
+- Yellow fever recommended outside Nairobi. Malaria pills from Dec 27 to 7 days after leaving Kenya (Kakamega/west is higher risk). DEET.
 
 ## Camping
 - Walk-in tents, beds, bucket shower, toilet tent. Askari at night. Laikipia/Nakuru nights ~8–12°C: fleece.
@@ -285,11 +289,11 @@ Easy morning. Havaist to IST. TK9 ~14:30 → LAX ~18:15 same day (~13h45).
 ## Open questions
 
 1. Confirm the budget is per person (assumed), not total for both.
-2. Jan 16 adds ~$900. OK, or trim with SGR train / skip Shimba / yellow fever done?
-3. Last week: Diani beach (in plan), more Istanbul, or Kakamega rainforest?
+2. Exotic loop is ~$7,215 pp. OK, or cut Kakamega (−$650) / other options?
+3. Any must-see animals not on the Wildlife list (e.g. wild dogs, bongo, black leopard)?
 4. Hostel: private double (~$25 pp/night) or dorm beds (~$15 pp)?
-5. Any leg you'd rather fly to cut driving (+$60 / +$204 pp)?
-6. NYE camping in Lake Nakuru OK (quiet, no party)?
+5. NYE camping in Samburu OK (quiet, hot, no party)?
+6. Add Ol Pejeta northern white rhino + lion tracking (+$140)?
 
 ## Sources
 
@@ -333,3 +337,5 @@ Easy morning. Havaist to IST. TK9 ~14:30 → LAX ~18:15 same day (~13h45).
 - https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025
 - https://www.expedia.com/lp/flights/kis/nbo/kisumu-to-nairobi
 - https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve
+- https://en.wikipedia.org/wiki/Maasai_Mara_conservancies
+- https://roadtripafrica.com/kenya/self-drive-tours/taste-of-kenya/
