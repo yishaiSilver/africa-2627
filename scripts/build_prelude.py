@@ -22,7 +22,7 @@ def usd(n):
 
 def short_level(text):
     m = re.search(r"Level (\d)\s*[–:-]?\s*([A-Za-z ]+?)(?:[.(,;]|$)", text)
-    return f"Level {m.group(1)}: {m.group(2).strip()}" if m else text.split(".")[0]
+    return f"Level {m.group(1)}: {m.group(2).strip().replace('Exercise ', '')}" if m else text.split(".")[0]
 
 
 def first_sentence(text):

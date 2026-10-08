@@ -7,14 +7,14 @@
 ## Overview
 
 - **Dates:** LAX **Sat Dec 19** → Morocco → Nairobi → LAX **Sat Jan 16**. Christmas in Morocco; Kenya from Dec 28 is the Wild loop unchanged.
-- **Stopover:** 7 nights from Marrakech over the High Atlas to the Erg Chebbi dunes (Christmas Eve in a desert camp), then north to the Middle Atlas cedar forest for Barbary macaques. Fly out from Casablanca via Cairo and land in Nairobi at about 04:55 on Dec 28.
-- **Verdict:** Worth it if you want a big change of scenery and culture before Kenya: Atlas passes, kasbahs, gorges, Sahara dunes and the macaques. The wildlife is thin next to East Africa, though: apart from the macaques and camels it is mostly birds. The main drawbacks are the long Dec 27 flight day via Cairo, with no nonstop to Nairobi, and desert nights near freezing. It adds about $2,000 pp all-in over the base trip. Checked: Level 2 advisory (Sep 4 2026), visa-free entry, the AT251 Sun/Tue/Fri pattern and MS848 (daily, 13:30-20:25) are all confirmed. Changed: flagged that MS849's Cairo departure has moved between 20:55 and 23:55 during 2026 (the 20:55 slot would break the connection), corrected the Azrou-CMN distance to ~300 km, and confirmed that the budget sums (~$3,495 pp, +$1,995 vs base) and every low ≤ planned ≤ high range hold.
-- **Safety:** US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.. Morocco is one of the more stable and tourist-friendly countries in Africa. The Level 2 rating reflects a general terrorism risk; terrorists may target tourist sites, transport hubs and markets. The last deadly attacks on tourists were the 2011 Marrakech cafe bombing and the 2018 killing of two hikers near Imlil. The everyday risks are petty theft, medina hustlers, and mountain driving in winter. Merzouga is close to the closed Algerian border, but the tourist dune area is routinely visited and safe.
+- **Stopover:** 7 nights: Marrakech, High Atlas, Erg Chebbi dunes (Christmas Eve camp), Middle Atlas cedars for Barbary macaques. Out CMN via Cairo; land NBO ~04:55 Dec 28.
+- **Verdict:** Big culture/scenery change before Kenya; wildlife thin beyond macaques, camels, birds. Costs: long Dec 27 via Cairo (verify MS849 23:55 not 20:55), freezing desert nights, ~+$1,995 pp.
+- **Safety:** US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.. Stable, tourist-friendly; Level 2 for general terrorism (tourist sites, transport, markets; last deadly attacks 2011 Marrakech, 2018 Imlil). Daily risks: petty theft, medina hustlers, winter mountain roads. Merzouga near closed Algerian border, but dune zone safe.
 - **Cost:** $9,595 pp, **+$1,995** vs the Wild loop alone ($7,600).
 
-**Highlights:** Christmas Eve in an Erg Chebbi dune camp: camel trek at sunset, stars, Berber drumming, sunrise from the 150 m dunes · Barbary macaques in the Cedre Gouraud cedar forest near Azrou (the only macaque in Africa, endangered) · Crossing the High Atlas on the Tizi n'Tichka pass to the UNESCO ksar of Ait Benhaddou · Todra Gorge (300 m walls) and the Dades Valley 'road of a thousand kasbahs' · Marrakech medina, Jemaa el-Fna night market, Jardin Majorelle and Berber Museum · Desert birding around Merzouga/Dayet Srji (desert sparrow, fulvous babbler, maybe flamingos if the lake has water) · Gnawa music village of Khamlia on Christmas Day
+**Highlights:** Christmas Eve Erg Chebbi camp: sunset camels, stars, Berber drums, sunrise on 150 m dunes · Barbary macaques, Cedre Gouraud forest near Azrou (Africa's only macaque, endangered) · High Atlas via Tizi n'Tichka to UNESCO ksar Ait Benhaddou · Todra Gorge (300 m walls), Dades 'road of a thousand kasbahs' · Marrakech medina, Jemaa el-Fna night market, Majorelle + Berber Museum · Merzouga/Dayet Srji birding: desert sparrow, fulvous babbler, flamingos if wet · Khamlia Gnawa music on Christmas Day
 
-**Drawbacks:** Weak on 'exotic wildlife' compared with Kenya: the macaques are the only real mammal highlight; fennec fox and Barbary sheep sightings are rare · Getting to Nairobi is awkward: there is no confirmed nonstop from Morocco. The best timing is EgyptAir MS848 CMN 13:30 to CAI 20:25, then MS849 to NBO. MS849 has shown both 23:55 and 20:55 Cairo departures in 2026; only the 23:55 slot connects, so verify the December timetable before booking · Dec 26 (~5h road) and Dec 27 (~3.5h road + ~13h of flights and layover) are back-to-back hard days; the Dec 28 Nairobi rest day absorbs it · Outbound Dec 19 is a Saturday, and the Royal Air Maroc LAX-CMN nonstop (AT251, 10:20 departure) only flies Sun/Tue/Fri, so you connect via Europe. The exception is leaving a day early, Fri Dec 18. Turkish via Istanbul forces an overnight in Istanbul and loses a Morocco day · Cold nights in the desert and the Middle Atlas; some budget riads and auberges have weak heating · Late December is peak European holiday season in Marrakech and Merzouga: book camps and riads now · Upgrade option: a luxury desert camp ($180-350 pp/night) and a private 4x4 with a guide add ~$400-700 pp · Cheaper option: shared 3-day Marrakech-Merzouga-Fes tours (~$190-300 pp), but they involve 9-10h drive days, which breaks the pace rule
+**Drawbacks:** Wildlife weak vs Kenya: macaques only real mammal; fennec, Barbary sheep rare · No Morocco-NBO nonstop. MS848 CMN 13:30-CAI 20:25, then MS849; only 23:55 slot connects (20:55 seen in 2026). Verify · Dec 26 (~5h road) + Dec 27 (~3.5h road + ~13h flights/layover) back to back; Dec 28 rest absorbs · Dec 19 is Sat; AT251 LAX-CMN (10:20) flies Sun/Tue/Fri only, so connect via Europe or leave Fri Dec 18. Turkish forces Istanbul overnight · Cold desert/Middle Atlas nights; budget riads, auberges poorly heated · Peak European holiday season: book camps, riads now · Upgrade: luxury camp ($180-350 pp/night) + private 4x4 guide, ~+$400-700 pp · Cheaper: shared 3-day Marrakech-Merzouga-Fes tours (~$190-300 pp), but 9-10h drives break pace rule
 
 ### Then Kenya (Wild loop)
 - **Route (one camping crew, all road):** Nairobi → Ol Pejeta 2n → **Samburu 3n** (NYE) → Thomson's Falls 1n → Lake Nakuru 2n → **Kakamega rainforest 2n** → Kericho 1n → **Mara conservancy 4n** → Naivasha + Hell's Gate 2n → airport hotel → fly home.
@@ -28,17 +28,17 @@
 
 | Date | Leg | Mode | Time | Notes |
 |---|---|---|---|---|
-| 2026-12-19 | Los Angeles (LAX) → Paris Charles de Gaulle (transit) | flight | ~10.5h | Overnight transatlantic, e.g. Air France/Delta LAX-CDG afternoon departure, arriving ~10:00-11:30 Dec 20. Alternatives: Iberia via MAD, or a Star Alliance ticket via FRA/MUC. Royal Air Maroc's LAX-CMN nonstop AT251 does not fly Saturdays (Sun/Tue/Fri only). |
-| 2026-12-20 | Paris Charles de Gaulle (transit) → Marrakech | flight | ~3.5h | Paris-Marrakech (Air France/Transavia/Royal Air Maroc), ~2-3h connection; arrive RAK late afternoon. Then ~25 min taxi or riad pickup to the medina (~150-200 MAD). |
-| 2026-12-22 | Marrakech → Ait Benhaddou | road | ~4h | Private driver over the High Atlas via the Tizi n'Tichka pass (2,260 m). ~190 km; stops at an argan co-op and pass viewpoints, lunch at Telouet optional. |
-| 2026-12-23 | Ait Benhaddou → Todra Gorge / Tinghir | road | ~4h | Via Ouarzazate, Skoura palmery, the Dades Valley and its gorge switchbacks to Todra Gorge. ~280 km with frequent stops. |
-| 2026-12-24 | Todra Gorge / Tinghir → Merzouga | road | ~3h | Tinghir-Alnif-Rissani-Merzouga, ~200 km. Drop luggage at the auberge and keep a small overnight bag. |
-| 2026-12-24 | Merzouga → Erg Chebbi desert camp | road | ~1.5h | Camel trek (or 4x4 if preferred) into the Erg Chebbi dunes at sunset to the camp. |
-| 2026-12-25 | Erg Chebbi desert camp → Merzouga | road | ~1h | Camel or 4x4 back after the dune sunrise; rest of day easy in Merzouga. |
-| 2026-12-26 | Merzouga → Azrou / Cedre Gouraud forest | road | ~5h | Erfoud-Errachidia-Ziz Gorges-Midelt-Azrou, ~370 km. Break at Errachidia and lunch in Midelt; arrive at the Cedre Gouraud forest by ~15:00 for macaques. This is the longest drive, at the 5h limit. |
-| 2026-12-27 | Azrou / Cedre Gouraud forest → Casablanca Mohammed V (transit) | road | ~3.5h | Leave ~07:30 via Meknes on the A2/A1 toll motorways to Casablanca Mohammed V airport (~300 km), arriving ~11:00 for the 13:30 departure. Backup: Fes airport (1h15) plus a Royal Air Maroc domestic flight to CMN. |
-| 2026-12-27 | Casablanca Mohammed V (transit) → Cairo International (transit) | flight | ~5h | EgyptAir MS848 CMN 13:30 (T2) to CAI 20:25 (T3), A321neo, operates daily per 2026 tracker data. ~3.5h airside connection. |
-| 2026-12-28 | Cairo International (transit) → Nairobi (JKIA) | flight | ~5h | EgyptAir MS849 CAI 23:55 Dec 27 to NBO 04:55 Dec 28 (737-800). Some 2026 dates show a 20:55 departure instead, which would not connect, so verify the December schedule before booking. Backups: Qatar QR1396 CMN 20:50 Dec 26 to DOH 06:00, then QR1341 DOH 18:45 to NBO 23:50 Dec 27 (needs a Dec 26 Casablanca departure and drops Azrou). Or Turkish TK618 CMN Dec 26 to IST with an overnight, then TK607 IST 18:45 Dec 27 to NBO 01:25 Dec 28. |
+| 2026-12-19 | Los Angeles (LAX) → Paris Charles de Gaulle (transit) | flight | ~10.5h | Overnight, e.g. Air France/Delta afternoon dep, arr ~10:00-11:30 Dec 20. Alts: Iberia via MAD, Star Alliance via FRA/MUC. AT251 nonstop not Sat (Sun/Tue/Fri). |
+| 2026-12-20 | Paris Charles de Gaulle (transit) → Marrakech | flight | ~3.5h | Air France/Transavia/RAM, ~2-3h connection; arr RAK late afternoon. ~25 min taxi/riad pickup to medina (~150-200 MAD). |
+| 2026-12-22 | Marrakech → Ait Benhaddou | road | ~4h | Private driver via Tizi n'Tichka (2,260 m), ~190 km. Argan co-op, viewpoints; optional Telouet lunch. |
+| 2026-12-23 | Ait Benhaddou → Todra Gorge / Tinghir | road | ~4h | Ouarzazate, Skoura palmery, Dades Gorge switchbacks, Todra. ~280 km, many stops. |
+| 2026-12-24 | Todra Gorge / Tinghir → Merzouga | road | ~3h | Tinghir-Alnif-Rissani-Merzouga, ~200 km. Leave luggage at auberge; small overnight bag. |
+| 2026-12-24 | Merzouga → Erg Chebbi desert camp | road | ~1.5h | Sunset camel (or 4x4) into Erg Chebbi to camp. |
+| 2026-12-25 | Erg Chebbi desert camp → Merzouga | road | ~1h | Camel/4x4 back after dune sunrise; easy day in Merzouga. |
+| 2026-12-26 | Merzouga → Azrou / Cedre Gouraud forest | road | ~5h | Erfoud-Errachidia-Ziz Gorges-Midelt-Azrou, ~370 km. Break Errachidia, lunch Midelt; Cedre Gouraud ~15:00 for macaques. Longest drive, at 5h limit. |
+| 2026-12-27 | Azrou / Cedre Gouraud forest → Casablanca Mohammed V (transit) | road | ~3.5h | Leave ~07:30 via Meknes, A2/A1 toll motorways, ~300 km; arr CMN ~11:00 for 13:30. Backup: Fes airport (1h15) + RAM domestic to CMN. |
+| 2026-12-27 | Casablanca Mohammed V (transit) → Cairo International (transit) | flight | ~5h | EgyptAir MS848 CMN 13:30 (T2)-CAI 20:25 (T3), A321neo, daily per 2026 data. ~3.5h airside. |
+| 2026-12-28 | Cairo International (transit) → Nairobi (JKIA) | flight | ~5h | MS849 CAI 23:55 Dec 27-NBO 04:55 Dec 28 (737-800). Some 2026 dates 20:55 (no connect); verify. Backups: QR1396 CMN 20:50 Dec 26-DOH 06:00, QR1341 DOH 18:45-NBO 23:50 Dec 27 (drops Azrou). Or TK618 CMN Dec 26-IST overnight, TK607 IST 18:45 Dec 27-NBO 01:25 Dec 28. |
 | 2026-12-28 | Nairobi (JKIA) → Nairobi (guesthouse) | road | ~20m | Pre-booked taxi, ~$15/car |
 | 2026-12-29 | Nairobi (guesthouse) → Ol Pejeta Conservancy | road | ~4h | Crew vehicle via Nanyuki |
 | 2026-12-31 | Ol Pejeta Conservancy → Samburu / Buffalo Springs | road | ~2.5–3h | Via Nanyuki + Isiolo; tarmac |
@@ -57,55 +57,55 @@
 
 ### Sat Dec 19 — Depart LAX (LAX to Paris)
 
-Afternoon flight LAX-CDG (~10.5h, overnight). Sleep on the plane.
+Afternoon LAX-CDG (~10.5h, overnight). Sleep on plane.
 
 *Overnight:* Plane · *Meals:* In-flight
 
 ### Sun Dec 20 — Arrive Marrakech (Paris to Marrakech)
 
-Land CDG ~10-11:30, connect to RAK (~3.5h), arrive late afternoon. Riad pickup (~25 min). Mint tea, early night. Travel ~6h today plus yesterday's 10.5h.
+Land CDG ~10-11:30, connect to RAK (~3.5h), arr late afternoon. Riad pickup ~25 min. Mint tea, early night. ~6h travel + yesterday's 10.5h.
 
 *Overnight:* Marrakech · *Meals:* In-flight / riad dinner
 
 ### Mon Dec 21 — Rest + medina (Marrakech)
 
-No transport. Slow morning. Jardin Majorelle + Berber Museum, souks, Ben Youssef Medersa. Sunset from a cafe terrace over Jemaa el-Fna, food stalls at night. Meet the driver for a briefing.
+No transport. Slow morning. Majorelle + Berber Museum, souks, Ben Youssef Medersa. Sunset terrace over Jemaa el-Fna, night food stalls. Driver briefing.
 
 *Overnight:* Marrakech · *Meals:* B riad, L/D medina
 
 ### Tue Dec 22 — Over the Atlas (High Atlas)
 
-Driver 08:30. Tizi n'Tichka pass, ~4h road with stops. Afternoon walk through the Ait Benhaddou ksar, climb to the granary at sunset. Moussier's redstart on the pass.
+Driver 08:30. Tizi n'Tichka, ~4h with stops. Afternoon Ait Benhaddou ksar walk, granary at sunset. Moussier's redstart on pass.
 
 *Overnight:* Ait Benhaddou · *Meals:* B, L roadside tagine, D guesthouse (half board)
 
-### Wed Dec 23 — Valley of kasbahs (Dades + Todra)
+### Wed Dec 23 — Kasbah valley (Dades + Todra)
 
-~4h road: Ouarzazate, Skoura palmery, Dades Gorge switchbacks, Todra. Late-afternoon walk into the Todra Gorge (300 m walls).
+~4h: Ouarzazate, Skoura, Dades switchbacks, Todra. Late-afternoon gorge walk (300 m walls).
 
 *Overnight:* Todra Gorge · *Meals:* B, L Dades, D auberge (HB)
 
-### Thu Dec 24 — Christmas Eve in the dunes (Erg Chebbi)
+### Thu Dec 24 — Christmas Eve, dunes (Erg Chebbi)
 
-Morning gorge walk, then ~3h road to Merzouga. ~15:30 camel trek 1-1.5h to the camp, sunset on the dunes, dinner, drums, stars. Cold night (1-5 C).
+Morning gorge walk, ~3h road to Merzouga. ~15:30 camel 1-1.5h to camp; sunset, dinner, drums, stars. Cold (1-5 C).
 
 *Overnight:* Erg Chebbi desert camp · *Meals:* B, L Rissani/Merzouga, D camp
 
-### Fri Dec 25 — Christmas rest day (Merzouga)
+### Fri Dec 25 — Christmas rest (Merzouga)
 
-Dune sunrise, camel back ~1h, then breakfast and a shower at the auberge. Lazy day. Optional: Khamlia Gnawa music, Dayet Srji lake birding (desert sparrow, flamingos if wet), afternoon nap.
+Dune sunrise, camel back ~1h, breakfast + shower at auberge. Lazy. Optional: Khamlia Gnawa, Dayet Srji birding, nap.
 
 *Overnight:* Merzouga · *Meals:* B camp, L/D auberge (HB)
 
 ### Sat Dec 26 — Cedars + macaques (Middle Atlas)
 
-Depart 08:00. ~5h road: Ziz Gorges, Midelt (lunch), Azrou. ~15:00 Cedre Gouraud forest for the Barbary macaques; Levaillant's woodpecker possible. Snow possible.
+Dep 08:00. ~5h: Ziz Gorges, Midelt lunch, Azrou. ~15:00 Cedre Gouraud macaques; Levaillant's woodpecker possible. Snow possible.
 
 *Overnight:* Azrou / Ifrane · *Meals:* B, L Midelt, D hotel
 
-### Sun Dec 27 — Long haul to Kenya (Casablanca to Cairo to Nairobi)
+### Sun Dec 27 — Long haul to Kenya (CMN-CAI-NBO)
 
-Leave 07:30, ~3.5h (~300 km) to CMN airport. EgyptAir MS848 13:30 to CAI 20:25 (~5h), ~3.5h airside wait, MS849 23:55 to NBO, landing 04:55 Dec 28, then straight to the Nairobi rest day.
+Leave 07:30, ~3.5h (~300 km) to CMN. MS848 13:30-CAI 20:25, ~3.5h airside, MS849 23:55-NBO 04:55 Dec 28. Then Nairobi rest day.
 
 *Overnight:* Plane · *Meals:* B hotel, in-flight
 
@@ -233,10 +233,10 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Riad Dar Najat (or similar budget medina riad) | Marrakech medina, near Jemaa el-Fna | 2 | $35 | Breakfast on the roof terrace |
-| Kasbah guesthouse, e.g. Dar Mouna | Facing the ksar, Ait Benhaddou | 1 | $35 | Half board (dinner + breakfast) |
+| Riad Dar Najat (or similar budget medina riad) | Marrakech medina, near Jemaa el-Fna | 2 | $35 | Rooftop breakfast |
+| Kasbah guesthouse, e.g. Dar Mouna | Facing the ksar, Ait Benhaddou | 1 | $35 | Half board |
 | Gorge auberge, e.g. Hotel Yasmina or Auberge Le Festival | Inside or near the Todra Gorge | 1 | $30 | Half board |
-| Standard Erg Chebbi desert camp (private tent with bed) | Erg Chebbi dunes, ~1h camel from Merzouga | 1 | $75 | Camel trek both ways, dinner, breakfast, blankets; sometimes shared bathroom |
+| Standard Erg Chebbi desert camp (private tent with bed) | Erg Chebbi dunes, ~1h camel from Merzouga | 1 | $75 | Camel both ways, dinner, breakfast, blankets; bathroom sometimes shared |
 | Merzouga auberge, e.g. Kasbah Mohayut or Riad Madu | Merzouga village, at the dune edge | 1 | $35 | Half board |
 | Azrou/Ifrane hotel, e.g. Hotel Le Panorama Azrou | Azrou town, 15 min from the Cedre Gouraud | 1 | $30 | Breakfast |
 | Budget guesthouse near JKIA / Langata | Nairobi | 1 | $30 | ~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights). |
@@ -254,13 +254,13 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
-| International flights | Full multi-city ticket: LAX-RAK Dec 19 (via Paris/Europe), CMN-CAI-NBO Dec 27 (EgyptAir MS848/MS849), NBO-LAX Jan 16 (TK608/TK9) | $2,400 | $2,000–$2,900 | Replaces the $1,500 base; delta ~+$900 pp (range +$500 to +$1,400). Components: one-way Morocco-NBO fares seen at ~$630-710; festive LAX-Morocco one-way ~$800-1,100; NBO-LAX one-way ~$800-1,100. A single Star Alliance ticket (LH/TK to Morocco + EgyptAir + TK home) gives connection protection. Estimate only; no live festive fare was confirmed, so verify. |
-| Stopover (excl. flights) | Lodging: 7 nights: 2 riad, 1 kasbah, 1 auberge, 1 desert camp, 1 auberge, 1 Azrou hotel (double rooms shared) | $275 | $200–$600 | Sum of the lodging list: 70+35+30+75+35+30. Most stays half board. The high end adds a luxury camp and nicer riads. |
-| Stopover (excl. flights) | Tours/transport: Private driver + car, 6 days Marrakech to Casablanca airport (one-way) + RAK airport transfer | $530 | $420–$700 | ~$150-180/day per vehicle incl. fuel and driver lodging, plus a one-way surcharge, split by 2. Get quotes from local operators; packaged 4-day private Marrakech-Fes desert tours list at ~$750-940 pp including lodging. Shared tours are ~$190-300 pp but have 9-10h days. |
-| Stopover (excl. flights) | Permits/fees: Majorelle + Berber Museum, Ben Youssef, Ait Benhaddou, gorge guide, Khamlia music, tips (driver, camel guide) | $80 | $50–$120 | Majorelle + Berber Museum ~200 MAD combined; tip the driver ~$10-15/day per car. |
-| Stopover (excl. flights) | Food: Lunches, 2-3 non-included dinners, water/snacks | $150 | $100–$220 | Tagine lunches ~$6-12; half board covers most dinners. |
-| Stopover (excl. flights) | Visa: Morocco visa-free; Egypt airside transit no visa | $0 | $0–$0 | Kenya eTA is already in the base plan. |
-| Stopover (excl. flights) | Misc: Local SIM/eSIM, warm layers, laundry, buffer | $60 | $30–$120 | Total ~$3,495 pp all-in vs the $1,500 base, so ~+$1,995 pp. |
+| International flights | Multi-city: LAX-RAK Dec 19 via Europe; CMN-CAI-NBO Dec 27 (MS848/MS849); NBO-LAX Jan 16 (TK608/TK9) | $2,400 | $2,000–$2,900 | Replaces $1,500 base: ~+$900 pp (+$500 to +$1,400). Morocco-NBO one-way ~$630-710; LAX-Morocco ~$800-1,100; NBO-LAX ~$800-1,100. One Star Alliance ticket protects connections. Estimate; no live festive fare, verify. |
+| Stopover (excl. flights) | Lodging: 7 nights: 2 riad, kasbah, auberge, camp, auberge, Azrou hotel (shared doubles) | $275 | $200–$600 | 70+35+30+75+35+30. Mostly half board. High end: luxury camp, nicer riads. |
+| Stopover (excl. flights) | Tours/transport: Private driver + car, 6 days Marrakech-CMN one-way + RAK transfer | $530 | $420–$700 | ~$150-180/day per vehicle incl. fuel, driver lodging, plus one-way surcharge, split 2. Get local quotes; private 4-day Marrakech-Fes tours ~$750-940 pp incl. lodging. Shared ~$190-300 pp, 9-10h days. |
+| Stopover (excl. flights) | Permits/fees: Majorelle + Berber Museum, Ben Youssef, Ait Benhaddou, gorge guide, Khamlia, tips | $80 | $50–$120 | Majorelle + Berber Museum ~200 MAD. Driver tip ~$10-15/day per car. |
+| Stopover (excl. flights) | Food: Lunches, 2-3 dinners, water/snacks | $150 | $100–$220 | Tagine lunch ~$6-12; half board covers most dinners. |
+| Stopover (excl. flights) | Visa: Morocco visa-free; Egypt airside no visa | $0 | $0–$0 | Kenya eTA in base plan. |
+| Stopover (excl. flights) | Misc: SIM/eSIM, warm layers, laundry, buffer | $60 | $30–$120 | Total ~$3,495 pp vs $1,500 base: ~+$1,995 pp. |
 | Kenya domestic flights | None (all road) | $0 | $0–$0 | Fly options shown side by side in Route. |
 | Lodging | Private camping crew 18 days Dec 29–Jan 15: 4x4, guide, cook, tents, meals, fuel | $2,735 | $2,350–$3,450 | 5 festive days × $170 + 13 × $145. Get 3 KATO quotes. |
 | Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$150 | $70 pppn |
@@ -306,13 +306,13 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 ## Booking timeline
 
-- **Now (Oct 2026):** Morocco: Price and book the multi-city ticket (LAX-RAK Dec 19 / CMN-NBO Dec 27 / NBO-LAX Jan 16). Confirm that the December MS849 departure is 23:55, not 20:55, so the connection from MS848 (arr 20:25) is legal; prefer one ticket. Compare with the Qatar and Turkish backup routings.
-- **Now (Oct 2026):** Morocco: Book the Erg Chebbi camp for Dec 24 and the Marrakech riad: peak European holiday period.
-- **By end Oct:** Morocco: Book a licensed private driver for Dec 22-27 (one-way Marrakech to Casablanca airport); confirm the 07:30 Dec 27 departure and the motorway route.
-- **By end Oct:** Morocco: Book the Ait Benhaddou, Todra, Merzouga and Azrou guesthouses (half board).
-- **Nov:** Morocco: Travel insurance with trip-delay cover (two long connections); check that the Kenya eTA covers Dec 28 arrival.
-- **Early Dec:** Morocco: Reconfirm all flight times (EgyptAir has shifted MS849 several times in 2026); pack warm layers.
-- **Dec 21 evening:** Morocco: Brief the driver; check the Tizi n'Tichka snow status for Dec 22.
+- **Now (Oct 2026):** Morocco: Book multi-city (LAX-RAK Dec 19 / CMN-NBO Dec 27 / NBO-LAX Jan 16), one ticket. Confirm Dec MS849 23:55 not 20:55 (MS848 arr 20:25). Compare Qatar/Turkish.
+- **Now (Oct 2026):** Morocco: Book Dec 24 Erg Chebbi camp, Marrakech riad: peak season.
+- **By end Oct:** Morocco: Book licensed driver Dec 22-27, one-way to CMN; confirm 07:30 Dec 27 dep, motorway route.
+- **By end Oct:** Morocco: Book Ait Benhaddou, Todra, Merzouga, Azrou (half board).
+- **Nov:** Morocco: Insurance with trip-delay cover; check Kenya eTA covers Dec 28.
+- **Early Dec:** Morocco: Reconfirm flights (MS849 shifted often in 2026); pack warm layers.
+- **Dec 21 evening:** Morocco: Brief driver; check Tizi n'Tichka snow for Dec 22.
 - **Now (Oct 8–15):** Book Sheldrick 11:00 for Dec 28 (optional; opens ~90 days ahead). Price + book TK round trip (out Dec 26; home Jan 16 TK608 + TK9 same day). Ask 3 KATO operators for an 18-day private camping quote (Dec 29–Jan 15).
 - **By Oct 31:** Operator confirms in writing: OPC campsite Dec 29–30, Samburu Dec 31–Jan 2, Thomson's Falls Jan 3, Nakuru KWS Jan 4–5, Mara conservancy mobile camping Jan 9–12, Naivasha Jan 13–14. Pay deposit.
 - **By Nov 15:** Book Rondo Retreat Jan 6–7, Kericho hotel Jan 8, Nairobi guesthouse Dec 27–28, JKIA hotel Jan 15.
@@ -323,17 +323,17 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 ## Practical
 
 ## Morocco stopover
-- **Visa (US passport):** US passport: Morocco is visa-free for up to 90 days (passport must be valid 6+ months on entry; one blank page). Paris (CDG) airside transit needs no visa, and the EU EES/ETIAS systems do not apply to airside transit. Cairo transit: no Egyptian visa needed if you stay airside. Kenya eTA is still required as in the base plan, so make sure it covers a Dec 28 entry.
-- **Safety — US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.:** Morocco is one of the more stable and tourist-friendly countries in Africa. The Level 2 rating reflects a general terrorism risk; terrorists may target tourist sites, transport hubs and markets. The last deadly attacks on tourists were the 2011 Marrakech cafe bombing and the 2018 killing of two hikers near Imlil. The everyday risks are petty theft, medina hustlers, and mountain driving in winter. Merzouga is close to the closed Algerian border, but the tourist dune area is routinely visited and safe.
-  - Hire a licensed driver and drive in daylight only; the Tizi n'Tichka pass (2,260 m) and the Midelt road can get snow or ice in late December. Check road status the night before.
-  - In the Marrakech medina, ignore 'the square is closed' and 'follow me' faux guides; agree prices before henna or photos at Jemaa el-Fna, and watch for pickpockets in crowds.
-  - Do not wander east of the Erg Chebbi tourist zone toward the Algerian border, and stay with your camp guide at night.
-  - Drink bottled or filtered water and go easy on raw salads for the first days; carry rehydration salts.
-  - Pack for cold: desert camps and Azrou can drop below 0 C at night. Bring a warm layer, a hat, and a sleeping-bag liner.
-  - Women may get verbal attention in medinas; modest dress helps, and firm 'la, shukran' (no thanks) works.
-  - Stay airside at Cairo (CAI) on the EgyptAir transit, and keep the whole routing on one ticket so a missed connection is the airline's problem. EgyptAir punctuality is mediocre (~50-60% on time).
-  - Enroll in STEP; carry a copy of your passport, since there are police checkpoints on rural roads.
-- **Weather in late Dec:** Dry season, mostly sunny. Marrakech highs ~18-20 C, lows ~5-7 C. Ouarzazate/Dades: highs ~16-18 C, nights ~0-3 C. Merzouga/Erg Chebbi: days ~17-20 C, nights ~1-5 C (camps provide heavy blankets). Azrou/Ifrane (1,250-1,650 m): highs ~10 C, nights below freezing; snow is possible, and the macaques in snow are a bonus. Tizi n'Tichka can close briefly after snowfall. Short days: sunset ~17:45.
+- **Visa (US passport):** US: Morocco visa-free 90 days (passport 6+ months, 1 blank page). CDG airside transit: no visa, no EES/ETIAS. Cairo airside: no visa. Kenya eTA must cover Dec 28 entry.
+- **Safety — US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.:** Stable, tourist-friendly; Level 2 for general terrorism (tourist sites, transport, markets; last deadly attacks 2011 Marrakech, 2018 Imlil). Daily risks: petty theft, medina hustlers, winter mountain roads. Merzouga near closed Algerian border, but dune zone safe.
+  - Licensed driver, daylight only; Tizi n'Tichka (2,260 m), Midelt road may ice. Check night before.
+  - Medina: ignore faux guides; agree henna/photo prices first; watch pickpockets.
+  - Stay in Erg Chebbi tourist zone, not east toward Algeria; stick with camp guide at night.
+  - Bottled/filtered water, few raw salads early; carry rehydration salts.
+  - Desert and Azrou below 0 C at night: warm layer, hat, sleeping-bag liner.
+  - Women may get medina catcalls; modest dress, firm 'la, shukran'.
+  - Stay airside in Cairo; one ticket for whole routing. EgyptAir ~50-60% on time.
+  - Enroll STEP; carry passport copy for rural police checkpoints.
+- **Weather in late Dec:** Dry, sunny. Marrakech 18-20 C / 5-7 C. Ouarzazate/Dades 16-18 C / 0-3 C. Merzouga 17-20 C / 1-5 C (heavy blankets). Azrou/Ifrane (1,250-1,650 m) ~10 C, nights below freezing, snow possible. Tichka may close briefly after snow. Sunset ~17:45.
 
 ## Entry
 - Kenya eTA $30, **etas.gov.ke only**. Türkiye: airside connections only, no visa needed. Passport 6+ mo, 2 blank pages.

@@ -7,14 +7,14 @@
 ## Overview
 
 - **Dates:** LAX **Sat Dec 19** → Uganda → Nairobi → LAX **Sat Jan 16**. Christmas in Uganda; Kenya from Dec 28 is the Wild loop unchanged.
-- **Stopover:** LAX to Istanbul with one night there, then Entebbe late on Dec 21. Light aircraft to Bwindi for gorillas, Christmas in Queen Elizabeth NP, chimps in Kibale, then fly Kasese–Entebbe–Nairobi on Dec 27/28. Adds about $3,900 pp. The US advisory is still Level 4.
-- **Verdict:** This is the best wildlife stopover of all the options: mountain gorillas, wild chimps, tree-climbing lions and Kazinga hippos all fit in 9 days. Road days stay short only because of two Aerolink flights, and the trip costs about $3,900 pp on top of the base trip. It suits wildlife-first travelers with that budget. The deal-breaker is safety and paperwork: State's Uganda page still shows Level 4 Do Not Travel (issued Jun 4 2026, Ebola, with limited consular services), even though the outbreak has ended. Book only refundable items until it drops to Level 3. Checked: the overnight IST→EBB connection on Dec 20 does not exist (TK10 lands IST about 19:00, and the IST→EBB flights leave about 15:20–15:40), so I added an Istanbul airport-hotel night and moved arrival to EBB about 22:00 Dec 21; removed the separate Entebbe rest day and used the 12:30 Aerolink to Kihihi on Dec 22 instead; added real EBB→NBO options (KQ417 about 18:00, or KQ419 00:10 on Dec 28 landing 01:25, both before 06:00); raised the festive multi-city fare to about $1,800 (+$300 vs base); added the Istanbul hotel to lodging; recalculated totals (about $5,370 pp, or +$3,870); confirmed the $800 gorilla and $250 chimp permits and the $40 QENP entry; noted Dec 24 road time is about 4.5–5h, at the cap; confirmed the advisory is still Level 4.
-- **Safety:** Level 4 – Do Not Travel. The State Dept Uganda page shows it dated Jun 4 2026, citing crime, health (Ebola), terrorism and unrest, and says US consular services are limited. It was Level 3 before (Dec 8 2025). I found no lowering as of Oct 8 2026, even though Uganda declared its outbreak over on Jul 28 and WHO did so on Aug 26. Re-check travel.state.gov before paying anything.. Uganda's Bundibugyo-strain Ebola outbreak (linked to the Ituri, DRC epidemic) is officially over, but DRC transmission may continue. Bwindi and Ishasha both sit on the DRC border, and one new imported case could reimpose restrictions or close parks. Terrorism risk comes from the ADF, an ISIS-linked group: in Oct 2023 it killed a British–South African honeymoon couple and their Ugandan guide inside Queen Elizabeth NP. Since then UWA has added armed escorts and checkpoints, and no attacks on tourists in the parks have been reported. The 2023 Anti-Homosexuality Act criminalizes same-sex relations, and visitors are not exempt. The likeliest everyday danger is the roads: Uganda has very high road deaths (boda-bodas, speeding buses, unlit roads). Crime is mostly opportunistic theft in Kampala and Entebbe. The advisory is not overstated, but the practical risk on a guided park itinerary is lower than Level 4 suggests. The bigger practical problems are insurance and refunds.
+- **Stopover:** LAX→Istanbul (1 night)→Entebbe late Dec 21. Fly to Bwindi gorillas, Christmas in QENP, Kibale chimps, fly Kasese→EBB→Nairobi Dec 27/28. ~+$3,900 pp. US advisory Level 4.
+- **Verdict:** Best wildlife stopover: gorillas, chimps, tree-climbing lions, Kazinga hippos in 9 days, ~+$3,900 pp. Deal-breaker: still Level 4 (Jun 4 2026, Ebola) despite outbreak over — book refundable only until Level 3.
+- **Safety:** Level 4 – Do Not Travel. Issued Jun 4 2026: crime, Ebola, terrorism, unrest; limited US consular services. Was Level 3 (Dec 8 2025). Not lowered as of Oct 8 2026 despite outbreak declared over (Uganda Jul 28, WHO Aug 26). Re-check travel.state.gov before paying.. Ebola over, but DRC transmission may continue; Bwindi/Ishasha border DRC, one imported case could close parks. ADF (ISIS-linked) killed honeymoon couple + guide in QENP Oct 2023; armed escorts since, no tourist attacks. 2023 Anti-Homosexuality Act applies to visitors; roads deadliest daily risk; real problem is insurance/refunds.
 - **Cost:** $11,470 pp, **+$3,870** vs the Wild loop alone ($7,600).
 
-**Highlights:** Mountain gorilla trek in Bwindi (Buhoma): one hour with a habituated family, with a success rate around 95%+ · Chimpanzee tracking in Kibale, which has the densest primate population in East Africa and a success rate around 90% · Tree-climbing lions in Ishasha on Christmas Eve · Christmas Day: Kasenyi game drive plus the Kazinga Channel boat, with hundreds of hippos, buffalo, elephants and waterbirds · Light-aircraft flights over the green hills (Aerolink), avoiding 9–10h drives · A free evening, or the next morning, in Istanbul on the way out · Bigodi Wetland community walk near Kibale (culture plus red colobus monkeys and turacos)
+**Highlights:** Bwindi (Buhoma) gorilla trek: 1h with habituated family, ~95%+ success · Kibale chimp tracking: East Africa's densest primates, ~90% success · Ishasha tree-climbing lions on Christmas Eve · Christmas: Kasenyi game drive + Kazinga boat (hippos, buffalo, elephants, birds) · Aerolink light aircraft over green hills; skips 9–10h drives · Free evening/morning in Istanbul · Bigodi Wetland community walk: red colobus, turacos
 
-**Drawbacks:** Safety: Level 4 Do Not Travel still shown (since Jun 4 2026, Ebola), plus the ADF history in Queen Elizabeth NP and the Anti-Homosexuality Act · Most expensive option: about +$3,900 pp, from the gorilla permit ($800), chimp permit ($250) and two Aerolink flights (about $700) · No same-night connection from LAX: TK10 lands IST about 19:00, and IST→EBB flights leave about 15:20–15:40, so you need a night in Istanbul and land EBB about 22:00 on Dec 21 · No full rest day in Uganda. Recovery comes from the IST hotel night and a slow morning on Dec 22, and the Nairobi rest day is Dec 28 · Aerolink has no published 2026 timetable (2023 schedule: Flt 121 leaves EBB 12:30 and serves Kihihi, Kasese and Mweya). Some routes have minimum passenger numbers, and it does not connect with KQ, so a late Kasese flight on Dec 27 pushes you onto KQ419 at 00:10 · Christmas permits are limited (8 per family per day). Book Buhoma for Dec 23 now or switch to Rushaga/Ruhija. UWA permits must be paid in full through a licensed operator · Dec 24 has about 4.5–5h of road (Buhoma→Ishasha→Mweya), at the 5h cap · Bwindi trek: 2–6+ hours of steep, muddy hiking. Hire a porter ($20) · UWA's tariff for July 2026 onward is not published. Permits are reported unchanged until Jan 1 2027 (chimps rising to $300 then), but confirm · Rwanda alternative: the gorilla permit is $1,500, but the park is only 2.5h from Kigali with no domestic flights. Total cost is similar or higher, with less other wildlife
+**Drawbacks:** Level 4 still shown (Jun 4 2026, Ebola); ADF history in QENP; Anti-Homosexuality Act · Priciest option: ~+$3,900 pp (gorilla $800, chimp $250, Aerolink ~$700) · No same-night link: TK10 lands IST ~19:00, IST→EBB departs ~15:20–15:40; IST night, EBB ~22:00 Dec 21 · No Uganda rest day; IST night + slow Dec 22 morning instead; Nairobi rest Dec 28 · Aerolink: no 2026 timetable (2023: Flt 121 EBB 12:30), minimum pax, no KQ connection; late Kasese → KQ419 00:10 · Christmas permits limited (8/family/day). Book Buhoma Dec 23 now or Rushaga/Ruhija; paid in full via operator · Dec 24: ~4.5–5h road (Buhoma→Ishasha→Mweya), at 5h cap · Bwindi trek 2–6+h steep, muddy. Porter $20 · UWA Jul 2026+ tariff unpublished; permits reportedly flat to Jan 1 2027 (chimps → $300); confirm · Rwanda alt: $1,500 permit, 2.5h from Kigali, no flights; similar/higher cost, less wildlife
 
 ### Then Kenya (Wild loop)
 - **Route (one camping crew, all road):** Nairobi → Ol Pejeta 2n → **Samburu 3n** (NYE) → Thomson's Falls 1n → Lake Nakuru 2n → **Kakamega rainforest 2n** → Kericho 1n → **Mara conservancy 4n** → Naivasha + Hell's Gate 2n → airport hotel → fly home.
@@ -28,18 +28,18 @@
 
 | Date | Leg | Mode | Time | Notes |
 |---|---|---|---|---|
-| 2026-12-19 | Los Angeles (LAX) → Istanbul Airport (airport hotel night) | flight | ~13h | TK10 LAX 19:45 → IST 19:00 (+1), on the winter schedule from Oct 24 per flightmapper. Booked as a TK multi-city LAX→EBB / NBO→LAX. |
-| 2026-12-21 | Istanbul Airport (airport hotel night) → Entebbe International Airport | flight | ~6.7h | After a night at an IST airport hotel: TK591 nonstop, about 15:20 → EBB about 22:00 (Aug 2026 tracker times; confirm). Avoid TK606 via Kigali, which leaves about 15:40 and lands EBB about 01:00. There is no workable same-night connection from TK10. |
-| 2026-12-21 | Entebbe International Airport → Entebbe town | road | ~0.25h | Guesthouse pickup, about 22:45. Sleep. |
-| 2026-12-22 | Entebbe town → Kihihi airstrip | flight | ~1.5h | Aerolink Flt 121 circuit, EBB 12:30 → Kihihi about 14:00 (2023 schedule; times vary with routing, so confirm). About $378 one way. 15 kg soft-bag limit. |
-| 2026-12-22 | Kihihi airstrip → Bwindi Impenetrable NP (Buhoma) | road | ~1.25h | Driver-guide (vehicle sent from Kampala ahead of time) meets you and drives to Buhoma, arriving about 15:30. |
-| 2026-12-24 | Bwindi Impenetrable NP (Buhoma) → Ishasha sector, Queen Elizabeth NP | road | ~2h | Buhoma→Ishasha on dirt road, then a 1.5–2h lion game drive. |
-| 2026-12-24 | Ishasha sector, Queen Elizabeth NP → Queen Elizabeth NP (Mweya / Kazinga Channel) | road | ~2.5h | Ishasha→Katunguru/Mweya through the park, arriving before dark. Day total about 4.5–5h on the road. |
-| 2026-12-26 | Queen Elizabeth NP (Mweya / Kazinga Channel) → Kibale National Park (Kanyanchu) | road | ~2h | Mweya→Kanyanchu via the crater lakes road, mostly paved. Chimp tracking at 14:00. |
-| 2026-12-27 | Kibale National Park (Kanyanchu) → Kasese Airport | road | ~2h | Kibale→Kasese airstrip, timed to the Aerolink pickup. |
-| 2026-12-27 | Kasese Airport → Entebbe International Airport | flight | ~1.5h | Aerolink circuit Kasese/Mweya→EBB, early to mid afternoon (2026 trackers show Kihihi–EBB departures around 15:50). Unconfirmed: some aggregators say EBB–Kasese runs only from Nov 2026. Mweya airstrip is the fallback. |
-| 2026-12-27 | Entebbe International Airport → Nairobi (JKIA) | flight | ~1.2h | Separate ticket. KQ417 at about 17:50–18:05 if Aerolink lands by about 15:30, otherwise KQ419 EBB 00:10 → NBO 01:25 on Dec 28 (Jul/Aug 2026 schedule). Both arrive before 06:00 Dec 28. Uganda Airlines (UR) is another option. About $180–350 one way. |
-| 2026-12-27 | Nairobi (JKIA) → Nairobi (guesthouse) | road | ~0.75h | Pre-booked taxi to a Karen guesthouse (book the Dec 27 night so the room is held even if you arrive after midnight). |
+| 2026-12-19 | Los Angeles (LAX) → Istanbul Airport (airport hotel night) | flight | ~13h | TK10 LAX 19:45 → IST 19:00 (+1), winter schedule from Oct 24 (flightmapper). TK multi-city LAX→EBB / NBO→LAX. |
+| 2026-12-21 | Istanbul Airport (airport hotel night) → Entebbe International Airport | flight | ~6.7h | After IST hotel night: TK591 nonstop ~15:20 → EBB ~22:00 (Aug 2026 tracker; confirm). Avoid TK606 via Kigali (~15:40, lands ~01:00). No same-night link from TK10. |
+| 2026-12-21 | Entebbe International Airport → Entebbe town | road | ~0.25h | Guesthouse pickup ~22:45. Sleep. |
+| 2026-12-22 | Entebbe town → Kihihi airstrip | flight | ~1.5h | Aerolink Flt 121 EBB 12:30 → Kihihi ~14:00 (2023 schedule; confirm). ~$378 one way. 15 kg soft bag. |
+| 2026-12-22 | Kihihi airstrip → Bwindi Impenetrable NP (Buhoma) | road | ~1.25h | Driver-guide (vehicle pre-positioned from Kampala) drives to Buhoma, ~15:30. |
+| 2026-12-24 | Bwindi Impenetrable NP (Buhoma) → Ishasha sector, Queen Elizabeth NP | road | ~2h | Buhoma→Ishasha dirt road, then 1.5–2h lion game drive. |
+| 2026-12-24 | Ishasha sector, Queen Elizabeth NP → Queen Elizabeth NP (Mweya / Kazinga Channel) | road | ~2.5h | Ishasha→Katunguru/Mweya through park, before dark. Day ~4.5–5h road. |
+| 2026-12-26 | Queen Elizabeth NP (Mweya / Kazinga Channel) → Kibale National Park (Kanyanchu) | road | ~2h | Mweya→Kanyanchu via crater lakes, mostly paved. Chimps 14:00. |
+| 2026-12-27 | Kibale National Park (Kanyanchu) → Kasese Airport | road | ~2h | Kibale→Kasese airstrip, timed to Aerolink. |
+| 2026-12-27 | Kasese Airport → Entebbe International Airport | flight | ~1.5h | Aerolink Kasese/Mweya→EBB, early–mid afternoon (2026 trackers: Kihihi–EBB ~15:50). Unconfirmed: EBB–Kasese maybe only from Nov 2026. Fallback: Mweya strip. |
+| 2026-12-27 | Entebbe International Airport → Nairobi (JKIA) | flight | ~1.2h | Separate ticket. KQ417 ~17:50–18:05 if Aerolink lands by ~15:30, else KQ419 00:10 → NBO 01:25 Dec 28 (Jul/Aug 2026). Both before 06:00 Dec 28. UR alt. ~$180–350. |
+| 2026-12-27 | Nairobi (JKIA) → Nairobi (guesthouse) | road | ~0.75h | Pre-booked taxi to Karen guesthouse (book Dec 27 night to hold room past midnight). |
 | 2026-12-29 | Nairobi (guesthouse) → Ol Pejeta Conservancy | road | ~4h | Crew vehicle via Nanyuki |
 | 2026-12-31 | Ol Pejeta Conservancy → Samburu / Buffalo Springs | road | ~2.5–3h | Via Nanyuki + Isiolo; tarmac |
 | 2027-01-03 | Samburu / Buffalo Springs → Thomson's Falls (Nyahururu) | road | ~3.5h | Via Isiolo + Nanyuki |
@@ -57,55 +57,55 @@
 
 ### Sat Dec 19 — Depart LAX (LAX → Istanbul)
 
-TK10 at 19:45, about 13h nonstop. Sleep on the plane.
+TK10 19:45, ~13h nonstop. Sleep aboard.
 
 *Overnight:* Plane · *Meals:* On board
 
 ### Sun Dec 20 — Land IST, hotel (Istanbul)
 
-Land at 19:00. Walk to the airport hotel (YOTEL airside, or one near the airport). Proper bed, sleep.
+Land 19:00. Airport hotel (YOTEL airside or nearby). Sleep.
 
 *Overnight:* Istanbul Airport hotel · *Meals:* On board, D
 
 ### Mon Dec 21 — Fly to Uganda (Istanbul → Entebbe)
 
-Slow morning, no sightseeing. TK591 at about 15:20, about 6.7h → EBB about 22:00. 15 min to the guesthouse, then sleep.
+Slow morning. TK591 ~15:20, ~6.7h → EBB ~22:00. 15 min to guesthouse.
 
 *Overnight:* Entebbe · *Meals:* B, on board
 
-### Tue Dec 22 — Fly to gorilla country (Entebbe → Bwindi)
+### Tue Dec 22 — Fly to Bwindi (Entebbe → Bwindi)
 
-Sleep in. Aerolink at 12:30, about 1.5h to Kihihi. Drive 1.25h to Buhoma, arriving about 15:30. Easy evening, pack for the trek.
+Sleep in. Aerolink 12:30, ~1.5h to Kihihi. 1.25h drive, Buhoma ~15:30. Pack for trek.
 
 *Overnight:* Buhoma, Bwindi · *Meals:* B,L,D
 
 ### Wed Dec 23 — Gorilla trek (Bwindi (Buhoma))
 
-07:30 briefing. Trek 2–6h through steep, muddy forest, then 1h with the gorillas. Porter $20. Rest in the evening.
+07:30 briefing. 2–6h steep, muddy trek; 1h with gorillas. Porter $20.
 
 *Overnight:* Buhoma, Bwindi · *Meals:* B,packed L,D
 
 ### Thu Dec 24 — Tree-climbing lions (Ishasha → Mweya)
 
-Drive about 2h to Ishasha. Game drive among the fig trees, about 1.5h. Drive about 2.5h to Mweya/Katunguru, arriving by 17:00. About 4.5–5h on the road, the longest day. Christmas Eve at camp.
+~2h to Ishasha. ~1.5h fig-tree game drive. ~2.5h to Mweya/Katunguru by 17:00. ~4.5–5h road, longest day.
 
 *Overnight:* Queen Elizabeth NP · *Meals:* B,packed L,D
 
-### Fri Dec 25 — Christmas on the Kazinga (Queen Elizabeth NP)
+### Fri Dec 25 — Christmas on Kazinga (Queen Elizabeth NP)
 
-Dawn Kasenyi game drive, about 3h (lions, kob, elephants). Rest at midday. 15:00 Kazinga boat, 2h: hippos, buffalo, birds. Under 1h of driving.
+Dawn Kasenyi drive ~3h (lions, kob, elephants). Midday rest. 15:00 Kazinga boat 2h. <1h driving.
 
 *Overnight:* Queen Elizabeth NP · *Meals:* B,L,D
 
 ### Sat Dec 26 — Chimps (Mweya → Kibale)
 
-Drive about 2h via the crater lakes. Chimp tracking at 14:00, 2–3h. Optional Bigodi swamp walk the next dawn, if the flight time allows.
+~2h via crater lakes. Chimps 14:00, 2–3h. Optional dawn Bigodi walk if flight allows.
 
 *Overnight:* Kibale · *Meals:* B,L,D
 
-### Sun Dec 27 — Fly out to Kenya (Kibale → Nairobi)
+### Sun Dec 27 — Fly to Kenya (Kibale → Nairobi)
 
-Drive about 2h to the Kasese strip. Aerolink about 1.5h to EBB. KQ417 at about 18:00 (or KQ419 at 00:10, landing 01:25 Dec 28). Taxi 45 min to Karen. Long day, but only 2h on the road. Dec 28 is the Nairobi rest day.
+~2h to Kasese strip. Aerolink ~1.5h to EBB. KQ417 ~18:00 (or KQ419 00:10, lands 01:25 Dec 28). 45 min taxi to Karen. 2h road. Dec 28 rest.
 
 *Overnight:* Nairobi (Karen guesthouse) · *Meals:* B,L
 
@@ -233,10 +233,10 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| YOTEL Istanbul Airport (airside) or a nearby airport hotel | Inside Istanbul Airport, or 10–20 min away | 1 | $75 | Room only |
-| Entebbe budget guesthouse (e.g. Karibu Guesthouse / Airport Guesthouse type) | Entebbe, 10–15 min from EBB | 1 | $40 | Breakfast, often a late-arrival airport pickup |
-| CTPH Gorilla Conservation Camp / Buhoma Community Rest Camp | Buhoma, walking distance to the gorilla briefing point | 2 | $60 | Budget about $60 pp per night with full-board meals |
-| Simba Safari Camp (or UWA Mweya bandas) | Near the Kasenyi plains / Kazinga Channel | 2 | $75 | Half board |
+| YOTEL Istanbul Airport (airside) or a nearby airport hotel | In IST airport or 10–20 min away | 1 | $75 | Room only |
+| Entebbe budget guesthouse (e.g. Karibu / Airport Guesthouse) | Entebbe, 10–15 min from EBB | 1 | $40 | Breakfast; often late airport pickup |
+| CTPH Gorilla Conservation Camp / Buhoma Community Rest Camp | Buhoma, walk to gorilla briefing | 2 | $60 | Full board, ~$60 pp/night |
+| Simba Safari Camp (or UWA Mweya bandas) | Near Kasenyi / Kazinga Channel | 2 | $75 | Half board |
 | Chimpanzee Forest Guesthouse / Kibale Forest Camp budget tents | Near Kanyanchu, Kibale NP | 1 | $65 | Half to full board |
 | Budget guesthouse near JKIA / Langata | Nairobi | 1 | $30 | ~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights). |
 | Operator camp at an OPC campsite | Ol Pejeta Conservancy, Laikipia | 2 | $70 | OPC campsite $70 pppn (2026 tariff); entry separate |
@@ -253,17 +253,17 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
-| International flights | TK multi-city LAX→IST→EBB (Dec 19–21) / NBO→IST→LAX (Jan 16) | $1,800 | $1,500–$2,300 | Off-peak TK fares are about $1,029 round trip LAX–EBB, but Dec 19 is a peak departure, so I estimate about $1,800 (+$300 vs the $1,500 base). This is not a live quote, so price it at turkishairlines.com. |
-| Stopover (excl. flights) | Regional flights: EBB→NBO one way Dec 27/28 (KQ417 or KQ419, or UR) | $230 | $180–$350 | Separate ticket. Buy a changeable fare in case the Aerolink flight is late. |
-| Stopover (excl. flights) | Domestic flights: Aerolink EBB→Kihihi + Kasese→EBB | $700 | $600–$850 | Aggregators show EBB–KHX from $378 one way. Get a quote from reservations@aerolinkuganda.com. |
-| Stopover (excl. flights) | Tours/transport: 4x4 with driver-guide Dec 22–27, incl. empty runs to and from Kampala, fuel, and EBB transfers | $600 | $450–$800 | About $1,000–1,600 per vehicle, split between 2. |
-| Stopover (excl. flights) | Permits/fees: Bwindi gorilla permit (FNR) | $800 | $800–$800 | $800 per the UWA 2024–26 tariff. Includes Bwindi entry. Paid in full through a licensed operator. |
-| Stopover (excl. flights) | Permits/fees: Kibale chimp tracking permit | $250 | $250–$300 | $250 now. Reported to rise to $300 from Jan 1 2027. Includes Kibale entry. |
-| Stopover (excl. flights) | Permits/fees: Queen Elizabeth NP entry (2 x 24h) + Kazinga boat cruise | $140 | $110–$170 | Entry $40 per 24h (FNR) x 2, plus the boat (about $30–40) and ranger or Ishasha fees. |
-| Stopover (excl. flights) | Lodging: 7 nights (IST 1, Entebbe 1, Buhoma 2, QENP 2, Kibale 1, Nairobi 1) | $490 | $340–$650 | Twin share at budget level, with most meals included in Bwindi, QENP and Kibale. A mid-range upgrade adds $800–1,500+. |
-| Stopover (excl. flights) | Food: Meals not included + water/drinks (incl. IST) | $130 | $90–$180 | About $15–25 per day. |
-| Stopover (excl. flights) | Visa: Uganda single-entry eVisa | $50 | $50–$50 | The Kenya eTA is in the base trip. No Turkish visa is needed for an airside hotel. |
-| Stopover (excl. flights) | Misc: Tips (porter, rangers, driver), SIM, contingency | $180 | $120–$300 | Gorilla porter $20, driver about $15 per day per vehicle, ranger tips. |
+| International flights | TK multi-city LAX→IST→EBB (Dec 19–21) / NBO→IST→LAX (Jan 16) | $1,800 | $1,500–$2,300 | Off-peak ~$1,029 RT LAX–EBB; Dec 19 peak, est. ~$1,800 (+$300 vs $1,500 base). Not live; check turkishairlines.com. |
+| Stopover (excl. flights) | Regional flights: EBB→NBO one way Dec 27/28 (KQ417/KQ419 or UR) | $230 | $180–$350 | Separate ticket. Changeable fare in case Aerolink late. |
+| Stopover (excl. flights) | Domestic flights: Aerolink EBB→Kihihi + Kasese→EBB | $700 | $600–$850 | EBB–KHX from $378 one way. Quote: reservations@aerolinkuganda.com. |
+| Stopover (excl. flights) | Tours/transport: 4x4 + driver-guide Dec 22–27, incl. Kampala repositioning, fuel, EBB transfers | $600 | $450–$800 | ~$1,000–1,600/vehicle, split 2. |
+| Stopover (excl. flights) | Permits/fees: Bwindi gorilla permit (FNR) | $800 | $800–$800 | $800 (UWA 2024–26). Incl. Bwindi entry. Full payment via licensed operator. |
+| Stopover (excl. flights) | Permits/fees: Kibale chimp permit | $250 | $250–$300 | $250; reportedly $300 from Jan 1 2027. Incl. Kibale entry. |
+| Stopover (excl. flights) | Permits/fees: QENP entry (2 x 24h) + Kazinga boat | $140 | $110–$170 | $40/24h (FNR) x 2 + boat (~$30–40) + ranger/Ishasha fees. |
+| Stopover (excl. flights) | Lodging: 7 nights (IST 1, Entebbe 1, Buhoma 2, QENP 2, Kibale 1, Nairobi 1) | $490 | $340–$650 | Twin share, budget; most meals incl. at Bwindi, QENP, Kibale. Mid-range +$800–1,500+. |
+| Stopover (excl. flights) | Food: Uncovered meals + drinks (incl. IST) | $130 | $90–$180 | ~$15–25/day. |
+| Stopover (excl. flights) | Visa: Uganda single-entry eVisa | $50 | $50–$50 | Kenya eTA in base trip. No Turkish visa airside. |
+| Stopover (excl. flights) | Misc: Tips (porter, rangers, driver), SIM, contingency | $180 | $120–$300 | Porter $20, driver ~$15/day/vehicle, ranger tips. |
 | Kenya domestic flights | None (all road) | $0 | $0–$0 | Fly options shown side by side in Route. |
 | Lodging | Private camping crew 18 days Dec 29–Jan 15: 4x4, guide, cook, tents, meals, fuel | $2,735 | $2,350–$3,450 | 5 festive days × $170 + 13 × $145. Get 3 KATO quotes. |
 | Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$150 | $70 pppn |
@@ -309,14 +309,14 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 ## Booking timeline
 
-- **Now (Oct 2026) – first:** Uganda: Check travel.state.gov (still Level 4 as of early Oct) and get your insurer's written answer on Level 4 coverage. Go ahead only at Level 3 or below, or if you accept the risk.
-- **Now:** Uganda: Through a licensed UWA operator, check permit availability: Buhoma gorillas Dec 23 and Kibale chimps on the afternoon of Dec 26. Permits are paid in full, with no holds.
-- **Now:** Uganda: Book the TK multi-city LAX→EBB (TK10 Dec 19, TK591 Dec 21) / NBO→LAX in place of the base round trip. Book the IST airport hotel for Dec 20.
-- **Within 1–2 weeks:** Uganda: Email Aerolink to confirm the Dec 22 EBB→Kihihi (12:30) and Dec 27 Kasese→EBB times. Then book EBB→NBO: KQ417 if Aerolink lands by 15:30, otherwise KQ419 at 00:10.
-- **Within 2 weeks:** Uganda: Book the 4x4 and driver (Dec 22–27) and the lodges: Entebbe, Buhoma, QENP, Kibale, Karen.
-- **Nov 2026:** Uganda: Travel clinic: yellow fever certificate, malaria pills
-- **Early Dec 2026:** Uganda: Apply for the Uganda eVisa ($50) and the Kenya eTA. Print the approvals and the yellow fever card.
-- **Week before departure:** Uganda: Re-check the advisory and Ebola news. Reconfirm Aerolink times and the 15 kg soft-bag limit.
+- **Now (Oct 2026) – first:** Uganda: Check travel.state.gov (Level 4 early Oct); get insurer's written Level 4 answer. Proceed only at Level 3 or accepted risk.
+- **Now:** Uganda: Via licensed UWA operator: check Buhoma gorillas Dec 23, Kibale chimps Dec 26 PM. Full payment, no holds.
+- **Now:** Uganda: Book TK multi-city LAX→EBB (TK10 Dec 19, TK591 Dec 21) / NBO→LAX instead of base RT. IST hotel Dec 20.
+- **Within 1–2 weeks:** Uganda: Confirm Aerolink Dec 22 EBB→Kihihi 12:30, Dec 27 Kasese→EBB. Then EBB→NBO: KQ417 if lands by 15:30, else KQ419 00:10.
+- **Within 2 weeks:** Uganda: Book 4x4 + driver (Dec 22–27); lodges: Entebbe, Buhoma, QENP, Kibale, Karen.
+- **Nov 2026:** Uganda: Travel clinic: yellow fever cert, malaria pills
+- **Early Dec 2026:** Uganda: Uganda eVisa ($50) + Kenya eTA. Print approvals, yellow fever card.
+- **Week before departure:** Uganda: Re-check advisory, Ebola news. Reconfirm Aerolink times, 15 kg soft bag.
 - **Now (Oct 8–15):** Book Sheldrick 11:00 for Dec 28 (optional; opens ~90 days ahead). Price + book TK round trip (out Dec 26; home Jan 16 TK608 + TK9 same day). Ask 3 KATO operators for an 18-day private camping quote (Dec 29–Jan 15).
 - **By Oct 31:** Operator confirms in writing: OPC campsite Dec 29–30, Samburu Dec 31–Jan 2, Thomson's Falls Jan 3, Nakuru KWS Jan 4–5, Mara conservancy mobile camping Jan 9–12, Naivasha Jan 13–14. Pay deposit.
 - **By Nov 15:** Book Rondo Retreat Jan 6–7, Kericho hotel Jan 8, Nairobi guesthouse Dec 27–28, JKIA hotel Jan 15.
@@ -327,16 +327,16 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 ## Practical
 
 ## Uganda stopover
-- **Visa (US passport):** US passport: the Uganda single-entry eVisa is $50 pp at visas.immigration.go.ug. Apply 2+ weeks ahead and print the approval, since airlines may check it. The East Africa Tourist Visa ($100, covering Uganda, Kenya and Rwanda) is an alternative, but the Uganda eVisa plus the Kenya eTA from the base trip is cheaper. The passport must be valid for 6+ months, and a yellow fever certificate is required. For the Istanbul night, stay airside (YOTEL) and you need no Turkish entry. A landside hotel is fine too, since US citizens currently enter Turkey visa-free for tourism (verify before travel).
-- **Safety — Level 4 – Do Not Travel. The State Dept Uganda page shows it dated Jun 4 2026, citing crime, health (Ebola), terrorism and unrest, and says US consular services are limited. It was Level 3 before (Dec 8 2025). I found no lowering as of Oct 8 2026, even though Uganda declared its outbreak over on Jul 28 and WHO did so on Aug 26. Re-check travel.state.gov before paying anything.:** Uganda's Bundibugyo-strain Ebola outbreak (linked to the Ituri, DRC epidemic) is officially over, but DRC transmission may continue. Bwindi and Ishasha both sit on the DRC border, and one new imported case could reimpose restrictions or close parks. Terrorism risk comes from the ADF, an ISIS-linked group: in Oct 2023 it killed a British–South African honeymoon couple and their Ugandan guide inside Queen Elizabeth NP. Since then UWA has added armed escorts and checkpoints, and no attacks on tourists in the parks have been reported. The 2023 Anti-Homosexuality Act criminalizes same-sex relations, and visitors are not exempt. The likeliest everyday danger is the roads: Uganda has very high road deaths (boda-bodas, speeding buses, unlit roads). Crime is mostly opportunistic theft in Kampala and Entebbe. The advisory is not overstated, but the practical risk on a guided park itinerary is lower than Level 4 suggests. The bigger practical problems are insurance and refunds.
-  - Do not pay non-refundable deposits (gorilla permit, Aerolink) while the advisory is Level 4. Many insurance policies exclude Level 4 countries, so get your insurer's coverage in writing
-  - Enroll in STEP and follow US Embassy Kampala alerts on Ebola in DRC and on ADF activity
-  - Use only a licensed UWA operator with a vehicle and driver-guide. No self-drive, no boda-bodas, and no driving after dark (finish every leg by about 17:30)
-  - In Queen Elizabeth NP, stay on the main circuits and in Ishasha with a ranger escort when advised. Ask the operator for the latest Kasese/Katwe security briefing
-  - LGBTQ travelers face real legal risk. Same-sex couples should strongly consider Rwanda, and everyone should avoid public displays of affection
-  - Yellow fever vaccination is required for entry. Take malaria prophylaxis, use DEET and drink bottled water
-  - On gorilla day, trekkers with cold or flu symptoms can be turned away. Wear a mask if asked and keep 7 m from the gorillas
-- **Weather in late Dec:** Late December is the start of the short dry season (Dec–Feb). Bwindi is still muddy, with likely afternoon showers: about 20–24°C by day and 10–13°C at night (1,500–2,300 m), so bring a rain jacket and gaiters. Queen Elizabeth NP and Kibale are warmer (about 25–28°C) with occasional showers. It is festive peak season, so permits and lodges sell out early.
+- **Visa (US passport):** US: Uganda single-entry eVisa $50 pp (visas.immigration.go.ug); apply 2+ wks ahead, print approval. East Africa Tourist Visa ($100) costs more than eVisa + base Kenya eTA. Passport 6+ months; yellow fever cert required. Istanbul: airside YOTEL needs no Turkish entry; landside OK, US visa-free (verify).
+- **Safety — Level 4 – Do Not Travel. Issued Jun 4 2026: crime, Ebola, terrorism, unrest; limited US consular services. Was Level 3 (Dec 8 2025). Not lowered as of Oct 8 2026 despite outbreak declared over (Uganda Jul 28, WHO Aug 26). Re-check travel.state.gov before paying.:** Ebola over, but DRC transmission may continue; Bwindi/Ishasha border DRC, one imported case could close parks. ADF (ISIS-linked) killed honeymoon couple + guide in QENP Oct 2023; armed escorts since, no tourist attacks. 2023 Anti-Homosexuality Act applies to visitors; roads deadliest daily risk; real problem is insurance/refunds.
+  - No non-refundable deposits (permits, Aerolink) at Level 4; get insurer coverage in writing
+  - Enroll STEP; follow US Embassy Kampala alerts (DRC Ebola, ADF)
+  - Licensed UWA operator + driver-guide only. No self-drive, boda-bodas, or driving after ~17:30
+  - QENP: main circuits only; ranger escort in Ishasha when advised; get Kasese/Katwe security brief
+  - LGBTQ: real legal risk; same-sex couples consider Rwanda; no public affection
+  - Yellow fever vaccine required. Malaria pills, DEET, bottled water
+  - Cold/flu symptoms can bar gorilla trek. Mask if asked, keep 7 m away
+- **Weather in late Dec:** Short dry season starts (Dec–Feb). Bwindi muddy, afternoon showers, ~20–24°C day / 10–13°C night (1,500–2,300 m): rain jacket, gaiters. QENP/Kibale ~25–28°C, occasional showers. Festive peak: permits, lodges sell out.
 
 ## Entry
 - Kenya eTA $30, **etas.gov.ke only**. Türkiye: airside connections only, no visa needed. Passport 6+ mo, 2 blank pages.
