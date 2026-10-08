@@ -910,6 +910,77 @@
     };
   }
 
+
+  // ---------- calendar (compare view) ----------
+  var TRIP_COLORS = ['#b5542a', '#2f5d7c', '#4f6b3a', '#7a4fa0', '#9a6a00', '#2a7f7f'];
+  var HOLIDAYS = { '12-24': 'Christmas Eve', '12-25': 'Christmas', '12-31': "New Year's Eve", '01-01': "New Year's Day" };
+  // What a trip is doing on a given date: where you sleep that night + how much travel that day.
+  function dayStatus(p, iso) {
+    var td = tripDates(p);
+    if (!td.depart || iso < td.depart || iso > td.ret) return null;
+    var places = p.places || {}, stay = null;
+    (p.stays || []).forEach(function (st) {
+      for (var k = 0; k < st.nights; k++) if (addDays(st.from, k) === iso) stay = st;
+    });
+    var legs = (p.legs || []).filter(function (l) { return l.date === iso; });
+    var h = legs.reduce(function (a, l) { var x = hoursOf(l.duration); return [a[0] + x[0], a[1] + x[1]]; }, [0, 0]);
+    var flight = legs.some(function (l) { return l.mode === 'flight'; });
+    var kind, label;
+    if (stay) { kind = (places[stay.place] || {}).kind || 'city'; label = stay.label || (places[stay.place] || {}).name || stay.place; }
+    else if (iso === td.ret) { kind = 'home'; label = 'Flying home'; }
+    else { kind = 'plane'; label = 'On a plane'; }
+    return { kind: kind, label: label, travel: legs.length ? h : null, flight: flight };
+  }
+  function calendarHTML(cols) {
+    var starts = cols.map(function (c) { return tripDates(c.plan).depart; }).sort();
+    var ends = cols.map(function (c) { return tripDates(c.plan).ret; }).sort();
+    var first = starts[0], last = ends[ends.length - 1];
+    var months = [];
+    for (var d = first.slice(0, 7) + '-01'; d <= last; ) {
+      months.push(d);
+      var dt = new Date(d + 'T12:00:00Z'); dt.setUTCMonth(dt.getUTCMonth() + 1);
+      d = dt.toISOString().slice(0, 10);
+    }
+    var legend = '<div class="cal-legend">' + cols.map(function (c) {
+      return '<span><i class="cal-swatch" style="background:' + c.color + '"></i>' + esc(c.meta.label) + '</span>';
+    }).join('') + '<span class="cal-kinds"><i class="k k-nature"></i>wild place <i class="k k-city"></i>town <i class="k k-transit"></i>airport/transit <i class="k k-abroad"></i>abroad <i class="k k-plane"></i>on a plane</span></div>';
+    var html = legend;
+    months.forEach(function (m0) {
+      var mDate = new Date(m0 + 'T12:00:00Z');
+      var ym = m0.slice(0, 7);
+      var lead = mDate.getUTCDay();
+      // build the month as 7-day weeks, then keep only weeks that touch [first, last]
+      var slots = [];
+      for (var i = 0; i < lead; i++) slots.push(null);
+      for (var day = m0; day.slice(0, 7) === ym; day = addDays(day, 1)) slots.push(day);
+      while (slots.length % 7) slots.push(null);
+      var cells = '';
+      ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].forEach(function (w) { cells += '<div class="cal-wd">' + w + '</div>'; });
+      for (var w = 0; w < slots.length; w += 7) {
+        var week = slots.slice(w, w + 7);
+        var real = week.filter(Boolean);
+        if (!real.length || real[real.length - 1] < first || real[0] > last) continue;
+        week.forEach(function (day) {
+          if (!day) { cells += '<div class="cal-day blank"></div>'; return; }
+          var hol = HOLIDAYS[day.slice(5)];
+          var any = false;
+          var rows = cols.map(function (c) {
+            var st = dayStatus(c.plan, day);
+            if (!st) return '<div class="cal-row off" style="--tc:' + c.color + '"></div>';
+            any = true;
+            var t = st.travel ? '<span class="cal-t">' + (st.flight ? '✈' : '🚙') + ' ' + esc(fmtRange(st.travel).replace('~', '')) + '</span>' : '';
+            return '<div class="cal-row k-' + st.kind + '" style="--tc:' + c.color + '" title="' + esc(c.meta.label + ' · ' + fmtDate(day) + ': ' + st.label + (st.travel ? ' · travel ' + fmtRange(st.travel) : '')) + '">' +
+              '<span class="cal-l">' + esc(st.label) + '</span>' + t + '</div>';
+          }).join('');
+          cells += '<div class="cal-day' + (any ? '' : ' idle') + (hol ? ' hol' : '') + '"><div class="cal-num">' + (+day.slice(8)) +
+            (hol ? ' <span class="cal-hol">' + esc(hol) + '</span>' : '') + '</div>' + rows + '</div>';
+        });
+      }
+      html += '<div class="cal-month"><h4>' + esc(mDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' })) + '</h4><div class="cal-grid">' + cells + '</div></div>';
+    });
+    return html;
+  }
+
   function renderCompare() {
     document.body.classList.add('compare-mode');
     document.title = 'Compare trips';
@@ -926,11 +997,13 @@
     }).join('');
     Promise.all(all.map(function (t) { return getJSON(t.file).catch(function () { return null; }); })).then(function (trips) {
       var byId = {};
-      trips.forEach(function (p, i) { if (p) byId[all[i].id] = { meta: all[i], plan: p, m: tripMetrics(p) }; });
+      trips.forEach(function (p, i) { if (p) byId[all[i].id] = { meta: all[i], plan: p, m: tripMetrics(p), color: TRIP_COLORS[i % TRIP_COLORS.length] }; });
       var draw = function () {
         var cols = all.filter(function (t) { return picked[t.id] && byId[t.id]; }).map(function (t) { return byId[t.id]; });
         var tbl = box.querySelector('.cmp-table');
-        if (!cols.length) { tbl.innerHTML = '<p class="hint">Pick at least one trip.</p>'; return; }
+        var calBox = box.querySelector('.cmp-cal');
+        if (!cols.length) { tbl.innerHTML = '<p class="hint">Pick at least one trip.</p>'; calBox.innerHTML = ''; return; }
+        calBox.innerHTML = calendarHTML(cols);
         var catNames = [];
         cols.forEach(function (c) { Object.keys(c.m.cats).forEach(function (k) { if (catNames.indexOf(k) < 0) catNames.push(k); }); });
         // best = lowest (or highest when hi=true) value across the shown columns
@@ -948,7 +1021,7 @@
         };
         var short = { weekday: 'short', month: 'short', day: 'numeric' };
         var html = '<table class="cmp"><thead><tr><th></th>' + cols.map(function (c) {
-          return '<th scope="col"><a href="' + tripUrl(c.meta.id) + '">' + esc(c.meta.label) + '</a><div class="cmp-sum">' + esc(c.meta.summary || '') + '</div></th>';
+          return '<th scope="col"><i class="cal-swatch" style="background:' + c.color + '"></i><a href="' + tripUrl(c.meta.id) + '">' + esc(c.meta.label) + '</a><div class="cmp-sum">' + esc(c.meta.summary || '') + '</div></th>';
         }).join('') + '</tr></thead><tbody>';
         html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Shape</th></tr>';
         html += row('Dates', cols.map(function (c) { return fmtDate(c.m.depart, short) + ' → ' + fmtDate(c.m.ret, short); }), null, { noBest: true });
