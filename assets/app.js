@@ -134,11 +134,11 @@
     var stats = [
       [days, 'days door to door'],
       [d.nights_kenya != null ? d.nights_kenya : '—', 'nights in Kenya'],
-      [d.nights_istanbul != null ? d.nights_istanbul : '—', 'nights in Istanbul'],
+      d.nights_istanbul ? [d.nights_istanbul, 'nights in Istanbul'] : null,
       [usd(plan.budget_total_per_person_usd), 'planned per person'],
       ['$5–6k', 'target per person']
     ];
-    $('#stats').innerHTML = stats.map(function (s) {
+    $('#stats').innerHTML = stats.filter(Boolean).map(function (s) {
       return '<div class="stat"><b>' + esc(s[0]) + '</b><span>' + esc(s[1]) + '</span></div>';
     }).join('');
   }
