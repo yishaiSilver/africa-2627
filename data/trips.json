@@ -9,22 +9,55 @@
       "file": "data/trips/wild-loop.json"
     },
     {
+      "id": "pre-turkey",
+      "label": "Türkiye first · Dec 19",
+      "summary": "+$1,260 pp vs Wild loop. US State Dept Level 2: Exercise Increased Caution. Türkiye: Istanbul + Cappadocia",
+      "file": "data/trips/pre-turkey.json"
+    },
+    {
+      "id": "pre-egypt",
+      "label": "Egypt first · Dec 19",
+      "summary": "+$1,425 pp vs Wild loop. US State Dept Level 2: Exercise Increased Caution. Egypt pyramids + Nile",
+      "file": "data/trips/pre-egypt.json"
+    },
+    {
+      "id": "pre-morocco",
+      "label": "Morocco first · Dec 19",
+      "summary": "+$1,995 pp vs Wild loop. US State Dept Level 2: Exercise Increased Caution. Morocco Atlas + Sahara",
+      "file": "data/trips/pre-morocco.json"
+    },
+    {
+      "id": "pre-south-africa",
+      "label": "South Africa first · Dec 19",
+      "summary": "+$2,380 pp vs Wild loop. US State Dept Level 2: Exercise Increased Caution. South Africa: Cape + Kruger",
+      "file": "data/trips/pre-south-africa.json"
+    },
+    {
+      "id": "pre-uganda",
+      "label": "Uganda first · Dec 19",
+      "summary": "+$3,870 pp vs Wild loop. Level 4 – Do Not Travel. Uganda gorillas + chimps",
+      "file": "data/trips/pre-uganda.json"
+    },
+    {
       "id": "diani",
       "label": "Safari + Diani coast · Jan 16",
       "summary": "Road safari loop, then 5 beach nights + Shimba Hills, Istanbul hostel 2n.",
-      "file": "data/trips/diani.json"
+      "file": "data/trips/diani.json",
+      "compare": false
     },
     {
       "id": "budget-istanbul",
       "label": "Budget loop · Jan 9",
       "summary": "Cheapest version: road safari loop + Istanbul hostel 2n, home Jan 9.",
-      "file": "data/trips/budget-istanbul.json"
+      "file": "data/trips/budget-istanbul.json",
+      "compare": false
     },
     {
       "id": "fly-in",
       "label": "Fly-in Mara + lakes · Jan 11",
       "summary": "Earlier draft: bush flights to the Mara + Ol Pejeta, NYE in camp, Istanbul 2n.",
-      "file": "data/trips/fly-in.json"
+      "file": "data/trips/fly-in.json",
+      "compare": false
     }
   ]
 }

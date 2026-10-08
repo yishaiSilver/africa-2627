@@ -1,0 +1,1669 @@
+{
+  "title": "Egypt first, then Kenya's Wild Loop",
+  "overview": "- **Dates:** LAX **Sat Dec 19** → Egypt → Nairobi → LAX **Sat Jan 16**. Christmas in Egypt; Kenya from Dec 28 is the Wild loop unchanged.\n- **Stopover:** Giza pyramids and the Grand Egyptian Museum, then a flight to Aswan for a Nubian guesthouse, felucca and Nile birding, a drive via Kom Ombo and Edfu to Luxor, and the EgyptAir red-eye CAI-NBO that lands about 02:00-05:00 on Dec 28.\n- **Verdict:** For the money, Egypt gives the biggest \"wow\" of any stopover: the pyramids, the new Grand Egyptian Museum and the Valley of the Kings, all on a cheap guesthouse budget (about $1,400-1,450 pp extra including the flight delta). It suits travelers who are happy to make culture the main event for a week, because the wildlife here is mostly Nile birds and nothing like Kenya. The downsides are peak-season Christmas crowds, aggressive touts in Giza and Luxor, a pre-dawn arrival in Cairo on Dec 21, and a long Dec 27 that ends in a 5h red-eye. Checked: the proposed TK evening IST-CAI connection after TK10 does not exist (TK694 leaves at 18:25, before TK10 lands), so the plan now uses TK692 at 01:55 and arrives in Cairo before dawn on Dec 21 after a ~7h IST layover; MS849's winter departure time is flagged (trackers show 21:35, 22:55 or 23:55), so the LXR-CAI flight moves to early afternoon; an optional IST airside pod is added to misc and the totals are updated; the advisory (Level 2), visa ($30 VOA since Mar 2026), entry fees, CAI-NBO fares and budget arithmetic were confirmed.\n- **Safety:** US State Dept Level 2: Exercise Increased Caution (terrorism, crime, health). This applies countrywide. Level 4 Do Not Travel covers North and Central Sinai (terrorism), the Western Desert (smuggling, remoteness) and the Egyptian border areas, including Libya and Sudan. Check travel.state.gov before booking, because the 2026 US-Iran/Israel tensions and a fragile ceasefire may change it.. Cairo/Giza, Aswan and Luxor are heavily policed tourist corridors well outside the Do Not Travel zones, and the UK and Australia also treat them as open. The real day-to-day problems are scams, touts, overcharging, traffic and stomach upsets from food or water, not violence. Tourist sites have checkpoints and metal detectors. Women travelers often report verbal harassment. The plan avoids all Sinai and Western Desert travel (no Siwa, White Desert or Bahariya). The optional Fayoum or Wadi El-Hitan day trip sits at the edge of the Western Desert, so only do it with a licensed operator after checking the current advisory wording.\n- **Cost:** $9,025 pp, **+$1,425** vs the Wild loop alone ($7,600).\n\n**Highlights:** Giza pyramids and the Sphinx at opening time, staying in a pyramid-view guesthouse with rooftop breakfast · Grand Egyptian Museum (GEM): the full Tutankhamun collection, opened in 2025 · Aswan: sunset felucca around Elephantine and Kitchener's (Botanical) Island, plus a Nile birding boat through the First Cataract granite islands · Christmas Eve in a Nubian village guesthouse on Aswan's west bank (Gharb Soheil) · Philae temple by boat · Kom Ombo (crocodile temple and mummified-crocodile museum) and Edfu, the best-preserved temple in Egypt, on the way to Luxor · Luxor: Valley of the Kings, Hatshepsut temple and Karnak, with an optional sunrise hot-air balloon over the West Bank · EgyptAir MS849 direct CAI-NBO red-eye: no backtracking through Istanbul\n\n**Drawbacks:** Wildlife is weak compared with your top interest. You get Nile birds (kingfishers, egrets, kites, hoopoes) and that is about it: no big game and no primates. · December, and Christmas week especially, is peak season. Sites are crowded and Christmas-night lodging books out, so reserve now. · Expect a lot of touts and hassle at Giza and Luxor. Constant tipping requests get tiring. · Getting there is long. TK10 lands at IST about 19:00, and the only same-night TK flight to Cairo is TK692 at 01:55, which means a ~7h layover and landing in CAI about 03:30-04:30 on Dec 21. The earlier TK694 (18:25) leaves before TK10 lands. Alternatives are a non-TK routing via Europe or an IST airside pod (YOTEL Air) to nap in. · Dec 27 is a long day: early-afternoon flight from Luxor, several hours at Cairo airport, then a red-eye. MS849's winter time is unclear: trackers show 21:35, 22:55 or 23:55 departure, landing NBO about 02:35-04:55. All of these land before 06:00, but reconfirm the time once it is ticketed. · Abu Simbel is skipped because it means about 7h round trip by road. The flight version (about $250-350 pp) is the pricier upgrade. · Upgrades: a 3-4 night Nile dahabiya (about $250-450 pppn) or a 3-night cruise ($400+ pp) instead of the car and guesthouses. A private Egyptologist guide costs about $40-60 per day per group. · Entry fees rose sharply in 2025-26 and online sources conflict, so the budget figures are estimates. · This is an open-jaw ticket. If TK will not price LAX-CAI / NBO-LAX cheaply, a separate CAI-NBO one-way leaves the misconnect risk on you. The risk is low here because there is a 4-day buffer before the next flight.\n\n### Then Kenya (Wild loop)\n- **Route (one camping crew, all road):** Nairobi → Ol Pejeta 2n → **Samburu 3n** (NYE) → Thomson's Falls 1n → Lake Nakuru 2n → **Kakamega rainforest 2n** → Kericho 1n → **Mara conservancy 4n** → Naivasha + Hell's Gate 2n → airport hotel → fly home.\n- **Exotic wildlife focus:** Samburu's Special Five + vulturine guineafowl, chimps + black rhino (Ol Pejeta), Rothschild's giraffe (Nakuru), colobus + De Brazza's monkeys + great blue turaco (Kakamega), big cats (Mara). See **Wildlife**.\n- **No beach, no rental car:** crew 4x4 + driver-guide included.\n- **Budget: ~$7,600 pp** (incl. flights + $300 contingency). Crew days are the cost driver.\n- **Cuts:** skip Kakamega (−$800), home Jan 14 (−$450), yellow fever done (−$200), fly out of the Mara (−$90).\n- **Fatigue:** max ~4.5h road/day, overnight stops split every long leg, 9 zero-travel days. Last day is a ~25h journey home.",
+  "dates": {
+    "depart": "2026-12-19",
+    "return": "2027-01-16"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-19",
+      "location": "LAX → Istanbul",
+      "title": "Depart LAX",
+      "details": "TK10 LAX 19:45 → IST, ~13h overnight. Sleep on the plane.",
+      "overnight": "Plane",
+      "meals": "Dinner and breakfast onboard",
+      "day_label": "Day 1 – Sat"
+    },
+    {
+      "date": "2026-12-20",
+      "location": "Istanbul Airport",
+      "title": "Long IST layover",
+      "details": "Land IST ~19:00. ~7h airside wait. Lounge, food, or YOTEL Air pod nap (optional). TK692 departs 01:55.",
+      "overnight": "Plane",
+      "meals": "Onboard + IST airport dinner",
+      "day_label": "Day 2 – Sun"
+    },
+    {
+      "date": "2026-12-21",
+      "location": "Cairo → Giza",
+      "title": "Pre-dawn arrival, rest, GEM",
+      "details": "Land CAI ~03:30-04:30. Visa $30 cash. Pickup ~45 min. Room ready (Dec 20 night prebooked). Sleep till noon. Late afternoon GEM optional (10-15 min Uber), 2-3h, or save for tomorrow. Early night.",
+      "overnight": "Giza",
+      "meals": "B guesthouse late; L/D local koshari/grill",
+      "day_label": "Day 3 – Mon"
+    },
+    {
+      "date": "2026-12-22",
+      "location": "Giza",
+      "title": "Pyramids + Sphinx",
+      "details": "Gate opens ~7-8am, so beat the crowds. Visitor Centre shuttle, panorama point, Sphinx. Optional Khufu interior. Back by 1pm, nap. Afternoon GEM if skipped yesterday, or Saqqara (40 min). Evening on the rooftop.",
+      "overnight": "Giza",
+      "meals": "B guesthouse; L/D local",
+      "day_label": "Day 4 – Tue"
+    },
+    {
+      "date": "2026-12-23",
+      "location": "Giza → Aswan",
+      "title": "Fly to Aswan, sunset felucca",
+      "details": "Uber ~1h to CAI, fly ~1h25 to ASW. Car ~30 min + ferry to the Nubian west bank. Late-afternoon felucca 1-2h around Elephantine/Kitchener's Island, birds. Travel ~3.5h total.",
+      "overnight": "Aswan",
+      "meals": "B guesthouse; L/D Nubian home cooking",
+      "day_label": "Day 5 – Wed"
+    },
+    {
+      "date": "2026-12-24",
+      "location": "Aswan",
+      "title": "Philae + Nile birding (Christmas Eve)",
+      "details": "Morning: Philae by boat (taxi 20 min + boat 10 min). Afternoon: ~2h birding motorboat through the First Cataract islands, Botanical Island walk. Christmas Eve dinner at the guesthouse. Easy day.",
+      "overnight": "Aswan",
+      "meals": "B/D guesthouse; L Aswan corniche",
+      "day_label": "Day 6 – Thu"
+    },
+    {
+      "date": "2026-12-25",
+      "location": "Aswan → Kom Ombo → Edfu → Luxor",
+      "title": "Temple road to Luxor (Christmas)",
+      "details": "Private car at 8am. Kom Ombo (crocodile museum) 1h, Edfu 1.5h. ~4h driving total, arrive Luxor West Bank ~16:00. Relax.",
+      "overnight": "Luxor",
+      "meals": "B guesthouse; L roadside Edfu; D guesthouse",
+      "day_label": "Day 7 – Fri"
+    },
+    {
+      "date": "2026-12-26",
+      "location": "Luxor West Bank",
+      "title": "Valley of the Kings",
+      "details": "Optional sunrise balloon at 05:30. Valley of the Kings (3 tombs), Hatshepsut, Colossi of Memnon by taxi/bike, done by 1pm. Afternoon rest. Evening: Luxor Temple lit up (ferry 10 min).",
+      "overnight": "Luxor",
+      "meals": "B guesthouse; L local; D east bank",
+      "day_label": "Day 8 – Sat"
+    },
+    {
+      "date": "2026-12-27",
+      "location": "Luxor → Cairo → (Nairobi)",
+      "title": "Karnak, then fly out",
+      "details": "Karnak at opening (~6-7am), 2h. Back, checkout. ~13:00-15:00 LXR-CAI, 1h05. Wait at CAI T3. MS849 evening (21:35-23:55, reconfirm) → NBO ~5h, landing ~02:35-04:55 Dec 28. Long day; Dec 28 is the Nairobi rest day.",
+      "overnight": "Plane",
+      "meals": "B guesthouse; L Luxor/airport; D CAI airport",
+      "day_label": "Day 9 – Sun"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 10 – Mon",
+      "location": "Nairobi",
+      "title": "Land + rest day",
+      "details": "Land early morning (see Route). Taxi (~20m) to guesthouse (room held from Dec 27). Sleep. Optional: Sheldrick baby elephants 11:00 ($20, ~20m away; book online now).",
+      "overnight": "Budget guesthouse, Nairobi",
+      "meals": "Own"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 11 – Tue",
+      "location": "Nairobi → Ol Pejeta",
+      "title": "Drive north to Ol Pejeta",
+      "details": "Crew pickup ~08:30. ~4h via Nanyuki, equator stop. Camp set at OPC campsite. PM: chimp sanctuary + sunset drive.",
+      "overnight": "Operator camp, OPC campsite",
+      "meals": "L, D camp"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 12 – Wed",
+      "location": "Ol Pejeta Conservancy",
+      "title": "Rhinos + Mt Kenya",
+      "details": "Zero travel. Dawn + late drives. Black/white rhino, lion, elephant, Grevy's zebra. Optional lion tracking (~$70; not budgeted).",
+      "overnight": "Operator camp, OPC campsite",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 13 – Thu",
+      "location": "Ol Pejeta → Samburu",
+      "title": "North to Samburu + NYE by the river",
+      "details": "~2.5–3h via Nanyuki + Isiolo; drop into hot, dry north. Camp on the Ewaso Ng'iro river. PM drive. Quiet NYE under the stars.",
+      "overnight": "Operator camp, Samburu/Buffalo Springs campsite",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 14 – Fri",
+      "location": "Samburu National Reserve",
+      "title": "Samburu Special Five",
+      "details": "Zero travel. Dawn + late drives: Grevy's zebra, reticulated giraffe, gerenuk, Beisa oryx, Somali ostrich. Vulturine guineafowl, river elephants. Midday siesta (30–35°C).",
+      "overnight": "Operator camp, Samburu",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 15 – Sat",
+      "location": "Samburu National Reserve",
+      "title": "Leopards + river day",
+      "details": "Zero travel. Search riverine forest for leopard; lions, cheetah possible. Optional Samburu village visit (~$20–30 pp, paid locally).",
+      "overnight": "Operator camp, Samburu",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 16 – Sun",
+      "location": "Samburu → Nyahururu",
+      "title": "Back to the cool highlands",
+      "details": "~3.5h via Isiolo + Nanyuki. Thomson's Falls (74 m) walk to the bottom. Camp at the falls; cool night (fleece).",
+      "overnight": "Thomson's Falls campsite, Nyahururu",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 17 – Mon",
+      "location": "Nyahururu → Lake Nakuru",
+      "title": "Short hop to Nakuru",
+      "details": "~1.5h downhill to Lake Nakuru NP. Camp inside the park. PM drive: rhino, Rothschild's giraffe.",
+      "overnight": "KWS campsite, Lake Nakuru NP",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 18 – Tue",
+      "location": "Lake Nakuru NP",
+      "title": "Nakuru day",
+      "details": "Zero travel. Dawn drive to Baboon Cliff. Black + white rhino, flamingos/pelicans (numbers vary), tree-climbing lions if lucky. Siesta.",
+      "overnight": "KWS campsite, Lake Nakuru NP",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 19 – Wed",
+      "location": "Lake Nakuru → Kakamega Forest",
+      "title": "West to the rainforest",
+      "details": "~4–4.5h via Eldoret. Rondo Retreat inside the forest, full board. Dusk walk: colobus calling.",
+      "overnight": "Rondo Retreat, Kakamega Forest",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 20 – Thu",
+      "location": "Kakamega Forest",
+      "title": "Rainforest day",
+      "details": "Zero travel. Dawn bird walk with local guide (~Ksh300–500 pp): great blue turaco, hornbills. Black-and-white colobus, De Brazza's + red-tailed monkeys. Lirhanda Hill. Optional night walk (pottos, bushbabies).",
+      "overnight": "Rondo Retreat, Kakamega Forest",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 21 – Fri",
+      "location": "Kakamega → Kericho",
+      "title": "Tea country",
+      "details": "~2.5–3h via Kisumu. Tea-estate walk, factory visit. Easy afternoon.",
+      "overnight": "Budget hotel, Kericho",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 22 – Sat",
+      "location": "Kericho → Masai Mara",
+      "title": "Into the Mara conservancy",
+      "details": "~3–3.5h via Bomet + Mulot (last hour rough). Camp in Enonkishu (or Pardamat/Ol Chorro). Dusk drive.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-10",
+      "day_label": "Day 23 – Sun",
+      "location": "Mara conservancy",
+      "title": "Full Mara day",
+      "details": "Zero travel. Dawn + late drives, off-road, few vehicles. Big cats, plains game, newborn topi. Siesta.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-11",
+      "day_label": "Day 24 – Mon",
+      "location": "Mara conservancy",
+      "title": "Maasai walk + night drive",
+      "details": "Zero travel. Morning walk with Maasai ranger. PM drive. Night drive if allowed (aardvark, bat-eared fox, genets).",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-12",
+      "day_label": "Day 25 – Tue",
+      "location": "Mara conservancy",
+      "title": "Extra Mara day",
+      "details": "Zero travel. Full-day drive with picnic lunch, following whatever the guides found. Sundowner.",
+      "overnight": "Operator camp, Mara conservancy",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-13",
+      "day_label": "Day 26 – Wed",
+      "location": "Mara → Lake Naivasha",
+      "title": "Road to Naivasha",
+      "details": "~4–4.5h via Narok + Mai Mahiu. Lakeshore camp. Hippos at dusk.",
+      "overnight": "Lakeshore campsite, Naivasha",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-14",
+      "day_label": "Day 27 – Thu",
+      "location": "Lake Naivasha / Hell's Gate",
+      "title": "Hell's Gate + boat",
+      "details": "No long travel (30m local). Bike or walk Hell's Gate among zebra + giraffe, gorge hike. PM boat + Crescent Island walk. Rest.",
+      "overnight": "Lakeshore campsite, Naivasha",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-15",
+      "day_label": "Day 28 – Fri",
+      "location": "Naivasha → Nairobi (JKIA area)",
+      "title": "Airport hotel",
+      "details": "~2.5–3h via A104 + Southern Bypass. Tip crew. Shower, repack, early night.",
+      "overnight": "Budget hotel near JKIA",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-16",
+      "day_label": "Day 29 – Sat",
+      "location": "Nairobi → Istanbul → Los Angeles",
+      "title": "Fly home",
+      "details": "Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect. TK9 ~14:30 → LAX ~18:15 same day. ~25h door to door.",
+      "overnight": "Home",
+      "meals": "In-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Pyramid-view guesthouse, Nazlet el-Semman (e.g. Pyramids View Inn / Great Pyramid Inn type)",
+      "place": "GIZ",
+      "location": "Nazlet el-Semman, Giza, next to the Sphinx gate",
+      "nights": 3,
+      "pppn_usd": 25,
+      "style": "Budget guesthouse, private double room",
+      "includes": "Rooftop breakfast facing the pyramids. Airport pickup available at extra cost; essential for the ~04:00 arrival.",
+      "why": "Walk to the Sphinx gate, 10-15 min to GEM, no daily Cairo traffic. Very good value. Book the Dec 20 night so the room is ready on the pre-dawn Dec 21 arrival. Rooms are basic and the street is noisy and full of touts.",
+      "url": "https://www.booking.com/searchresults.html?ss=Nazlet+El-Semman%2C+Giza",
+      "alternatives": "Marriott Mena House ($250+/room) is the upgrade. Downtown Cairo hostels are cheaper but 1h from the pyramids."
+    },
+    {
+      "name": "Nubian guesthouse, Gharb Soheil / Elephantine (e.g. Anakato-area or Bet El Kerem style)",
+      "place": "ASW",
+      "location": "West bank / Nubian village, Aswan",
+      "nights": 2,
+      "pppn_usd": 30,
+      "style": "Nubian family guesthouse, private room",
+      "includes": "Breakfast; dinners on request; boat transfers arranged",
+      "why": "A colorful Nubian village on the Nile, quiet and a calm place for Christmas Eve. The hosts arrange the felucca, the birding boat and the Luxor car.",
+      "url": "https://www.booking.com/searchresults.html?ss=Gharb+Soheil%2C+Aswan",
+      "alternatives": "Old Cataract (Sofitel Legend, $400+) is the splurge. A dahabiya cruise from Aswan to Luxor (3-4 nights, $250-450 pppn) replaces the car and hotels."
+    },
+    {
+      "name": "Nour El Gourna Hotel (or similar West Bank guesthouse)",
+      "place": "LXR",
+      "location": "Gourna, Luxor West Bank, near the Valley of the Kings",
+      "nights": 2,
+      "pppn_usd": 25,
+      "style": "Simple mud-brick guesthouse",
+      "includes": "Breakfast; balloon and taxi bookings",
+      "why": "Walk or bike to the Valley of the Kings side, close to the balloon launch, and quiet compared with the east bank. A long-running budget favorite.",
+      "url": "https://www.booking.com/searchresults.html?ss=West+Bank%2C+Luxor",
+      "alternatives": "Al Moudira ($150+/room) is the boutique upgrade. East-bank Nile-view mid-range hotels cost $40-70/room."
+    },
+    {
+      "name": "Budget guesthouse near JKIA / Langata",
+      "place": "KAR",
+      "location": "Nairobi",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Guesthouse",
+      "includes": "~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights).",
+      "why": "Cheap, safe, ~20m from Sheldrick + JKIA. Crew picks up here.",
+      "alternatives": "Karen B&B ~$120/room",
+      "url": "https://www.booking.com/city/ke/nairobi.html"
+    },
+    {
+      "name": "Operator camp at an OPC campsite",
+      "place": "OPC",
+      "location": "Ol Pejeta Conservancy, Laikipia",
+      "nights": 2,
+      "pppn_usd": 70,
+      "style": "Private serviced camping",
+      "includes": "OPC campsite $70 pppn (2026 tariff); entry separate",
+      "why": "Cheapest way to sleep inside OPC.",
+      "alternatives": "Sweetwaters Serena (~$240 pp FB)",
+      "url": "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf"
+    },
+    {
+      "name": "Operator camp at a Samburu / Buffalo Springs campsite",
+      "place": "SAM",
+      "location": "Samburu National Reserve",
+      "nights": 3,
+      "pppn_usd": 30,
+      "style": "Private serviced camping",
+      "includes": "Campsite ~$20–50 pppn (public vs special site); reserve fee separate",
+      "why": "Wake up on the Ewaso Ng'iro river among the Special Five.",
+      "alternatives": "Samburu Riverside Camp ~$85–170 pp FB",
+      "url": "https://www.safarifind.com/accommodations/samburu-riverside-camp"
+    },
+    {
+      "name": "Thomson's Falls campsite",
+      "place": "NYA",
+      "location": "Nyahururu",
+      "nights": 1,
+      "pppn_usd": 10,
+      "style": "Campsite",
+      "includes": "Campsite fee; operator tents, cook, meals",
+      "why": "Splits Samburu → Nakuru into two easy days. Waterfall at the door.",
+      "alternatives": "Thomson's Falls Lodge rooms ~$50–70 pp B&B",
+      "url": "https://en.wikipedia.org/wiki/Thomson%27s_Falls"
+    },
+    {
+      "name": "KWS public campsite inside Lake Nakuru NP",
+      "place": "NAK",
+      "location": "Lake Nakuru NP",
+      "nights": 2,
+      "pppn_usd": 30,
+      "style": "Serviced camping",
+      "includes": "KWS campsite $30 pppn; 2×24h park fee separate",
+      "why": "Wake up inside the park. NYE by the fire.",
+      "alternatives": "Flamingo Hill tented camp (~$150–185 pp FB)",
+      "url": "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025"
+    },
+    {
+      "name": "Rondo Retreat",
+      "place": "KAK",
+      "location": "Kakamega Forest",
+      "nights": 2,
+      "pppn_usd": 130,
+      "style": "Forest lodge (full board)",
+      "includes": "Full board; ~$260/double/night non-resident",
+      "why": "Only comfortable bed inside the rainforest. Guides at the gate.",
+      "alternatives": "KWS Udo's bandas (cheap, self-catering)",
+      "url": "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html"
+    },
+    {
+      "name": "Budget hotel, Kericho",
+      "place": "KER",
+      "location": "Kericho tea country",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Town hotel",
+      "includes": "~$60/room B&B est.",
+      "why": "Breaks Kakamega → Mara into two short drives.",
+      "alternatives": "Tea-estate guesthouse",
+      "url": "https://www.booking.com/city/ke/kericho.html"
+    },
+    {
+      "name": "Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)",
+      "place": "MARA",
+      "location": "Northern Greater Mara",
+      "nights": 4,
+      "pppn_usd": 25,
+      "style": "Private serviced camping",
+      "includes": "Site/community fee ~$25 pppn est. Conservancy fee (~$80) separate.",
+      "why": "Conservancy: few vehicles, walks, off-road. Confirm mobile camping in writing.",
+      "alternatives": "Mara tented camps $400–860 pppn festive",
+      "url": "https://cheetahsafaris.com/national-park/enonkishu-conservancy"
+    },
+    {
+      "name": "Camp Carnelley's or Fisherman's Camp",
+      "place": "NAI",
+      "location": "Lake Naivasha, south shore",
+      "nights": 2,
+      "pppn_usd": 15,
+      "style": "Lakeshore campsite",
+      "includes": "Campsite fee; operator tents, cook, meals",
+      "why": "Soft finish: Hell's Gate + boat day, 2.5–3h from the airport.",
+      "alternatives": "Banda same camp (~$40–60 pp)",
+      "url": "https://monkey.travel/en/usd/accommodation/naivasha-sopa/"
+    },
+    {
+      "name": "Budget hotel near JKIA (free shuttle)",
+      "place": "JKH",
+      "location": "Nairobi, Mombasa Rd",
+      "nights": 1,
+      "pppn_usd": 40,
+      "style": "Budget airport hotel",
+      "includes": "~$80/room B&B; 24h shuttle",
+      "why": "02:45 wake, 10–20m to JKIA before TK608.",
+      "alternatives": "Ole Sereni ~$150/room",
+      "url": "https://www.booking.com/city/ke/nairobi.html"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "Multi-city / open-jaw: LAX-IST-CAI (TK10 Dec 19 + TK692 Dec 21), CAI-NBO MS849 (Dec 27), NBO-IST-LAX TK608/TK9 (Jan 16)",
+      "per_person_usd": 1950,
+      "low_usd": 1750,
+      "high_usd": 2350,
+      "notes": "About +$450 pp vs the $1,500 base. Best option: one Star Alliance ticket on turkishairlines.com, or through an agent, with the MS849 segment included. Fallback: a TK open-jaw LAX→CAI / NBO→LAX (about $1,550-1,800) plus a separate EgyptAir CAI-NBO one-way (aggregators show about $200-350; budget $275-415 for peak season). These are estimates, so price it now."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Domestic transport: Domestic flights CAI-ASW + LXR-CAI",
+      "per_person_usd": 170,
+      "low_usd": 120,
+      "high_usd": 260,
+      "notes": "EgyptAir or Nile Air. The Abela/Watania sleeper train (about $90-110 pp, 13h) is a cheaper but more tiring way to Aswan."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Lodging: 7 nights in guesthouses (3 Giza incl. the Dec 20 night held for early arrival, 2 Aswan, 2 Luxor), sharing a double",
+      "per_person_usd": 185,
+      "low_usd": 120,
+      "high_usd": 450,
+      "notes": "3x$25 + 2x$30 + 2x$25. Christmas nights are in peak demand, so book now. The high figure is mid-range Nile-view hotels."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Permits/fees: Site entries: GEM, Giza, Philae, Kom Ombo, Edfu, Valley of the Kings, Hatshepsut, Karnak, Luxor Temple",
+      "per_person_usd": 160,
+      "low_usd": 120,
+      "high_usd": 280,
+      "notes": "2026 foreigner prices: GEM 1,450 EGP (online only), Giza 700, VoK 750, Karnak 600, Luxor Temple 500, Hatshepsut 440, plus Philae, Kom Ombo and Edfu. Total about 5,800-6,500 EGP. Prices rose sharply and sources conflict. The high figure adds the Khufu interior (900 EGP), Tutankhamun (700) or Seti I (2,000) tombs, and Saqqara. Bring cards; some sites are cashless."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Tours/transport: Aswan-Luxor car with stops, felucca, birding boat, Philae boat, Uber/taxis/ferries, airport transfers",
+      "per_person_usd": 140,
+      "low_usd": 100,
+      "high_usd": 350,
+      "notes": "Car about $100-120 per car, felucca about $15-25 per boat-hour, birding boat about $30-40 per boat, pre-dawn CAI pickup about $20-25. The high figure adds a private Egyptologist or the Abu Simbel trip."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Food: 8 days of meals (guesthouse breakfasts included)",
+      "per_person_usd": 180,
+      "low_usd": 120,
+      "high_usd": 300,
+      "notes": "Local food (koshari, ful, grills) is very cheap at $3-8. Tourist restaurants run $15-25."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Visa: Egypt visa on arrival / e-visa",
+      "per_person_usd": 30,
+      "low_usd": 25,
+      "high_usd": 30,
+      "notes": "VOA has been $30 since Mar 2026: USD cash at the CAI bank kiosk. The e-visa at visa2egypt.gov.eg costs $25 or $30 (sources conflict)."
+    },
+    {
+      "category": "Stopover (excl. flights)",
+      "item": "Misc: Baksheesh/tips, SIM, water, optional IST airside nap pod, optional Luxor balloon",
+      "per_person_usd": 110,
+      "low_usd": 40,
+      "high_usd": 280,
+      "notes": "Planned figure includes a share of a YOTEL Air IST pod for ~4h on Dec 20 (about $100-150 per room, so ~$60 pp). Balloon is about $60-120 pp (not in the planned figure). Egyptian SIM about $10."
+    },
+    {
+      "category": "Kenya domestic flights",
+      "item": "None (all road)",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 0,
+      "notes": "Fly options shown side by side in Route."
+    },
+    {
+      "category": "Lodging",
+      "item": "Private camping crew 18 days Dec 29–Jan 15: 4x4, guide, cook, tents, meals, fuel",
+      "per_person_usd": 2735,
+      "low_usd": 2350,
+      "high_usd": 3450,
+      "notes": "5 festive days × $170 + 13 × $145. Get 3 KATO quotes."
+    },
+    {
+      "category": "Lodging",
+      "item": "Ol Pejeta OPC campsite, 2n",
+      "per_person_usd": 140,
+      "low_usd": 140,
+      "high_usd": 150,
+      "notes": "$70 pppn"
+    },
+    {
+      "category": "Lodging",
+      "item": "Samburu campsite, 3n",
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 150,
+      "notes": "$20–50 pppn"
+    },
+    {
+      "category": "Lodging",
+      "item": "Thomson's Falls campsite, 1n",
+      "per_person_usd": 10,
+      "low_usd": 5,
+      "high_usd": 70,
+      "notes": "High = lodge room"
+    },
+    {
+      "category": "Lodging",
+      "item": "Nakuru KWS campsite inside park, 2n",
+      "per_person_usd": 60,
+      "low_usd": 60,
+      "high_usd": 80,
+      "notes": "$30 public; $40 special"
+    },
+    {
+      "category": "Lodging",
+      "item": "Rondo Retreat Kakamega FB, 2n",
+      "per_person_usd": 260,
+      "low_usd": 240,
+      "high_usd": 300,
+      "notes": "$260/double/night"
+    },
+    {
+      "category": "Lodging",
+      "item": "Kericho budget hotel, 1n",
+      "per_person_usd": 30,
+      "low_usd": 25,
+      "high_usd": 60,
+      "notes": "~$60/room"
+    },
+    {
+      "category": "Lodging",
+      "item": "Mara conservancy campsite/community fee, 4n",
+      "per_person_usd": 100,
+      "low_usd": 0,
+      "high_usd": 200,
+      "notes": "Est. ~$25 pppn"
+    },
+    {
+      "category": "Lodging",
+      "item": "Naivasha lakeshore campsite, 2n",
+      "per_person_usd": 30,
+      "low_usd": 30,
+      "high_usd": 120,
+      "notes": "High = banda"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Ol Pejeta entry, 2 × 24h",
+      "per_person_usd": 230,
+      "low_usd": 220,
+      "high_usd": 260,
+      "notes": "~$115/day"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Samburu reserve, 3 × 24h",
+      "per_person_usd": 255,
+      "low_usd": 210,
+      "high_usd": 255,
+      "notes": "$85/24h (2026 county rate)"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Lake Nakuru NP, 2 × 24h",
+      "per_person_usd": 180,
+      "low_usd": 120,
+      "high_usd": 180,
+      "notes": "KWS new $90; $60 if old rate stands"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Kakamega forest entry + guides",
+      "per_person_usd": 60,
+      "low_usd": 35,
+      "high_usd": 120,
+      "notes": "KFS/KWS fee unclear ($25–50) + guide ~$5"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Mara conservancy fee, 4n",
+      "per_person_usd": 320,
+      "low_usd": 320,
+      "high_usd": 520,
+      "notes": "~$80 pppn Enonkishu"
+    },
+    {
+      "category": "Park/conservancy fees",
+      "item": "Hell's Gate NP, 1 day",
+      "per_person_usd": 50,
+      "low_usd": 26,
+      "high_usd": 50,
+      "notes": "KWS new $50; $26 if old rate stands"
+    },
+    {
+      "category": "Activities",
+      "item": "Mara Maasai walk / night drive",
+      "per_person_usd": 25,
+      "low_usd": 0,
+      "high_usd": 60,
+      "notes": "Often in conservancy fee"
+    },
+    {
+      "category": "Activities",
+      "item": "Hell's Gate bike + Naivasha boat/Crescent Island",
+      "per_person_usd": 40,
+      "low_usd": 30,
+      "high_usd": 90,
+      "notes": ""
+    },
+    {
+      "category": "Nairobi",
+      "item": "Guesthouse 2 room-nights (Dec 27 held + Dec 28)",
+      "per_person_usd": 60,
+      "low_usd": 50,
+      "high_usd": 120,
+      "notes": "~$60/room"
+    },
+    {
+      "category": "Nairobi",
+      "item": "Budget JKIA hotel 1n Jan 15",
+      "per_person_usd": 40,
+      "low_usd": 35,
+      "high_usd": 75,
+      "notes": "~$80/room, shuttle"
+    },
+    {
+      "category": "Transfers",
+      "item": "JKIA → guesthouse 03:30 taxi",
+      "per_person_usd": 10,
+      "low_usd": 8,
+      "high_usd": 20,
+      "notes": "~$15–20/car"
+    },
+    {
+      "category": "Visas/eTA",
+      "item": "Kenya eTA (Türkiye visa-free)",
+      "per_person_usd": 30,
+      "low_usd": 30,
+      "high_usd": 35,
+      "notes": "etas.gov.ke only"
+    },
+    {
+      "category": "Health",
+      "item": "Yellow fever vaccine",
+      "per_person_usd": 200,
+      "low_usd": 0,
+      "high_usd": 350,
+      "notes": "$0 if already vaccinated"
+    },
+    {
+      "category": "Health",
+      "item": "Malaria pills + clinic",
+      "per_person_usd": 100,
+      "low_usd": 50,
+      "high_usd": 240,
+      "notes": "Longer course"
+    },
+    {
+      "category": "Travel insurance + evac",
+      "item": "Comprehensive, ≥$250k evac (22 days)",
+      "per_person_usd": 300,
+      "low_usd": 230,
+      "high_usd": 480,
+      "notes": ""
+    },
+    {
+      "category": "Travel insurance + evac",
+      "item": "AMREF Maisha (Kenya air evac)",
+      "per_person_usd": 10,
+      "low_usd": 0,
+      "high_usd": 24,
+      "notes": ""
+    },
+    {
+      "category": "Tips",
+      "item": "Guide ~$11 + cook ~$5 pp/day × 18 days + misc",
+      "per_person_usd": 300,
+      "low_usd": 250,
+      "high_usd": 420,
+      "notes": "Small crisp USD"
+    },
+    {
+      "category": "Meals not included",
+      "item": "Nairobi, Kericho dinner + transit meals (incl. IST connection)",
+      "per_person_usd": 70,
+      "low_usd": 45,
+      "high_usd": 120,
+      "notes": ""
+    },
+    {
+      "category": "Misc/souvenirs",
+      "item": "eSIM / Safaricom SIM",
+      "per_person_usd": 15,
+      "low_usd": 8,
+      "high_usd": 25,
+      "notes": ""
+    },
+    {
+      "category": "Misc/souvenirs",
+      "item": "Souvenirs, laundry, sundries",
+      "per_person_usd": 50,
+      "low_usd": 30,
+      "high_usd": 250,
+      "notes": ""
+    },
+    {
+      "category": "Contingency",
+      "item": "~5%: operator quotes, fares, fees, FX",
+      "per_person_usd": 300,
+      "low_usd": 250,
+      "high_usd": 500,
+      "notes": "Hold until quotes are signed"
+    }
+  ],
+  "budget_total_per_person_usd": 9025,
+  "alternatives": [
+    {
+      "id": "yf-done",
+      "name": "Already have yellow fever shot",
+      "description": "Skip the $200 vaccine. Bring your yellow card.",
+      "cost_delta_per_person_usd": -200
+    },
+    {
+      "id": "skip-kakamega",
+      "name": "Skip Kakamega + Kericho; home Jan 13",
+      "description": "Nakuru → Mara direct (~4.5–5h). Loses the rainforest primates + turacos; 3 days shorter.",
+      "cost_delta_per_person_usd": -800
+    },
+    {
+      "id": "home-jan14",
+      "name": "Come home Jan 14 instead of Jan 16",
+      "description": "Drop the extra Mara day + Hell's Gate day. Same loop otherwise.",
+      "cost_delta_per_person_usd": -450
+    },
+    {
+      "id": "opc-specials",
+      "name": "Ol Pejeta specials: northern white rhino + lion tracking",
+      "description": "Visit the last northern white rhino(s) with their keepers (~$70; check status before booking) + lion tracking with researchers (~$70).",
+      "cost_delta_per_person_usd": 140
+    },
+    {
+      "id": "fly-mara",
+      "name": "Fly Mara → Wilson; Nairobi instead of Naivasha",
+      "description": "~2.5h door to door vs 4–4.5h drive. Drops Naivasha + Hell's Gate; 2 Nairobi hotel nights instead (Sheldrick, Giraffe Centre possible).",
+      "cost_delta_per_person_usd": -90
+    },
+    {
+      "id": "fly-nanyuki",
+      "name": "Fly Nairobi → Nanyuki for Ol Pejeta",
+      "description": "~2.5h door to door vs ~4h drive. Crew drives up empty anyway.",
+      "cost_delta_per_person_usd": 204
+    },
+    {
+      "id": "comfort",
+      "name": "Tented-camp comfort at Ol Pejeta + Samburu",
+      "description": "Sweetwaters Serena 2n + Samburu Riverside Camp 3n, full board; crew keeps vehicle + guide.",
+      "cost_delta_per_person_usd": 650
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 2026)",
+      "task": "Egypt: Price and book the multi-city or open-jaw ticket with TK10 + TK692 (Dec 19-21) and MS849 CAI-NBO (Dec 27). Check MS849's December departure time (21:35, 22:55 or 23:55)."
+    },
+    {
+      "when": "Now",
+      "task": "Egypt: Book Christmas-week guesthouses in Giza (Dec 20-23, so the room is held for the ~04:00 Dec 21 arrival), Aswan (Dec 23-25) and Luxor (Dec 25-27). Use free-cancellation rates where possible."
+    },
+    {
+      "when": "By end Oct",
+      "task": "Egypt: Book domestic flights: CAI-ASW (Dec 23 morning) and LXR-CAI (Dec 27 early afternoon, landing CAI by ~17:00)."
+    },
+    {
+      "when": "Nov",
+      "task": "Egypt: Arrange the pre-dawn CAI pickup with the Giza guesthouse, and the Aswan-Luxor car, felucca and birding boat with the Aswan guesthouse. Optional: book a YOTEL Air IST pod for the Dec 20 layover."
+    },
+    {
+      "when": "Nov",
+      "task": "Egypt: Buy GEM tickets online (visit-gem.com only). Optional: Luxor sunrise balloon for Dec 26 (licensed operator) and an Abu Simbel flight upgrade."
+    },
+    {
+      "when": "Early Dec",
+      "task": "Egypt: Get the Egypt e-visa at visa2egypt.gov.eg, or bring $30 cash each for the visa on arrival. Enroll in STEP and recheck the State Dept advisory."
+    },
+    {
+      "when": "Dec 19",
+      "task": "Egypt: Carry USD cash for the visa and small bills, plus fleece layers for cold desert nights."
+    },
+    {
+      "when": "Now (Oct 8–15)",
+      "task": "Book Sheldrick 11:00 for Dec 28 (optional; opens ~90 days ahead). Price + book TK round trip (out Dec 26; home Jan 16 TK608 + TK9 same day). Ask 3 KATO operators for an 18-day private camping quote (Dec 29–Jan 15)."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Operator confirms in writing: OPC campsite Dec 29–30, Samburu Dec 31–Jan 2, Thomson's Falls Jan 3, Nakuru KWS Jan 4–5, Mara conservancy mobile camping Jan 9–12, Naivasha Jan 13–14. Pay deposit."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book Rondo Retreat Jan 6–7, Kericho hotel Jan 8, Nairobi guesthouse Dec 27–28, JKIA hotel Jan 15."
+    },
+    {
+      "when": "Mid–late Nov",
+      "task": "Travel clinic: yellow fever unless done; malaria Rx. Buy insurance."
+    },
+    {
+      "when": "~Dec 1–5",
+      "task": "Kenya eTA on etas.gov.ke. eSIM. Small USD bills for tips."
+    },
+    {
+      "when": "Dec 20–24",
+      "task": "Reconfirm crew pickup Dec 29, 03:30 taxi Dec 28, KWS fee ruling, Mulot road status."
+    }
+  ],
+  "practical": "## Egypt stopover\n- **Visa (US passport):** US passport: visa on arrival at Cairo airport, single entry, 30 days. It has cost US$30 since Mar 1 2026 (it was $25), paid in USD cash at the bank kiosk before immigration. The alternative is an e-visa at visa2egypt.gov.eg, where sources disagree on $25 vs $30. Avoid reseller sites. Your passport needs 6+ months of validity. Kenya separately requires its eTA, which is already part of the base trip.\n- **Safety — US State Dept Level 2: Exercise Increased Caution (terrorism, crime, health). This applies countrywide. Level 4 Do Not Travel covers North and Central Sinai (terrorism), the Western Desert (smuggling, remoteness) and the Egyptian border areas, including Libya and Sudan. Check travel.state.gov before booking, because the 2026 US-Iran/Israel tensions and a fragile ceasefire may change it.:** Cairo/Giza, Aswan and Luxor are heavily policed tourist corridors well outside the Do Not Travel zones, and the UK and Australia also treat them as open. The real day-to-day problems are scams, touts, overcharging, traffic and stomach upsets from food or water, not violence. Tourist sites have checkpoints and metal detectors. Women travelers often report verbal harassment. The plan avoids all Sinai and Western Desert travel (no Siwa, White Desert or Bahariya). The optional Fayoum or Wadi El-Hitan day trip sits at the edge of the Western Desert, so only do it with a licensed operator after checking the current advisory wording.\n  - Do not travel to North/Central Sinai, the Western Desert or the border areas. The itinerary stays in the Nile Valley.\n  - Giza touts: enter through the new Pyramids Visitor Centre (free shuttle) or the Sphinx gate. Ignore 'the gate is closed' and 'police' camel or horse hustlers. Agree any camel price in writing beforehand, including the return.\n  - Use Uber or Careem in Cairo, not street taxis. Arrange the pre-dawn (~04:00) CAI airport pickup through your Giza guesthouse.\n  - Carry small EGP notes for baksheesh (tips) and toilets. Pay entry fees by card at official windows, because many sites are now card-only. GEM tickets are online only (visit-gem.com).\n  - Drink only bottled water, avoid salads and ice at street stalls, and bring rehydration salts.\n  - Enroll in STEP. Carry a passport copy, because checkpoints sometimes ask for it.\n  - Hire the Aswan to Luxor driver through your guesthouse. Police occasionally impose convoy-style timing on that road, so follow the driver's guidance.\n  - Dual US-Egyptian nationals get limited consular help. This only matters if one of you holds Egyptian citizenship.\n- **Weather in late Dec:** Ideal sightseeing weather. Cairo: days about 19-21C, nights 9-11C, sometimes hazy or smoggy. Aswan and Luxor: days about 23-26C, sunny and dry, but nights drop to 7-10C, so bring a fleece for felucca rides and early starts. Rain is essentially zero. Expect peak-season crowds, especially Dec 24-31.\n\n## Entry\n- Kenya eTA $30, **etas.gov.ke only**. Türkiye: airside connections only, no visa needed. Passport 6+ mo, 2 blank pages.\n\n## Flights\n- TK10 19:45→19:00+1. TK607 **20:30 → 03:05**. 1.5h connect: tight. Missed → next night; Ol Pejeta 1n shorter.\n- Return Jan 16: TK608 04:50 → IST 11:45, ~2h45 airside connect, TK9 ~14:30 → LAX ~18:15. Check times when booking; keep ≥2h connect.\n\n## Do we need a rental car? No.\n- Safari days: the camping operator's 4x4 + driver-guide is in the crew price. You never drive.\n- Self-drive is possible (e.g. Roadtrip Africa Land Cruisers + rooftop tent), but **Mara conservancies don't allow self-drive vehicles**, you'd do every 4–5h drive yourselves on the left, and an 8-day self-drive package starts ~€1,730 pp: not cheaper.\n- Nairobi: Uber/Bolt. Everything else in the crew vehicle.\n\n## Road reality\n- Longest days: Dec 29 (~4h), Jan 6 (4–4.5h), Jan 13 (4–4.5h). Rest day before each.\n- Samburu → Nakuru and Kakamega → Mara are split with overnights (Thomson's Falls, Kericho).\n- Kericho → Mara via Mulot: last hour rough; ask operator about rain.\n\n## Weather\n- Samburu hot + dry (30–35°C days). Kakamega: afternoon showers, muddy trails: rain jacket + closed shoes. Highlands cold at night.\n\n\n## Fees\n- KWS Nakuru $90 new vs $60 old (court case). OPC + Mara conservancies not KWS. Cashless (card/M-Pesa).\n\n## Operator must confirm in writing\n- Mara conservancy mobile camping allowed + fee. Per-day rate incl. festive days. No hidden repositioning.\n\n## Health (CDC)\n- Yellow fever recommended outside Nairobi. Malaria pills from Dec 27 to 7 days after leaving Kenya (Kakamega/west is higher risk). DEET.\n\n## Camping\n- Walk-in tents, beds, bucket shower, toilet tent. Askari at night. Laikipia/Nakuru nights ~8–12°C: fleece.\n\n## Money/safety\n- ~130 KES/$. Crisp USD for tips. Kenya Level 2: Uber/Bolt, no night walks. Plastic bags banned.",
+  "open_questions": [
+    "Egypt stopover adds $1,425 pp and a week. Worth it vs. Christmas at home?",
+    "Confirm the budget is per person (assumed), not total for both.",
+    "Exotic loop is ~$7,600 pp. OK, or cut (skip Kakamega −$800, home Jan 14 −$450)?",
+    "Extra 2 days went to Mara + Hell's Gate. Prefer them elsewhere (e.g. 4th Samburu night)?",
+    "Any must-see animals not on the Wildlife list (e.g. wild dogs, bongo, black leopard)?",
+    "NYE camping in Samburu OK (quiet, hot, no party)?",
+    "Add Ol Pejeta northern white rhino + lion tracking (+$140)?"
+  ],
+  "sources": [
+    "https://info.flightmapper.net/flight/Turkish_Airlines_TK_10",
+    "https://www.aeroroutes.com/eng/260424-tkjul26cai",
+    "https://www.trip.com/flights/status-tk694",
+    "https://www.flight.info/TK692",
+    "https://www.planemapper.com/flights/MS738",
+    "https://proflightsearch.com/flight/MS849",
+    "https://www.airnavradar.com/data/flights/MS849/2967563754",
+    "https://www.trip.com/flights/status-ms849",
+    "https://www.planemapper.com/flights/MS849",
+    "https://www.skyscanner.com/routes/cai/nboa/cairo-to-nairobi.html",
+    "https://orbitz.com/lp/flights/178243/178290/cairo-to-nairobi",
+    "https://www.kayak.com/flight-routes/Los-Angeles-LAX/Cairo-CAI",
+    "https://osac.gov/Content/Report/f9535564-b44b-40f6-971b-1c31033d9a55",
+    "https://egyptianstreets.com/2026/03/08/egypt-is-broadly-safe-for-tourists-says-travel-advisory/",
+    "https://www.traveladvisory.io/advisory/egypt",
+    "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/egypt-travel-advisory.html",
+    "https://www.pyramidsland.com/blog/grand-egyptian-museum",
+    "https://www.khaleejtimes.com/world/mena/egypt-grand-egyptian-museum-visitors-guide",
+    "https://www.egypttoursplus.com/how-much-to-visit-pyramids-in-egypt/",
+    "https://discoverdiscomfort.com/ultimate-guide-to-luxor-egypt/",
+    "https://visasnews.com/en/egypt-is-the-visa-on-arrival-fee-about-to-increase/",
+    "https://www.travelnews.ch/english-corner/31643-new-pricing-model-for-visas-in-egypt.html",
+    "https://tripprof.com/en/blog/uk-egypt-visa-fee-increase/",
+    "https://www.encounterstravel.com/blog/egypt-sleeper-train",
+    "https://uk.trip.com/flights/status-tk607",
+    "https://www.airpaz.com/en/flight/code/TK-607",
+    "https://info.flightmapper.net/flight/Turkish_Airlines_TK_10",
+    "https://www.flight.info/TK608",
+    "https://www.airpaz.com/en/flight/code/TK-9",
+    "https://www.turkishairlines.com/en-us/flights/stopover/",
+    "https://awardwallet.com/airlines/turkish-airlines-stopover/",
+    "https://africanspicesafaris.com/tour/kenya-local-flights-safari-link-air-ticket-prices/",
+    "https://africanspicesafaris.com/tour/kenya-local-flights-air-kenya-ticket-prices/",
+    "https://nz.trip.com/flights/nanyuki-to-masai-mara/airfares-nyk-mre",
+    "https://www.skyscanner.co.za/routes/uas/mrea/samburu-to-maasai-mara.html",
+    "https://monkey.travel/en/usd/tour/mara-north-conservancy-4-days/",
+    "https://masaimara.ke/safarilink-flights/",
+    "https://cheetahsafaris.com/national-park/enonkishu-conservancy",
+    "https://blog.biosphere-expeditions.org/2020/01/31/kenya-bring-your-wellies/",
+    "https://standardmedia.co.ke/article/2001398762/ride-to-paradise-made-easier-with-paved-mara-road",
+    "https://monkey.travel/en/usd/tour/olpejeta-nakuru-4-days/",
+    "https://safaribookings.com/day/t67935",
+    "https://monkey.travel/en/tour/samburu-olpejeta-7-days",
+    "https://www.kenyans.co.ke/news/115091-full-list-proposed-new-prices-nairobi-amboseli-tsavo-all-other-parks",
+    "https://www.kenyans.co.ke/news/116749-court-temporarily-stops-new-kws-park-entry-fees",
+    "https://capitalfm.africa/blow-to-kws-as-high-court-stops-park-fees-hike/",
+    "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-effective-october-1-2025",
+    "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf",
+    "https://samburureserve.org/entry-fees/",
+    "https://ajkenyasafaris.com/14-day-kenya-safari-itinerary/",
+    "https://www.imaraafricasafaris.com/african-travel-blog/kenya-safari-cost-2026",
+    "https://beyondkenyasafaris.com/flamingo-hill-camp/",
+    "https://monkey.travel/en/usd/accommodation/naivasha-sopa/",
+    "https://www.porini.com/wp-content/uploads/2026/07/Reduced-Rates-for-6-nights.pdf",
+    "https://www.kayak.com/Nairobi-Hotels-Four-Points-by-Sheraton-Nairobi-Airport.3500194.ksp",
+    "https://africanspicesafaris.com/tour/four-points-by-sheraton-nairobi-jkia-hotel/",
+    "https://www.africanmeccasafaris.com/travel-guide/kenya/accommodation/nairobi/southern/ole-sereni-hotel/room-rates",
+    "https://id.trip.com/flights/status-f2031/",
+    "https://atcnews.org/new-airstrip-makes-access-to-mara-conservancies-easier/",
+    "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html",
+    "https://www.frommers.com/destinations/kakamega-forest/planning-a-trip/",
+    "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025",
+    "https://www.expedia.com/lp/flights/kis/nbo/kisumu-to-nairobi",
+    "https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve",
+    "https://en.wikipedia.org/wiki/Maasai_Mara_conservancies",
+    "https://roadtripafrica.com/kenya/self-drive-tours/taste-of-kenya/"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "IST": {
+      "name": "Istanbul Airport (transit)",
+      "lat": 41.2753,
+      "lng": 28.7519,
+      "kind": "transit",
+      "country": "Turkey"
+    },
+    "NBO": {
+      "name": "Nairobi (JKIA)",
+      "lat": -1.3192,
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "JKH": {
+      "name": "Airport-area hotel, Mombasa Rd",
+      "lat": -1.3245,
+      "lng": 36.89,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "KAR": {
+      "name": "Nairobi (guesthouse)",
+      "lat": -1.3197,
+      "lng": 36.7076,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "MARA": {
+      "name": "Enonkishu conservancy, Greater Mara",
+      "lat": -1.07,
+      "lng": 35.25,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "lat": -0.0236,
+      "lng": 36.9,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NAK": {
+      "name": "Lake Nakuru NP",
+      "lat": -0.36,
+      "lng": 36.09,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NAI": {
+      "name": "Lake Naivasha",
+      "lat": -0.77,
+      "lng": 36.36,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "KAK": {
+      "name": "Kakamega Forest (Rondo Retreat)",
+      "lat": 0.2406,
+      "lng": 34.8653,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "KIS": {
+      "name": "Kisumu Airport",
+      "lat": -0.0861,
+      "lng": 34.7289,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "KER": {
+      "name": "Kericho (tea estates)",
+      "lat": -0.3689,
+      "lng": 35.2863,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "WIL": {
+      "name": "Wilson Airport",
+      "lat": -1.3217,
+      "lng": 36.8148,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "NYK": {
+      "name": "Nanyuki airstrip",
+      "lat": -0.0624,
+      "lng": 37.041,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "NGE": {
+      "name": "Ngerende airstrip (Mara)",
+      "lat": -1.088,
+      "lng": 35.187,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "SAM": {
+      "name": "Samburu / Buffalo Springs",
+      "lat": 0.585,
+      "lng": 37.555,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NYA": {
+      "name": "Thomson's Falls (Nyahururu)",
+      "lat": 0.045,
+      "lng": 36.3639,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "CAI": {
+      "name": "Cairo International Airport",
+      "lat": 30.1219,
+      "lng": 31.4056,
+      "kind": "transit",
+      "country": "Egypt"
+    },
+    "GIZ": {
+      "name": "Giza (pyramids)",
+      "lat": 29.9792,
+      "lng": 31.1342,
+      "kind": "abroad",
+      "country": "Egypt"
+    },
+    "ASW": {
+      "name": "Aswan (Nubian west bank)",
+      "lat": 24.0889,
+      "lng": 32.8998,
+      "kind": "abroad",
+      "country": "Egypt"
+    },
+    "LXR": {
+      "name": "Luxor (West Bank)",
+      "lat": 25.7206,
+      "lng": 32.6105,
+      "kind": "abroad",
+      "country": "Egypt"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-19",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "Turkish Airlines TK10, daily. Departs LAX 19:45 (winter schedule from Oct 24 2026), arrives IST 19:00 on Dec 20. B777-300ER. Reconfirm."
+    },
+    {
+      "date": "2026-12-21",
+      "from": "IST",
+      "to": "CAI",
+      "mode": "flight",
+      "duration": "~2h25",
+      "detail": "TK692, daily A330. Departs IST 01:55 on Dec 21 after a ~7h layover; arrives CAI about 03:20-04:20 local (Egypt is on UTC+2 in winter). TK694 (18:25) leaves before TK10 lands, so it is not an option. Visa on arrival: $30 cash."
+    },
+    {
+      "date": "2026-12-21",
+      "from": "CAI",
+      "to": "GIZ",
+      "mode": "road",
+      "duration": "~45min",
+      "detail": "Guesthouse pre-dawn pickup (about $20-25 per car) to the pyramid-view guesthouse in Nazlet el-Semman. Empty roads at that hour."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "GIZ",
+      "to": "CAI",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "Early-morning Uber to the domestic terminal. Allow extra time for Cairo traffic."
+    },
+    {
+      "date": "2026-12-23",
+      "from": "CAI",
+      "to": "ASW",
+      "mode": "flight",
+      "duration": "~1h25",
+      "detail": "EgyptAir (or Nile Air) morning CAI-ASW, about $60-130 one-way."
+    },
+    {
+      "date": "2026-12-25",
+      "from": "ASW",
+      "to": "LXR",
+      "mode": "road",
+      "duration": "~4h driving (+3h stops)",
+      "detail": "Private car with driver through the guesthouse (about $90-120 per car). Leave about 8am, stop at Kom Ombo (1h) and Edfu (1.5h), arrive Luxor West Bank late afternoon."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "LXR",
+      "to": "CAI",
+      "mode": "flight",
+      "duration": "~1h05",
+      "detail": "EgyptAir LXR-CAI, early afternoon (aim to land CAI by ~17:00 so any MS849 timing works), about $60-120."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "CAI",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~5h",
+      "detail": "EgyptAir MS849, daily B737-800. Trackers show it leaving CAI at 23:55 (landing NBO 04:55 Dec 28), but some dates are 20:55 and December snapshots show 21:35 (landing about 02:35). Every version lands before 06:00 on Dec 28. Reconfirm once ticketed."
+    },
+    {
+      "date": "2026-12-28",
+      "from": "NBO",
+      "to": "KAR",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Pre-booked taxi, ~$15/car"
+    },
+    {
+      "date": "2026-12-29",
+      "from": "KAR",
+      "to": "OPC",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Crew vehicle via Nanyuki",
+      "choice": {
+        "alt_id": "fly-nanyuki",
+        "chosen": {
+          "label": "Drive",
+          "mode": "road",
+          "door_to_door": "~4h",
+          "cost_pp": 0,
+          "note": "In crew price. Scenic; equator stop."
+        },
+        "other": {
+          "label": "Fly Wilson → Nanyuki",
+          "mode": "flight",
+          "door_to_door": "~2.5h (50m flight)",
+          "cost_pp": 204,
+          "note": "Safarilink ~$204 pp; crew still drives up empty. 15 kg soft bags."
+        }
+      }
+    },
+    {
+      "date": "2026-12-31",
+      "from": "OPC",
+      "to": "SAM",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "Via Nanyuki + Isiolo; tarmac"
+    },
+    {
+      "date": "2027-01-03",
+      "from": "SAM",
+      "to": "NYA",
+      "mode": "road",
+      "duration": "~3.5h",
+      "detail": "Via Isiolo + Nanyuki"
+    },
+    {
+      "date": "2027-01-04",
+      "from": "NYA",
+      "to": "NAK",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Downhill via Subukia"
+    },
+    {
+      "date": "2027-01-06",
+      "from": "NAK",
+      "to": "KAK",
+      "mode": "road",
+      "duration": "~4–4.5h",
+      "detail": "Via Eldoret"
+    },
+    {
+      "date": "2027-01-08",
+      "from": "KAK",
+      "to": "KER",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "Via Kisumu"
+    },
+    {
+      "date": "2027-01-09",
+      "from": "KER",
+      "to": "MARA",
+      "mode": "road",
+      "duration": "~3–3.5h",
+      "detail": "Via Bomet + Mulot; last hour rough"
+    },
+    {
+      "date": "2027-01-13",
+      "from": "MARA",
+      "to": "NAI",
+      "mode": "road",
+      "duration": "~4–4.5h",
+      "detail": "Via Narok + Mai Mahiu",
+      "choice": {
+        "alt_id": "fly-mara",
+        "chosen": {
+          "label": "Drive via Naivasha (overnight there)",
+          "mode": "road",
+          "door_to_door": "~4–4.5h, then 2.5–3h next day",
+          "cost_pp": 0,
+          "note": "Two easy road days; adds a lake night + Hell's Gate."
+        },
+        "other": {
+          "label": "Fly Mara → Wilson; Nairobi instead of Naivasha",
+          "mode": "flight",
+          "door_to_door": "~2.5h, one day",
+          "cost_pp": -90,
+          "note": "Flight ~$230, minus 2 crew days + Naivasha camp + Hell's Gate + tips (~$440), plus 2 Nairobi hotel nights + meals (~$120). Loses Naivasha + Hell's Gate."
+        }
+      }
+    },
+    {
+      "date": "2027-01-15",
+      "from": "NAI",
+      "to": "JKH",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "A104 + Southern Bypass"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "JKH",
+      "to": "NBO",
+      "mode": "road",
+      "duration": "~15m",
+      "detail": "03:00 hotel shuttle"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "NBO",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~7h",
+      "detail": "TK608 04:50 → 11:45"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "IST",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~13h45",
+      "detail": "~2h45 connect; TK9 ~14:30 → ~18:15 same day"
+    }
+  ],
+  "stays": [
+    {
+      "place": "GIZ",
+      "from": "2026-12-20",
+      "nights": 3,
+      "label": "Pyramid-view guesthouse, Giza"
+    },
+    {
+      "place": "ASW",
+      "from": "2026-12-23",
+      "nights": 2,
+      "label": "Nubian guesthouse, Aswan west bank"
+    },
+    {
+      "place": "LXR",
+      "from": "2026-12-25",
+      "nights": 2,
+      "label": "West Bank guesthouse, Luxor"
+    },
+    {
+      "place": "KAR",
+      "from": "2026-12-28",
+      "nights": 1,
+      "label": "Nairobi rest"
+    },
+    {
+      "place": "OPC",
+      "from": "2026-12-29",
+      "nights": 2,
+      "label": "Ol Pejeta"
+    },
+    {
+      "place": "SAM",
+      "from": "2026-12-31",
+      "nights": 3,
+      "label": "Samburu"
+    },
+    {
+      "place": "NYA",
+      "from": "2027-01-03",
+      "nights": 1,
+      "label": "Thomson's Falls"
+    },
+    {
+      "place": "NAK",
+      "from": "2027-01-04",
+      "nights": 2,
+      "label": "Lake Nakuru"
+    },
+    {
+      "place": "KAK",
+      "from": "2027-01-06",
+      "nights": 2,
+      "label": "Kakamega forest"
+    },
+    {
+      "place": "KER",
+      "from": "2027-01-08",
+      "nights": 1,
+      "label": "Kericho"
+    },
+    {
+      "place": "MARA",
+      "from": "2027-01-09",
+      "nights": 4,
+      "label": "Mara conservancy"
+    },
+    {
+      "place": "NAI",
+      "from": "2027-01-13",
+      "nights": 2,
+      "label": "Naivasha · Hell's Gate"
+    },
+    {
+      "place": "JKH",
+      "from": "2027-01-15",
+      "nights": 1,
+      "label": "Airport hotel"
+    }
+  ],
+  "fatigue_check": "**Egypt stopover (Dec 19–28):**\nDec 19: ~13h overnight flight. Dec 20: ~7h IST layover (overnight, airport). Dec 21: 2h25 flight landing ~03:30-04:30, then ~45min road, sleep in the morning (heavy start, light afternoon). Dec 22: ~0.5h. Dec 23: ~3.5h (1h road + 1h25 flight + 0.5h transfer, plus airport waits). Dec 24: ~1h of local boats. Dec 25: ~4h road, broken up by temple stops. Dec 26: ~0.5h local. Dec 27: 1h05 flight + ~5-7h airport wait + 5h red-eye (heavy). Dec 28: Nairobi rest day (built into the Kenya plan). Pace rules: road never goes above ~4h/day, so the 5h limit is met. A rest or light day follows each long haul: Dec 21 afternoon and Dec 22 are easy after arrival, Dec 26 is light after the road day, and the Dec 28 rest follows the red-eye. The main strain points are the overnight IST layover with the pre-dawn Cairo arrival, and the long Dec 27 plus red-eye. A routing via Europe that lands in Cairo in the evening would ease the first one if TK692 feels too punishing.\n\n**Kenya (from Dec 28):**\nDoor-to-door travel per day:\n- Dec 26–27 | flights (~13h + 6.5h) | long-haul\n- Dec 28 | 20m taxi at 03:30 | REST\n- Dec 29 | ~4h road | medium (after rest day)\n- Dec 30 | 0 | REST\n- Dec 31 | 2.5–3h road | light\n- Jan 1–2 | 0 | REST ×2\n- Jan 3 | ~3.5h road | medium\n- Jan 4 | ~1.5h road | light\n- Jan 5 | 0 | REST\n- Jan 6 | 4–4.5h road | long (after rest day)\n- Jan 7 | 0 | REST\n- Jan 8 | 2.5–3h road | light\n- Jan 9 | 3–3.5h road | medium\n- Jan 10–11 | 0 | REST ×2\n- Jan 12 | 0 | REST (extra Mara day)\n- Jan 13 | 4–4.5h road | long (after 3 Mara rest days)\n- Jan 14 | ~30m local (Hell's Gate) | REST-ish\n- Jan 15 | 2.5–3h road | light\n- Jan 16 | 15m + 7h + 2h45 connect + 13h45 | long-haul home (~25h, 02:45 wake)\n\nRules:\n- **Max ~5h road:** met; longest 4–4.5h.\n- **No back-to-back ≥3.5h:** met.\n- **Rest days:** 9 with no transfer (incl. easy Hell's Gate day) + arrival rest day.\n- 1-night stops are transit: Thomson's Falls, Kericho, airport.\n- Jan 16 is the one hard day: sleep early Jan 15; sleep on the long flight.",
+  "hero_photo": "Maasai_Mara",
+  "photos": {
+    "MARA": {
+      "name": "Masai Mara conservancy",
+      "wiki": [
+        "Maasai_Mara",
+        "Lion",
+        "Cheetah",
+        "Maasai_people"
+      ]
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "wiki": [
+        "Ol_Pejeta_Conservancy",
+        "Black_rhinoceros",
+        "Northern_white_rhinoceros",
+        "Mount_Kenya"
+      ]
+    },
+    "NAK": {
+      "name": "Lake Nakuru",
+      "wiki": [
+        "Lake_Nakuru_National_Park",
+        "Lesser_flamingo",
+        "Rothschild's_giraffe",
+        "Southern_white_rhinoceros"
+      ]
+    },
+    "NAI": {
+      "name": "Lake Naivasha & Hell's Gate",
+      "wiki": [
+        "Lake_Naivasha",
+        "Hell's_Gate_National_Park",
+        "Hippopotamus",
+        "African_fish_eagle"
+      ]
+    },
+    "KAR": {
+      "name": "Nairobi",
+      "wiki": [
+        "Giraffe_Centre",
+        "David_Sheldrick_Wildlife_Trust",
+        "Nairobi_National_Park",
+        "Karen_Blixen_Museum"
+      ]
+    },
+    "JKH": {
+      "name": "Nairobi airport area",
+      "wiki": [
+        "Jomo_Kenyatta_International_Airport"
+      ]
+    },
+    "KAK": {
+      "name": "Kakamega rainforest",
+      "wiki": [
+        "Kakamega_Forest",
+        "Mantled_guereza",
+        "Great_blue_turaco",
+        "De_Brazza's_monkey"
+      ]
+    },
+    "KER": {
+      "name": "Kericho tea country",
+      "wiki": [
+        "Kericho"
+      ]
+    },
+    "SAM": {
+      "name": "Samburu",
+      "wiki": [
+        "Samburu_National_Reserve",
+        "Grevy's_zebra",
+        "Gerenuk",
+        "Reticulated_giraffe"
+      ]
+    },
+    "NYA": {
+      "name": "Thomson's Falls",
+      "wiki": [
+        "Thomson's_Falls"
+      ]
+    },
+    "GIZ": {
+      "name": "Giza (pyramids)",
+      "wiki": [
+        "Giza_pyramid_complex",
+        "Great_Sphinx_of_Giza",
+        "Grand_Egyptian_Museum",
+        "Great_Pyramid_of_Giza"
+      ]
+    },
+    "ASW": {
+      "name": "Aswan (Nubian west bank)",
+      "wiki": [
+        "Aswan",
+        "Philae",
+        "Elephantine",
+        "Felucca"
+      ]
+    },
+    "LXR": {
+      "name": "Luxor (West Bank)",
+      "wiki": [
+        "Valley_of_the_Kings",
+        "Karnak",
+        "Mortuary_Temple_of_Hatshepsut",
+        "Luxor"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Pied kingfisher",
+      "wiki": "Pied_kingfisher",
+      "where": "Aswan First Cataract islands and Nile banks everywhere",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Egyptian goose",
+      "wiki": "Egyptian_goose",
+      "where": "Nile islands, Aswan and Luxor",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Cattle egret",
+      "wiki": "Western_cattle_egret",
+      "where": "Nile fields, Luxor West Bank",
+      "odds": "Certain"
+    },
+    {
+      "name": "Black kite",
+      "wiki": "Black_kite",
+      "where": "Over Cairo and Aswan",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Eurasian hoopoe",
+      "wiki": "Eurasian_hoopoe",
+      "where": "Gardens, Kitchener's Island, Luxor fields",
+      "odds": "Likely"
+    },
+    {
+      "name": "Senegal thick-knee",
+      "wiki": "Senegal_thick-knee",
+      "where": "Rocky islands near Aswan",
+      "odds": "Possible with a birding boatman"
+    },
+    {
+      "name": "Western swamphen",
+      "wiki": "Western_swamphen",
+      "where": "Reedbeds around the Aswan islands",
+      "odds": "Possible"
+    },
+    {
+      "name": "Nile crocodile",
+      "wiki": "Nile_crocodile",
+      "where": "Mummified ones only, at the Kom Ombo Crocodile Museum (essentially none wild below the Aswan dams)",
+      "odds": "Mummies certain; wild essentially none"
+    },
+    {
+      "name": "Dromedary camel",
+      "wiki": "Dromedary",
+      "where": "Giza plateau (domestic)",
+      "odds": "Certain"
+    },
+    {
+      "name": "Grevy's zebra",
+      "wiki": "Grevy's_zebra",
+      "where": "Samburu, Ol Pejeta",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Reticulated giraffe",
+      "wiki": "Reticulated_giraffe",
+      "where": "Samburu",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Gerenuk",
+      "wiki": "Gerenuk",
+      "where": "Samburu",
+      "odds": "Likely"
+    },
+    {
+      "name": "Beisa oryx",
+      "wiki": "East_African_oryx",
+      "where": "Samburu",
+      "odds": "Likely"
+    },
+    {
+      "name": "Somali ostrich",
+      "wiki": "Somali_ostrich",
+      "where": "Samburu",
+      "odds": "Likely"
+    },
+    {
+      "name": "Vulturine guineafowl",
+      "wiki": "Vulturine_guineafowl",
+      "where": "Samburu",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Black rhino",
+      "wiki": "Black_rhinoceros",
+      "where": "Ol Pejeta, Nakuru",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Northern white rhino",
+      "wiki": "Northern_white_rhinoceros",
+      "where": "Ol Pejeta (paid visit)",
+      "odds": "With visit"
+    },
+    {
+      "name": "Chimpanzee",
+      "wiki": "Chimpanzee",
+      "where": "Ol Pejeta sanctuary",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Rothschild's giraffe",
+      "wiki": "Rothschild's_giraffe",
+      "where": "Lake Nakuru",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Lesser flamingo",
+      "wiki": "Lesser_flamingo",
+      "where": "Lake Nakuru",
+      "odds": "Varies"
+    },
+    {
+      "name": "Black-and-white colobus",
+      "wiki": "Mantled_guereza",
+      "where": "Kakamega",
+      "odds": "Very likely"
+    },
+    {
+      "name": "De Brazza's monkey",
+      "wiki": "De_Brazza's_monkey",
+      "where": "Kakamega",
+      "odds": "Likely"
+    },
+    {
+      "name": "Great blue turaco",
+      "wiki": "Great_blue_turaco",
+      "where": "Kakamega",
+      "odds": "Likely"
+    },
+    {
+      "name": "Lion",
+      "wiki": "Lion",
+      "where": "Mara, Ol Pejeta",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Cheetah",
+      "wiki": "Cheetah",
+      "where": "Mara, Samburu",
+      "odds": "Likely"
+    },
+    {
+      "name": "Leopard",
+      "wiki": "African_leopard",
+      "where": "Samburu, Mara",
+      "odds": "Lucky"
+    },
+    {
+      "name": "African wild dog",
+      "wiki": "African_wild_dog",
+      "where": "Laikipia, Samburu",
+      "odds": "Lucky"
+    },
+    {
+      "name": "Elephant",
+      "wiki": "African_bush_elephant",
+      "where": "Samburu, Mara, Ol Pejeta",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "where": "Naivasha, Mara",
+      "odds": "Very likely"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Kenya",
+      "country": "Kenya"
+    },
+    "budget_target": {
+      "low": 5000,
+      "high": 6000
+    },
+    "currency": "USD"
+  },
+  "id": "pre-egypt",
+  "label": "Egypt pyramids + Nile",
+  "summary": "Giza pyramids and the Grand Egyptian Museum, then a flight to Aswan for a Nubian guesthouse, felucca and Nile birding, a drive via Kom Ombo and Edfu to Luxor, and the EgyptAir red-eye CAI-NBO that lands about 02:00-05:00 on Dec 28. Then the Wild loop.",
+  "prelude": {
+    "country": "Egypt",
+    "advisory_level": "US State Dept Level 2: Exercise Increased Caution (terrorism, crime, health). This applies countrywide. Level 4 Do Not Travel covers North and Central Sinai (terrorism), the Western Desert (smuggling, remoteness) and the Egyptian border areas, including Libya and Sudan. Check travel.state.gov before booking, because the 2026 US-Iran/Israel tensions and a fragile ceasefire may change it.",
+    "advisory_short": "Level 2: Exercise Increased Caution",
+    "safety_short": "Cairo, Luxor and Aswan are heavily policed tourist corridors, away from the Do Not Travel zones. Real issues: touts, scams, traffic, stomach bugs.",
+    "verdict_short": "For the money, Egypt gives the biggest \"wow\" of any stopover: the pyramids, the new Grand Egyptian Museum and the Valley of the Kings, all on a cheap guesthouse budget (about $1,400-1,450 pp extra including the flight delta).",
+    "safety": "Cairo/Giza, Aswan and Luxor are heavily policed tourist corridors well outside the Do Not Travel zones, and the UK and Australia also treat them as open. The real day-to-day problems are scams, touts, overcharging, traffic and stomach upsets from food or water, not violence. Tourist sites have checkpoints and metal detectors. Women travelers often report verbal harassment. The plan avoids all Sinai and Western Desert travel (no Siwa, White Desert or Bahariya). The optional Fayoum or Wadi El-Hitan day trip sits at the edge of the Western Desert, so only do it with a licensed operator after checking the current advisory wording.",
+    "visa": "US passport: visa on arrival at Cairo airport, single entry, 30 days. It has cost US$30 since Mar 1 2026 (it was $25), paid in USD cash at the bank kiosk before immigration. The alternative is an e-visa at visa2egypt.gov.eg, where sources disagree on $25 vs $30. Avoid reseller sites. Your passport needs 6+ months of validity. Kenya separately requires its eTA, which is already part of the base trip.",
+    "weather": "Ideal sightseeing weather. Cairo: days about 19-21C, nights 9-11C, sometimes hazy or smoggy. Aswan and Luxor: days about 23-26C, sunny and dry, but nights drop to 7-10C, so bring a fleece for felucca rides and early starts. Rain is essentially zero. Expect peak-season crowds, especially Dec 24-31.",
+    "verdict": "For the money, Egypt gives the biggest \"wow\" of any stopover: the pyramids, the new Grand Egyptian Museum and the Valley of the Kings, all on a cheap guesthouse budget (about $1,400-1,450 pp extra including the flight delta). It suits travelers who are happy to make culture the main event for a week, because the wildlife here is mostly Nile birds and nothing like Kenya. The downsides are peak-season Christmas crowds, aggressive touts in Giza and Luxor, a pre-dawn arrival in Cairo on Dec 21, and a long Dec 27 that ends in a 5h red-eye. Checked: the proposed TK evening IST-CAI connection after TK10 does not exist (TK694 leaves at 18:25, before TK10 lands), so the plan now uses TK692 at 01:55 and arrives in Cairo before dawn on Dec 21 after a ~7h IST layover; MS849's winter departure time is flagged (trackers show 21:35, 22:55 or 23:55), so the LXR-CAI flight moves to early afternoon; an optional IST airside pod is added to misc and the totals are updated; the advisory (Level 2), visa ($30 VOA since Mar 2026), entry fees, CAI-NBO fares and budget arithmetic were confirmed.",
+    "extra_usd": 1425,
+    "base": "wild-loop"
+  }
+}

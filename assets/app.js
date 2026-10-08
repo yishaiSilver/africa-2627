@@ -989,7 +989,7 @@
     var picked = {};
     try { picked = JSON.parse(localStorage.getItem('trip-compare:' + REPO) || 'null') || {}; } catch (e) { /* ignore */ }
     var all = MANIFEST.trips;
-    if (!Object.keys(picked).length) all.forEach(function (t) { picked[t.id] = true; });
+    all.forEach(function (t) { if (!(t.id in picked)) picked[t.id] = t.compare !== false; });  // new trips get their default
     var box = $('#compare');
     box.hidden = false;
     box.querySelector('.cmp-pick').innerHTML = all.map(function (t) {
@@ -1030,6 +1030,15 @@
         html += row('Stops', cols.map(function (c) { return c.m.stops.map(function (s) { return (s.nature ? '🌿 ' : '') + s.name + ' ' + s.n + 'n'; }).join('<br>'); }), function (v) { return v; }, { noBest: true });
         html += row('Wild places (🌿)', cols.map(function (c) { return c.m.parks; }), String, { hi: true });
         html += row('Wildlife checklist', cols.map(function (c) { return c.m.wildlife || null; }), function (v) { return v + ' species'; }, { noBest: true });
+        if (cols.some(function (c) { return c.plan.prelude; })) {
+          var pre = function (c) { return c.plan.prelude || null; };
+          html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Stopover before Kenya</th></tr>';
+          html += row('Country', cols.map(function (c) { return pre(c) ? pre(c).country : null; }), null, { noBest: true });
+          html += row('Extra vs Wild loop', cols.map(function (c) { return pre(c) ? pre(c).extra_usd : null; }), function (v) { return '+' + usd(v); });
+          html += row('US advisory', cols.map(function (c) { return pre(c) ? pre(c).advisory_short || pre(c).advisory_level : null; }), null, { noBest: true });
+          html += row('Safety', cols.map(function (c) { return pre(c) ? pre(c).safety_short || pre(c).safety : null; }), null, { noBest: true, cls: 'long' });
+          html += row('Verdict', cols.map(function (c) { return pre(c) ? pre(c).verdict_short || pre(c).verdict : null; }), null, { noBest: true, cls: 'long' });
+        }
         html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Cost per person</th></tr>';
         html += row('<b>Planned total</b>', cols.map(function (c) { return c.m.total; }), function (v) { return '<b>' + usd(v) + '</b>'; }, { cls: 'total' });
         html += row('Realistic range', cols.map(function (c) { return usd(c.m.low) + '–' + usd(c.m.high); }), null, { noBest: true });
@@ -1056,6 +1065,16 @@
       });
       draw();
     });
+    // Other stopover ideas screened but not built into full trips.
+    getJSON('data/preludes/screen.json').then(function (sc) {
+      var el = box.querySelector('.cmp-screen');
+      if (!el || !sc || !(sc.options || []).length) return;
+      el.innerHTML = '<h3 class="cmp-h">Other stopovers considered</h3><p class="hint">Quick screen only, not built into full trips. Costs are rough pp for ~7 days, including the extra flight cost.</p>' +
+        '<div class="table-scroll"><table class="cmp screen"><thead><tr><th>Country</th><th>Idea</th><th>~Cost pp</th><th>US advisory</th><th>Safety</th><th>Fit</th></tr></thead><tbody>' +
+        sc.options.map(function (o) {
+          return '<tr><th scope="row">' + esc(o.country) + '</th><td>' + esc(o.idea) + '</td><td>' + esc(o.est_cost_pp_usd) + '</td><td>' + esc(o.advisory_level) + '</td><td>' + esc(o.safety) + '</td><td>' + esc(o.fit) + '</td></tr>';
+        }).join('') + '</tbody></table></div>';
+    }).catch(function () { /* optional */ });
   }
 
   function renderTrip(meta) {

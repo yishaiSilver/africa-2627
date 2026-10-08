@@ -351,3 +351,6 @@ table.cmp td.best { background: var(--green-soft); color: var(--green); font-wei
   .cal-t { font-size: .6rem; }
   .cal-row { padding: 0 2px 0 3px; min-height: 9px; }
 }
+table.cmp tr.long td { font-size: .8rem; line-height: 1.4; min-width: 180px; }
+table.cmp.screen { min-width: 820px; font-size: .82rem; }
+table.cmp.screen tbody th { color: var(--ink); font-weight: 600; }

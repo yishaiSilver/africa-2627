@@ -1,0 +1,655 @@
+{
+  "country": "South Africa",
+  "label": "South Africa: Cape + Kruger",
+  "summary": "3 nights on the Cape Peninsula (penguins, fynbos, Table Mountain), then 3 nights self-driving in southern Kruger in SANParks rest camps. Christmas is in Kruger. On Dec 27 you exit via Nelspruit (MQP) and reach NBO at 22:05.",
+  "verdict": "This is the most varied and self-sufficient stopover. The Cape adds wildlife and scenery Kenya doesn't have (penguins, fur seals, fynbos), and Kruger adds rhino, wild dog and leopard on cheap self-drive. It is also the most expensive stopover: about +$2,400 pp over the base trip, driven by 3 extra regional flights at peak fares. Kruger also partly duplicates the 19-night Kenya safari, and December school holidays mean SANParks camps may already be full, so check availability before buying anything. Checked: (1) TK44's winter departure is 01:55, not 01:45, so the IST layover is about 7h. (2) The Dec 27 exit is reworked. Skukuza-JNB flights leave only at about 13:35 or 14:35, which gave a dangerously short connection to KQ763 at 17:00 on a separate ticket. The plan now drives Lower Sabie to Kruger Mpumalanga airport (MQP, about 2.5h) for the 10:50 Airlink flight to JNB, leaving a 5h+ buffer. (3) The KQ763 fare is raised to about $450 (recent one-way fares about $410-450). A one-way car drop fee is added. (4) The headline delta is corrected from +$2,000 to about +$2,400, because the line items already summed to more than +$2,000. (5) Kidnapping and terrorism are added to the advisory notes. KQ763 (17:00 to 22:05), TK44's arrival, Airlink 4Z651 (10:30), the R602 conservation fee and the Level 2 advisory were all confirmed.",
+  "safety": {
+    "advisory_level": "US State Dept Level 2: Exercise Increased Caution (issued May 27 2025, still Level 2 per reports as of Mar 2026; re-check travel.state.gov)",
+    "summary": "The advisory cites crime, terrorism, unrest and kidnapping. In practice the main risk for tourists is violent crime (robbery, carjacking, smash-and-grab, mugging) in city centers, at traffic lights and on some highways after dark. The places on this route (Gardens/City Bowl, the Cape Peninsula drive, Kruger camps, the N4 to Nelspruit in daylight, airports) are routine for tourists and low risk if you follow the usual precautions. Inside Kruger the main hazards are wildlife, speeding and heat, not crime. Southern Kruger is a low-to-moderate malaria area in summer.",
+    "precautions": [
+      "Do not drive after dark outside the park, and keep to Kruger gate times (fines for late arrival).",
+      "Leave nothing visible in the car, lock the doors, and keep windows up at traffic lights (smash-and-grab).",
+      "Use Uber, not walking, in Cape Town after dark. Avoid the CBD and Long St late at night.",
+      "Use ATMs inside malls or the airport only, and shield your PIN.",
+      "At Cape Point and Boulders, carry no food in the open and keep car windows shut (baboons).",
+      "In Kruger, stay in the vehicle except at designated spots. Walks and night drives only with SANParks guides.",
+      "Take malaria prophylaxis for Kruger (December is rainy season), which you need for Kenya anyway, plus DEET and long sleeves at dusk.",
+      "Table Mountain: check that the cableway is running (it closes in wind), and don't hike alone.",
+      "Dec 27: drive the N4 from Komatipoort to Nelspruit in daylight only, without stopping at roadside spots. Airlink and KQ are on separate tickets, so keep the 5h buffer at JNB."
+    ]
+  },
+  "visa": "US passport: visa-free for up to 90 days. You need 2 blank visa pages and 30+ days of passport validity after departure (bring 6 months to be safe). No yellow fever certificate is needed arriving from the US. Kenya eTA as already planned.",
+  "weather_dec": "Cape Town is in peak summer: dry and sunny, about 16-27 C, often very windy (the southeasterly 'Cape Doctor', which can close the Table Mountain cableway), and light until about 20:00. Kruger is in its wet season: hot (about 20-33 C, sometimes 38 C+), green and lush, with afternoon thunderstorms. It is baby-animal season (impala lambs) with excellent birding, but wildlife is a bit more spread out than in the dry season.",
+  "highlights": [
+    "African penguin colony at Boulders Beach (boardwalks, near-certain sightings)",
+    "Cape Point / Cape of Good Hope: fynbos, bontebok, eland, baboons, ostriches, dramatic cliffs",
+    "Chapman's Peak Drive and Table Mountain cableway with views of the whole peninsula",
+    "Kirstenbosch Botanical Garden: proteas and Cape sugarbirds",
+    "Southern Kruger 'Big 5' self-drive: H4-1 Sabie River road and H4-2 / S28 around Lower Sabie, among the park's best areas for rhino, leopard, lion and wild dog",
+    "SANParks guided sunset or night drive (the only way to see nocturnal animals inside Kruger)",
+    "Christmas at Lower Sabie with hippos and elephants on the Sabie River below the deck",
+    "Two biomes Kenya doesn't have: the Cape Floral Kingdom and the marine side of the Cape"
+  ],
+  "drawbacks": [
+    "Most expensive option: about +$2,400 pp all-in over the $1,500 base, mainly because of 3 regional flights (CPT-SZK, MQP-JNB, JNB-NBO) bought at Christmas prices.",
+    "Kruger is another savanna safari right before 19 nights of Kenyan safari, so expect some 'more of the same'. Rhino and wild dog are the main extras.",
+    "Peak season plus South African school holidays: SANParks camps, Airlink seats and rental cars sell out. Skukuza and Lower Sabie may already be full. The fallback is to stay just outside the park (Marloth Park, Komatipoort or Hazyview guesthouses, about R1,400-2,000 per room), with longer drives.",
+    "Dec 27 is a long day: about 2.5h of road to MQP, a 1h flight, about 5h of waiting at JNB, then KQ763 landing NBO at 22:05. The Dec 28 Nairobi rest day absorbs it.",
+    "Skukuza's own flights to JNB (4Z862 about 13:35, 4Z866 about 14:35) arrive too late for a safe self-transfer to KQ763 at 17:00, which is why the plan exits via MQP. Airlink and KQ are separate tickets, so there is no protection if you misconnect.",
+    "Cheaper variant (about +$1,300 pp instead of +$2,400): Kruger only. Fly TK into JNB, rent a car, rest a night at the airport, drive 4.5h to Malelane gate, spend 4 nights in Kruger, drive back, then KQ763. It skips the Cape and has two 5h drive days.",
+    "Pricier upgrade: 2 nights at a private Sabi Sand or Timbavati lodge (guided open-vehicle drives, off-road leopard tracking) instead of the rest camps, about $450-1,000 pppn in December.",
+    "Fare and schedule data are estimates. Exact-date December fares for TK, Airlink and KQ were not visible online, and the Airlink times come from flight trackers, not a published timetable. The SANParks 2026/27 conservation fee (from Nov 1 2026) is published in a PDF, but the figure could not be read; assume about 5-10% above R602."
+  ],
+  "places": [
+    {
+      "code": "LAX",
+      "name": "Los Angeles (home)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA",
+      "wiki": [
+        "Los_Angeles_International_Airport",
+        "Los_Angeles"
+      ]
+    },
+    {
+      "code": "IST",
+      "name": "Istanbul Airport (transit)",
+      "lat": 41.2753,
+      "lng": 28.7519,
+      "kind": "transit",
+      "country": "Turkey",
+      "wiki": [
+        "Istanbul_Airport",
+        "Istanbul"
+      ]
+    },
+    {
+      "code": "CPT",
+      "name": "Cape Town (Gardens / City Bowl)",
+      "lat": -33.9318,
+      "lng": 18.4158,
+      "kind": "abroad",
+      "country": "South Africa",
+      "wiki": [
+        "Cape_Town",
+        "Table_Mountain",
+        "Kirstenbosch_National_Botanical_Garden",
+        "Bo-Kaap"
+      ]
+    },
+    {
+      "code": "CPP",
+      "name": "Cape Point & Boulders Beach",
+      "lat": -34.3568,
+      "lng": 18.497,
+      "kind": "nature",
+      "country": "South Africa",
+      "wiki": [
+        "Cape_Point",
+        "Boulders_Beach",
+        "Cape_of_Good_Hope",
+        "Chapman's_Peak"
+      ]
+    },
+    {
+      "code": "SZK",
+      "name": "Skukuza (Kruger NP)",
+      "lat": -24.996,
+      "lng": 31.592,
+      "kind": "nature",
+      "country": "South Africa",
+      "wiki": [
+        "Skukuza",
+        "Kruger_National_Park",
+        "Sabie_River"
+      ]
+    },
+    {
+      "code": "LSB",
+      "name": "Lower Sabie Rest Camp (Kruger NP)",
+      "lat": -25.119,
+      "lng": 31.916,
+      "kind": "nature",
+      "country": "South Africa",
+      "wiki": [
+        "Kruger_National_Park",
+        "Sabie_River",
+        "Lebombo_Mountains"
+      ]
+    },
+    {
+      "code": "MQP",
+      "name": "Kruger Mpumalanga Intl Airport, Nelspruit (transit)",
+      "lat": -25.3832,
+      "lng": 31.1056,
+      "kind": "transit",
+      "country": "South Africa",
+      "wiki": [
+        "Kruger_Mpumalanga_International_Airport",
+        "Mbombela"
+      ]
+    },
+    {
+      "code": "JNB",
+      "name": "Johannesburg O.R. Tambo (transit)",
+      "lat": -26.1367,
+      "lng": 28.2411,
+      "kind": "transit",
+      "country": "South Africa",
+      "wiki": [
+        "O._R._Tambo_International_Airport",
+        "Johannesburg"
+      ]
+    },
+    {
+      "code": "NBO",
+      "name": "Nairobi JKIA",
+      "lat": -1.3192,
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya",
+      "wiki": [
+        "Jomo_Kenyatta_International_Airport",
+        "Nairobi"
+      ]
+    },
+    {
+      "code": "KAR",
+      "name": "Nairobi guesthouse (Karen)",
+      "lat": -1.32,
+      "lng": 36.71,
+      "kind": "city",
+      "country": "Kenya",
+      "wiki": [
+        "Karen,_Nairobi",
+        "Nairobi_National_Park"
+      ]
+    }
+  ],
+  "legs": [
+    {
+      "date": "2026-12-19",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "Turkish TK10, LAX about 19:45 to IST about 19:00 (+1). Winter schedule from Oct 25; reconfirm the time."
+    },
+    {
+      "date": "2026-12-21",
+      "from": "IST",
+      "to": "CPT",
+      "mode": "flight",
+      "duration": "~11h",
+      "detail": "Turkish TK44, IST 01:55 to CPT 11:50 (daily, winter timetable from Oct 26 2026). About 7h layover at IST on the night of Dec 20; consider the IGA airport hotel or lounge."
+    },
+    {
+      "date": "2026-12-22",
+      "from": "CPT",
+      "to": "CPP",
+      "mode": "road",
+      "duration": "~1.25h",
+      "detail": "Rental car via M3 and Muizenberg to Boulders (Simon's Town), then on to Cape Point."
+    },
+    {
+      "date": "2026-12-22",
+      "from": "CPP",
+      "to": "CPT",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Back via Chapman's Peak Drive (toll about R65 per car) and Camps Bay. Home before dark."
+    },
+    {
+      "date": "2026-12-24",
+      "from": "CPT",
+      "to": "SZK",
+      "mode": "flight",
+      "duration": "~2.5h",
+      "detail": "Airlink 4Z651, CPT 10:30 to Skukuza about 12:55 (Embraer 190, daily per most trackers; reconfirm). Return the Cape car at CPT. Pick up an Avis car at Skukuza airport on a one-way rental to MQP."
+    },
+    {
+      "date": "2026-12-25",
+      "from": "SZK",
+      "to": "LSB",
+      "mode": "road",
+      "duration": "~1h (43 km; 3-4h as a game drive)",
+      "detail": "H4-1 along the Sabie River, the best leopard road in the park. Park speed limit 50 km/h on tar."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "LSB",
+      "to": "MQP",
+      "mode": "road",
+      "duration": "~2.5h",
+      "detail": "Leave when the camp gate opens (04:30 in Dec). H4-2 to Crocodile Bridge gate (34 km, about 1h with a last game drive), then the N4 via Komatipoort and Malelane to Kruger Mpumalanga airport (about 1.5h). Drop off the Avis car."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "MQP",
+      "to": "JNB",
+      "mode": "flight",
+      "duration": "~1h",
+      "detail": "Airlink 4Z840, MQP 10:50 to JNB 11:45 (tracker data; there are also earlier departures around 08:10 and 09:20). Separate ticket from KQ, leaving a buffer of about 5h."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "JNB",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~4h05",
+      "detail": "Kenya Airways KQ763, JNB 17:00 to NBO 22:05 (daily; 787 or 737). Recheck your bags and check in at the international terminal."
+    },
+    {
+      "date": "2026-12-27",
+      "from": "NBO",
+      "to": "KAR",
+      "mode": "road",
+      "duration": "~0.75h",
+      "detail": "Pre-booked guesthouse transfer at night (light traffic). Sleep, then the Dec 28 rest day as planned."
+    }
+  ],
+  "stays": [
+    {
+      "place": "CPT",
+      "from": "2026-12-21",
+      "nights": 3,
+      "label": "Cape Town guesthouse, Gardens"
+    },
+    {
+      "place": "SZK",
+      "from": "2026-12-24",
+      "nights": 1,
+      "label": "Skukuza Rest Camp bungalow (Christmas Eve)"
+    },
+    {
+      "place": "LSB",
+      "from": "2026-12-25",
+      "nights": 2,
+      "label": "Lower Sabie Rest Camp bungalow (Christmas)"
+    },
+    {
+      "place": "KAR",
+      "from": "2026-12-27",
+      "nights": 1,
+      "label": "Nairobi guesthouse, late arrival"
+    }
+  ],
+  "itinerary": [
+    {
+      "date": "2026-12-19",
+      "location": "Los Angeles",
+      "title": "Depart LAX",
+      "details": "Sat evening. TK10 LAX about 19:45, about 13h to Istanbul. Sleep on the plane.",
+      "overnight": "Plane",
+      "meals": "Dinner on plane"
+    },
+    {
+      "date": "2026-12-20",
+      "location": "Istanbul (transit)",
+      "title": "Istanbul layover",
+      "details": "Land IST about 19:00. About 7h layover: lounge or airport hotel, shower, walk around. Board TK44 at 01:55.",
+      "overnight": "Plane",
+      "meals": "Plane meals, airport dinner"
+    },
+    {
+      "date": "2026-12-21",
+      "location": "Cape Town",
+      "title": "Arrive Cape Town, rest",
+      "details": "Land CPT 11:50. Pick up the rental car, 30 min drive to Gardens. Nap. Easy late afternoon at the V&A Waterfront or Bo-Kaap, or just sleep. Early night.",
+      "overnight": "Cape Town (Gardens)",
+      "meals": "Plane breakfast; casual dinner nearby"
+    },
+    {
+      "date": "2026-12-22",
+      "location": "Cape Peninsula",
+      "title": "Penguins + Cape Point",
+      "details": "Leave 07:30. 1.25h to Boulders: penguins before the crowds. Then Cape Point: bontebok, eland, ostrich, baboons, fynbos walk to the Cape of Good Hope. Back via Chapman's Peak, about 1.5h. Roughly 3h of driving in total, split.",
+      "overnight": "Cape Town (Gardens)",
+      "meals": "Packed lunch (eat inside the car because of baboons); fish and chips at Kalk Bay or Hout Bay"
+    },
+    {
+      "date": "2026-12-23",
+      "location": "Cape Town",
+      "title": "Table Mountain + Kirstenbosch",
+      "details": "Light day. Early cableway car if there is no wind (book online; a wind closure moves it to the afternoon). Dassies, views. Afternoon at Kirstenbosch (15 min drive): proteas and sugarbirds. Under 1h of driving. Pack for Kruger.",
+      "overnight": "Cape Town (Gardens)",
+      "meals": "Self-cater breakfast; picnic at Kirstenbosch; dinner out"
+    },
+    {
+      "date": "2026-12-24",
+      "location": "Kruger NP (Skukuza)",
+      "title": "Fly to Kruger, Christmas Eve",
+      "details": "Return the car at CPT. Airlink 4Z651 10:30 to Skukuza about 12:55. Pick up the Avis car and check in. 15:00-18:30 self-drive loop on the Sabie River (elephant, hippo, kudu). Optional SANParks sunset drive about 3h. Camp gates close about 18:30.",
+      "overnight": "Skukuza Rest Camp",
+      "meals": "Plane snack; Skukuza restaurant; braai (barbecue) dinner"
+    },
+    {
+      "date": "2026-12-25",
+      "location": "Kruger NP (Lower Sabie)",
+      "title": "Christmas on the Sabie River",
+      "details": "Gate opens 04:30. Dawn drive on H4-1 to Lower Sabie (43 km, 3-4h with stops, leopard country). Midday rest by the pool or river deck. Afternoon loop on S28 / H4-2 (rhino, lion, wild dog). Sunset at Sunset Dam. About 4-5h of slow game driving, broken into two sessions.",
+      "overnight": "Lower Sabie Rest Camp",
+      "meals": "Packed breakfast; Christmas lunch at the camp restaurant; braai dinner"
+    },
+    {
+      "date": "2026-12-26",
+      "location": "Kruger NP (Lower Sabie)",
+      "title": "Full Kruger day",
+      "details": "Optional SANParks morning walk (about 3-4h) OR a self-drive on H4-2 toward Crocodile Bridge and Gomondwane. Midday siesta through the heat and storms. Short late drive or SANParks night drive (civets, hyenas, bushbabies). Pack, and go to bed early.",
+      "overnight": "Lower Sabie Rest Camp",
+      "meals": "Self-cater; camp shop and restaurant"
+    },
+    {
+      "date": "2026-12-27",
+      "location": "Kruger, Nelspruit, Johannesburg, Nairobi",
+      "title": "Kruger to Nairobi",
+      "details": "Leave 04:30-05:00. About 1h game drive on H4-2 to Crocodile Bridge gate, then about 1.5h on the N4 to MQP and drop off the car. Airlink 4Z840 10:50, JNB 11:45. Recheck your bags, then lunch with about 5h to spare. KQ763 17:00, about 4h, NBO 22:05. eTA check, 45 min transfer to Karen. Sleep.",
+      "overnight": "Nairobi guesthouse (Karen)",
+      "meals": "Packed breakfast; JNB lunch; dinner on plane"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Once in Cape Town (private en-suite double)",
+      "place": "CPT",
+      "location": "Kloof St, Gardens, Cape Town",
+      "nights": 3,
+      "pppn_usd": 55,
+      "style": "Upscale hostel / guesthouse, private room",
+      "includes": "Private room with bathroom, Wi-Fi, breakfast (often included or optional), on-site parking",
+      "why": "Safe, walkable street with restaurants and Uber everywhere, 10 min to the cableway and Kirstenbosch, 25-30 min to the airport. One of the cheapest decent private rooms in the city in peak season.",
+      "url": "https://www.onceincapetown.co.za",
+      "alternatives": "Ashanti Lodge Gardens; Never@Home Green Point; or a Muizenberg / Kalk Bay guesthouse or Airbnb (closer to the penguins, about R1,800-2,500 per night)"
+    },
+    {
+      "name": "Skukuza Rest Camp (bungalow BD2/BA2)",
+      "place": "SZK",
+      "location": "Skukuza, southern Kruger NP",
+      "nights": 1,
+      "pppn_usd": 60,
+      "style": "SANParks rest camp bungalow",
+      "includes": "En-suite double with fridge and AC, outdoor braai stand. Conservation fee is extra (R602 pp per day through Oct 2026; the 2026/27 rate applies from Nov 1).",
+      "why": "10 min from the Skukuza airport drop-off, on the river, restaurant and shop, sunset drives leave from camp. Lets you start Kruger the moment you land.",
+      "url": "https://www.sanparks.org/parks/kruger/camps/skukuza",
+      "alternatives": "Safari tent at Skukuza (cheaper, about R1,300-1,600 per tent); or guesthouses in Hazyview outside Paul Kruger gate"
+    },
+    {
+      "name": "Lower Sabie Rest Camp (bungalow, river view if possible)",
+      "place": "LSB",
+      "location": "Lower Sabie, southern Kruger NP",
+      "nights": 2,
+      "pppn_usd": 65,
+      "style": "SANParks rest camp bungalow",
+      "includes": "En-suite double with AC and fridge, deck over the Sabie River in river units. Restaurant and pool in camp. Conservation fee extra.",
+      "why": "Arguably the best camp for game density (rhino, lion, wild dog, elephant, hippo on the dam). A good place to spend Christmas, and the closest major camp to Crocodile Bridge gate for the Dec 27 exit.",
+      "url": "https://www.sanparks.org/parks/kruger/camps/lower-sabie",
+      "alternatives": "Crocodile Bridge camp; Marloth Park or Komatipoort guesthouses just outside Crocodile Bridge gate (about R1,400-2,000 per room) if SANParks is full. Both are even closer to the N4 for the drive to MQP."
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "Turkish open-jaw: LAX-IST-CPT (TK10 + TK44) Dec 19, NBO-IST-LAX (TK608 + TK9) Jan 16",
+      "per_person_usd": 1750,
+      "low_usd": 1400,
+      "high_usd": 2300,
+      "notes": "Replaces the $1,500 base ticket, so about +$250. TK advertises LAX-CPT from about $1,000 off-peak; December fares were not visible for these dates. Estimate. Price it on turkishairlines.com multi-city now."
+    },
+    {
+      "category": "Regional flights",
+      "item": "Airlink CPT to Skukuza (4Z651, Dec 24)",
+      "per_person_usd": 230,
+      "low_usd": 180,
+      "high_usd": 330,
+      "notes": "Aggregators show about EUR 380-430 round trip. One-way peak fare is an estimate. 20 kg checked bag on standard fares."
+    },
+    {
+      "category": "Regional flights",
+      "item": "Airlink MQP (Nelspruit) to JNB (4Z840, Dec 27)",
+      "per_person_usd": 200,
+      "low_usd": 140,
+      "high_usd": 280,
+      "notes": "Replaces Skukuza-JNB, whose 13:35 and 14:35 departures are too tight for KQ763. A busier route than Skukuza with several daily flights. Separate ticket from KQ."
+    },
+    {
+      "category": "Regional flights",
+      "item": "Kenya Airways KQ763 JNB to NBO (Dec 27)",
+      "per_person_usd": 450,
+      "low_usd": 330,
+      "high_usd": 650,
+      "notes": "Daily 17:00 to 22:05. Recent one-way fares about $410-450; Christmas week likely at or above that. Total flight delta vs the $1,500 base: about +$1,130 pp."
+    },
+    {
+      "category": "Lodging",
+      "item": "Cape Town guesthouse, 3 nights",
+      "per_person_usd": 165,
+      "low_usd": 120,
+      "high_usd": 240,
+      "notes": "About R1,800-2,200 per room per night in peak, split between 2."
+    },
+    {
+      "category": "Lodging",
+      "item": "Kruger: Skukuza 1 night + Lower Sabie 2 nights",
+      "per_person_usd": 190,
+      "low_usd": 150,
+      "high_usd": 260,
+      "notes": "2026 bungalow rates estimated at about R2,000-2,400 per unit (older sheets show R1,310-1,815). Outside-park fallback costs about the same."
+    },
+    {
+      "category": "Lodging",
+      "item": "Nairobi guesthouse, night of Dec 27 (extra night caused by the stopover)",
+      "per_person_usd": 40,
+      "low_usd": 30,
+      "high_usd": 60,
+      "notes": "Karen or JKIA-area guesthouse plus late transfer."
+    },
+    {
+      "category": "Permits/fees",
+      "item": "Kruger conservation fees, 4 days (Dec 24-27)",
+      "per_person_usd": 135,
+      "low_usd": 135,
+      "high_usd": 160,
+      "notes": "R602 per international adult per day for 2025/26 (about $34). The 2026/27 rate (from Nov 1) is in a SANParks PDF that could not be read and may be 5-10% higher. A Wild Card is not worth it for 4 days."
+    },
+    {
+      "category": "Permits/fees",
+      "item": "Cape Point + Boulders + Table Mountain cableway + Kirstenbosch",
+      "per_person_usd": 85,
+      "low_usd": 70,
+      "high_usd": 100,
+      "notes": "Cape Point about R515 intl, Boulders about R190, cableway return about R495 (book online), Kirstenbosch about R250. Card only at SANParks gates."
+    },
+    {
+      "category": "Tours/transport",
+      "item": "Rental car Cape Town 3 days + fuel + Chapman's toll",
+      "per_person_usd": 75,
+      "low_usd": 55,
+      "high_usd": 110,
+      "notes": "About $35-45 per day in peak. Book early; automatic cars sell out."
+    },
+    {
+      "category": "Tours/transport",
+      "item": "Rental car Skukuza airport to MQP one-way, 3 days + fuel + drop fee",
+      "per_person_usd": 130,
+      "low_usd": 95,
+      "high_usd": 190,
+      "notes": "Avis is the only desk at Skukuza, so it is pricier. Add a one-way fee for the MQP drop-off (estimated, confirm with Avis)."
+    },
+    {
+      "category": "Tours/transport",
+      "item": "SANParks guided sunset or night drive (1) + morning walk (optional)",
+      "per_person_usd": 60,
+      "low_usd": 30,
+      "high_usd": 110,
+      "notes": "Sunset or night drive about R550-600, morning walk about R800-900. Book with the camp reservation."
+    },
+    {
+      "category": "Food",
+      "item": "8 days of meals (self-catering braais + casual restaurants, Christmas lunch)",
+      "per_person_usd": 280,
+      "low_usd": 200,
+      "high_usd": 380,
+      "notes": "South Africa is cheap for food: about $10-20 for a restaurant main. Camp shops are pricier."
+    },
+    {
+      "category": "Visa",
+      "item": "South Africa visa",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 0,
+      "notes": "Visa-free for 90 days for US passports."
+    },
+    {
+      "category": "Misc",
+      "item": "eSIM, tips, IST layover lounge or hotel, Uber, incidentals",
+      "per_person_usd": 90,
+      "low_usd": 50,
+      "high_usd": 150,
+      "notes": "IST airport hotel (about $100+ per room) is optional. Planned total for the whole stopover, including the ticket: about $3,880 pp (range $2,985-5,350), or about +$2,380 over the $1,500 base."
+    }
+  ],
+  "wildlife": [
+    {
+      "name": "African penguin",
+      "wiki": "African_penguin",
+      "where": "Boulders Beach, Simon's Town",
+      "odds": "~99%"
+    },
+    {
+      "name": "Cape fur seal",
+      "wiki": "Brown_fur_seal",
+      "where": "Kalk Bay / Hout Bay harbours, Cape Point coast",
+      "odds": "~90%"
+    },
+    {
+      "name": "Chacma baboon",
+      "wiki": "Chacma_baboon",
+      "where": "Cape Point and Kruger",
+      "odds": "~90%"
+    },
+    {
+      "name": "Rock hyrax (dassie)",
+      "wiki": "Rock_hyrax",
+      "where": "Top of Table Mountain",
+      "odds": "~90%"
+    },
+    {
+      "name": "Bontebok",
+      "wiki": "Bontebok",
+      "where": "Cape of Good Hope section",
+      "odds": "~60%"
+    },
+    {
+      "name": "Cape sugarbird",
+      "wiki": "Cape_sugarbird",
+      "where": "Kirstenbosch, Cape Point fynbos",
+      "odds": "~75%"
+    },
+    {
+      "name": "African bush elephant",
+      "wiki": "African_bush_elephant",
+      "where": "Southern Kruger, Sabie River",
+      "odds": "~95%"
+    },
+    {
+      "name": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "where": "Lower Sabie dam, Sunset Dam",
+      "odds": "~99%"
+    },
+    {
+      "name": "Lion",
+      "wiki": "Lion",
+      "where": "Lower Sabie area (H4-2, S28)",
+      "odds": "~65%"
+    },
+    {
+      "name": "Leopard",
+      "wiki": "Leopard",
+      "where": "H4-1 Skukuza to Lower Sabie road",
+      "odds": "~40%"
+    },
+    {
+      "name": "White rhinoceros",
+      "wiki": "White_rhinoceros",
+      "where": "Southern Kruger (S28, Crocodile Bridge area)",
+      "odds": "~45% (heavily poached; numbers well down)"
+    },
+    {
+      "name": "African wild dog",
+      "wiki": "African_wild_dog",
+      "where": "Southern Kruger (Lower Sabie, Crocodile Bridge)",
+      "odds": "~20%"
+    },
+    {
+      "name": "Southern ground hornbill",
+      "wiki": "Southern_ground_hornbill",
+      "where": "Kruger grasslands",
+      "odds": "~40%"
+    }
+  ],
+  "booking": [
+    {
+      "when": "Now (Oct 8), before anything else",
+      "task": "Check SANParks availability for Skukuza Dec 24 and Lower Sabie Dec 25-26 (sanparks.org, or call +27 12 428 9111). If full, book Crocodile Bridge, Marloth Park or Komatipoort guesthouses and join SANParks cancellation waitlists. Do this before buying flights."
+    },
+    {
+      "when": "Now",
+      "task": "Price and buy the Turkish multi-city ticket (LAX-CPT Dec 19 via IST, TK10 + TK44 01:55; NBO-LAX Jan 16 TK608/TK9). Compare it against keeping the base ticket plus a separate trip."
+    },
+    {
+      "when": "Now",
+      "task": "Book Airlink CPT-SZK 4Z651 (Dec 24) and MQP-JNB 4Z840 at 10:50 or earlier (Dec 27, not the afternoon Skukuza-JNB flights), and Kenya Airways KQ763 JNB-NBO (Dec 27)."
+    },
+    {
+      "when": "Within 2 weeks",
+      "task": "Book rental cars: Cape Town airport (Dec 21-24) and Avis Skukuza airport to Kruger Mpumalanga airport one-way (Dec 24-27). Automatics sell out at Christmas."
+    },
+    {
+      "when": "With the camp booking",
+      "task": "Reserve the SANParks sunset or night drive (Skukuza Dec 24 or Lower Sabie Dec 26) and the optional morning walk."
+    },
+    {
+      "when": "Nov",
+      "task": "Book the Cape Town guesthouse and Nairobi Dec 27 night with transfer. Travel clinic for malaria prophylaxis (covers Kenya too)."
+    },
+    {
+      "when": "1-2 weeks before",
+      "task": "Buy Table Mountain cableway tickets online (have a flexible backup day for wind). Confirm the 2026/27 SANParks fees and the Airlink and KQ times. Download offline maps. Get a Kenya eTA for both people."
+    }
+  ],
+  "fatigue": "Approximate travel hours per day:\n- Dec 19: ~13h flight (overnight)\n- Dec 20: ~7h layover at IST\n- Dec 21: ~11h flight + 0.5h road, then the afternoon off\n- Dec 22: ~3h road, split into two legs\n- Dec 23: <1h\n- Dec 24: ~2.5h flight + 0.2h road + an optional 3h game drive\n- Dec 25: ~1h point-to-point, done as 3-4h of slow game driving\n- Dec 26: optional game drives only\n- Dec 27: ~2.5h road + 1h flight + ~5h wait + 4h flight + 0.75h road (long day, early start)\n- Dec 28: Nairobi rest day (as planned)\n\nPace rules:\n- Road at or under ~5h every day: met (the maximum is ~3.25h on Dec 27 including the airport transfer).\n- Rest after the long-haul arrival: Dec 21 afternoon and the light Dec 23.\n- Rest after the Dec 27 long day: met by the planned Dec 28 rest day.\n- Back-to-back long hauls: Dec 19-21 cannot be avoided.",
+  "sources": [
+    "https://www.aeroroutes.com/eng/260331-kq3q26jnb",
+    "https://info.flightmapper.net/flight/Kenya_Airways_KQ_763",
+    "https://www.avionio.com/en/flight/kq-763",
+    "https://www.hopegoo.com/en-us/hot-flights/flight-number/kq763/",
+    "https://www.aeroroutes.com/eng/260701-tknw26za",
+    "https://info.flightmapper.net/flight/Turkish_Airlines_TK_44",
+    "https://www.flightstats.com/v2/flight-tracker/TK/44",
+    "https://info.flightmapper.net/flight/Turkish_Airlines_TK_10",
+    "https://www.turkishairlines.com/en/flights-from-los-angeles-to-cape-town",
+    "https://www.flightsfrom.com/CPT-SZK",
+    "https://www.flight.info/4Z651",
+    "https://www.flightsfrom.com/SZK-JNB",
+    "https://www.planemapper.com/flights/4Z866",
+    "https://us.trip.com/flights/status-4z862",
+    "https://www.planemapper.com/flights/4Z840",
+    "https://www.avionio.com/en/airport/mqp/arrivals",
+    "https://www.travelocity.com/lp/flight-routes/kenya-airways-from-or-tambo-intl-to-jomo-kenyatta-intl/kq/jnb/nbo",
+    "https://kupi.com/en/flights/from-johannesburg/to-nairobi",
+    "https://krugerpark.co.za/Kruger_Park_Travel_Advisory-travel/conservation-fees.html",
+    "https://www.sanparks.org/wp-content/uploads/2026/02/daily_conservation_fees_2026_27.pdf",
+    "https://atta.travel/resource/sanparks-to-raise-conservation-fees-from-1-november.html",
+    "https://www.sanparks.org/parks/table-mountain/rates-entry-fees",
+    "https://safarifind.com/blog/south-africa-national-park-fees-availability-2026",
+    "https://businesstech.co.za/news/lifestyle/854900/major-countries-issue-travel-warnings-about-south-africa-ahead-of-easter-holiday/",
+    "https://newsweek.com/map-shows-us-travel-warnings-around-world-for-2026-11171502",
+    "https://www.traveladvisory.io/advisory/south-africa",
+    "https://www.travelpulse.com/news/destinations/us-state-department-issues-updated-travel-advisory-for-south-africa",
+    "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-africa-travel-advisory.html"
+  ],
+  "safety_short": "Violent crime is the real risk (carjacking, mugging), mostly in cities and after dark. The Cape route and Kruger are routine and low-risk with care."
+}
