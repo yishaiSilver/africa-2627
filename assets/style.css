@@ -280,3 +280,16 @@ main section { padding: 40px 0 8px; }
 .choice-note { color: var(--muted); font-size: .8rem; margin-top: 2px; }
 .choice-link { font-size: .8rem; margin-top: 4px; }
 @media (max-width: 520px) { .choice-grid { grid-template-columns: 1fr; gap: 6px; } .choice-col { padding: 6px 8px; } }
+
+/* wildlife checklist */
+.wildlife { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 12px; }
+.wl-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); display: flex; flex-direction: column; }
+.wl-card .ph-wl { aspect-ratio: 4 / 3; border-radius: 0; }
+.wl-card .ph-missing + .wl-body { padding-top: 12px; }
+.wl-body { padding: 8px 12px 12px; display: flex; flex-direction: column; gap: 2px; font-size: .88rem; }
+.wl-where { color: var(--muted); font-size: .8rem; }
+.wl-odds { align-self: flex-start; margin-top: 4px; font-size: .72rem; font-weight: 600; padding: 1px 8px; border-radius: 999px; background: var(--line); color: var(--ink); }
+.wl-odds.odds-very-likely { background: var(--green-soft); color: var(--green); }
+.wl-odds.odds-likely { background: var(--blue-soft); color: var(--blue); }
+.wl-odds.odds-lucky, .wl-odds.odds-varies { background: var(--accent-soft); color: var(--accent); }
+@media (max-width: 420px) { .wildlife { grid-template-columns: 1fr 1fr; gap: 8px; } }
