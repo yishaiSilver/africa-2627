@@ -2,10 +2,8 @@
   "title": "Kenya Wild Loop: Samburu, Rainforest & Mara",
   "overview": "- **Dates:** LAX Sat Dec 26 → LAX **Sat Jan 16**. **19 nights in Kenya**, 2 on planes. No Istanbul stays: just plane changes there.\n- **Route (one camping crew, all road):** Nairobi → Ol Pejeta 2n → **Samburu 3n** (NYE) → Thomson's Falls 1n → Lake Nakuru 2n → **Kakamega rainforest 2n** → Kericho 1n → **Mara conservancy 4n** → Naivasha + Hell's Gate 2n → airport hotel → fly home.\n- **Exotic wildlife focus:** Samburu's Special Five + vulturine guineafowl, chimps + black rhino (Ol Pejeta), Rothschild's giraffe (Nakuru), colobus + De Brazza's monkeys + great blue turaco (Kakamega), big cats (Mara). See **Wildlife**.\n- **No beach, no rental car:** crew 4x4 + driver-guide included.\n- **Budget: ~$7,600 pp** (incl. flights + $300 contingency). Crew days are the cost driver.\n- **Cuts:** skip Kakamega (−$800), home Jan 14 (−$450), yellow fever done (−$200), fly out of the Mara (−$90).\n- **Fatigue:** max ~4.5h road/day, overnight stops split every long leg, 9 zero-travel days. Last day is a ~25h journey home.",
   "dates": {
-    "depart_lax": "2026-12-26",
-    "return_lax": "2027-01-16",
-    "nights_kenya": 19,
-    "nights_istanbul": 0
+    "depart": "2026-12-26",
+    "return": "2027-01-16"
   },
   "itinerary": [
     {
@@ -715,87 +713,121 @@
     "LAX": {
       "name": "Los Angeles (LAX)",
       "lat": 33.9416,
-      "lng": -118.4085
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
     },
     "IST": {
       "name": "Istanbul",
       "lat": 41.0082,
-      "lng": 28.9784
+      "lng": 28.9784,
+      "kind": "abroad",
+      "country": "Türkiye"
     },
     "NBO": {
       "name": "Nairobi (JKIA)",
       "lat": -1.3192,
-      "lng": 36.9278
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya"
     },
     "JKH": {
       "name": "Airport-area hotel, Mombasa Rd",
       "lat": -1.3245,
-      "lng": 36.89
+      "lng": 36.89,
+      "kind": "transit",
+      "country": "Kenya"
     },
     "KAR": {
       "name": "Nairobi (guesthouse)",
       "lat": -1.3197,
-      "lng": 36.7076
+      "lng": 36.7076,
+      "kind": "city",
+      "country": "Kenya"
     },
     "MARA": {
       "name": "Enonkishu conservancy, Greater Mara",
       "lat": -1.07,
-      "lng": 35.25
+      "lng": 35.25,
+      "kind": "nature",
+      "country": "Kenya"
     },
     "OPC": {
       "name": "Ol Pejeta Conservancy",
       "lat": -0.0236,
-      "lng": 36.9
+      "lng": 36.9,
+      "kind": "nature",
+      "country": "Kenya"
     },
     "NAK": {
       "name": "Lake Nakuru NP",
       "lat": -0.36,
-      "lng": 36.09
+      "lng": 36.09,
+      "kind": "nature",
+      "country": "Kenya"
     },
     "NAI": {
       "name": "Lake Naivasha",
       "lat": -0.77,
-      "lng": 36.36
+      "lng": 36.36,
+      "kind": "nature",
+      "country": "Kenya"
     },
     "KAK": {
       "name": "Kakamega Forest (Rondo Retreat)",
       "lat": 0.2406,
-      "lng": 34.8653
+      "lng": 34.8653,
+      "kind": "nature",
+      "country": "Kenya"
     },
     "KIS": {
       "name": "Kisumu Airport",
       "lat": -0.0861,
-      "lng": 34.7289
+      "lng": 34.7289,
+      "kind": "transit",
+      "country": "Kenya"
     },
     "KER": {
       "name": "Kericho (tea estates)",
       "lat": -0.3689,
-      "lng": 35.2863
+      "lng": 35.2863,
+      "kind": "city",
+      "country": "Kenya"
     },
     "WIL": {
       "name": "Wilson Airport",
       "lat": -1.3217,
-      "lng": 36.8148
+      "lng": 36.8148,
+      "kind": "transit",
+      "country": "Kenya"
     },
     "NYK": {
       "name": "Nanyuki airstrip",
       "lat": -0.0624,
-      "lng": 37.041
+      "lng": 37.041,
+      "kind": "transit",
+      "country": "Kenya"
     },
     "NGE": {
       "name": "Ngerende airstrip (Mara)",
       "lat": -1.088,
-      "lng": 35.187
+      "lng": 35.187,
+      "kind": "transit",
+      "country": "Kenya"
     },
     "SAM": {
       "name": "Samburu / Buffalo Springs",
       "lat": 0.585,
-      "lng": 37.555
+      "lng": 37.555,
+      "kind": "nature",
+      "country": "Kenya"
     },
     "NYA": {
       "name": "Thomson's Falls (Nyahururu)",
       "lat": 0.045,
-      "lng": 36.3639
+      "lng": 36.3639,
+      "kind": "nature",
+      "country": "Kenya"
     }
   },
   "legs": [
@@ -1222,5 +1254,20 @@
       "where": "Naivasha, Mara",
       "odds": "Very likely"
     }
-  ]
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Kenya",
+      "country": "Kenya"
+    },
+    "budget_target": {
+      "low": 5000,
+      "high": 6000
+    },
+    "currency": "USD"
+  },
+  "id": "wild-loop",
+  "label": "Wild loop · Jan 16",
+  "summary": "Samburu, Kakamega rainforest, Mara; no beach, no Istanbul stay. Current plan."
 }

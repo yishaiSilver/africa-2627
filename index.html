@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kenya &amp; Istanbul 2026–27</title>
-  <meta name="description" content="Draft itinerary, lodging and full cost budget for a Kenya safari (Ol Pejeta + Masai Mara conservancy) with an Istanbul stopover, Dec 2026 – Jan 2027.">
+  <title>Trip Planner</title>
+  <meta name="description" content="Draft trip plans: itinerary, route map, lodging, full budget and side-by-side comparison of trip versions, for feedback.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -12,10 +12,13 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
+  <nav id="trip-tabs" class="trip-tabs" aria-label="Trips">
+    <div class="wrap"><span class="tabs-label">Trips</span><div class="tabs" role="tablist"></div></div>
+  </nav>
   <header class="hero">
     <div class="wrap">
       <p class="eyebrow">Draft plan · for feedback</p>
-      <h1 id="title">Kenya &amp; Istanbul</h1>
+      <h1 id="title">Trip</h1>
       <p id="dates" class="hero-dates"></p>
       <div id="stats" class="stats"></div>
     </div>
@@ -38,6 +41,12 @@
   </nav>
 
   <main class="wrap">
+    <section id="compare" class="compare" hidden>
+      <div class="cmp-pick" role="group" aria-label="Trips to compare"></div>
+      <div class="cmp-table table-scroll"></div>
+      <p class="hint">All numbers come from each trip's file in <code>data/trips/</code>. Open a trip's tab for its full plan, map and options.</p>
+    </section>
+
     <section id="overview" data-section="Overview">
       <h2>Overview</h2>
       <div id="overview-body" class="prose"></div>
@@ -59,7 +68,7 @@
       <h2>Route &amp; travel times</h2>
       <div class="map-tools" role="group" aria-label="Map view">
         <button type="button" class="chip on" data-view="all">Whole trip</button>
-        <button type="button" class="chip" data-view="kenya">Kenya</button>
+        <button type="button" class="chip" data-view="region">Zoom in</button>
       </div>
       <div id="map" class="map" aria-label="Map of the trip route"></div>
       <p class="legend"><span class="lg flight"></span> flight <span class="lg road"></span> road <span class="lg opt"></span> option · one card per travel day (door to door) · tap to zoom</p>
@@ -151,7 +160,7 @@
   </div>
 
   <footer class="wrap foot">
-    <p>Plan data lives in <code>data/plan.json</code> in the repo. Edit it and the page updates.</p>
+    <p>Trips are listed in <code>data/trips.json</code>; each trip is one file in <code>data/trips/</code>. Add a file + a line in the list and it gets its own tab.</p>
   </footer>
 
   <script src="assets/marked.min.js"></script>
