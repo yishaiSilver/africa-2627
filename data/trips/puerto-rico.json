@@ -1,9 +1,9 @@
 {
   "id": "puerto-rico",
   "label": "Puerto Rico · Nov 7–14",
-  "summary": "El Yunque, new-moon bio bay, Guánica dry forest, karst cave; car, 3 bases, ~$1873 pp.",
-  "title": "Puerto Rico: Rainforest, Bio Bay & Dry Forest",
-  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.\n- **Route:** Old San Juan 1n → Río Grande/El Yunque 3n → La Parguera 2n → Old San Juan 1n. Car Nov 8–13.\n- **Bio bay:** Laguna Grande kayak **Mon Nov 9** = new moon (02:03 AST). Backup Nov 10. 2nd bay La Parguera Nov 12.\n- **Nature:** El Yunque at 08:00 gate, coquí nights, Guánica dry forest at dawn (endemics), Cabo Rojo flats, Cueva Ventana.\n- **Culture:** Old San Juan forts (NPS), Ponce lunch stop.\n- **Pace:** max ~3h driving/day, slow day Nov 10 (Luquillo swim). ~$1873 pp.",
+  "summary": "El Yunque, new-moon bio bay, Culebra turtle snorkel, Guánica dry forest, karst cave; car, 3 bases, ~$2043 pp.",
+  "title": "Puerto Rico: Rainforest, Bio Bay, Reef & Dry Forest",
+  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.\n- **Route:** Old San Juan 1n → Río Grande/El Yunque 3n → La Parguera 2n → Old San Juan 1n. Car Nov 8–13.\n- **Bio bay:** Laguna Grande kayak **Mon Nov 9** = new moon (02:03 AST). 2nd bay La Parguera Nov 12.\n- **Snorkel:** **Tue Nov 10** catamaran day from Fajardo to Culebra reefs (Tamarindo/Culebrita: green turtles, rays, reef fish). Lunch + gear incl. DIY ferry option shown.\n- **Nature:** El Yunque at 08:00 gate, coquí nights, Guánica dry forest at dawn (endemics), Cabo Rojo flats, Cueva Ventana.\n- **Culture:** Old San Juan forts (NPS), Ponce lunch stop.\n- **Pace:** max ~3h driving/day. No full rest day now (Culebra replaced it); Nov 12 afternoon kept loose. ~$2043 pp.",
   "dates": {
     "depart": "2026-11-07",
     "return": "2026-11-14"
@@ -32,18 +32,18 @@
       "day_label": "Day 3 – Mon",
       "location": "El Yunque → Laguna Grande",
       "title": "Rainforest + bio bay (new moon)",
-      "details": "Gate 08:00 (PR-191 free, no reservation; closes at capacity: go early, Monday quieter). El Portal center ($8). Short trails open (check alerts; La Mina closed). Parrot/tody/lizard-cuckoo watch. Nap. ~18:00 Laguna Grande kayak, ~2h. New moon 02:03 AST today: darkest night.",
+      "details": "Gate 08:00 (PR-191 free, no reservation; closes at capacity: go early, Monday quieter). El Portal center ($8). Short trails open (check alerts; La Mina closed). Parrot/tody/lizard-cuckoo watch. Nap. ~18:00 Laguna Grande kayak, ~2h. New moon 02:03 AST today: darkest night. Bed by 22:00: boat tomorrow.",
       "overnight": "Río Grande / Luquillo guesthouse",
       "meals": "B, L, D own"
     },
     {
       "date": "2026-11-10",
       "day_label": "Day 4 – Tue",
-      "location": "Luquillo",
-      "title": "Slow day",
-      "details": "Sleep in. Luquillo beach swim (the one swim stop). Lunch at Luquillo kioskos. Afternoon rest. Night coquí/boa walk. Backup bio bay night if Nov 9 rained out.",
+      "location": "Fajardo → Culebra reefs",
+      "title": "Culebra snorkel day (catamaran)",
+      "details": "07:45 drive ~35m to Puerto del Rey marina, Fajardo. ~08:30–09:00 catamaran, ~45–50m crossing. Captain picks the calm spot: Tamarindo/Carlos Rosario (west side, Luis Peña reserve: turtles, reef) or Culebrita/Flamenco. 2 snorkel stops, beach time, buffet lunch, drinks, gear. Back ~15:00. Siesta. Easy dinner. Bio bay backup tonight only if Nov 9 rained out. Swell cancels? Fall back to Luquillo swim + kioskos.",
       "overnight": "Río Grande / Luquillo guesthouse",
-      "meals": "B, L, D own"
+      "meals": "B own; L on boat; D own"
     },
     {
       "date": "2026-11-11",
@@ -59,7 +59,7 @@
       "day_label": "Day 6 – Thu",
       "location": "Guánica · Cabo Rojo · La Parguera",
       "title": "Dry forest + endemic birds",
-      "details": "06:30 Guánica dry forest (30m): nightjar zone, Adelaide's warbler, lizard-cuckoo, tody. Out before heat (~11:00). Siesta. Optional 16:00 Cabo Rojo salt flats (shorebirds) + lighthouse. ~19:30 La Parguera bio bay boat (moon sets early; dark).",
+      "details": "06:30 Guánica dry forest (30m): nightjar zone, Adelaide's warbler, lizard-cuckoo, tody. Out before heat (~11:00). Optional 2nd snorkel: Gilligan's Island / Cayo Aurora, 10m boat from Restaurante San Jacinto (~$11; mangrove + seagrass, calm, shallow; no shade/food; confirm open). Siesta. Cabo Rojo salt flats only if fresh (skip = easier day). ~19:30 La Parguera bio bay boat (moon sets early; dark).",
       "overnight": "La Parguera inn",
       "meals": "B, L, D own"
     },
@@ -195,6 +195,14 @@
     },
     {
       "category": "Tours & fees",
+      "item": "Culebra catamaran snorkel day from Fajardo, Nov 10 (+tip)",
+      "per_person_usd": 185,
+      "low_usd": 75,
+      "high_usd": 210,
+      "notes": "Listings $155–185 (lunch, drinks, gear). Tip ~$15. Low = DIY ferry+cart. Gilligan's ferry Nov 12 (~$11) in Misc."
+    },
+    {
+      "category": "Tours & fees",
       "item": "La Parguera bio bay boat, Nov 12 (optional 2nd bay)",
       "per_person_usd": 45,
       "low_usd": 0,
@@ -235,11 +243,11 @@
     },
     {
       "category": "Food",
-      "item": "7 days food: bakery breakfast, kiosk lunch, sit-down dinner",
-      "per_person_usd": 420,
-      "low_usd": 300,
-      "high_usd": 600,
-      "notes": "~$60/day. Luquillo kioskos, Piñones, lechón (Guavate) cheap."
+      "item": "7 days food: bakery breakfast, kiosk lunch, sit-down dinner (Nov 10 lunch on boat)",
+      "per_person_usd": 405,
+      "low_usd": 290,
+      "high_usd": 580,
+      "notes": "~$60/day; Nov 10 lunch in tour. Kioskos, Piñones, lechón (Guavate) cheap."
     },
     {
       "category": "Misc",
@@ -250,7 +258,7 @@
       "notes": ""
     }
   ],
-  "budget_total_per_person_usd": 1873,
+  "budget_total_per_person_usd": 2043,
   "alternatives": [
     {
       "id": "vieques-mosquito",
@@ -265,10 +273,16 @@
       "cost_delta_per_person_usd": 150
     },
     {
-      "id": "culebra-day",
-      "name": "Culebra day (Flamenco, turtle snorkel)",
-      "description": "Replace slow day Nov 10. Ceiba ferry early, back late. Busy day; not restful.",
-      "cost_delta_per_person_usd": 60
+      "id": "culebra-ferry-diy",
+      "name": "Culebra DIY: Ceiba ferry + golf cart",
+      "description": "Same day, own pace: Tamarindo turtles at 08:00, Carlos Rosario, Flamenco. Ferry $2.25/leg + $2 fee; cart ~$75/day shared. Online seats sell out ~a month ahead (residents first); 1h check-in; ~11h day. Or 15m flight Ceiba→Culebra ~$100–110 RT.",
+      "cost_delta_per_person_usd": -110
+    },
+    {
+      "id": "keep-luquillo-slow",
+      "name": "Keep slow Luquillo day instead",
+      "description": "Drop Culebra. Sleep in, Luquillo swim, kioskos. Restores the rest day; snorkel only at Gilligan's Nov 12.",
+      "cost_delta_per_person_usd": -170
     },
     {
       "id": "birding-guide",
@@ -295,27 +309,31 @@
       "task": "Book LAX–SJU 1-stop RT, out Sat Nov 7 early, home Sat Nov 14 midday. Avoid basic economy if bags. Book Old San Juan (Nov 7, 13), Río Grande (Nov 8–10), La Parguera (Nov 11–12), free-cancel."
     },
     {
+      "when": "Oct 11–12 (if DIY Culebra)",
+      "task": "Ferry Ceiba–Culebra seats for Nov 10 open ~30 days out on puertoricoferry.com / app; sell out fast. Check the Nov PDF timetable. Book golf cart ahead."
+    },
+    {
       "when": "By Oct 20",
       "task": "Book compact car SJU Nov 8 → Nov 13. Ask in writing: AutoExpreso tag fee (flat vs per use). Check credit-card CDW covers PR."
     },
     {
       "when": "By Oct 25",
-      "task": "Book Laguna Grande kayak Mon Nov 9 ~18:00 (2nd choice Tue Nov 10). Ask rain policy. If Vieques: book ferry + tour + room now."
+      "task": "Book Laguna Grande kayak Mon Nov 9 ~18:00 (2nd choice Tue Nov 10). Ask rain policy. Book Culebra catamaran Tue Nov 10 (East Island or similar, Puerto del Rey); ask swell policy + min-pax rule. If Vieques: book ferry + tour + room now."
     },
     {
       "when": "Nov 1–5",
-      "task": "Check El Yunque alerts (open trails, any new fee). Check Río Camuy status by phone/DRNA. Book La Parguera boat Nov 12. Optional bird guide."
+      "task": "Check El Yunque alerts (open trails, any new fee). Check Río Camuy status by phone/DRNA. Book La Parguera boat Nov 12. Optional bird guide. Confirm Gilligan's Island boat running (787-821-5706)."
     },
     {
       "when": "Nov 5",
-      "task": "Check NHC tropical outlook. Download offline maps. Buy America the Beautiful pass only if using elsewhere ($80)."
+      "task": "Check NHC tropical outlook. Download offline maps. Buy America the Beautiful pass only if using elsewhere ($80). Nov 8–9: check marine forecast (north swell)."
     },
     {
       "when": "Nov 7",
       "task": "Fly. Card for everything; small cash for kioskos/tips."
     }
   ],
-  "practical": "## Entry\n- US citizens: domestic flight. No passport. REAL ID or passport for TSA.\n\n## Flights\n- No nonstop LAX–SJU found. 1 stop: AA (MIA/CLT/DFW), Delta (ATL), JetBlue (JFK/BOS/MCO), Spirit/Frontier (MCO/FLL).\n- Red-eyes exist (LAX ~22:00 → SJU ~noon next day) but cost a night. Plan: early Sat departure, arrive evening.\n- PR = AST (UTC−4), no DST. LA = PST after Nov 1: **+4h** going east.\n\n## Car? Yes.\n- El Yunque at 08:00, Fajardo bio bay, southwest (Guánica, La Parguera, Cabo Rojo), Cueva Ventana: no transit. Uber thin outside metro.\n- Tours-only = San Juan base, long pickups, no southwest. Costs more.\n- No car in Old San Juan nights: narrow streets, scarce parking.\n- **AutoExpreso**: all tolls electronic. Rental tag mandatory; fee flat/day or per use + tolls. Ask at pickup. Tolls up slightly Jan 2026.\n- Distances in km, speed in mph, gas in liters. Driving assertive; potholes; avoid unlit mountain roads at night.\n\n## Money\n- USD. Cards widely; cash for kioskos, tips. NHS forts cashless.\n- Tip 15–20%. Bio bay guides ~$10.\n\n## Safety\n- Generally fine for tourists. Usual car rules: nothing visible in car, esp. beach/trailheads.\n- Bio bay: no sunscreen/repellent before kayak (harms organisms); follow guide. Life vest.\n- Flash floods: stay out of rivers when raining upstream (El Yunque).\n\n## Weather\n- Highs ~29°C/84°F, lows ~22–24°C. Short showers, often afternoon. El Yunque wet any day.\n- Hurricane season ends Nov 30: low but real risk. Watch NHC; free-cancel bookings.\n- Rain/clouds dim bio bays. Bays close in storms.\n\n## Packing\n- Rain shell, quick-dry clothes, trail shoes with grip (slick), sandals, swimsuit, headlamp (red light for coquí), binoculars, repellent (mosquitoes + no-see-ums at dusk, esp. La Parguera/Fajardo), reef-safe sunscreen, dry bag.\n\n## Food\n- Mofongo, lechón, alcapurrias, bacalaítos. Kiosk lunch $10–15; dinner $25–40 pp. Tap water OK in metro; bottled in rural spots after storms.\n",
+  "practical": "## Entry\n- US citizens: domestic flight. No passport. REAL ID or passport for TSA.\n\n## Flights\n- No nonstop LAX–SJU found. 1 stop: AA (MIA/CLT/DFW), Delta (ATL), JetBlue (JFK/BOS/MCO), Spirit/Frontier (MCO/FLL).\n- Red-eyes exist (LAX ~22:00 → SJU ~noon next day) but cost a night. Plan: early Sat departure, arrive evening.\n- PR = AST (UTC−4), no DST. LA = PST after Nov 1: **+4h** going east.\n\n## Car? Yes.\n- El Yunque at 08:00, Fajardo bio bay, southwest (Guánica, La Parguera, Cabo Rojo), Cueva Ventana: no transit. Uber thin outside metro.\n- Tours-only = San Juan base, long pickups, no southwest. Costs more.\n- No car in Old San Juan nights: narrow streets, scarce parking.\n- **AutoExpreso**: all tolls electronic. Rental tag mandatory; fee flat/day or per use + tolls. Ask at pickup. Tolls up slightly Jan 2026.\n- Distances in km, speed in mph, gas in liters. Driving assertive; potholes; avoid unlit mountain roads at night.\n\n## Money\n- USD. Cards widely; cash for kioskos, tips. NHS forts cashless.\n- Tip 15–20%. Bio bay guides ~$10.\n\n## Safety\n- Generally fine for tourists. Usual car rules: nothing visible in car, esp. beach/trailheads.\n- Bio bay: no sunscreen/repellent before kayak (harms organisms); follow guide. Life vest.\n- Flash floods: stay out of rivers when raining upstream (El Yunque).\n\n## Snorkel (Culebra Nov 10, Gilligan's Nov 12)\n- Tour: lunch, drinks, mask/fins incl. Bring own mask if picky. Towel not incl.\n- Tamarindo, Melones, Carlos Rosario = Canal Luis Peña reserve: no fishing, no touching/taking coral, no standing on reef. Keep ~3 m from turtles; no chasing.\n- Reef-safe (mineral, zinc) sunscreen, or better: long-sleeve rash guard + hat. Apply 30m before.\n- Nov = north swell season. North beaches (Flamenco, Carlos Rosario edge) can break; west/south (Tamarindo, Melones, Culebrita lee) calmer. Captain decides. Seasick-prone: pill before boarding.\n- Water shoes: rocky, urchin entries at Tamarindo/Carlos Rosario.\n- Water ~28°C: no wetsuit needed.\n\n## Weather\n- Highs ~29°C/84°F, lows ~22–24°C. Short showers, often afternoon. El Yunque wet any day.\n- Hurricane season ends Nov 30: low but real risk. Watch NHC; free-cancel bookings.\n- Rain/clouds dim bio bays. Bays close in storms.\n\n## Packing\n- Rain shell, quick-dry clothes, trail shoes with grip (slick), sandals, swimsuit, headlamp (red light for coquí), binoculars, repellent (mosquitoes + no-see-ums at dusk, esp. La Parguera/Fajardo), reef-safe sunscreen, dry bag.\n\n## Food\n- Mofongo, lechón, alcapurrias, bacalaítos. Kiosk lunch $10–15; dinner $25–40 pp. Tap water OK in metro; bottled in rural spots after storms.\n",
   "open_questions": [
     "Confirm budget is per person, party of 2 (assumed).",
     "Laguna Grande (easy) or Vieques Mosquito Bay overnight (brightest, +~$120 pp, more logistics)?",
@@ -323,7 +341,8 @@
     "Río Camuy Cave Park status unclear (closed after Fiona; reopened by reservation in 2023; later reports say closed). Phone DRNA ~Nov 1.",
     "El Yunque: which trails open in Nov (La Mina closed for construction); USFS proposed new day fees in 2026, not final.",
     "Flight times: depart LAX early Sat OK? (Red-eye Fri night would add a day in PR.)",
-    "One swim stop at Luquillo enough, or swap for Culebra day?"
+    "Culebra: catamaran tour (~$185, easy) or DIY ferry+cart (~$75, sell-out risk, long day)? Or keep slow Luquillo day?",
+    "Gilligan's Island (Guánica) boat running in Nov 2026? Some sites say closed since 2020."
   ],
   "sources": [
     "https://theskylive.com/new-moon-november-2026",
@@ -356,7 +375,26 @@
     "https://www.discoverpuertorico.com/article/visit-guanicas-dry-forest",
     "https://www.birdingplaces.eu/birdingplaces/puerto-rico/bosque-estatal-de-maricao",
     "https://fieldguides.com/itineraries/ptr25-ITIN.pdf",
-    "https://www.discoverpuertorico.com/things-to-do/outdoors/birds-paradise"
+    "https://www.discoverpuertorico.com/things-to-do/outdoors/birds-paradise",
+    "https://www.expedia.com/things-to-do/culebra-day-trip-by-catamaran.a487914.activity-details",
+    "https://www.travelocity.com/things-to-do/culebra-day-trip-from-fajardo-by-catamaran.a487914.activity-details",
+    "https://www.aaa.com/tripcanvas/thing-to-do/culebra-snorkeling-tour-by-catamaran-from-fajardo-6013FAJ",
+    "https://www.travelocity.com/things-to-do/fajardo-icacos-power-boat-trip-with-snorkel-lunch-drinks.a47998190.activity-details",
+    "https://tripjive.com/your-culebra-ferry-schedule-at-a-glance/",
+    "https://www.topuertorico.org/city/culebraferry.shtml",
+    "https://www.pommietravels.com/?p=50370",
+    "https://www.metro.pr/noticias/2026/05/05/ati-aplaza-aumento-en-tarifas-de-lanchas-a-vieques-y-culebra/",
+    "https://noticel.com/en/noticias/20260508/ati-dedicara-los-proximos-ocho-meses-a-revisar-el-nuevo-reglamento-sobre-las-lanchas/",
+    "https://www.metro.pr/noticias/2023/10/05/cobro-ambiental-entra-en-vigor-este-mes-para-visitantes-de-culebra/",
+    "https://www.flightsfrom.com/NRR-CPX",
+    "https://tripjive.com/rent-golf-carts-in-culebra-your-guide-to-exploring-the-island/",
+    "https://www.discoverpuertorico.com/index.php/article/best-spots-snorkeling",
+    "https://www.discoverpuertorico.com/index.php/article/things-to-do-culebra",
+    "https://www.thetripverdict.com/culebra-snorkeling-spots",
+    "https://en.coralesdelestepr.com/reserva-natural-canal-luis-pena",
+    "https://wanderlog.com/place/details/32854/playa-carlos-rosario",
+    "https://www.lonelyplanet.com/points-of-interest/gilligan-s-island/1419486",
+    "https://touroldsanjuan.com/gilligans-island"
   ],
   "places": {
     "LAX": {
@@ -449,6 +487,55 @@
       "lng": -65.444,
       "kind": "nature",
       "country": "Puerto Rico"
+    },
+    "PDR": {
+      "name": "Puerto del Rey marina, Fajardo",
+      "lat": 18.2885,
+      "lng": -65.6355,
+      "kind": "transit",
+      "country": "Puerto Rico"
+    },
+    "CBA": {
+      "name": "Ceiba ferry terminal (Roosevelt Roads)",
+      "lat": 18.2345,
+      "lng": -65.619,
+      "kind": "transit",
+      "country": "Puerto Rico"
+    },
+    "TAM": {
+      "name": "Playa Tamarindo, Culebra (Luis Peña reserve)",
+      "lat": 18.3165,
+      "lng": -65.318,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "CRO": {
+      "name": "Carlos Rosario reef, Culebra",
+      "lat": 18.3235,
+      "lng": -65.3285,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "FLA": {
+      "name": "Flamenco Beach, Culebra",
+      "lat": 18.3295,
+      "lng": -65.3185,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "CUB": {
+      "name": "Culebrita (cay, tide pools)",
+      "lat": 18.3155,
+      "lng": -65.229,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "GIL": {
+      "name": "Gilligan's Island (Cayo Aurora), Guánica",
+      "lat": 17.944,
+      "lng": -66.878,
+      "kind": "nature",
+      "country": "Puerto Rico"
     }
   },
   "legs": [
@@ -527,6 +614,63 @@
       }
     },
     {
+      "date": "2026-11-10",
+      "from": "LUQ",
+      "to": "PDR",
+      "mode": "road",
+      "duration": "~35m",
+      "detail": "PR-3 south to Puerto del Rey marina. Free parking at marina."
+    },
+    {
+      "date": "2026-11-10",
+      "from": "PDR",
+      "to": "TAM",
+      "mode": "road",
+      "duration": "~45–50m",
+      "detail": "Boat: power catamaran to Culebra reefs (Tamarindo/Carlos Rosario or Culebrita/Flamenco, captain's call by swell). 2 stops, lunch, back ~15:00.",
+      "choice": {
+        "alt_id": "culebra-ferry-diy",
+        "chosen": {
+          "label": "Catamaran day tour from Fajardo",
+          "mode": "road",
+          "door_to_door": "~6h tour + 35m drive each way",
+          "cost_pp": 185,
+          "note": "~$155–185 + tip. Lunch, drinks, gear incl. No ferry sell-out risk; captain picks calm reef. Min 12 pax or moved."
+        },
+        "other": {
+          "label": "DIY: Ceiba ferry + golf cart",
+          "mode": "road",
+          "door_to_door": "~40m drive + 1h early check-in + 45–90m ferry each way; ~11h day",
+          "cost_pp": 75,
+          "note": "Ferry $2.25/leg + $2 Culebra env. fee; cart ~$70–85/day shared; Flamenco $2; gear rental. Online seats sell out ~month ahead, residents first. Non-resident fare rise to $11.25/leg delayed to ~Jan 2027. Or fly Ceiba→Culebra 15m, ~$100–110 RT."
+        }
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "from": "TAM",
+      "to": "CUB",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Boat: 2nd stop, often Culebrita or Flamenco reef (calm-side choice)."
+    },
+    {
+      "date": "2026-11-10",
+      "from": "CUB",
+      "to": "PDR",
+      "mode": "road",
+      "duration": "~50m",
+      "detail": "Boat back to marina."
+    },
+    {
+      "date": "2026-11-10",
+      "from": "PDR",
+      "to": "LUQ",
+      "mode": "road",
+      "duration": "~35m",
+      "detail": "PR-3 north to base."
+    },
+    {
       "date": "2026-11-11",
       "from": "LUQ",
       "to": "PON",
@@ -549,6 +693,14 @@
       "mode": "road",
       "duration": "~30m",
       "detail": "PR-116 → PR-334 to visitor center, or Ballena trail on PR-333."
+    },
+    {
+      "date": "2026-11-12",
+      "from": "GDF",
+      "to": "GIL",
+      "mode": "road",
+      "duration": "~10m drive + 10m boat",
+      "detail": "Optional. Boat from Restaurante San Jacinto (Caña Gorda). Confirm running."
     },
     {
       "date": "2026-11-12",
@@ -625,7 +777,7 @@
       "label": "Old San Juan"
     }
   ],
-  "fatigue_check": "Door-to-door travel per day:\n- Nov 7 | 1-stop flight ~9h30 + 20m taxi | long-haul (daytime; sleep early)\n- Nov 8 | 20m taxi + ~50m drive | light\n- Nov 9 | 25m + 25m + 2h kayak at night | light road; late night\n- Nov 10 | 0–15m | REST (slow day)\n- Nov 11 | ~1h50 + ~1h, split by Ponce lunch | medium (~2h50)\n- Nov 12 | ~30m ×2 | light; dawn start, siesta\n- Nov 13 | ~1h50 + ~1h + 20m taxi, split by cave | medium (~3h)\n- Nov 14 | 20m + ~10h flight | long-haul home, same day\n\nRules:\n- **Max ~3h driving/day:** met. Longest Nov 11 (~2h50) + Nov 13 (~2h50), each split by a stop.\n- **No back-to-back medium days:** met (Nov 12 light between).\n- **Slow day mid-trip:** Nov 10.\n- **One swim stop:** Luquillo, Nov 10.\n- 3 bases (+ San Juan bookends): no 1-night stops except San Juan arrival/departure.\n- Late nights: bio bay Nov 9 (then rest day), Nov 12 optional.\n",
+  "fatigue_check": "Door-to-door travel per day:\n- Nov 7 | 1-stop flight ~9h30 + 20m taxi | long-haul (daytime; sleep early)\n- Nov 8 | 20m taxi + ~50m drive | light\n- Nov 9 | 25m + 25m + 2h kayak at night | light road; late night\n- Nov 10 | 35m drive + ~6h boat day (2× ~50m crossings) + 35m | medium; seated boat, lunch served, back ~15:30, siesta\n- Nov 11 | ~1h50 + ~1h, split by Ponce lunch | medium (~2h50)\n- Nov 12 | ~30m ×2 (+ optional Gilligan's 10m boat) | light; dawn start, siesta; Cabo Rojo optional\n- Nov 13 | ~1h50 + ~1h + 20m taxi, split by cave | medium (~3h)\n- Nov 14 | 20m + ~10h flight | long-haul home, same day\n\nRules:\n- **Max ~3h driving/day:** met. Nov 10 only ~1h10 driving.\n- **No back-to-back medium days:** BROKEN once (Nov 10 boat → Nov 11 drive). Mitigated: Nov 10 ends ~15:30, early night; Nov 11 start 09:30, Ponce break mid-drive.\n- **Slow day mid-trip:** LOST (Culebra replaced it). Nov 12 afternoon is the soft spot: siesta, skip Cabo Rojo if tired. Want the rest day back: keep-luquillo-slow option.\n- **Swim stops:** Culebra Nov 10; optional Gilligan's Nov 12.\n- 3 bases (+ San Juan bookends): no 1-night stops except San Juan arrival/departure.\n- Late nights: bio bay Nov 9 (then 07:45 start Nov 10: 9h sleep possible if in bed 22:00), Nov 12 optional.\n",
   "hero_photo": "El_Yunque_National_Forest",
   "photos": {
     "OSJ": {
@@ -717,6 +869,35 @@
       "wiki": [
         "Luis_Muñoz_Marín_International_Airport"
       ]
+    },
+    "TAM": {
+      "name": "Culebra reefs",
+      "wiki": [
+        "Culebra,_Puerto_Rico",
+        "Green_sea_turtle",
+        "Hawksbill_sea_turtle"
+      ]
+    },
+    "FLA": {
+      "name": "Flamenco Beach",
+      "wiki": [
+        "Flamenco_Beach",
+        "Culebra,_Puerto_Rico"
+      ]
+    },
+    "CUB": {
+      "name": "Culebrita",
+      "wiki": [
+        "Culebrita",
+        "Green_sea_turtle"
+      ]
+    },
+    "CRO": {
+      "name": "Carlos Rosario reef",
+      "wiki": [
+        "Culebra,_Puerto_Rico",
+        "Coral_reef_fish"
+      ]
     }
   },
   "wildlife": [
@@ -773,6 +954,30 @@
       "wiki": "Puerto_Rican_boa",
       "where": "El Yunque, karst roads at night",
       "odds": "Low"
+    },
+    {
+      "name": "Green sea turtle",
+      "wiki": "Green_sea_turtle",
+      "where": "Culebra: Tamarindo, Melones seagrass; Culebrita",
+      "odds": "Likely (Tamarindo morning: often several)"
+    },
+    {
+      "name": "Hawksbill sea turtle",
+      "wiki": "Hawksbill_sea_turtle",
+      "where": "Culebra reefs (Carlos Rosario, Culebrita)",
+      "odds": "Possible"
+    },
+    {
+      "name": "Southern stingray / spotted eagle ray",
+      "wiki": "Spotted_eagle_ray",
+      "where": "Culebra sand + reef edges; Gilligan's",
+      "odds": "Possible"
+    },
+    {
+      "name": "Reef fish (parrotfish, blue tang, sergeant majors)",
+      "wiki": "Coral_reef_fish",
+      "where": "Culebra reefs; Gilligan's",
+      "odds": "Certain"
     },
     {
       "name": "Antillean manatee",
