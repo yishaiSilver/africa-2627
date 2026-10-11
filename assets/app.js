@@ -473,9 +473,9 @@
       order.forEach(function (code) {
         var p = places[code]; if (!p) return;
         var n = stops.indexOf(code);
-        var kenya = kindOf(code) === 'nature';
+        var wild = kindOf(code) === 'nature';
         var icon = n >= 0
-          ? L.divIcon({ className: '', html: '<div class="stop-pin' + (kenya ? ' k' : '') + '">' + (n + 1) + '</div>', iconSize: [24, 24], iconAnchor: [12, 12] })
+          ? L.divIcon({ className: '', html: '<div class="stop-pin' + (wild ? ' k' : '') + '">' + (n + 1) + '</div>', iconSize: [24, 24], iconAnchor: [12, 12] })
           : L.divIcon({ className: '', html: '<div class="via-dot"></div>', iconSize: [10, 10], iconAnchor: [5, 5] });
         L.marker([p.lat, p.lng], { icon: icon, title: p.name, zIndexOffset: n >= 0 ? 100 : 0 })
           .addTo(map).bindTooltip(p.name, { direction: 'top', offset: [0, n >= 0 ? -12 : -5] });

@@ -1,0 +1,808 @@
+{
+  "id": "puerto-rico",
+  "label": "Puerto Rico · Nov 7–14",
+  "summary": "El Yunque, new-moon bio bay, Guánica dry forest, karst cave; car, 3 bases, ~$1873 pp.",
+  "title": "Puerto Rico: Rainforest, Bio Bay & Dry Forest",
+  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.\n- **Route:** Old San Juan 1n → Río Grande/El Yunque 3n → La Parguera 2n → Old San Juan 1n. Car Nov 8–13.\n- **Bio bay:** Laguna Grande kayak **Mon Nov 9** = new moon (02:03 AST). Backup Nov 10. 2nd bay La Parguera Nov 12.\n- **Nature:** El Yunque at 08:00 gate, coquí nights, Guánica dry forest at dawn (endemics), Cabo Rojo flats, Cueva Ventana.\n- **Culture:** Old San Juan forts (NPS), Ponce lunch stop.\n- **Pace:** max ~3h driving/day, slow day Nov 10 (Luquillo swim). ~$1873 pp.",
+  "dates": {
+    "depart": "2026-11-07",
+    "return": "2026-11-14"
+  },
+  "itinerary": [
+    {
+      "date": "2026-11-07",
+      "day_label": "Day 1 – Sat",
+      "location": "Los Angeles → San Juan",
+      "title": "Fly to Puerto Rico",
+      "details": "Early 1-stop (via MIA/CLT/DFW/ATL/JFK). LAX ~06:00–08:00 → SJU ~18:00–21:00 (+4h clock). Taxi 20m to Old San Juan. Street food, sleep.",
+      "overnight": "Old San Juan guesthouse",
+      "meals": "In-flight; D own"
+    },
+    {
+      "date": "2026-11-08",
+      "day_label": "Day 2 – Sun",
+      "location": "Old San Juan → Río Grande",
+      "title": "Forts, then east",
+      "details": "08:30 El Morro + San Cristóbal (one ~$10 fee). Paseo del Morro walk. Lunch. Taxi to SJU, pick up car ~13:00. ~50m PR-26/PR-3 east. Dusk: coquí chorus at guesthouse.",
+      "overnight": "Río Grande / Luquillo guesthouse",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-09",
+      "day_label": "Day 3 – Mon",
+      "location": "El Yunque → Laguna Grande",
+      "title": "Rainforest + bio bay (new moon)",
+      "details": "Gate 08:00 (PR-191 free, no reservation; closes at capacity: go early, Monday quieter). El Portal center ($8). Short trails open (check alerts; La Mina closed). Parrot/tody/lizard-cuckoo watch. Nap. ~18:00 Laguna Grande kayak, ~2h. New moon 02:03 AST today: darkest night.",
+      "overnight": "Río Grande / Luquillo guesthouse",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-10",
+      "day_label": "Day 4 – Tue",
+      "location": "Luquillo",
+      "title": "Slow day",
+      "details": "Sleep in. Luquillo beach swim (the one swim stop). Lunch at Luquillo kioskos. Afternoon rest. Night coquí/boa walk. Backup bio bay night if Nov 9 rained out.",
+      "overnight": "Río Grande / Luquillo guesthouse",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-11",
+      "day_label": "Day 5 – Wed",
+      "location": "Río Grande → Ponce → La Parguera",
+      "title": "Cross to the southwest",
+      "details": "~1h50 PR-30/PR-52 (tolls) to Ponce. Lunch + Parque de Bombas, plaza, cathedral (~2h). ~1h on to La Parguera. Sunset on the water.",
+      "overnight": "La Parguera inn",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-12",
+      "day_label": "Day 6 – Thu",
+      "location": "Guánica · Cabo Rojo · La Parguera",
+      "title": "Dry forest + endemic birds",
+      "details": "06:30 Guánica dry forest (30m): nightjar zone, Adelaide's warbler, lizard-cuckoo, tody. Out before heat (~11:00). Siesta. Optional 16:00 Cabo Rojo salt flats (shorebirds) + lighthouse. ~19:30 La Parguera bio bay boat (moon sets early; dark).",
+      "overnight": "La Parguera inn",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-13",
+      "day_label": "Day 7 – Fri",
+      "location": "La Parguera → Cueva Ventana → Old San Juan",
+      "title": "Karst cave, back to San Juan",
+      "details": "~1h50 north (PR-2 or scenic PR-10 via karst). Cueva Ventana tour (~1h, $19). Optional Río Camuy only if confirmed open. ~1h PR-22 to SJU, return car. Taxi to Old San Juan. Farewell dinner.",
+      "overnight": "Old San Juan guesthouse",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-14",
+      "day_label": "Day 8 – Sat",
+      "location": "San Juan → Los Angeles",
+      "title": "Fly home",
+      "details": "Coffee walk on the walls. Taxi 20m. 1-stop SJU ~10:00–12:00 → LAX ~17:00–20:00 same day (~10h incl. connect).",
+      "overnight": "Home",
+      "meals": "B; in-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Guesthouse / Airbnb inside the walls",
+      "place": "OSJ",
+      "location": "Old San Juan",
+      "nights": 2,
+      "pppn_usd": 90,
+      "style": "Guesthouse",
+      "includes": "~$180/room; usually no parking (no car these nights)",
+      "why": "Walk to forts, food. Taxi 20m to SJU.",
+      "alternatives": "Condado/Ocean Park guesthouse ~$140/room",
+      "url": "https://www.airbnb.com/old-san-juan-puerto-rico/stays"
+    },
+    {
+      "name": "Small guesthouse in the El Yunque foothills",
+      "place": "LUQ",
+      "location": "Río Grande / Luquillo",
+      "nights": 3,
+      "pppn_usd": 65,
+      "style": "Guesthouse / Airbnb",
+      "includes": "~$130/room; parking; kitchen often",
+      "why": "25m to PR-191 gate and Fajardo bio bay. Coquí chorus at night.",
+      "alternatives": "Luquillo beach apartment ~$120; rainforest treehouse ~$200+",
+      "url": "https://www.booking.com/region/pr/el-yunque.html"
+    },
+    {
+      "name": "Small inn / guesthouse in La Parguera",
+      "place": "LPG",
+      "location": "La Parguera, Lajas",
+      "nights": 2,
+      "pppn_usd": 60,
+      "style": "Small inn",
+      "includes": "~$120/room; parking",
+      "why": "Bio bay boats leave from the village; Guánica 30m, Cabo Rojo 30m.",
+      "alternatives": "Guánica (Caña Gorda) ~$130",
+      "url": "https://www.booking.com/searchresults.html?ss=La+Parguera"
+    }
+  ],
+  "budget": [
+    {
+      "category": "Flights",
+      "item": "LAX–SJU round trip, 1 stop each way (AA/Delta/JetBlue/Spirit), main cabin + carry-on",
+      "per_person_usd": 450,
+      "low_usd": 260,
+      "high_usd": 700,
+      "notes": "No nonstop LAX–SJU found. Basic economy seen ~$250 RT; real fare w/ bag + seat ~$350–550. Price now."
+    },
+    {
+      "category": "Lodging",
+      "item": "Old San Juan guesthouse/Airbnb, 2 nights (Nov 7, Nov 13)",
+      "per_person_usd": 180,
+      "low_usd": 130,
+      "high_usd": 260,
+      "notes": "~$180/room/night. Condado/Isla Verde cheaper, less charm."
+    },
+    {
+      "category": "Lodging",
+      "item": "Río Grande / Luquillo guesthouse near El Yunque, 3 nights",
+      "per_person_usd": 195,
+      "low_usd": 135,
+      "high_usd": 270,
+      "notes": "~$130/room. Coquí chorus from the porch."
+    },
+    {
+      "category": "Lodging",
+      "item": "La Parguera small inn / Airbnb, 2 nights",
+      "per_person_usd": 120,
+      "low_usd": 90,
+      "high_usd": 180,
+      "notes": "~$120/room. Fishing village; Guánica 30m."
+    },
+    {
+      "category": "Car",
+      "item": "Compact rental, SJU Nov 8 → Nov 13 (5 days, all-in taxes)",
+      "per_person_usd": 165,
+      "low_usd": 110,
+      "high_usd": 260,
+      "notes": "Nov SJU avg ~$60–75/day. Use credit-card CDW; skip $22–26/day waiver if covered."
+    },
+    {
+      "category": "Car",
+      "item": "AutoExpreso toll tag fee + tolls",
+      "per_person_usd": 25,
+      "low_usd": 15,
+      "high_usd": 45,
+      "notes": "Rental tag fee varies by company (flat/day or per-use). Tolls ~$15–25 for this loop. Never run tolls w/o tag."
+    },
+    {
+      "category": "Car",
+      "item": "Gas (~650 km)",
+      "per_person_usd": 35,
+      "low_usd": 25,
+      "high_usd": 50,
+      "notes": "Gas sold per liter."
+    },
+    {
+      "category": "Car",
+      "item": "Taxis SJU ↔ Old San Juan ×2 + short Ubers",
+      "per_person_usd": 35,
+      "low_usd": 20,
+      "high_usd": 50,
+      "notes": "No car in Old San Juan: parking hard."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "Laguna Grande bio bay kayak, Nov 9 (+tip)",
+      "per_person_usd": 85,
+      "low_usd": 65,
+      "high_usd": 110,
+      "notes": "Listings $65–89; tip ~$10."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "La Parguera bio bay boat, Nov 12 (optional 2nd bay)",
+      "per_person_usd": 45,
+      "low_usd": 0,
+      "high_usd": 95,
+      "notes": "Boat ~$45–95. Only bay where swimming allowed (some operators)."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "San Juan NHS (El Morro + San Cristóbal)",
+      "per_person_usd": 10,
+      "low_usd": 0,
+      "high_usd": 10,
+      "notes": "~$10 adult, 16+; cashless. Free with America the Beautiful pass."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "El Yunque: El Portal Rainforest Center",
+      "per_person_usd": 8,
+      "low_usd": 0,
+      "high_usd": 10,
+      "notes": "$8 (16+). Forest/PR-191 free. USFS proposed new fees (2026); check."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "Cueva Ventana guided entry",
+      "per_person_usd": 20,
+      "low_usd": 19,
+      "high_usd": 30,
+      "notes": "~$19 non-resident incl. guide, helmet, light. 10:00–16:00."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "Guánica dry forest, Cabo Rojo refuge, coquí walks",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 10,
+      "notes": "Free."
+    },
+    {
+      "category": "Food",
+      "item": "7 days food: bakery breakfast, kiosk lunch, sit-down dinner",
+      "per_person_usd": 420,
+      "low_usd": 300,
+      "high_usd": 600,
+      "notes": "~$60/day. Luquillo kioskos, Piñones, lechón (Guavate) cheap."
+    },
+    {
+      "category": "Misc",
+      "item": "Tips, insect repellent, dry bag, small buffer",
+      "per_person_usd": 80,
+      "low_usd": 40,
+      "high_usd": 150,
+      "notes": ""
+    }
+  ],
+  "budget_total_per_person_usd": 1873,
+  "alternatives": [
+    {
+      "id": "vieques-mosquito",
+      "name": "Vieques overnight for Mosquito Bay",
+      "description": "Brightest bay in the world (Guinness 2006). Swap one Luquillo night for Vieques: ferry from Ceiba (book ahead) or puddle-jumper. Tour $67–105. Leave car in Ceiba; públicos on island. Do on Nov 9 or 10 (dark).",
+      "cost_delta_per_person_usd": 120
+    },
+    {
+      "id": "skip-car",
+      "name": "No car: San Juan base + day tours",
+      "description": "Stay all nights in San Juan. El Yunque + bio bay combo tour, Cueva Ventana tour (~$125), Uber. Loses Guánica, La Parguera, Ponce; long pickups. Not cheaper.",
+      "cost_delta_per_person_usd": 150
+    },
+    {
+      "id": "culebra-day",
+      "name": "Culebra day (Flamenco, turtle snorkel)",
+      "description": "Replace slow day Nov 10. Ceiba ferry early, back late. Busy day; not restful.",
+      "cost_delta_per_person_usd": 60
+    },
+    {
+      "id": "birding-guide",
+      "name": "Half-day endemic birding guide",
+      "description": "Guánica or Maricao at dawn; or Río Abajo parrot attempt (restricted access needs local guide). Best shot at nightjar + elfin-woods warbler.",
+      "cost_delta_per_person_usd": 120
+    },
+    {
+      "id": "toro-negro",
+      "name": "Return via Toro Negro / Ruta Panorámica",
+      "description": "Cloud forest, Doña Juana falls, highest peaks. Replaces Cueva Ventana Nov 13. Curvy, slow: ~3.5h+ driving. Over the 3h rule.",
+      "cost_delta_per_person_usd": 0
+    },
+    {
+      "id": "upgrade-lodging",
+      "name": "Upgrade lodging",
+      "description": "Boutique Old San Juan hotel + rainforest treehouse/eco-lodge + Guánica hotel. ~+$70 pp/night.",
+      "cost_delta_per_person_usd": 490
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 11–15)",
+      "task": "Book LAX–SJU 1-stop RT, out Sat Nov 7 early, home Sat Nov 14 midday. Avoid basic economy if bags. Book Old San Juan (Nov 7, 13), Río Grande (Nov 8–10), La Parguera (Nov 11–12), free-cancel."
+    },
+    {
+      "when": "By Oct 20",
+      "task": "Book compact car SJU Nov 8 → Nov 13. Ask in writing: AutoExpreso tag fee (flat vs per use). Check credit-card CDW covers PR."
+    },
+    {
+      "when": "By Oct 25",
+      "task": "Book Laguna Grande kayak Mon Nov 9 ~18:00 (2nd choice Tue Nov 10). Ask rain policy. If Vieques: book ferry + tour + room now."
+    },
+    {
+      "when": "Nov 1–5",
+      "task": "Check El Yunque alerts (open trails, any new fee). Check Río Camuy status by phone/DRNA. Book La Parguera boat Nov 12. Optional bird guide."
+    },
+    {
+      "when": "Nov 5",
+      "task": "Check NHC tropical outlook. Download offline maps. Buy America the Beautiful pass only if using elsewhere ($80)."
+    },
+    {
+      "when": "Nov 7",
+      "task": "Fly. Card for everything; small cash for kioskos/tips."
+    }
+  ],
+  "practical": "## Entry\n- US citizens: domestic flight. No passport. REAL ID or passport for TSA.\n\n## Flights\n- No nonstop LAX–SJU found. 1 stop: AA (MIA/CLT/DFW), Delta (ATL), JetBlue (JFK/BOS/MCO), Spirit/Frontier (MCO/FLL).\n- Red-eyes exist (LAX ~22:00 → SJU ~noon next day) but cost a night. Plan: early Sat departure, arrive evening.\n- PR = AST (UTC−4), no DST. LA = PST after Nov 1: **+4h** going east.\n\n## Car? Yes.\n- El Yunque at 08:00, Fajardo bio bay, southwest (Guánica, La Parguera, Cabo Rojo), Cueva Ventana: no transit. Uber thin outside metro.\n- Tours-only = San Juan base, long pickups, no southwest. Costs more.\n- No car in Old San Juan nights: narrow streets, scarce parking.\n- **AutoExpreso**: all tolls electronic. Rental tag mandatory; fee flat/day or per use + tolls. Ask at pickup. Tolls up slightly Jan 2026.\n- Distances in km, speed in mph, gas in liters. Driving assertive; potholes; avoid unlit mountain roads at night.\n\n## Money\n- USD. Cards widely; cash for kioskos, tips. NHS forts cashless.\n- Tip 15–20%. Bio bay guides ~$10.\n\n## Safety\n- Generally fine for tourists. Usual car rules: nothing visible in car, esp. beach/trailheads.\n- Bio bay: no sunscreen/repellent before kayak (harms organisms); follow guide. Life vest.\n- Flash floods: stay out of rivers when raining upstream (El Yunque).\n\n## Weather\n- Highs ~29°C/84°F, lows ~22–24°C. Short showers, often afternoon. El Yunque wet any day.\n- Hurricane season ends Nov 30: low but real risk. Watch NHC; free-cancel bookings.\n- Rain/clouds dim bio bays. Bays close in storms.\n\n## Packing\n- Rain shell, quick-dry clothes, trail shoes with grip (slick), sandals, swimsuit, headlamp (red light for coquí), binoculars, repellent (mosquitoes + no-see-ums at dusk, esp. La Parguera/Fajardo), reef-safe sunscreen, dry bag.\n\n## Food\n- Mofongo, lechón, alcapurrias, bacalaítos. Kiosk lunch $10–15; dinner $25–40 pp. Tap water OK in metro; bottled in rural spots after storms.\n",
+  "open_questions": [
+    "Confirm budget is per person, party of 2 (assumed).",
+    "Laguna Grande (easy) or Vieques Mosquito Bay overnight (brightest, +~$120 pp, more logistics)?",
+    "Want a paid bird guide (+~$120 pp) for nightjar / parrot attempt, or self-guided?",
+    "Río Camuy Cave Park status unclear (closed after Fiona; reopened by reservation in 2023; later reports say closed). Phone DRNA ~Nov 1.",
+    "El Yunque: which trails open in Nov (La Mina closed for construction); USFS proposed new day fees in 2026, not final.",
+    "Flight times: depart LAX early Sat OK? (Red-eye Fri night would add a day in PR.)",
+    "One swim stop at Luquillo enough, or swap for Culebra day?"
+  ],
+  "sources": [
+    "https://theskylive.com/new-moon-november-2026",
+    "https://moonsighting.com/1448jmt.html",
+    "https://www.recreation.gov/ticket/facility/300017",
+    "https://fs.usda.gov/r08/elyunque/conditions",
+    "https://www.fs.usda.gov/r08/elyunque/about-area/faqs",
+    "https://www.fs.usda.gov/alerts/elyunque",
+    "https://www.metro.pr/noticias/2026/06/07/servicio-forestal-propone-cobrar-entrada-a-areas-de-el-yunque/",
+    "https://hikewithryan.com/el-yunque-hiking/",
+    "https://www.plateapr.com/en/what-to-know/wild-puerto-rican-parrot-count-in-el-yunque-reaches-record-high",
+    "https://www.google.com/travel/flights/flights-from-los-angeles-to-san-juan.html?gl=US&hl=en-US",
+    "https://www.kayak.com/flight-routes/San-Juan-Luis-Munoz-Marin-Intl-SJU/Los-Angeles-LAX",
+    "https://slickdeals.net/f/19993368-round-trip-los-angeles-san-juan-puerto-rico-or-vice-versa-252-airfares-on-american-airlines-be-travel-october-2026-march-2027",
+    "https://www.hertz.com/us/en/location/puertorico/sanjuan/sjut01",
+    "https://www.enterprise.com/en/car-rental-locations/us/pr/san-juan-luis-munoz-marin-intl-airport-p130.html",
+    "https://tollguru.mapup.ai/puerto-rico-toll-roads",
+    "https://tollguru.mapup.ai/autoexpreso-puerto-rico",
+    "https://www.discoverpuertorico.com/article/guide-to-exploring-puerto-ricos-bioluminescent-bays",
+    "https://www.farawayworlds.com/guides/bioluminescent-bays-in-puerto-rico",
+    "https://www.expedia.com/en/things-to-do/bioluminescent-bay-night-kayak-experience-in-fajardo-transport-optional.a519814.activity-details",
+    "https://www.discoverpuertorico.com/index.php/profile/la-parguera-bioluminescent-bay",
+    "https://www.expedia.com/things-to-do/vieques-bioluminescent-bay-boat-tour.a48293536.activity-details",
+    "https://home.nps.gov/saju/learn/news/san-juan-national-historic-site-fee-change.htm",
+    "https://heymondo.com/blog/el-morro-puerto-rico/",
+    "https://www.discoverpuertorico.com/article/visit-cueva-ventana-breathtaking-window-to-past",
+    "https://www.plateapr.com/en/what-to-know/camuy-river-cave-park-reopens-but-by-reservation-only",
+    "https://elnuevodia.com/english/business/notas/there-are-no-active-plans-to-reopen-the-camuy-river-caverns-park",
+    "https://explorewitherin.com/rio-camuy-cave-park-puerto-rico-guide/",
+    "https://www.discoverpuertorico.com/article/visit-guanicas-dry-forest",
+    "https://www.birdingplaces.eu/birdingplaces/puerto-rico/bosque-estatal-de-maricao",
+    "https://fieldguides.com/itineraries/ptr25-ITIN.pdf",
+    "https://www.discoverpuertorico.com/things-to-do/outdoors/birds-paradise"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "SJU": {
+      "name": "San Juan airport (SJU)",
+      "lat": 18.4394,
+      "lng": -66.0018,
+      "kind": "transit",
+      "country": "Puerto Rico"
+    },
+    "OSJ": {
+      "name": "Old San Juan",
+      "lat": 18.4655,
+      "lng": -66.1057,
+      "kind": "city",
+      "country": "Puerto Rico"
+    },
+    "LUQ": {
+      "name": "Río Grande / Luquillo base",
+      "lat": 18.3725,
+      "lng": -65.7166,
+      "kind": "city",
+      "country": "Puerto Rico"
+    },
+    "EY": {
+      "name": "El Yunque National Forest (PR-191)",
+      "lat": 18.311,
+      "lng": -65.787,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "LGF": {
+      "name": "Laguna Grande bio bay, Fajardo",
+      "lat": 18.3805,
+      "lng": -65.6305,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "PON": {
+      "name": "Ponce",
+      "lat": 18.0111,
+      "lng": -66.6141,
+      "kind": "city",
+      "country": "Puerto Rico"
+    },
+    "LPG": {
+      "name": "La Parguera (Lajas)",
+      "lat": 17.9747,
+      "lng": -67.0447,
+      "kind": "city",
+      "country": "Puerto Rico"
+    },
+    "GDF": {
+      "name": "Guánica dry forest",
+      "lat": 17.9717,
+      "lng": -66.8686,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "CRS": {
+      "name": "Cabo Rojo salt flats & lighthouse",
+      "lat": 17.953,
+      "lng": -67.197,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "CVE": {
+      "name": "Cueva Ventana (Arecibo)",
+      "lat": 18.374,
+      "lng": -66.6895,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "TNG": {
+      "name": "Toro Negro forest (Cordillera)",
+      "lat": 18.173,
+      "lng": -66.495,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    },
+    "MOS": {
+      "name": "Mosquito Bay, Vieques",
+      "lat": 18.099,
+      "lng": -65.444,
+      "kind": "nature",
+      "country": "Puerto Rico"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-11-07",
+      "from": "LAX",
+      "to": "SJU",
+      "mode": "flight",
+      "duration": "~9h30",
+      "detail": "1 stop (MIA/CLT/DFW/ATL/JFK). No nonstop LAX–SJU. Lands evening local."
+    },
+    {
+      "date": "2026-11-07",
+      "from": "SJU",
+      "to": "OSJ",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Taxi (~$25–30/car + bags)."
+    },
+    {
+      "date": "2026-11-08",
+      "from": "OSJ",
+      "to": "LUQ",
+      "mode": "road",
+      "duration": "~1h15",
+      "detail": "Taxi to SJU (20m), car pickup, ~50m east PR-26/PR-3.",
+      "choice": {
+        "alt_id": "skip-car",
+        "chosen": {
+          "label": "Rental car from Nov 8",
+          "mode": "road",
+          "door_to_door": "~1h15",
+          "cost_pp": 260,
+          "note": "Car + tolls + gas, 5 days. Free to hit El Yunque at 08:00, reach Guánica/La Parguera."
+        },
+        "other": {
+          "label": "No car: San Juan base + day tours/Uber",
+          "mode": "road",
+          "door_to_door": "Tour pickups; 1.5–2h each way",
+          "cost_pp": 410,
+          "note": "El Yunque+bio bay combo, Cueva Ventana tour. Southwest dropped. Uber thin outside metro."
+        }
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "from": "LUQ",
+      "to": "EY",
+      "mode": "road",
+      "duration": "~25m",
+      "detail": "PR-3 → PR-191 gate 08:00. Free; closes when full."
+    },
+    {
+      "date": "2026-11-09",
+      "from": "LUQ",
+      "to": "LGF",
+      "mode": "road",
+      "duration": "~25m",
+      "detail": "PR-3 east to Fajardo, Las Croabas launch. Kayak ~2h after dark.",
+      "choice": {
+        "alt_id": "vieques-mosquito",
+        "chosen": {
+          "label": "Laguna Grande kayak, Fajardo",
+          "mode": "road",
+          "door_to_door": "~25m",
+          "cost_pp": 85,
+          "note": "Easy. 2nd brightest. Narrow mangrove channel."
+        },
+        "other": {
+          "label": "Mosquito Bay, Vieques (overnight)",
+          "mode": "road",
+          "door_to_door": "~40m drive + ferry ~30m–1h15",
+          "cost_pp": 205,
+          "note": "Brightest bay. Ceiba ferry (book puertoricoferry.com) or short flight; 1 night Vieques; tour $67–105."
+        }
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "from": "LUQ",
+      "to": "PON",
+      "mode": "road",
+      "duration": "~1h50",
+      "detail": "PR-30 → PR-52 (tolls via AutoExpreso)."
+    },
+    {
+      "date": "2026-11-11",
+      "from": "PON",
+      "to": "LPG",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "PR-2 west → PR-116 → PR-304."
+    },
+    {
+      "date": "2026-11-12",
+      "from": "LPG",
+      "to": "GDF",
+      "mode": "road",
+      "duration": "~30m",
+      "detail": "PR-116 → PR-334 to visitor center, or Ballena trail on PR-333."
+    },
+    {
+      "date": "2026-11-12",
+      "from": "LPG",
+      "to": "CRS",
+      "mode": "road",
+      "duration": "~30m",
+      "detail": "Optional. PR-301 to Las Salinas + Los Morrillos light."
+    },
+    {
+      "date": "2026-11-13",
+      "from": "LPG",
+      "to": "CVE",
+      "mode": "road",
+      "duration": "~1h50",
+      "detail": "PR-2 via Mayagüez/Aguadilla, or PR-10 through karst."
+    },
+    {
+      "date": "2026-11-13",
+      "from": "CVE",
+      "to": "SJU",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "PR-22 (tolls). Return car."
+    },
+    {
+      "date": "2026-11-13",
+      "from": "SJU",
+      "to": "OSJ",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Taxi."
+    },
+    {
+      "date": "2026-11-14",
+      "from": "OSJ",
+      "to": "SJU",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Taxi."
+    },
+    {
+      "date": "2026-11-14",
+      "from": "SJU",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~10h",
+      "detail": "1 stop. Westbound gains 4h: home same evening."
+    }
+  ],
+  "stays": [
+    {
+      "place": "OSJ",
+      "from": "2026-11-07",
+      "nights": 1,
+      "label": "Old San Juan"
+    },
+    {
+      "place": "LUQ",
+      "from": "2026-11-08",
+      "nights": 3,
+      "label": "El Yunque · Fajardo"
+    },
+    {
+      "place": "LPG",
+      "from": "2026-11-11",
+      "nights": 2,
+      "label": "La Parguera · Guánica"
+    },
+    {
+      "place": "OSJ",
+      "from": "2026-11-13",
+      "nights": 1,
+      "label": "Old San Juan"
+    }
+  ],
+  "fatigue_check": "Door-to-door travel per day:\n- Nov 7 | 1-stop flight ~9h30 + 20m taxi | long-haul (daytime; sleep early)\n- Nov 8 | 20m taxi + ~50m drive | light\n- Nov 9 | 25m + 25m + 2h kayak at night | light road; late night\n- Nov 10 | 0–15m | REST (slow day)\n- Nov 11 | ~1h50 + ~1h, split by Ponce lunch | medium (~2h50)\n- Nov 12 | ~30m ×2 | light; dawn start, siesta\n- Nov 13 | ~1h50 + ~1h + 20m taxi, split by cave | medium (~3h)\n- Nov 14 | 20m + ~10h flight | long-haul home, same day\n\nRules:\n- **Max ~3h driving/day:** met. Longest Nov 11 (~2h50) + Nov 13 (~2h50), each split by a stop.\n- **No back-to-back medium days:** met (Nov 12 light between).\n- **Slow day mid-trip:** Nov 10.\n- **One swim stop:** Luquillo, Nov 10.\n- 3 bases (+ San Juan bookends): no 1-night stops except San Juan arrival/departure.\n- Late nights: bio bay Nov 9 (then rest day), Nov 12 optional.\n",
+  "hero_photo": "El_Yunque_National_Forest",
+  "photos": {
+    "OSJ": {
+      "name": "Old San Juan",
+      "wiki": [
+        "Old_San_Juan",
+        "Castillo_San_Felipe_del_Morro",
+        "Castillo_San_Cristóbal_(San_Juan)"
+      ]
+    },
+    "EY": {
+      "name": "El Yunque",
+      "wiki": [
+        "El_Yunque_National_Forest",
+        "Luquillo_Mountains",
+        "Common_coquí",
+        "Puerto_Rican_amazon"
+      ]
+    },
+    "LUQ": {
+      "name": "Luquillo",
+      "wiki": [
+        "Luquillo,_Puerto_Rico",
+        "Río_Grande,_Puerto_Rico"
+      ]
+    },
+    "LGF": {
+      "name": "Laguna Grande bio bay",
+      "wiki": [
+        "Fajardo,_Puerto_Rico",
+        "Pyrodinium_bahamense",
+        "Bioluminescence"
+      ]
+    },
+    "PON": {
+      "name": "Ponce",
+      "wiki": [
+        "Ponce,_Puerto_Rico",
+        "Parque_de_Bombas"
+      ]
+    },
+    "LPG": {
+      "name": "La Parguera",
+      "wiki": [
+        "La_Parguera",
+        "Lajas,_Puerto_Rico",
+        "Pyrodinium_bahamense"
+      ]
+    },
+    "GDF": {
+      "name": "Guánica dry forest",
+      "wiki": [
+        "Guánica_State_Forest",
+        "Puerto_Rican_nightjar",
+        "Puerto_Rican_tody"
+      ]
+    },
+    "CRS": {
+      "name": "Cabo Rojo",
+      "wiki": [
+        "Cabo_Rojo_National_Wildlife_Refuge",
+        "Los_Morrillos_Light"
+      ]
+    },
+    "CVE": {
+      "name": "Cueva Ventana",
+      "wiki": [
+        "Cueva_Ventana",
+        "Arecibo,_Puerto_Rico",
+        "Río_Camuy_Cave_Park"
+      ]
+    },
+    "TNG": {
+      "name": "Toro Negro",
+      "wiki": [
+        "Toro_Negro_State_Forest",
+        "Cerro_de_Punta"
+      ]
+    },
+    "MOS": {
+      "name": "Mosquito Bay, Vieques",
+      "wiki": [
+        "Vieques,_Puerto_Rico",
+        "Pyrodinium_bahamense"
+      ]
+    },
+    "SJU": {
+      "name": "San Juan airport",
+      "wiki": [
+        "Luis_Muñoz_Marín_International_Airport"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Common coquí",
+      "wiki": "Common_coquí",
+      "where": "Everywhere at night; loudest El Yunque foothills",
+      "odds": "Heard: certain. Seen: likely with red light"
+    },
+    {
+      "name": "Bioluminescent dinoflagellates",
+      "wiki": "Pyrodinium_bahamense",
+      "where": "Laguna Grande; La Parguera; Mosquito Bay",
+      "odds": "Very likely (new moon); weaker if rain"
+    },
+    {
+      "name": "Puerto Rican tody",
+      "wiki": "Puerto_Rican_tody",
+      "where": "El Yunque, Guánica",
+      "odds": "Likely"
+    },
+    {
+      "name": "Puerto Rican lizard cuckoo",
+      "wiki": "Puerto_Rican_lizard_cuckoo",
+      "where": "Guánica, El Yunque",
+      "odds": "Possible"
+    },
+    {
+      "name": "Puerto Rican woodpecker",
+      "wiki": "Puerto_Rican_woodpecker",
+      "where": "Island-wide, incl. Old San Juan",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Puerto Rican spindalis",
+      "wiki": "Puerto_Rican_spindalis",
+      "where": "El Yunque, Guánica",
+      "odds": "Likely"
+    },
+    {
+      "name": "Puerto Rican parrot",
+      "wiki": "Puerto_Rican_amazon",
+      "where": "El Yunque (wild, ~record count), Río Abajo (guide)",
+      "odds": "Low (~10–20%); heard more than seen"
+    },
+    {
+      "name": "Puerto Rican nightjar",
+      "wiki": "Puerto_Rican_nightjar",
+      "where": "Guánica dry forest at dusk/dawn",
+      "odds": "Low; heard with guide"
+    },
+    {
+      "name": "Puerto Rican boa",
+      "wiki": "Puerto_Rican_boa",
+      "where": "El Yunque, karst roads at night",
+      "odds": "Low"
+    },
+    {
+      "name": "Antillean manatee",
+      "wiki": "Antillean_manatee",
+      "where": "Fajardo/Ceiba coast, south coast bays",
+      "odds": "Low"
+    },
+    {
+      "name": "Green iguana (invasive)",
+      "wiki": "Green_iguana",
+      "where": "Everywhere near water",
+      "odds": "Certain"
+    },
+    {
+      "name": "Puerto Rican crested toad",
+      "wiki": "Puerto_Rican_crested_toad",
+      "where": "Guánica (rain pools)",
+      "odds": "Very low"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Puerto Rico",
+      "country": "Puerto Rico"
+    },
+    "budget_target": {
+      "low": 1500,
+      "high": 2200
+    },
+    "currency": "USD"
+  }
+}
