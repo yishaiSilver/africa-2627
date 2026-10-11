@@ -58,6 +58,13 @@
       "summary": "Earlier draft: bush flights to the Mara + Ol Pejeta, NYE in camp, Istanbul 2n.",
       "file": "data/trips/fly-in.json",
       "compare": false
+    },
+    {
+      "id": "puerto-rico",
+      "label": "Puerto Rico · Nov 7–14",
+      "summary": "El Yunque, new-moon bio bay, Guánica dry forest, karst cave; car, 3 bases, ~$1873 pp.",
+      "file": "data/trips/puerto-rico.json",
+      "compare": false
     }
   ]
 }
