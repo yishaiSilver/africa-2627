@@ -3,7 +3,7 @@
   "label": "Puerto Rico · Nov 7–14",
   "summary": "El Yunque, Culebra turtle snorkel, Vieques: brightest bio bay, horses, reefs; east only, ferry, ~$2,047 pp.",
   "title": "Puerto Rico: Rainforest, Reefs & Vieques Bio Bay",
-  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.\n- **Route (east only):** Old San Juan 1n → Luquillo/El Yunque 3n → Vieques (Esperanza) 2n → Isla Verde 1n. Southwest dropped: too far.\n- **Bio bay:** Mosquito Bay, Vieques, **Wed Nov 11** ~19:30: brightest bay; moon 7%, sets 19:31. Nov 12 = rain backup. One bay only.\n- **Snorkel:** **Tue Nov 10** catamaran Fajardo → Culebra reefs (turtles, rays). Vieques Nov 11–12: Playa Esperanza, Mosquito Pier.\n- **Nature:** El Yunque at 08:00 gate, coquí nights, Vieques refuge beaches, wild horses, Playa Negra.\n- **Getting there:** Car Nov 8–13 (parked at Ceiba Nov 11–13). Ceiba → Vieques passenger ferry ($2/leg). Jeep on Vieques.\n- **Culture:** Old San Juan forts (NPS), Fortín Conde de Mirasol.\n- **Pace:** max ~1h driving/day. Nov 12 slow. ~$2,047 pp.",
+  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.\n- **Route (east only):** Old San Juan 1n → Luquillo/El Yunque 3n → Vieques (Esperanza) 2n → Isla Verde 1n.\n- **Bio bay:** Mosquito Bay, Vieques, **Wed Nov 11** ~19:30: brightest bay; moon 7%, sets 19:31. Nov 12 = rain backup. One bay only.\n- **Snorkel:** **Tue Nov 10** catamaran Fajardo → Culebra reefs (turtles, rays). Vieques Nov 11–12: Playa Esperanza, Mosquito Pier.\n- **Nature:** El Yunque at 08:00 gate, coquí nights, Vieques refuge beaches, wild horses, Playa Negra.\n- **Getting there:** Car Nov 8–13 (parked at Ceiba Nov 11–13). Ceiba → Vieques passenger ferry ($2/leg). Jeep on Vieques.\n- **Culture:** Old San Juan forts (NPS), Fortín Conde de Mirasol.\n- **Pace:** max ~1h driving/day. Nov 12 slow. ~$2,047 pp.",
   "dates": {
     "depart": "2026-11-07",
     "return": "2026-11-14"
@@ -588,43 +588,6 @@
       ]
     },
     {
-      "id": "southwest-loop",
-      "name": "Southwest loop instead of Vieques",
-      "description": "Old plan: Nov 11 drive ~2h50 via Ponce to La Parguera 2n (Guánica dry forest endemics, Cabo Rojo, Parguera bio bay), Nov 13 ~3h back via Cueva Ventana. More birds + caves, ~6h more driving; Laguna Grande as main bay.",
-      "cost_delta_per_person_usd": 17,
-      "place": "LPG",
-      "legs": [
-        {
-          "from": "LUQ",
-          "to": "PON",
-          "mode": "road",
-          "duration": "~1h50",
-          "detail": "PR-30 → PR-52 (tolls)."
-        },
-        {
-          "from": "PON",
-          "to": "LPG",
-          "mode": "road",
-          "duration": "~1h",
-          "detail": "PR-2 west → PR-116."
-        },
-        {
-          "from": "LPG",
-          "to": "CVE",
-          "mode": "road",
-          "duration": "~1h50",
-          "detail": "PR-2 or PR-10 karst."
-        },
-        {
-          "from": "CVE",
-          "to": "SJU",
-          "mode": "road",
-          "duration": "~1h",
-          "detail": "PR-22. Return car."
-        }
-      ]
-    },
-    {
       "id": "osj-last-night",
       "name": "Old San Juan last night (not Isla Verde)",
       "description": "CasaBlanca again Nov 13: evening on the walls. +2 taxis (~$30/car each), 20m to SJU Nov 14.",
@@ -854,27 +817,6 @@
       "name": "Laguna Grande bio bay, Fajardo",
       "lat": 18.3805,
       "lng": -65.6305,
-      "kind": "nature",
-      "country": "Puerto Rico"
-    },
-    "PON": {
-      "name": "Ponce",
-      "lat": 18.0111,
-      "lng": -66.6141,
-      "kind": "city",
-      "country": "Puerto Rico"
-    },
-    "LPG": {
-      "name": "La Parguera (Lajas)",
-      "lat": 17.9747,
-      "lng": -67.0447,
-      "kind": "city",
-      "country": "Puerto Rico"
-    },
-    "CVE": {
-      "name": "Cueva Ventana (Arecibo)",
-      "lat": 18.374,
-      "lng": -66.6895,
       "kind": "nature",
       "country": "Puerto Rico"
     },
@@ -1294,7 +1236,7 @@
       "label": "Isla Verde (SJU)"
     }
   ],
-  "fatigue_check": "Door-to-door travel per day:\n- Nov 7 | 1-stop flight ~9h30 + 20m taxi | long-haul (daytime; sleep early)\n- Nov 8 | 20m taxi + ~50m drive | light\n- Nov 9 | 25m + 25m (El Yunque) | light; early night\n- Nov 10 | 35m drive + ~6h boat day (2× ~50m crossings) + 35m | medium; seated boat, lunch served, back ~15:30\n- Nov 11 | 35m drive + ferry ~45–75m (+45m wait) + 20m jeep; 2h kayak at night | medium (~2h30 travel); siesta\n- Nov 12 | jeep hops 5–25m, ~1h total | light; slow day\n- Nov 13 | 20m jeep + ferry ~45–75m + ~1h drive + 5m | medium (~2h30)\n- Nov 14 | 5m + ~10h flight | long-haul home, same day\n\nRules:\n- **Max ~3h driving/day:** met easily. Longest drive ~1h (Ceiba → SJU).\n- **No back-to-back medium days:** BROKEN once (Nov 10 boat → Nov 11 ferry). Mitigated: Nov 9 easy + early night, Nov 10 back ~15:30, Nov 11 travel done by ~11:00, siesta before kayak.\n- **Slow day mid-trip:** Nov 12 Vieques (short hops, siesta). Want more: keep-luquillo-slow.\n- **Swim stops:** Culebra Nov 10; Esperanza Nov 11; Mosquito Pier + beaches Nov 12.\n- 2 bases + 1-night bookends. ~6h less driving than southwest plan.\n- Late nights: bio bay Nov 11 only (back ~21:30, slow Nov 12).\n",
+  "fatigue_check": "Door-to-door travel per day:\n- Nov 7 | 1-stop flight ~9h30 + 20m taxi | long-haul (daytime; sleep early)\n- Nov 8 | 20m taxi + ~50m drive | light\n- Nov 9 | 25m + 25m (El Yunque) | light; early night\n- Nov 10 | 35m drive + ~6h boat day (2× ~50m crossings) + 35m | medium; seated boat, lunch served, back ~15:30\n- Nov 11 | 35m drive + ferry ~45–75m (+45m wait) + 20m jeep; 2h kayak at night | medium (~2h30 travel); siesta\n- Nov 12 | jeep hops 5–25m, ~1h total | light; slow day\n- Nov 13 | 20m jeep + ferry ~45–75m + ~1h drive + 5m | medium (~2h30)\n- Nov 14 | 5m + ~10h flight | long-haul home, same day\n\nRules:\n- **Max ~3h driving/day:** met easily. Longest drive ~1h (Ceiba → SJU).\n- **No back-to-back medium days:** BROKEN once (Nov 10 boat → Nov 11 ferry). Mitigated: Nov 9 easy + early night, Nov 10 back ~15:30, Nov 11 travel done by ~11:00, siesta before kayak.\n- **Slow day mid-trip:** Nov 12 Vieques (short hops, siesta). Want more: keep-luquillo-slow.\n- **Swim stops:** Culebra Nov 10; Esperanza Nov 11; Mosquito Pier + beaches Nov 12.\n- 2 bases + 1-night bookends.\n- Late nights: bio bay Nov 11 only (back ~21:30, slow Nov 12).\n",
   "hero_photo": "El_Yunque_National_Forest",
   "photos": {
     "OSJ": {
