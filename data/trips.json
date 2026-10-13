@@ -71,6 +71,12 @@
       "label": "Independent loop · Jan 16",
       "summary": "Istanbul 3n, then a Kenya loop on public transport. No private crew.",
       "file": "data/trips/no-crew.json"
+    },
+    {
+      "id": "no-crew-fixed",
+      "label": "No-crew, fact-checked · Jan 16",
+      "summary": "Andrew's no-crew loop with the fact-check fixes: Naboisho conservancy camp at real rates, Narok pickup night, private car on the worst matatu day, CDC/Ebola notes. ~$6,136 pp.",
+      "file": "data/trips/no-crew-fixed.json"
     }
   ]
 }
