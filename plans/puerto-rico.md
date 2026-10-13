@@ -2,7 +2,7 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=puerto-rico
 
-**Depart LAX:** 2026-11-07 · **Return LAX:** 2026-11-14 · **Planned cost:** $2,039 per person
+**Depart LAX:** 2026-11-07 · **Return LAX:** 2026-11-14 · **Planned cost:** $2,047 per person
 
 ## Overview
 
@@ -13,7 +13,7 @@
 - **Nature:** El Yunque at 08:00 gate, coquí nights, Vieques refuge beaches, wild horses, Playa Negra.
 - **Getting there:** Car Nov 8–13 (parked at Ceiba Nov 11–13). Ceiba → Vieques passenger ferry ($2/leg). Jeep on Vieques.
 - **Culture:** Old San Juan forts (NPS), Fortín Conde de Mirasol.
-- **Pace:** max ~1h driving/day. Nov 12 slow. ~$2,039 pp.
+- **Pace:** max ~1h driving/day. Nov 12 slow. ~$2,047 pp.
 
 ## Travel legs
 
@@ -99,20 +99,50 @@ Slow breakfast. 5m to SJU. 1-stop SJU ~10:00–12:00 → LAX ~17:00–20:00 same
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| CasaBlanca Hotel | Old San Juan | 1 | $90 | ~$135/room incl 9% tax (Nov snapshots $107–122 + tax). AC, wifi, 2 roof terraces, 24h desk. No parking (none needed: no car). Some rooms windowless; ask. |
-| Luquillo Sunrise Beach Inn | Río Grande / Luquillo | 3 | $65 | ~$155/room incl 9% tax (snapshots $114–175; Hotels.com may add ~6% fee). Breakfast, free gated parking, AC, wifi. Beachfront. |
+| CasaBlanca Hotel | Old San Juan | 1 | $68 | ~$135/room incl 9% tax (Nov snapshots $107–122 + tax). AC, wifi, 2 roof terraces, 24h desk. No parking (none needed: no car). Some rooms windowless; ask. |
+| Luquillo Sunrise Beach Inn | Río Grande / Luquillo | 3 | $78 | ~$155/room incl 9% tax (Aug '26 snapshot CA$184 ≈ $133 + tax; Travelocity adds 5.87% fee). Free gated parking (limited), AC, wifi, restaurant. Beachfront. Breakfast: sites disagree; confirm. |
 | Trade Winds Guesthouse | Esperanza, Vieques | 2 | $55 | ~$110/room incl 9% tax (snapshots $87 Aug, ~$95 Oct incl tax; Nov higher). AC, wifi, waterfront on malecón. No breakfast; restaurant downstairs. Rooms basic; some bathroom gripes (Jun 2026). |
-| Hotel Villa del Sol | Isla Verde, Carolina | 1 | $63 | ~$125/room incl 9% tax. AC, small pool, short walk to beach. |
+| Hotel Villa del Sol | Isla Verde, Carolina | 1 | $70 | ~$140/room incl 9% tax (Oct '25 $105 + tax; Jan '26 $159 all-in). AC, pool, limited parking, short walk to beach. $100 deposit (Trip.com); 21+ main guest. |
+
+### Hotel options (pick on the website; budget updates)
+
+**Old San Juan** (1n)
+- Plan: [CasaBlanca Hotel](https://www.expedia.com/San-Juan-Hotels-CasaBlanca-Hotel.h3009193.Hotel-Information) $68 pp/night, ★ 8.8 Expedia, 1,269 reviews; 7.7 Kayak, 1,860 (plan). Walk 15m El Morro, 10m San Cristóbal. Cheap, central.
+- Cheaper: [Navona Studios](https://www.expedia.com/San-Juan-Hotels-Navona-Studios.h10103408.Hotel-Information) $52 pp/night, ★ 8.0 Expedia, 795 reviews; 8.1 Kayak, 1,477 (−$16 pp). Cheapest decent private room inside the walls.
+- Value: [Decanter Hotel](https://expedia.com/San-Juan-(and-vicinity)-hotels-Decanter-Hotel.h12348107.Hotel-information) $76 pp/night, ★ 9.2 Expedia, 1,001 reviews (+$8 pp). Best-rated small hotel at near-budget price; 3m to San Juan Gate.
+- Deal: [Palacio Provincial San Juan (Curio by Hilton)](https://www.hilton.com/en/hotels/sjuppqq-palacio-provincial-san-juan/) $130 pp/night, ★ 4.3 TripAdvisor, 186 reviews (+$62 pp). Historic palace, rooftop pool; Hilton Honors/AAA rate cuts cost.
+- Splurge: [Hotel El Convento](https://www.kayak.com/San-Juan-Hotels-Hotel-El-Convento.14807.ksp) $165 pp/night, ★ 9.0 Travelocity, 1,004 reviews; 8.4 Kayak, 1,187 (+$97 pp). Iconic upscale stay across from the cathedral.
+
+**Río Grande / Luquillo** (3n)
+- Plan: [Luquillo Sunrise Beach Inn](https://www.expedia.com/San-Juan-Hoteles-Luquillo-Sunrise-Beach-Inn.h31686708.Informacion-Hotel) $78 pp/night, ★ 9.2 Expedia, ~335–358 reviews (plan). ~20m El Yunque gate, ~25m Puerto del Rey, beach out front.
+- Cheaper: [Casa Coral (hostel, private room)](https://www.hostelworld.com/hostels/p/291053/casa-coral/) $58 pp/night, ★ 9.6 Hotels.com, 72 reviews; 9.1 Booking, 461 (−$60 pp). Luquillo town; ~10m drive El Yunque. Cheapest private room.
+- Value: [The Surfing Turtle](https://www.kayak.com/Luquillo-Hotels-The-Surfing-Turtle.7472054.ksp) $61 pp/night, ★ 8.3 Kayak, 142 reviews; 8.4 Trip.com, 100 (−$51 pp). Beachfront in Luquillo for budget price.
+- Deal: [Fairfield by Marriott Luquillo Beach](https://www.hotels.com/ho3152146240/fairfield-by-marriott-luquillo-beach-luquillo-puerto-rico) $116 pp/night, ★ 9.4 Hotels.com, 945 reviews (+$114 pp). Top-rated, breakfast; Bonvoy member rate trims 5–10%.
+- Splurge: [Wyndham Grand Rio Mar Rainforest Beach Resort](https://www.wyndhamriomar.com/) $210 pp/night, ★ Ratings vary; not verified (+$396 pp). Resort on the beach under El Yunque; ~20m to PR-191.
+
+**Esperanza, Vieques** (2n)
+- Plan: [Trade Winds Guesthouse](https://www.expedia.com/Vieques-Esperanza.dx6084481) $55 pp/night, ★ 8.0 Expedia, 126 reviews (plan). On malecón: bio bay meet-up, snorkel in front, food steps away.
+- Cheaper: [Bananas Guesthouse](https://www.expedia.com/Bananas-Vieques-Guesthouse-Room-9Vibrant-AreaPrivateSteps-To-The-Beach.h114530943.Hotel-Information) $50 pp/night, ★ Airbnb/Expedia room listings; no aggregate score (−$10 pp). Cheapest bed in Esperanza, across from the water.
+- Value: [The Vieques Guesthouse](https://www.expedia.com/Vieques-Guest-Houses.d6139918-aaGuestHouses.Travel-Guide-Accommodation) $70 pp/night, ★ 9.8 Expedia, 520 reviews (+$30 pp). Best-rated in Esperanza; 5m walk to malecón. +$15 pp/night over plan.
+- Value: [Esperanza Inn](https://www.kayak.com/Vieques-Hotels-Esperanza-Inn.2582086.ksp) $78 pp/night, ★ 9.5 Kayak, 617 reviews (+$46 pp). Pool + top score, Esperanza walkable.
+- Splurge: [El Blok](https://www.hotelscombined.ca/Hotel/El_Blok.htm) $128 pp/night, ★ 8.8 Expedia, 487 reviews; 8.9 HotelsCombined, 440 (+$146 pp). Stylish, on malecón; rooftop pool for sunset.
+
+**Isla Verde, Carolina** (1n)
+- Plan: [Hotel Villa del Sol](https://expedia.com/Carolina-hotels-Hotel-Villa-del-Sol.h1627483.Hotel-information) $70 pp/night, ★ 9.2 Expedia, ~2,000 reviews; 8.3 Trip.com, 102 (plan). ~10m to SJU, 15m walk to beach; quiet value.
+- Cheaper: [Isla Verde By The Beach Guest House](https://www.kayak.com/Carolina-Hotels-Isla-Verde-By-The-Beach-Guest-House.6023251.ksp) $32 pp/night, ★ 7.7 Kayak, 208 reviews (−$38 pp). 200 m to Isla Verde beach; half the price.
+- Value: [ESJ by PMI Puerto Rico](https://hopper.com/hotels/pr/carolina/isla-verde) $96 pp/night, ★ Not verified (+$26 pp). On the beach, kitchen; near-chain price.
+- Deal: [TRYP by Wyndham Isla Verde](https://www.expedia.com/Isla-Verde-San-Juan-Hotels-Hotels-With-Restaurants.0-n6139938-0-tHotelswithRestaurants.Travel-Guide-Filter-Hotels) $96 pp/night, ★ Not verified (+$26 pp). Wyndham Rewards member rate; near beach + SJU.
+- Splurge: [Courtyard by Marriott Isla Verde Beach Resort](https://www.hotels.com/ho208479/courtyard-by-marriott-isla-verde-beach-resort-carolina-puerto-rico) $146 pp/night, ★ 8.8 Expedia, 1,891 reviews (+$76 pp). Beachfront, 5m to SJU; Bonvoy rate.
 
 ## Budget (per person, USD)
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
 | Flights | LAX–SJU round trip, 1 stop each way (AA/Delta/JetBlue/Spirit), main cabin + carry-on | $450 | $260–$700 | No nonstop LAX–SJU found. Basic economy seen ~$250 RT; real fare w/ bag + seat ~$350–550. Price now. |
-| Lodging | Old San Juan: CasaBlanca Hotel, 1 night (Nov 7) | $68 | $53–$150 | ~$135/room incl 9% tax. Low = Navona Studios. High = Palacio Provincial. |
-| Lodging | Luquillo: Luquillo Sunrise Beach Inn, 3 nights (Nov 8–10) | $233 | $165–$300 | ~$155/room incl tax, breakfast + parking. Low = Casa Coral. High = Fairfield Luquillo. |
-| Lodging | Vieques: Trade Winds Guesthouse, Esperanza, 2 nights (Nov 11–12) | $110 | $85–$200 | ~$110/room incl tax. Low = Esperanza Inn. High = Vieques Guesthouse. |
-| Lodging | Isla Verde: Hotel Villa del Sol, 1 night (Nov 13) | $63 | $55–$110 | ~$125/room incl tax. 5m to SJU. |
+| Lodging | Old San Juan: CasaBlanca Hotel, 1 night (Nov 7) | $68 | $53–$130 | ~$135/room incl 9% tax. Low = Navona Studios. High = Palacio Provincial (incl resort fee). |
+| Lodging | Luquillo: Luquillo Sunrise Beach Inn, 3 nights (Nov 8–10) | $234 | $174–$348 | ~$155/room incl tax, free parking. Low = Casa Coral. High = Fairfield Luquillo (breakfast, fee). |
+| Lodging | Vieques: Trade Winds Guesthouse, Esperanza, 2 nights (Nov 11–12) | $110 | $100–$256 | ~$110/room incl tax. Low = Bananas. High = El Blok. Best upgrade: Vieques Guesthouse (+$30 pp). |
+| Lodging | Isla Verde: Hotel Villa del Sol, 1 night (Nov 13) | $70 | $33–$147 | ~$140/room incl tax. 10m to SJU. Low = By The Beach GH. High = Courtyard. |
 | Car | Compact rental, SJU Nov 8 → Nov 13 (5 days, all-in taxes; idle at Ceiba Nov 11–13) | $165 | $110–$260 | Nov SJU avg ~$60–75/day. Use credit-card CDW; skip $22–26/day waiver if covered. No rentals on the ferry. |
 | Car | AutoExpreso toll tag fee + tolls | $15 | $8–$30 | Tag fee flat/day or per use. Tolls only PR-26/66/53 bits now (~$5–10). |
 | Car | Gas (~250 km) | $10 | $8–$20 | Gas sold per liter. |
@@ -127,7 +157,7 @@ Slow breakfast. 5m to SJU. 1-stop SJU ~10:00–12:00 → LAX ~17:00–20:00 same
 | Tours & fees | Vieques refuge, Fortín Conde de Mirasol, coquí walks | $5 | $0–$10 | Refuge free. Fortín small entry (~$3–5?). |
 | Food | 7 days food: bakery breakfast, kiosk lunch, sit-down dinner (Nov 10 lunch on boat) | $420 | $300–$600 | ~$60–65/day; Vieques a bit pricier. Kioskos, Piñones cheap. |
 | Misc | Tips, insect repellent, dry bag, small buffer | $80 | $40–$150 |  |
-| **Total** | | **$2,039** | | ≈ $4,078 for two |
+| **Total** | | **$2,047** | | ≈ $4,094 for two |
 
 ## Options & swaps
 
@@ -313,3 +343,25 @@ Slow breakfast. 5m to SJU. 1-stop SJU ~10:00–12:00 → LAX ~17:00–20:00 same
 - https://www.expedia.com/Vieques-Esperanza.dx6084481
 - https://www.expedia.com/Vieques-Guest-Houses.d6139918-aaGuestHouses.Travel-Guide-Accommodation
 - https://www.booking.com/guest-house/city/pr/vieques.html
+- https://www.kayak.com/San-Juan-Hotels-CasaBlanca-Hotel.312028.ksp
+- https://expedia.com/San-Juan-(and-vicinity)-hotels-Decanter-Hotel.h12348107.Hotel-information
+- https://www.hilton.com/en/hotels/sjuppqq-palacio-provincial-san-juan
+- https://www.aaa.com/tripcanvas/hotel/palacio-provincial-san-juan-curio-collection-by-hilton-AA190790
+- https://uk.hotels.com/ho1919264000/palacio-provincial-san-juan-puerto-rico
+- https://www.kayak.com/San-Juan-Hotels-Hotel-El-Convento.14807.ksp
+- https://www.kayak.com/San-Juan-Hotels-Navona-Studios.2253884.ksp
+- https://www.travelocity.com/San-Juan-Hotels-Luquillo-Sunrise-Beach-Inn.h31686708.Hotel-Reviews
+- https://www.hotels.com/ho3152146240/fairfield-by-marriott-luquillo-beach-luquillo-puerto-rico
+- https://www.kayak.com/Luquillo-Hotels-The-Surfing-Turtle.7472054.ksp
+- https://www.expedia.com.my/San-Juan-Hotels-Casa-Coral-Hostel.h38986144.Hotel-Information
+- https://www.travelocity.com/Rio-Grande-Hotels-All-Inclusive-Hotel.0-0-d500118-tAllinclusiveHotel.Travel-Guide-Filter-Hotels
+- https://www.kayak.com/Vieques-Hotels-Esperanza-Inn.2582086.ksp
+- https://www.expedia.com/Bananas-Vieques-Guesthouse-Room-9Vibrant-AreaPrivateSteps-To-The-Beach.h114530943.Hotel-Information
+- https://www.hotelscombined.ca/Hotel/El_Blok.htm
+- https://islaguru.com/articles/where-to-stay-vieques
+- https://expedia.com/Carolina-hotels-Hotel-Villa-del-Sol.h1627483.Hotel-information
+- https://www.kayak.com/Carolina-Hotels-Isla-Verde-By-The-Beach-Guest-House.6023251.ksp
+- https://hopper.com/hotels/pr/carolina/isla-verde
+- https://www.expedia.com/Isla-Verde-San-Juan-Hotels-Hotels-With-Restaurants.0-n6139938-0-tHotelswithRestaurants.Travel-Guide-Filter-Hotels
+- https://www.hotels.com/ho208479/courtyard-by-marriott-isla-verde-beach-resort-carolina-puerto-rico
+- https://www.hotelplanner.com/Hotels/12796/Reservations-Courtyard-by-Marriott-Isla-Verde-Beach-Resort-Carolina-7012-Boca-De-Cangrejos-Ave-00979?gencall=1
