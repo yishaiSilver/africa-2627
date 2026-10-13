@@ -2,15 +2,15 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=pre-morocco
 
-**Depart LAX:** 2026-12-19 · **Return LAX:** 2027-01-16 · **Planned cost:** $9,595 per person
+**Depart LAX:** 2026-12-19 · **Return LAX:** 2027-01-16 · **Planned cost:** $9,655 per person
 
 ## Overview
 
 - **Dates:** LAX **Sat Dec 19** → Morocco → Nairobi → LAX **Sat Jan 16**. Christmas in Morocco; Kenya from Dec 28 is the Wild loop unchanged.
 - **Stopover:** 7 nights: Marrakech, High Atlas, Erg Chebbi dunes (Christmas Eve camp), Middle Atlas cedars for Barbary macaques. Out CMN via Cairo; land NBO ~04:55 Dec 28.
-- **Verdict:** Big culture/scenery change before Kenya; wildlife thin beyond macaques, camels, birds. Costs: long Dec 27 via Cairo (verify MS849 23:55 not 20:55), freezing desert nights, ~+$1,995 pp.
+- **Verdict:** Big culture/scenery change before Kenya; wildlife thin beyond macaques, camels, birds. Costs: long Dec 27 via Cairo (verify MS849 23:55 not 20:55), freezing desert nights, ~+$2,055 pp.
 - **Safety:** US State Dept Level 2: Exercise Increased Caution (terrorism). Advisory reissued Sep 4 2026, level unchanged.. Stable, tourist-friendly; Level 2 for general terrorism (tourist sites, transport, markets; last deadly attacks 2011 Marrakech, 2018 Imlil). Daily risks: petty theft, medina hustlers, winter mountain roads. Merzouga near closed Algerian border, but dune zone safe.
-- **Cost:** $9,595 pp, **+$1,995** vs the Wild loop alone ($7,600).
+- **Cost:** $9,655 pp, **+$2,055** vs the Wild loop alone ($7,600).
 
 **Highlights:** Christmas Eve Erg Chebbi camp: sunset camels, stars, Berber drums, sunrise on 150 m dunes · Barbary macaques, Cedre Gouraud forest near Azrou (Africa's only macaque, endangered) · High Atlas via Tizi n'Tichka to UNESCO ksar Ait Benhaddou · Todra Gorge (300 m walls), Dades 'road of a thousand kasbahs' · Marrakech medina, Jemaa el-Fna night market, Majorelle + Berber Museum · Merzouga/Dayet Srji birding: desert sparrow, fulvous babbler, flamingos if wet · Khamlia Gnawa music on Christmas Day
 
@@ -233,8 +233,8 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Riad Dar Najat (or similar budget medina riad) | Marrakech medina, near Jemaa el-Fna | 2 | $35 | Rooftop breakfast |
-| Kasbah guesthouse, e.g. Dar Mouna | Facing the ksar, Ait Benhaddou | 1 | $35 | Half board |
+| Riad Dar Najat (or similar budget medina riad) | Marrakech medina, near Jemaa el-Fna | 2 | $60 | Rooftop breakfast |
+| Kasbah guesthouse, e.g. Dar Mouna | Facing the ksar, Ait Benhaddou | 1 | $45 | Half board |
 | Gorge auberge, e.g. Hotel Yasmina or Auberge Le Festival | Inside or near the Todra Gorge | 1 | $30 | Half board |
 | Standard Erg Chebbi desert camp (private tent with bed) | Erg Chebbi dunes, ~1h camel from Merzouga | 1 | $75 | Camel both ways, dinner, breakfast, blankets; bathroom sometimes shared |
 | Merzouga auberge, e.g. Kasbah Mohayut or Riad Madu | Merzouga village, at the dune edge | 1 | $35 | Half board |
@@ -250,17 +250,121 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Camp Carnelley's or Fisherman's Camp | Lake Naivasha, south shore | 2 | $15 | Campsite fee; operator tents, cook, meals |
 | Budget hotel near JKIA (free shuttle) | Nairobi, Mombasa Rd | 1 | $40 | ~$80/room B&B; 24h shuttle |
 
+### Hotel options (pick on the website; budget updates)
+
+**Marrakech medina, near Jemaa el-Fna** (2n)
+- Plan: [Riad Dar Najat (or similar budget medina riad)](https://www.kayak.com/Marrakesh-Hotels-Riad-Dar-Najat.174729.ksp) $60 pp/night, ★ Kayak 9.7 (1,313); Expedia 9.2 (plan). Walk to square, souks; quiet courtyard; top scores.
+- Cheaper: [Equity Point Marrakech (hostel)](https://www.kayak.com/Marrakesh-Hotels-Equity-Point-Marrakech.310781.ksp) $20 pp/night, ★ Kayak 8.0–8.3 (~2,200–2,400) (−$80 pp). Cheapest medina bed; social riad hostel with pool.
+- Value: [Budget medina riad (Riad Tahyra / Marrakech Peace type)](https://www.booking.com/searchresults.html?ss=Marrakech+Medina&checkin=2026-12-20&checkout=2026-12-22&group_adults=2) $35 pp/night, ★ Unverified; check Booking 9+ (−$50 pp). Old plan price; still possible with early booking.
+- Splurge: [Riad Yasmine](https://www.roomertravel.com/featured/riad-yasmine.h56910) $75 pp/night, ★ HotelsCombined 9.3 (70) (+$30 pp). Instagram-famous courtyard pool; friendly owners.
+
+**Facing the ksar, Ait Benhaddou** (1n)
+- Plan: [Kasbah guesthouse, e.g. Dar Mouna](https://www.kayak.com/Ait-Ben-Haddou-Hotels-Dar-Mouna.622655.ksp) $45 pp/night, ★ Kayak 8.8 (816) (plan). Ksar at sunrise, no drive; terrace view.
+- Cheaper: [Kasbah Ounila](https://www.expedia.com/cn/-Hotels.d6127136.Travel-Guide-Hotels) $20 pp/night, ★ Expedia 10 (16) (−$25 pp). Cheapest decent; tiny review base.
+- Value: [Riad Ait Ben Haddou](https://www.expedia.com/Ait-Benhaddou-Hotels-Hotels-With-Restaurants.0-0-d6127136-tHotelswithRestaurants.Travel-Guide-Filter-Hotels) $25 pp/night, ★ Expedia 8.8 (−$20 pp). Near ksar, solid score, half Dar Mouna price.
+- Splurge: [Riad Caravane](https://www.expedia.com/Ait-Benhaddou-Hotels-Hotels-With-Restaurants.0-0-d6127136-tHotelswithRestaurants.Travel-Guide-Filter-Hotels) $65 pp/night, ★ Expedia 9.8 (82) (+$20 pp). Highest-rated in village; best dinner.
+
+**Inside or near the Todra Gorge** (1n)
+- Plan: [Gorge auberge, e.g. Hotel Yasmina or Auberge Le Festival](https://www.booking.com/searchresults.html?ss=Todra+Gorge&checkin=2026-12-23&checkout=2026-12-24&group_adults=2) $30 pp/night, ★ Unverified (no listing found) (plan). Gorge walks late afternoon, early morning.
+- Cheaper: [Auberge Royal Palmas (Tinghir)](https://ae.trip.com/hotels/tinerhir-toudra-gorge/hotels-c36278m6756374) $25 pp/night, ★ 9.6 (228) (−$5 pp). Cheap, top-rated; 15 km before gorge.
+- Value: [La Petite Gorge Hôtel & Restaurant](https://www.kayak.com/Tinghir-Hotels-Auberge-Restaurant-La-Petite-Gorge.2187069.ksp) $30 pp/night, ★ Kayak 8.1 (413) (same). Near gorge entrance; known price at plan level.
+- Splurge: [Auberge Le Festival Todra Gorge](https://www.kayak.com/Tineghir-Hotels-Auberge-Le-Festival-Todra-Gorge.534749.ksp) $63 pp/night, ★ Booking 9.2 (1,469); Kayak 9.3 (2,165) (+$33 pp). Unique cave rooms; best-rated in area.
+
+**Erg Chebbi dunes, ~1h camel from Merzouga** (1n)
+- Plan: [Standard Erg Chebbi desert camp (private tent with bed)](https://www.booking.com/searchresults.html?ss=Merzouga&checkin=2026-12-24&checkout=2026-12-25&group_adults=2) $75 pp/night, ★ Varies; Expedia/Travelocity standard camps (plan). Christmas Eve highlight: sunset camels, stars, drums.
+- Cheaper: [Basic camel trek + shared camp](https://www.civitatis.com/en/merzouga/overnight-camel-trek) $45 pp/night, ★ Civitatis / Expedia (varies) (−$30 pp). Cheapest real dune night; fine if you can rough it.
+- Value: [Ali & Sara's Desert Palace camp](https://www.airbnb.co.uk/rooms/4064336) $74 pp/night, ★ Airbnb 4.84 (220); Trip101 9.1 (−$1 pp). Ensuite tent, glowing reviews, standard price.
+- Splurge: [Merzouga Luxury Desert Camps](https://www.expedia.com/cn/Merzouga.dx6046702) $190 pp/night, ★ Expedia (luxury tier) (+$115 pp). Heated ensuite tent; Christmas Eve comfort.
+
+**Merzouga village, at the dune edge** (1n)
+- Plan: [Merzouga auberge, e.g. Kasbah Mohayut or Riad Madu](https://sp.booking.com/hotel/ma/kasbah-mohayut.html) $35 pp/night, ★ Travelocity 9.4 (11) (plan). Christmas rest, hot showers; luggage stays here.
+- Value: [Auberge Kasbah Merzouga](https://www.travelocity.com/Taouz-Hotels-Auberge-Kasbah-Merzouga.h107407760.Hotel-Information) $53 pp/night, ★ Travelocity 8.4 (+$18 pp). Known price, decent score; quiet.
+- Deal: [Hotel Kanz Erremal](https://www.expedia.com/es/Merzouga.dx6046702) $54 pp/night, ★ Expedia 8.0 (94); Airbnb 4.68 (105) (+$19 pp). Right on dunes; camp combos sold.
+- Splurge: [Kasbah Hotel Tombouctou](https://www.travelocity.com/Taouz-Hotels-Kasbah-Hotel-Tombouctou.h2478620.Hotel-Information) $80 pp/night, ★ Travelocity 8.8 (+$45 pp). Atmospheric kasbah; comfier Christmas night.
+
+**Azrou town, 15 min from the Cedre Gouraud** (1n)
+- Plan: [Azrou/Ifrane hotel, e.g. Hotel Le Panorama Azrou](https://zh.hotels.com/en/ho972998176/hotel-panorama-azrou-morocco) $30 pp/night, ★ No reviews found (Travelmyth 0) (plan). Near macaque forest, on motorway route to CMN.
+- Cheaper: [Hotel Perce Neige (Ifrane)](https://www.expedia.co.in/Ifrane-Hotels-Hotel-Perce-Neige.h73470366.Hotel-Information) $24 pp/night, ★ Booking 5.0 (1,070) (−$6 pp). Cheap, Ifrane center; weak reviews.
+- Value: [Le Palais des Cerisiers](https://ph.trip.com/hotels/azrou-hotel-detail-9874064/le-palais-des-cerisiers) $45 pp/night, ★ Booking 9.0 (556); Trip.com 9.4 (40) (+$15 pp). Best-rated near cedars; warm; hammam after macaques.
+- Splurge: [Michlifen Resort & Golf (Ifrane)](https://www.expedia.ie/Azrou-Hotels.d6177036.Travel-Guide-Hotels) $160 pp/night, ★ Expedia 9.2 (191) (+$130 pp). Luxury warm night before long travel day.
+
+**Nairobi** (1n)
+- Plan: [Budget guesthouse near JKIA / Langata](https://www.booking.com/city/ke/nairobi.html) $30 pp/night, ★ Pick 8+/10 on Booking (plan). Cheap, safe, ~20m from Sheldrick + JKIA. Crew picks up here.
+- Value: [Wildebeest Eco Camp (garden tent)](https://wildebeestecocamp.com) $55 pp/night, ★ TA ~4.5; backpacker classic (+$25 pp). Tent-camp feel, safe compound, ~10m to Sheldrick.
+- Deal: [Karen Gables (Karen guesthouse)](https://www.booking.com/searchresults.html?ss=Karen+Gables) $85 pp/night, ★ Reviews ~4.9/5 (+$55 pp). Quiet leafy Karen, near Sheldrick + Giraffe Centre.
+- Splurge: [Nairobi Tented Camp (inside Nairobi NP)](https://www.safari.com/nairobi-tented-camp) $260 pp/night, ★ Porini/Gamewatchers; TA ~5 (+$230 pp). Sleep inside Nairobi NP on day one. Lions by the skyline.
+
+**Ol Pejeta Conservancy, Laikipia** (2n)
+- Plan: [Operator camp at an OPC campsite](https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf) $70 pp/night, ★ Official OPC site (plan). Cheapest way to sleep inside OPC.
+- Value: [Pelican House (OPC self-catering cottage)](https://www.olpejetaconservancy.org/pelican-house/) $100 pp/night, ★ Official OPC house (+$60 pp). Real bed + roof inside OPC; crew cooks in kitchen.
+- Deal: [Sweetwaters Serena Camp](https://www.serenahotels.com/sweetwaters) $315 pp/night, ★ TA ~4.5; Serena (+$490 pp). Waterhole rhino from your tent. Easy mid-range comfort.
+- Splurge: [Ol Pejeta Bush Camp](https://www.olpejetaconservancy.org/ol-pejeta-bush-camp/) $820 pp/night, ★ Asilia/OPC; TA ~5 (+$1,500 pp). Tiny bush camp, night drives, rhino on foot.
+- Splurge: [Porini Rhino Camp](https://www.porini.com/porini-camps/rhino-camp/) $840 pp/night, ★ Porini; TA ~5 (+$1,540 pp). Includes OPC fees + guided walks + night drives.
+
+**Samburu National Reserve** (3n)
+- Plan: [Operator camp at a Samburu / Buffalo Springs campsite](https://www.safarifind.com/accommodations/samburu-riverside-camp) $30 pp/night, ★ County reserve campsite (plan). Wake up on the Ewaso Ng'iro river among the Special Five.
+- Cheaper: [Umoja women's campsite / cottages (Archer's Post)](https://umojawomen.or.ke) $20 pp/night, ★ Community-run; basic (−$30 pp). Supports Umoja women's village. Cheapest, but outside gate.
+- Deal: [Ashnil Samburu Camp](https://www.ashnilhotels.com/ashnil-samburu-camp/) $220 pp/night, ★ TA ~4.5 (+$570 pp). River tents, inside reserve. Solid mid-range NYE.
+- Deal: [Sarova Shaba Game Lodge (Buffalo Springs/Shaba side)](https://www.sarovahotels.com/shaba-samburu/) $185 pp/night, ★ TA ~4.3; Sarova (+$465 pp). Cheapest proper lodge; pool for hot afternoons.
+- Splurge: [Elephant Bedroom Camp](https://www.atuaenkop.com/elephant-bedroom-camp/) $600 pp/night, ★ Atua Enkop; TA ~5 (+$1,710 pp). Elephants wander between tents. Special Five daily.
+
+**Nyahururu** (1n)
+- Plan: [Thomson's Falls campsite](https://en.wikipedia.org/wiki/Thomson%27s_Falls) $10 pp/night, ★ Lodge grounds; TA ~3.5 (plan). Splits Samburu → Nakuru into two easy days. Waterfall at the door.
+- Value: [Thomson's Falls Lodge room/cottage](https://www.booking.com/hotel/ke/thomsons-falls-lodge.html) $65 pp/night, ★ TA ~3.5; colonial, dated (+$55 pp). Bed + fire on a cold 2,360m night. Same falls view.
+- Splurge: [Panari Resort Nyahururu (BW Signature)](https://www.bestwestern.com/en_US/book/hotel-rooms.80008.html) $75 pp/night, ★ Booking ~8; 4-star (+$65 pp). Hot shower, reliable comfort before Nakuru.
+
+**Lake Nakuru NP** (2n)
+- Plan: [KWS public campsite inside Lake Nakuru NP](https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025) $30 pp/night, ★ KWS official (plan). Wake up inside the park. NYE by the fire.
+- Value: [Naishi Guest House (KWS, inside park)](https://www.kws.go.ke) $125 pp/night, ★ KWS self-catering (+$190 pp). Private house inside park; crew cooks in kitchen.
+- Deal: [Lake Nakuru Lodge](https://www.lakenakurulodge.com) $110 pp/night, ★ TA ~4; 3-star (+$160 pp). Cheapest lodge inside the park; pool, rhino nearby.
+- Deal: [Flamingo Hill Tented Camp](https://flamingohillcamp.com) $150 pp/night, ★ TA ~4.5 (+$240 pp). Tented, quiet, inside park, closer to lake.
+- Splurge: [Sarova Lion Hill Game Lodge](https://www.sarovahotels.com/lionhill-nakuru/) $150 pp/night, ★ TA ~4.3; Sarova (+$240 pp). Big lake views. Our nights fall after festive window.
+
+**Kakamega Forest** (2n)
+- Plan: [Rondo Retreat](https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html) $130 pp/night, ★ TA ~4.5 (plan). Only comfortable bed inside the rainforest. Guides at the gate.
+- Cheaper: [Udo's campsite (KWS, Buyangu)](https://kws.go.ke/park/kakamega-forest-national-reserve/) $20 pp/night, ★ KWS; basic (−$220 pp). Cheapest night in the forest; crew cooks.
+- Value: [Udo's Bandas (KWS)](https://kws.go.ke/park/kakamega-forest-national-reserve/) $20 pp/night, ★ KWS; simple (−$220 pp). Bed + roof in rainforest rain; crew cooks.
+- Cheaper: [Isecheno Blue-shouldered Guest House](https://en.wikivoyage.org/wiki/Kakamega_Rainforest) $10 pp/night, ★ TA ~4; birders' base (−$240 pp). Birder favourite; guide Smith Likare on site.
+- Deal: [Rondo Retreat, half board](https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html) $120 pp/night, ★ TA ~4.5 (−$20 pp). Same bed, $10 cheaper; crew picnic lunch.
+
+**Kericho tea country** (1n)
+- Plan: [Budget hotel, Kericho](https://www.booking.com/city/ke/kericho.html) $30 pp/night, ★ Pick 8+/10 on Booking (plan). Breaks Kakamega → Mara into two short drives.
+- Cheaper: [Sahara Gardens Kericho](https://discoverkenya.co.ke/listing/sahara-gardens-kericho) $17 pp/night, ★ Expedia ~8 (−$13 pp). Cheapest clean room; breakfast in.
+- Value: [Tea Hotel Kericho](https://www.kayak.com/Kericho-Hotels-Tea-Hotel-Kericho.2780476.ksp) $45 pp/night, ★ Historic; reviews mixed (+$15 pp). Iconic tea-country stay, gardens, estate walks.
+- Splurge: [The Exotic House Kericho](https://www.expedia.com/Kericho-Hotels.d3000425103.Travel-Guide-Hotels) $41 pp/night, ★ Expedia ~8.5 (+$11 pp). Nicest small stay in town; Kericho has no luxury.
+
+**Northern Greater Mara** (4n)
+- Plan: [Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)](https://cheetahsafaris.com/national-park/enonkishu-conservancy) $25 pp/night, ★ Conservancy-run (plan). Conservancy: few vehicles, walks, off-road. Confirm mobile camping in writing.
+- Value: [Mara Siria Tented Camp](https://www.marasiria.com) $230 pp/night, ★ TA ~4.5 (+$820 pp). Huge Triangle views; cheap roofed option.
+- Deal: [Basecamp Masai Mara (Talek)](https://www.basecampexplorer.com/kenya/basecamp-masai-mara/) $280 pp/night, ★ TA ~4.5; eco pioneer (+$1,020 pp). Eco-camp, community-run, cheap for its quality.
+- Splurge: [Porini Mara Camp (Ol Kinyei)](https://www.porini.com/porini-camps/porini-mara-camp/) $500 pp/night, ★ Porini; TA ~5 (+$1,900 pp). Max 6 tents, conservancy, walks + night drives.
+- Splurge: [Kicheche Mara Camp (Mara North)](https://kicheche.com/camps/kicheche-mara-camp/) $660 pp/night, ★ TA ~5; photo guides (+$2,540 pp). Top photographic guiding in Mara North.
+
+**Lake Naivasha, south shore** (2n)
+- Plan: [Camp Carnelley's or Fisherman's Camp](https://monkey.travel/en/usd/accommodation/naivasha-sopa/) $15 pp/night, ★ TA ~4 (plan). Soft finish: Hell's Gate + boat day, 2.5–3h from the airport.
+- Cheaper: [Fisherman's Camp (bottom camp)](https://discoverkenya.co.ke/listing/fishermans-camp) $8 pp/night, ★ TA ~4 (−$14 pp). Shady lakeshore, quieter; near Hell's Gate.
+- Value: [Camp Carnelley's lakefront banda](https://www.campcarnelleys.com) $50 pp/night, ★ TA ~4.3 (+$70 pp). Bed + lake view, same camp vibe.
+- Deal: [Sanctuary Farm – Watch Tower cottage](https://www.sanctuaryfarmkenya.com) $90 pp/night, ★ TA ~4.5 (+$150 pp). Walk/ride with giraffes; crew uses kitchen.
+- Splurge: [Loldia House (Governors')](https://www.governorscamp.com/loldia-house/) $600 pp/night, ★ TA ~5 (+$1,170 pp). Ranch-house luxury; boat + Crescent Island in rate.
+
+**Nairobi, Mombasa Rd** (1n)
+- Plan: [Budget hotel near JKIA (free shuttle)](https://www.booking.com/city/ke/nairobi.html) $40 pp/night, ★ Pick 8+/10, 24h shuttle (plan). 02:45 wake, 10–20m to JKIA before TK608.
+- Cheaper: [Heavenly Meadows / Lewisky (near JKIA)](https://www.kayak.com/Nairobi-Hotels.7983.hotel.ksp) $35 pp/night, ★ Small homestays (−$5 pp). Cheapest close bed; prearrange 02:45 taxi.
+- Value: [Eka Hotel (Mombasa Rd)](https://www.ekahotel.com) $60 pp/night, ★ TA ~4.3; 4-star (+$20 pp). Proper hotel, ~15m to JKIA; shuttle on request.
+- Deal: [Four Points by Sheraton Nairobi Airport](https://www.marriott.com/en-us/hotels/nbofp-four-points-nairobi-airport/) $85 pp/night, ★ TA ~4.3; at JKIA (+$45 pp). 5 min to terminal. Max sleep before 02:45.
+- Splurge: [Ole Sereni](https://www.olesereni.com) $115 pp/night, ★ TA ~4.5 (+$75 pp). Last-night game view from terrace.
+
 ## Budget (per person, USD)
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
 | International flights | Multi-city: LAX-RAK Dec 19 via Europe; CMN-CAI-NBO Dec 27 (MS848/MS849); NBO-LAX Jan 16 (TK608/TK9) | $2,400 | $2,000–$2,900 | Replaces $1,500 base: ~+$900 pp (+$500 to +$1,400). Morocco-NBO one-way ~$630-710; LAX-Morocco ~$800-1,100; NBO-LAX ~$800-1,100. One Star Alliance ticket protects connections. Estimate; no live festive fare, verify. |
-| Stopover (excl. flights) | Lodging: 7 nights: 2 riad, kasbah, auberge, camp, auberge, Azrou hotel (shared doubles) | $275 | $200–$600 | 70+35+30+75+35+30. Mostly half board. High end: luxury camp, nicer riads. |
+| Stopover (excl. flights) | Lodging: 7 nights: 2 riad, kasbah, auberge, camp, auberge, Azrou hotel (shared doubles) | $335 | $200–$600 | 120+45+30+75+35+30. Riad + Ait Benhaddou raised Oct 13 (Dar Najat ~$120+/room; Dar Mouna $68+ B&B + dinner). Mostly half board. High: luxury camp, nicer riads. |
 | Stopover (excl. flights) | Tours/transport: Private driver + car, 6 days Marrakech-CMN one-way + RAK transfer | $530 | $420–$700 | ~$150-180/day per vehicle incl. fuel, driver lodging, plus one-way surcharge, split 2. Get local quotes; private 4-day Marrakech-Fes tours ~$750-940 pp incl. lodging. Shared ~$190-300 pp, 9-10h days. |
 | Stopover (excl. flights) | Permits/fees: Majorelle + Berber Museum, Ben Youssef, Ait Benhaddou, gorge guide, Khamlia, tips | $80 | $50–$120 | Majorelle + Berber Museum ~200 MAD. Driver tip ~$10-15/day per car. |
 | Stopover (excl. flights) | Food: Lunches, 2-3 dinners, water/snacks | $150 | $100–$220 | Tagine lunch ~$6-12; half board covers most dinners. |
 | Stopover (excl. flights) | Visa: Morocco visa-free; Egypt airside no visa | $0 | $0–$0 | Kenya eTA in base plan. |
-| Stopover (excl. flights) | Misc: SIM/eSIM, warm layers, laundry, buffer | $60 | $30–$120 | Total ~$3,495 pp vs $1,500 base: ~+$1,995 pp. |
+| Stopover (excl. flights) | Misc: SIM/eSIM, warm layers, laundry, buffer | $60 | $30–$120 | Total ~$3,555 pp vs $1,500 base: ~+$2,055 pp. |
 | Kenya domestic flights | None (all road) | $0 | $0–$0 | Fly options shown side by side in Route. |
 | Lodging | Private camping crew 18 days Dec 29–Jan 15: 4x4, guide, cook, tents, meals, fuel | $2,735 | $2,350–$3,450 | 5 festive days × $170 + 13 × $145. Get 3 KATO quotes. |
 | Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$150 | $70 pppn |
@@ -292,7 +396,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Misc/souvenirs | eSIM / Safaricom SIM | $15 | $8–$25 |  |
 | Misc/souvenirs | Souvenirs, laundry, sundries | $50 | $30–$250 |  |
 | Contingency | ~5%: operator quotes, fares, fees, FX | $300 | $250–$500 | Hold until quotes are signed |
-| **Total** | | **$9,595** | | ≈ $19,190 for two |
+| **Total** | | **$9,655** | | ≈ $19,310 for two |
 
 ## Options & swaps
 
@@ -373,7 +477,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 ## Open questions
 
-1. Morocco stopover adds $1,995 pp and a week. Worth it vs. Christmas at home?
+1. Morocco stopover adds $2,055 pp and a week. Worth it vs. Christmas at home?
 2. Confirm the budget is per person (assumed), not total for both.
 3. Exotic loop is ~$7,600 pp. OK, or cut (skip Kakamega −$800, home Jan 14 −$450)?
 4. Extra 2 days went to Mara + Hell's Gate. Prefer them elsewhere (e.g. 4th Samburu night)?
@@ -403,6 +507,26 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 - https://www.tourradar.com/t/357270
 - https://www.tourradar.com/t/345340
 - https://www.aaa.com/tripcanvas/thing-to-do/private-4-days-tour-to-fes-via-desert-and-experience-in-merzouga-from-marrakech-100273P17
+- https://www.kayak.com/Marrakesh-Hotels-Riad-Dar-Najat.174729.ksp
+- https://www.kayak.com/Marrakesh-Hotels-Equity-Point-Marrakech.310781.ksp
+- https://www.roomertravel.com/featured/riad-yasmine.h56910
+- https://www.hotelscombined.com.sg/Hotel/Riad_Yasmine.htm
+- https://www.kayak.com/Ait-Ben-Haddou-Hotels-Dar-Mouna.622655.ksp
+- https://www.expedia.com/Ait-Benhaddou-Hotels-Hotels-With-Restaurants.0-0-d6127136-tHotelswithRestaurants.Travel-Guide-Filter-Hotels
+- https://www.naturallymorocco.co.uk/accommodation/v/510-auberge-le-festival/
+- https://www.kayak.com/Tineghir-Hotels-Auberge-Le-Festival-Todra-Gorge.534749.ksp
+- https://www.kayak.com/Tinghir-Hotels-Auberge-Restaurant-La-Petite-Gorge.2187069.ksp
+- https://www.civitatis.com/en/merzouga/overnight-camel-trek
+- https://www.expedia.com/things-to-do/camel-trekking-excursion-overnight-desert-camp-merzouga-desert-erg-chebbi-dunes.a2079237.activity-details
+- https://www.airbnb.co.uk/rooms/4064336
+- https://trip101.com/article/where-to-stay-merzouga-morocco
+- https://www.expedia.com/cn/Merzouga.dx6046702
+- https://www.travelocity.com/es/Taouz-Hoteles-Kasbah-Mohayut.h4099656.Informacion-Hotel
+- https://www.travelocity.com/Taouz-Hotels-Kasbah-Hotel-Tombouctou.h2478620.Hotel-Information
+- https://www.travelocity.com/Taouz-Hotels-Auberge-Kasbah-Merzouga.h107407760.Hotel-Information
+- https://ph.trip.com/hotels/azrou-hotel-detail-9874064/le-palais-des-cerisiers
+- https://www.expedia.co.in/Ifrane-Hotels-Hotel-Perce-Neige.h73470366.Hotel-Information
+- https://www.expedia.ie/Azrou-Hotels.d6177036.Travel-Guide-Hotels
 - https://uk.trip.com/flights/status-tk607
 - https://www.airpaz.com/en/flight/code/TK-607
 - https://info.flightmapper.net/flight/Turkish_Airlines_TK_10
@@ -445,3 +569,34 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 - https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve
 - https://en.wikipedia.org/wiki/Maasai_Mara_conservancies
 - https://roadtripafrica.com/kenya/self-drive-tours/taste-of-kenya/
+- https://www.porini.com/wp-content/uploads/2026/06/Porini-Rhino-Camp-02-Nights-Fly-In-Package.pdf
+- https://www.chaloafrica.com/accommodation/porini-rhino-camp-ol-pejeta-conservancy-laikipia-kenya/
+- https://www.chaloafrica.com/accommodation/ol-pejeta-bush-camp-kenya/
+- https://www.olpejetaconservancy.org/pelican-house/
+- https://africanspicesafaris.com/tour/sweetwaters-serena-camp-morani-wing-luxury-tents/
+- https://africanspicesafaris.com/website/ashnil-samburu-camp.html
+- https://www.go2africa.com/accommodation/sarova-shaba-game-lodge
+- https://www.go2africa.com/accommodation/elephant-bedroom-camp
+- https://africanspicesafaris.com/website/elephant-bedroom-camp-samburu.html
+- https://umojawomen.or.ke/qinstpckg/index.php/post-formats
+- https://www.go2africa.com/accommodation/sarova-lion-hill-game-lodge
+- https://www.travelocity.com/Nakuru-Hotels-Lake-Nakuru-Lodge.h21623169.Hotel-Reviews
+- https://victormatara.com/kws-guest-houses-and-bandas-accommodation-rates/
+- https://www.kws.go.ke/sites/default/files/2025-09/KWS%20Conservation%20Fee%20October%20%202025.pdf
+- https://en.wikivoyage.org/wiki/Kakamega_Rainforest
+- https://africanspicesafaris.com/tour/rondo-retreat-centre-kakamega-rainforest-lodge/
+- https://www.booking.com/hotel/ke/thomsons-falls-lodge.html
+- https://www.kayak.com/Nyahururu-Hotels-The-Panari-Resort-Nyahururu.2571964.ksp
+- https://www.expedia.com/Kericho-Hotels.d3000425103.Travel-Guide-Hotels
+- https://www.chaloafrica.com/accommodation/basecamp-masai-mara-masai-mara-national-reserve-kenya/
+- https://www.go2africa.com/accommodation/porini-mara-camp
+- https://www.siyabona.com/pricing_safari-lodge-kicheche-tented-camp-kenya.html
+- https://www.travelocity.com/Maasai-Mara-Hotels-Mara-Siria-Luxury-Tented-Camp-Luxury-Cottages.h40190488.Hotel-Information
+- https://thekenyatimes.com/lifestyle/travel-tourism/kenyas-hidden-gem-camp-carnelley-with-luxury-stays-of-ksh4k-per-night/
+- https://africanspicesafaris.com/tour/camp-carnellys-lake-naivasha/
+- https://africanspicesafaris.com/tour/sanctuary-farm-house-naivasha/
+- https://governorscamp.com/wp-content/uploads/2025/04/2026-governors-rate-sheet-recommened-selling-rates.pdf
+- https://africanspicesafaris.com/tour/wildebeest-eco-camp-nairobi/
+- https://www.safari.com/nairobi-tented-camp
+- https://africanspicesafaris.com/tour/ole-sereni-hotel-nairobi/
+- https://www.kayak.com/Nairobi-Hotels-Eka-Hotel-Nairobi.676138.ksp

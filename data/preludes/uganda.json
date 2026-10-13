@@ -411,7 +411,61 @@
       "includes": "Room only",
       "why": "No same-night EBB link; airside = no immigration.",
       "url": "https://www.yotel.com/en/hotels/yotel-istanbul-airport-airside",
-      "alternatives": "Arnavutkoy landside budget (~$40–60 pp)"
+      "alternatives": "Arnavutkoy budget hotel or YOTELAIR airside. See options.",
+      "options": [
+        {
+          "id": "ist-airport-hotel",
+          "tag": "Plan",
+          "name": "YOTEL Istanbul Airport (airside) or a nearby airport hotel",
+          "pppn_usd": 75,
+          "room_usd": 150,
+          "rating": "",
+          "style": "Airport hotel, double",
+          "includes": "Room only",
+          "why": "Current pick; see main notes.",
+          "url": "https://www.yotel.com/en/hotels/yotel-istanbul-airport-airside",
+          "notes": "$75 pp buys a landside/nearby hotel, not YOTELAIR (~$300+/room). Book refundable."
+        },
+        {
+          "id": "ist-arnavutkoy-budget",
+          "tag": "Cheaper",
+          "name": "Arnavutkoy/Tayakadin budget airport hotel",
+          "pppn_usd": 28,
+          "room_usd": 55,
+          "rating": "",
+          "style": "Small 'pilot' hotel, double",
+          "includes": "Room; shuttle on request (fee)",
+          "why": "Half price; 15 min taxi. Needs Turkish entry (US visa-free).",
+          "url": "https://www.booking.com/airport/tr/ist.html",
+          "notes": "Listings ~$42-57/room. Confirm 24h shuttle and late check-in."
+        },
+        {
+          "id": "ist-yotel-landside",
+          "tag": "Value",
+          "name": "YOTEL Istanbul Airport (landside)",
+          "pppn_usd": 100,
+          "room_usd": 200,
+          "rating": "",
+          "style": "Cabin hotel in terminal",
+          "includes": "Cabin room, shower; walk to check-in",
+          "why": "No taxi; sleep in terminal, walk to TK591 check-in.",
+          "url": "https://www.yotel.com",
+          "notes": "Launch ~$155/night; aggregators $355-419. Wide range; check direct. Needs passport control."
+        },
+        {
+          "id": "ist-yotelair-airside",
+          "tag": "Splurge",
+          "name": "YOTELAIR Istanbul Airport (airside)",
+          "pppn_usd": 200,
+          "room_usd": 400,
+          "rating": "",
+          "style": "Airside cabins, sold by hours",
+          "includes": "Cabin, shower; no immigration",
+          "why": "No immigration, no bags; easiest, priciest.",
+          "url": "https://www.expedia.com/Istanbul-Hotels-YOTELAIR-Istanbul-Airport-Airside.h38543599.Hotel-Information",
+          "notes": "Aggregator nights $330-520/room. Hand luggage only; ~20h layover may need 2 blocks."
+        }
+      ]
     },
     {
       "name": "Entebbe budget guesthouse (e.g. Karibu / Airport Guesthouse)",
@@ -423,19 +477,153 @@
       "includes": "Breakfast; often late airport pickup",
       "why": "Near EBB for 22:00 landing and 12:30 Aerolink.",
       "url": "https://www.booking.com/city/ug/entebbe.html",
-      "alternatives": "2 Friends Beach Hotel (~$60–80 pp). Backpackers (~$20 pp)."
+      "alternatives": "Secrets, Lake Point Villa, 2 Friends. See options.",
+      "options": [
+        {
+          "id": "ent-budget-guesthouse",
+          "tag": "Plan",
+          "name": "Entebbe budget guesthouse (e.g. Karibu / Airport Guesthouse)",
+          "pppn_usd": 40,
+          "room_usd": 80,
+          "rating": "",
+          "style": "Guesthouse, en-suite double",
+          "includes": "Breakfast; often late airport pickup",
+          "why": "Current pick; see main notes.",
+          "url": "https://www.booking.com/city/ug/entebbe.html",
+          "notes": "Need 22:45 pickup; confirm free/fee. Refundable via Booking."
+        },
+        {
+          "id": "ent-secrets",
+          "tag": "Cheaper",
+          "name": "Secrets Guest House, Entebbe",
+          "pppn_usd": 23,
+          "room_usd": 45,
+          "rating": "",
+          "style": "Guesthouse, double",
+          "includes": "Room; airport shuttle listed",
+          "why": "Cheapest with shuttle near EBB.",
+          "url": "https://www.kayak.com/Entebbe-Hotels-Secrets-Guest-House.2773487.ksp",
+          "notes": "From ~$45/room (aggregator). Unverified Dec rate; check reviews."
+        },
+        {
+          "id": "ent-lake-point-villa",
+          "tag": "Deal",
+          "name": "Lake Point Villa, Entebbe",
+          "pppn_usd": 27,
+          "room_usd": 53,
+          "rating": "",
+          "style": "Guesthouse, double",
+          "includes": "Breakfast, free airport shuttle",
+          "why": "Breakfast plus free shuttle at ~$53/room all-in.",
+          "url": "https://www.expedia.com/Entebbe-Hotels.d180351.Travel-Guide-Hotels",
+          "notes": "Jan 2026 rate $45+fees. One review: pickup mix-up; reconfirm."
+        },
+        {
+          "id": "ent-elephant-safari-village",
+          "tag": "Value",
+          "name": "Elephant Safari Village, Entebbe",
+          "pppn_usd": 38,
+          "room_usd": 76,
+          "rating": "",
+          "style": "Lodge/guesthouse",
+          "includes": "B&B (pp rate)",
+          "why": "10 min from EBB; quieter, garden setting.",
+          "url": "https://tulavo.com/?p=4787",
+          "notes": "$38 pp B&B per listing. Pickup fee unknown."
+        },
+        {
+          "id": "ent-2-friends",
+          "tag": "Splurge",
+          "name": "2 Friends Beach Hotel, Entebbe",
+          "pppn_usd": 60,
+          "room_usd": 120,
+          "rating": "",
+          "style": "Boutique beach hotel",
+          "includes": "Breakfast; one airport transfer often included",
+          "why": "Best-known Entebbe boutique; lakefront, good restaurant.",
+          "url": "https://www.kayak.com/Entebbe-Hotels-2-Friends-Entebbe-Beach-Hotel.823794.ksp",
+          "notes": "From ~$96-120/room (aggregator). Confirm transfer and refund terms."
+        }
+      ]
     },
     {
       "name": "CTPH Gorilla Conservation Camp / Buhoma Community Rest Camp",
       "place": "BWI",
       "location": "Buhoma, walk to gorilla briefing",
       "nights": 2,
-      "pppn_usd": 60,
+      "pppn_usd": 80,
       "style": "Budget rooms or tents",
-      "includes": "Full board, ~$60 pp/night",
+      "includes": "Full board (CTPH double ~$160/room FB = ~$80 pp)",
       "why": "Only real budget beds at Buhoma; community/conservation run; walk to trek.",
       "url": "https://ctph.org/",
-      "alternatives": "Buhoma Lodge ($380–535 pp FB). Gorilla Mist Camp ($200–400)."
+      "alternatives": "Bwindi View Bandas, Engagi, Buhoma Lodge. See options.",
+      "options": [
+        {
+          "id": "bwi-ctph-community",
+          "tag": "Plan",
+          "name": "CTPH Gorilla Conservation Camp / Buhoma Community Rest Camp",
+          "pppn_usd": 80,
+          "room_usd": 160,
+          "rating": "",
+          "style": "Budget rooms or tents",
+          "includes": "Full board (CTPH double ~$160/room FB = ~$80 pp)",
+          "why": "Current pick; see main notes.",
+          "url": "https://ctph.org/",
+          "notes": "CTPH card: double FB $160, HB $140, room $100 (undated). Buhoma Community Rest Camp similar (~$160/2 FB). $60 was low; now $80. Ask refund terms in writing."
+        },
+        {
+          "id": "bwi-bwindi-view-bandas",
+          "tag": "Cheaper",
+          "name": "Bwindi View Bandas, Buhoma",
+          "pppn_usd": 60,
+          "room_usd": 120,
+          "rating": "",
+          "style": "Budget bandas, 100 m from gate",
+          "includes": "Full board (self-contained banda)",
+          "why": "Cheapest FB at Buhoma; walk to gorilla briefing.",
+          "url": "https://ugandatravelblog.com/lodges/bwindi-view-bandas/",
+          "notes": "Blog rates conflict: s/c banda $120/2 FB, non-s/c $96/2; other table $130/room. No official site found."
+        },
+        {
+          "id": "bwi-community-rest-camp",
+          "tag": "Deal",
+          "name": "Buhoma Community Rest Camp (non-s/c banda)",
+          "pppn_usd": 55,
+          "room_usd": 110,
+          "rating": "",
+          "style": "Community-owned bandas/tents at gate",
+          "includes": "Full board; shared bath in cheapest bandas",
+          "why": "Community-owned since 1993; at park gate; proceeds fund clinic/school.",
+          "url": "https://trekafricatours.com/buhoma-community-rest-camp/",
+          "notes": "2022 rates: s/c FB $115-249/unit, non-s/c $96-180/room. Tel +256 772 384965. 2026 unverified."
+        },
+        {
+          "id": "bwi-engagi",
+          "tag": "Value",
+          "name": "Engagi Lodge, Buhoma",
+          "pppn_usd": 250,
+          "room_usd": 500,
+          "rating": "",
+          "style": "Mid-range lodge, cottages",
+          "includes": "Full board",
+          "why": "Comfy mid-range cottages, forest views, near trailhead.",
+          "url": "https://www.theafricaspecialists.com/uganda/bwindi-impenetrable-national-park/engagi-lodge/",
+          "notes": "From $235-250 pp (2026/27, agents); Dec high season higher. Ask refundability."
+        },
+        {
+          "id": "bwi-buhoma-lodge",
+          "tag": "Splurge",
+          "name": "Buhoma Lodge",
+          "pppn_usd": 545,
+          "room_usd": 1090,
+          "rating": "",
+          "style": "Luxury lodge, forest-edge cottages",
+          "includes": "Board per operator (HB on safari.com); drinks/laundry vary",
+          "why": "Best location at Buhoma; cottages overlook forest.",
+          "url": "https://www.safari.com/buhoma",
+          "notes": "2026: $455-535 HB pp (safari.com); from $545 (2026/27 agent). Deposit terms strict; refundable rate unlikely."
+        }
+      ]
     },
     {
       "name": "Simba Safari Camp (or UWA Mweya bandas)",
@@ -447,7 +635,74 @@
       "includes": "Half board",
       "why": "Cheap, near Kasenyi and Kazinga boat. 2026 rates unverified; ask Christmas surcharge.",
       "url": "https://www.simbasafaricamp.com/",
-      "alternatives": "Mweya Safari Lodge (~$200–300 pp). Ishasha Wilderness Camp ($400+)."
+      "alternatives": "Bush Lodge, Pumba, Mweya Safari Lodge, Ishasha Wilderness Camp. See options.",
+      "options": [
+        {
+          "id": "qen-simba-safari-camp",
+          "tag": "Plan",
+          "name": "Simba Safari Camp (or UWA Mweya bandas)",
+          "pppn_usd": 75,
+          "room_usd": 150,
+          "rating": "",
+          "style": "Budget safari camp, en-suite",
+          "includes": "Half board",
+          "why": "Current pick; see main notes.",
+          "url": "https://www.simbasafaricamp.com/",
+          "notes": "Only rate seen: old 'from $55 single'. 2026 HB unverified; ask Christmas surcharge, refund policy."
+        },
+        {
+          "id": "qen-bush-lodge",
+          "tag": "Cheaper",
+          "name": "The Bush Lodge (Nature Lodges), Kazinga Channel",
+          "pppn_usd": 50,
+          "room_usd": 100,
+          "rating": "",
+          "style": "Budget tents on Kazinga Channel",
+          "includes": "Tent from $35 room-only; meals extra (~$30 pp)",
+          "why": "Cheapest on channel; hippos at night, near Katunguru.",
+          "url": "https://naturelodgesuganda.com/the-bush-lodge/",
+          "notes": "Non-s/c tents from $35; s/c tents and FB pricier (agents say $100-250 pp). Est."
+        },
+        {
+          "id": "qen-pumba",
+          "tag": "Deal",
+          "name": "Pumba Safari Cottages",
+          "pppn_usd": 95,
+          "room_usd": 190,
+          "rating": "",
+          "style": "Budget cottages, Kasenyi side",
+          "includes": "Likely FB (confirm)",
+          "why": "Budget cottages with meals, near Kasenyi plains.",
+          "url": "https://www.tripadvisor.com/HotelsList-Queen_Elizabeth_National_Park-Lodge-Luxury-zfp14320571.html",
+          "notes": "Guide: $90-100 pp (budget tier). Unverified; no official rate found."
+        },
+        {
+          "id": "qen-mweya-lodge",
+          "tag": "Value",
+          "name": "Mweya Safari Lodge",
+          "pppn_usd": 240,
+          "room_usd": 480,
+          "rating": "",
+          "style": "Classic park hotel on Mweya Peninsula",
+          "includes": "Full board",
+          "why": "Best location: Kazinga boat dock, Kasenyi 30 min, Christmas dinner.",
+          "url": "https://mweyalodge.com/rates-1-african-safari-rooms/",
+          "notes": "Official 2024: $215-226 pp FB sharing; 2026 est ~$240. Ask refundable/Christmas gala charge."
+        },
+        {
+          "id": "qen-ishasha-wilderness",
+          "tag": "Splurge",
+          "name": "Ishasha Wilderness Camp",
+          "pppn_usd": 495,
+          "room_usd": 990,
+          "rating": "",
+          "style": "Luxury tented camp, Ntungwe River",
+          "includes": "Full board, drinks, game drives (confirm)",
+          "why": "Tree-climbing lion sector; riverside tents, quiet.",
+          "url": "https://www.chaloafrica.com/accommodation/ishasha-wilderness-camp-uganda/",
+          "notes": "Dec 2026: $495 pp (agent); others from $510. Ishasha far from Kazinga boat; splits Christmas plan."
+        }
+      ]
     },
     {
       "name": "Chimpanzee Forest Guesthouse / Kibale Forest Camp budget tents",
@@ -459,7 +714,74 @@
       "includes": "Half to full board",
       "why": "~15 min to chimp start.",
       "url": "https://www.chimpanzeeforestguesthouse.com/",
-      "alternatives": "Primate Lodge ($250+). Fort Portal guesthouses (~$30 pp, 45 min)."
+      "alternatives": "Isunga, Kibale Forest Camp, Primate Lodge, Fort Portal. See options.",
+      "options": [
+        {
+          "id": "kib-chimp-forest-guesthouse",
+          "tag": "Plan",
+          "name": "Chimpanzee Forest Guesthouse / Kibale Forest Camp budget tents",
+          "pppn_usd": 65,
+          "room_usd": 130,
+          "rating": "",
+          "style": "Guesthouse or budget tents",
+          "includes": "Half to full board",
+          "why": "Current pick; see main notes.",
+          "url": "https://www.chimpanzeeforestguesthouse.com/",
+          "notes": "No official 2026 rate found; agents put it in $100-220 pp mid tier, so $65 may be low. Confirm FB and refund terms."
+        },
+        {
+          "id": "kib-fort-portal",
+          "tag": "Cheaper",
+          "name": "Fort Portal guesthouse",
+          "pppn_usd": 30,
+          "room_usd": 60,
+          "rating": "",
+          "style": "Town guesthouse",
+          "includes": "B&B",
+          "why": "Cheapest; 45 min to Kanyanchu. Fine after 14:00 chimps.",
+          "url": "https://www.booking.com/city/ug/fort-portal.html",
+          "notes": "~$30 pp est. Extra 45 min each way on driver day; Dec 27 airstrip run ok."
+        },
+        {
+          "id": "kib-isunga",
+          "tag": "Deal",
+          "name": "Isunga Lodge, Kibale",
+          "pppn_usd": 30,
+          "room_usd": 60,
+          "rating": "9.7/10 Booking (60)",
+          "style": "Small lodge by park",
+          "includes": "Room; meals likely extra (confirm)",
+          "why": "Top-rated, cheap, ~10 min to Kanyanchu chimp start.",
+          "url": "https://hotels.edreams.co.uk/budget/city/ug/bigodi.en-gb.html",
+          "notes": "From ~EUR 98/2 adults (aggregator). Add meals ~$30 pp. Refundable via Booking."
+        },
+        {
+          "id": "kib-forest-camp",
+          "tag": "Value",
+          "name": "Kibale Forest Camp (Nature Lodges)",
+          "pppn_usd": 75,
+          "room_usd": 150,
+          "rating": "",
+          "style": "Tented camp, forest edge near Bigodi",
+          "includes": "Full board (confirm)",
+          "why": "Forest tents near Bigodi swamp walk; good mid-budget.",
+          "url": "https://naturelodgesuganda.com",
+          "notes": "Est $120-180/night (blog); package FB rates only. Unverified."
+        },
+        {
+          "id": "kib-primate-lodge",
+          "tag": "Splurge",
+          "name": "Primate Lodge Kibale",
+          "pppn_usd": 400,
+          "room_usd": 800,
+          "rating": "",
+          "style": "Lodge inside park at Kanyanchu",
+          "includes": "Full board, house drinks, laundry",
+          "why": "Inside park at chimp start; cheaper tented rooms exist.",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g1553443-d1119775-Reviews-Primate_Lodge-Kibale_National_Park_Western_Region.html",
+          "notes": "2024 official: $280-330 pp; 2026 cottages $400-470 (agent). Tented rooms cheaper; ask."
+        }
+      ]
     },
     {
       "name": "Karen budget guesthouse (KAR)",
@@ -471,7 +793,61 @@
       "includes": "Breakfast",
       "why": "Late/after-midnight arrival; stay for Dec 28 rest.",
       "url": "https://www.booking.com/district/ke/nairobi/karen.html",
-      "alternatives": "Wildebeest Eco Camp (Langata, ~$40–70 pp)"
+      "alternatives": "Wildebeest Eco Camp, airport hotel. See options.",
+      "options": [
+        {
+          "id": "kar-budget-guesthouse",
+          "tag": "Plan",
+          "name": "Karen budget guesthouse (KAR)",
+          "pppn_usd": 40,
+          "room_usd": 80,
+          "rating": "",
+          "style": "Guesthouse",
+          "includes": "Breakfast",
+          "why": "Current pick; see main notes.",
+          "url": "https://www.booking.com/district/ke/nairobi/karen.html",
+          "notes": "Book Dec 27 night so room held past midnight. Free cancellation rate."
+        },
+        {
+          "id": "kar-wildebeest",
+          "tag": "Cheaper",
+          "name": "Wildebeest Eco Camp, Langata",
+          "pppn_usd": 32,
+          "room_usd": 64,
+          "rating": "",
+          "style": "Eco camp, garden tent/room",
+          "includes": "Breakfast; airport shuttle (fee)",
+          "why": "Cheap, breakfast in; 15 min from Karen.",
+          "url": "https://www.expedia.ae/Karen.dx553248626150029171",
+          "notes": "~$64/room snapshot. Confirm 01:30 arrival OK."
+        },
+        {
+          "id": "kar-airport-suites",
+          "tag": "Value",
+          "name": "Palm Airport Suites, Syokimau",
+          "pppn_usd": 35,
+          "room_usd": 70,
+          "rating": "",
+          "style": "Hotel near JKIA",
+          "includes": "24h front desk; breakfast likely",
+          "why": "10 min from JKIA; best if KQ419 lands 01:25.",
+          "url": "https://www.booking.com/airport/ke/nbo.html",
+          "notes": "Price unverified. Move to Karen Dec 28."
+        },
+        {
+          "id": "kar-karen-gables",
+          "tag": "Splurge",
+          "name": "Karen Gables",
+          "pppn_usd": 135,
+          "room_usd": 270,
+          "rating": "",
+          "style": "Upmarket Karen guesthouse",
+          "includes": "English breakfast",
+          "why": "Leafy, quiet Karen; good rest-day base.",
+          "url": "https://www.tiket.com/en-us/hotel/kenya/karen-gables-108001534521232509",
+          "notes": "Listings $265-683/room. Check late check-in."
+        }
+      ]
     }
   ],
   "budget": [
@@ -534,10 +910,10 @@
     {
       "category": "Lodging",
       "item": "7 nights (IST 1, Entebbe 1, Buhoma 2, QENP 2, Kibale 1, Nairobi 1)",
-      "per_person_usd": 490,
+      "per_person_usd": 530,
       "low_usd": 340,
       "high_usd": 650,
-      "notes": "Twin share, budget; most meals incl. at Bwindi, QENP, Kibale. Mid-range +$800–1,500+."
+      "notes": "Twin share, budget; most meals incl. at Bwindi, QENP, Kibale. Buhoma $60->$80 pp (CTPH FB $160/room). Mid-range +$800-1,500+."
     },
     {
       "category": "Food",
@@ -673,7 +1049,23 @@
     "https://www.4x4uganda.com/chimpanzee-tracking-uganda/ugandas-new-chimpanzee-tracking-rates-2027.html",
     "https://www.expedia.com/lp/flight-routes/turkish-airlines-from-los-angeles-intl-to-entebbe-intl/tk/lax/ebb",
     "https://safarifind.com/blog/uganda-visa-for-american-citizens-2026",
-    "https://ctph.org/"
+    "https://ctph.org/",
+    "https://ctph.org/gorilla-conservation-camp/",
+    "https://tracks4africa.co.za/listings/item/w171291/buhoma-community-rest-camp/",
+    "https://ugandatravelblog.com/lodges/bwindi-view-bandas/",
+    "https://www.theafricaspecialists.com/uganda/bwindi-impenetrable-national-park/engagi-lodge/",
+    "https://www.safari.com/buhoma",
+    "https://mweyalodge.com/rates-1-african-safari-rooms/",
+    "https://www.chaloafrica.com/accommodation/ishasha-wilderness-camp-uganda/",
+    "https://naturelodgesuganda.com/the-bush-lodge/",
+    "https://www.monitor.co.ug/uganda/magazines/life/soothing-delights-of-simba-safari-camp-1550032",
+    "https://www.porini.com/wp-content/uploads/2024/05/Primate-Lodge-Kibale.pdf",
+    "https://safarifind.com/blog/best-safari-lodges-in-kibale-forest-2027-budget-to-luxury-rates",
+    "https://www.privatetourscapetown.com/blog/kibale-safari-packages",
+    "https://www.businesstraveller.com/news/yotel-opens-properties-at-new-istanbul-airport/",
+    "https://www.expedia.com/Istanbul-Hotels-YOTELAIR-Istanbul-Airport-Airside.h38543599.Hotel-Information",
+    "https://www.kayak.com/Entebbe-Hotels-2-Friends-Entebbe-Beach-Hotel.823794.ksp",
+    "https://www.expedia.ae/Karen.dx553248626150029171"
   ],
   "safety_short": "Level 4 since Jun 2026 (Ebola; Uganda outbreak over, DRC ongoing). ADF killed tourists in QENP 2023, none since. Anti-LGBTQ law. Many insurers exclude Level 4."
 }

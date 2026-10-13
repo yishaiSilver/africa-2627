@@ -352,40 +352,254 @@
   ],
   "lodging": [
     {
-      "name": "Once in Cape Town (private en-suite double)",
+      "name": "never@home Kloof Street (ex-Once in Cape Town), private en-suite double",
       "place": "CPT",
       "location": "Kloof St, Gardens, Cape Town",
       "nights": 3,
       "pppn_usd": 55,
       "style": "Upscale hostel/guesthouse, private room",
-      "includes": "Private en-suite, Wi-Fi, breakfast (often incl.), parking",
+      "includes": "Private en-suite, Wi-Fi; breakfast/parking extra or limited (confirm)",
       "why": "Safe, walkable, restaurants, Uber. 10 min to cableway/Kirstenbosch, 25-30 min to airport. Among cheapest decent peak private rooms.",
-      "url": "https://www.onceincapetown.co.za",
-      "alternatives": "Ashanti Lodge Gardens; Never@Home Green Point; Muizenberg/Kalk Bay guesthouse or Airbnb (near penguins, ~R1,800-2,500/night)"
+      "url": "https://www.lekkeslaap.co.za/accommodation/never--home-kloof-street",
+      "alternatives": "Ashanti Gardens, Liberty Lodge, The Muize (Muizenberg). See options.",
+      "options": [
+        {
+          "id": "cpt-never-at-home-kloof",
+          "tag": "Plan",
+          "name": "never@home Kloof Street (ex-Once in Cape Town), private en-suite double",
+          "pppn_usd": 55,
+          "room_usd": 110,
+          "rating": "",
+          "style": "Upscale hostel/guesthouse, private room",
+          "includes": "Private en-suite, Wi-Fi; breakfast/parking extra or limited (confirm)",
+          "why": "Current pick; see main notes.",
+          "url": "https://www.lekkeslaap.co.za/accommodation/never--home-kloof-street",
+          "notes": "Rebranded from Once in Cape Town 2022. Private rooms from R934 off-peak; Dec ~R1,800/room est. 30% deposit typical; check refund terms."
+        },
+        {
+          "id": "cpt-ashanti-gardens",
+          "tag": "Cheaper",
+          "name": "Ashanti Lodge Gardens (private room)",
+          "pppn_usd": 33,
+          "room_usd": 66,
+          "rating": "",
+          "style": "Backpacker lodge, private double",
+          "includes": "Room only; shared or en-suite bath (annex guesthouse en-suite, pricier); pool, bar",
+          "why": "Cheapest safe Gardens private room; walk to Kloof St.",
+          "url": "https://www.ashanti.co.za",
+          "notes": "Off-peak ~R840-1,020/room; Dec est ~R1,100. En-suite annex ~R1,400. Unverified for Dec."
+        },
+        {
+          "id": "cpt-the-muize",
+          "tag": "Deal",
+          "name": "The Muize, Muizenberg (B&B)",
+          "pppn_usd": 50,
+          "room_usd": 100,
+          "rating": "",
+          "style": "Beach B&B, double",
+          "includes": "Breakfast included",
+          "why": "Breakfast in; 25 min to Boulders. Cableway/airport ~30-35 min.",
+          "url": "https://sa-venues.com/visit/themuize",
+          "notes": "Aggregators $55-95/room off-peak; Dec est ~$100. Lose Gardens restaurants/Uber walkability."
+        },
+        {
+          "id": "cpt-liberty-lodge",
+          "tag": "Value",
+          "name": "Liberty Lodge, Tamboerskloof",
+          "pppn_usd": 58,
+          "room_usd": 116,
+          "rating": "",
+          "style": "Small guesthouse, double",
+          "includes": "Private en-suite, Wi-Fi; breakfast varies by rate",
+          "why": "Quiet guesthouse feel, near Kloof St and cableway road.",
+          "url": "https://www.kayak.com/Cape-Town-Hotels-Liberty-Lodge.608071.ksp",
+          "notes": "Double ~R1,565 off-peak (May); Dec est ~R1,900. Unverified; check flexible rate."
+        },
+        {
+          "id": "cpt-four-rosmead",
+          "tag": "Splurge",
+          "name": "Four Rosmead Boutique Guest House, Oranjezicht",
+          "pppn_usd": 213,
+          "room_usd": 427,
+          "rating": "",
+          "style": "Boutique guesthouse, luxury room",
+          "includes": "Breakfast, pool, garden; parking",
+          "why": "Top Gardens-area boutique; pool, mountain views.",
+          "url": "https://www.travelbutlers.com/property/Four_Rosmead_Boutique_Guest_House",
+          "notes": "Peak Dec 20-Jan 10 2025/26: GBP 272 (~R6,660)/room, 3-night min. 2026/27 est ~R7,000."
+        }
+      ]
     },
     {
       "name": "Skukuza Rest Camp (bungalow BD2/BA2)",
       "place": "SZK",
       "location": "Skukuza, southern Kruger NP",
       "nights": 1,
-      "pppn_usd": 60,
+      "pppn_usd": 68,
       "style": "SANParks rest camp bungalow",
-      "includes": "En-suite double, fridge, AC, braai stand. Conservation fee extra (R602 pp/day through Oct 2026; 2026/27 rate from Nov 1).",
+      "includes": "En-suite double, fridge, AC, braai stand. R2,220/unit 2026/27 (+1% levy). Conservation fee extra (2026/27 rate from Nov 1).",
       "why": "10 min from airport, on river, restaurant, shop, sunset drives from camp. Kruger starts on landing.",
       "url": "https://www.sanparks.org/parks/kruger/camps/skukuza",
-      "alternatives": "Skukuza safari tent (~R1,300-1,600); Hazyview guesthouses outside Paul Kruger gate"
+      "alternatives": "Safari tent, riverside unit, aha Safari Lodge, Hazyview. See options.",
+      "options": [
+        {
+          "id": "szk-bungalow",
+          "tag": "Plan",
+          "name": "Skukuza Rest Camp (bungalow BD2/BA2)",
+          "pppn_usd": 68,
+          "room_usd": 135,
+          "rating": "",
+          "style": "SANParks rest camp bungalow",
+          "includes": "En-suite double, fridge, AC, braai stand. R2,220/unit 2026/27 (+1% levy). Conservation fee extra (2026/27 rate from Nov 1).",
+          "why": "Current pick; see main notes.",
+          "url": "https://www.sanparks.org/parks/kruger/camps/skukuza",
+          "notes": "2026/27 tariff R2,220/unit @R16.4/$ (Sep 2026) = ~$68 pp (was $60). SANParks: prepay; cancel fees escalate near date. Dec school holidays: book now, waitlist if full."
+        },
+        {
+          "id": "szk-safari-tent",
+          "tag": "Cheaper",
+          "name": "Skukuza safari tent",
+          "pppn_usd": 31,
+          "room_usd": 61,
+          "rating": "",
+          "style": "SANParks furnished tent",
+          "includes": "Beds, fridge, fan; shared ablutions and communal kitchen",
+          "why": "Half the bungalow price; same camp, same location.",
+          "url": "https://www.sanparks.org/parks/kruger/camps/skukuza",
+          "notes": "R1,008/unit from Nov 2026. No en-suite; hot Dec nights, no AC."
+        },
+        {
+          "id": "szk-riverside-bungalow",
+          "tag": "Value",
+          "name": "Skukuza riverside bungalow",
+          "pppn_usd": 95,
+          "room_usd": 189,
+          "rating": "",
+          "style": "SANParks bungalow, river view",
+          "includes": "En-suite, AC, kitchenette, braai; Sabie River view",
+          "why": "Christmas Eve on the Sabie; hippos and elephants from stoep.",
+          "url": "https://www.sanparks.org/parks/kruger/camps/skukuza",
+          "notes": "R3,103/unit 2026/27 (reseller mirror). Few units; sells out first."
+        },
+        {
+          "id": "szk-aha-safari-lodge",
+          "tag": "Deal",
+          "name": "aha Skukuza Safari Lodge",
+          "pppn_usd": 80,
+          "room_usd": 160,
+          "rating": "",
+          "style": "Hotel inside Skukuza camp",
+          "includes": "En-suite, AC; breakfast often included (confirm)",
+          "why": "128 rooms: best odds when SANParks bungalows full.",
+          "url": "https://www.kayak.com/Skukuza-Hotels-aha-Skukuza-Safari-Lodge.1071920045.ksp",
+          "notes": "Aggregators from ~$154/room, dates unclear. Hotel, not bungalow. Fallback outside park: Hazyview (Tatenda Guesthouse ~R1,220-1,430/room, ~1h)."
+        },
+        {
+          "id": "szk-jock-safari-lodge",
+          "tag": "Splurge",
+          "name": "Jock Safari Lodge (private concession)",
+          "pppn_usd": 1100,
+          "room_usd": 2200,
+          "rating": "",
+          "style": "Private concession lodge, southern Kruger",
+          "includes": "Fully inclusive: meals, select drinks, 2 open-vehicle drives, walk",
+          "why": "Open-vehicle off-road guided drives; leopard country.",
+          "url": "https://www.krugerpark.co.za/Kruger_Park_Private_Concession_Lodging-travel/pricing_kruger-private-jock-safari-lodge.html",
+          "notes": "May-Dec 31 2026: ~$1,070-1,145 pp sharing. Conservation fee extra. Closed Jun 1-Sep 8 2026 for refurb."
+        }
+      ]
     },
     {
       "name": "Lower Sabie Rest Camp (bungalow, river view if possible)",
       "place": "LSB",
       "location": "Lower Sabie, southern Kruger NP",
       "nights": 2,
-      "pppn_usd": 65,
+      "pppn_usd": 68,
       "style": "SANParks rest camp bungalow",
-      "includes": "En-suite double, AC, fridge; river units have Sabie deck. Restaurant, pool. Conservation fee extra.",
+      "includes": "En-suite double, AC, fridge; river units have Sabie deck. Restaurant, pool. R2,225/unit 2026/27. Conservation fee extra.",
       "why": "Top game density (rhino, lion, wild dog, elephant, hippo). Good Christmas spot; nearest major camp to Crocodile Bridge for Dec 27.",
       "url": "https://www.sanparks.org/parks/kruger/camps/lower-sabie",
-      "alternatives": "Crocodile Bridge camp; Marloth Park/Komatipoort guesthouses (~R1,400-2,000/room) if full. Both nearer N4 to MQP."
+      "alternatives": "Safari tent, Crocodile Bridge, Berg-en-Dal, Marloth Park. See options.",
+      "options": [
+        {
+          "id": "lsb-bungalow",
+          "tag": "Plan",
+          "name": "Lower Sabie Rest Camp (bungalow, river view if possible)",
+          "pppn_usd": 68,
+          "room_usd": 136,
+          "rating": "",
+          "style": "SANParks rest camp bungalow",
+          "includes": "En-suite double, AC, fridge; river units have Sabie deck. Restaurant, pool. R2,225/unit 2026/27. Conservation fee extra.",
+          "why": "Current pick; see main notes.",
+          "url": "https://www.sanparks.org/parks/kruger/camps/lower-sabie",
+          "notes": "2026/27 R2,225/unit @R16.4/$ (Sep 2026) = ~$68 pp (was $65). River-view units cost more (rate unconfirmed). Dec school holidays: book now."
+        },
+        {
+          "id": "lsb-croc-bridge-tent",
+          "tag": "Cheaper",
+          "name": "Crocodile Bridge safari tent",
+          "pppn_usd": 31,
+          "room_usd": 62,
+          "rating": "",
+          "style": "SANParks furnished tent",
+          "includes": "Beds, fridge; shared ablutions and kitchen",
+          "why": "Cheapest in-park; at gate, shortest Dec 27 drive to MQP.",
+          "url": "https://www.sanparks.org/parks/kruger/camps/crocodile-bridge",
+          "notes": "R1,011/unit from Nov 2026. Bungalow there R2,312. 34 km from Lower Sabie."
+        },
+        {
+          "id": "lsb-safari-tent",
+          "tag": "Value",
+          "name": "Lower Sabie safari tent (river or bush view)",
+          "pppn_usd": 65,
+          "room_usd": 130,
+          "rating": "",
+          "style": "SANParks luxury tent on stilts",
+          "includes": "En-suite, kitchenette, deck; some face Sabie River",
+          "why": "Same camp, slightly cheaper, river-view decks.",
+          "url": "https://www.sanparks.org/parks/kruger/camps/lower-sabie",
+          "notes": "R2,136/unit from Nov 2026. ~24 units. Fan not AC in some; check."
+        },
+        {
+          "id": "lsb-berg-en-dal",
+          "tag": "Value",
+          "name": "Berg-en-Dal Rest Camp bungalow",
+          "pppn_usd": 65,
+          "room_usd": 130,
+          "rating": "",
+          "style": "SANParks bungalow",
+          "includes": "En-suite, AC, kitchenette, braai",
+          "why": "Fallback camp near Malelane gate; ~1h to MQP Dec 27.",
+          "url": "https://www.sanparks.org/parks/kruger/camps/berg-en-dal",
+          "notes": "R2,123/unit Nov 2026-Jan 2027. Less game density than Lower Sabie; rhino country."
+        },
+        {
+          "id": "lsb-marloth-bungalow",
+          "tag": "Deal",
+          "name": "The Bungalow Marloth (Marloth Park)",
+          "pppn_usd": 60,
+          "room_usd": 119,
+          "rating": "",
+          "style": "Self-catering cottage outside park",
+          "includes": "Kitchen, braai; giraffe/kudu roam Marloth",
+          "why": "Outside-park fallback; 20 min to Crocodile Bridge gate.",
+          "url": "https://lekkeslaap.co.za/accommodation/the-bungalow-marloth",
+          "notes": "R1,955/night (sleeps 2), Dec rate unseen. No in-camp night drives; gate times rule game drives."
+        },
+        {
+          "id": "lsb-lukimbi",
+          "tag": "Splurge",
+          "name": "Lukimbi Safari Lodge (private concession)",
+          "pppn_usd": 950,
+          "room_usd": 1900,
+          "rating": "",
+          "style": "Private concession lodge, southern Kruger",
+          "includes": "Full Board Plus: meals, teas, 2 drives, bush walk",
+          "why": "Private Christmas: open-vehicle drives, suites, near Malelane.",
+          "url": "https://krugerpark.co.za/Kruger_Park_Private_Concession_Lodging-travel/pricing_lukimbi-safari-lodge.html",
+          "notes": "Dec 16 2025-Jan 7 2026: $910 pp sharing; 2026 est $900-1,010. Conservation fee extra."
+        }
+      ]
     }
   ],
   "budget": [
@@ -432,10 +646,10 @@
     {
       "category": "Lodging",
       "item": "Kruger: Skukuza 1n + Lower Sabie 2n",
-      "per_person_usd": 190,
+      "per_person_usd": 205,
       "low_usd": 150,
       "high_usd": 260,
-      "notes": "2026 bungalows est. ~R2,000-2,400/unit (old sheets R1,310-1,815). Outside-park fallback similar."
+      "notes": "2026/27 bungalows R2,220-2,225/unit (+1% levy) @R16.4/$ = ~$68 pp/night. Tents ~R1,010 if budget/availability bites."
     },
     {
       "category": "Lodging",
@@ -507,7 +721,7 @@
       "per_person_usd": 90,
       "low_usd": 50,
       "high_usd": 150,
-      "notes": "IST hotel (~$100+/room) optional. Stopover total incl. ticket ~$3,880 pp ($2,985-5,350), ~+$2,380 over $1,500 base."
+      "notes": "IST hotel (~$100+/room) optional. Stopover total incl. ticket ~$3,895 pp ($2,985-5,350), ~+$2,380 over $1,500 base."
     }
   ],
   "wildlife": [
@@ -649,7 +863,24 @@
     "https://newsweek.com/map-shows-us-travel-warnings-around-world-for-2026-11171502",
     "https://www.traveladvisory.io/advisory/south-africa",
     "https://www.travelpulse.com/news/destinations/us-state-department-issues-updated-travel-advisory-for-south-africa",
-    "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-africa-travel-advisory.html"
+    "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-africa-travel-advisory.html",
+    "https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_skukuza-camp.html",
+    "https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_lower-sabie-camp.html",
+    "https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_crocodile-bridge-camp.html",
+    "https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_berg-en-dal-camp.html",
+    "https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_satara-camp.html",
+    "https://www.krugerpark.org/Kruger_Park_Camps-travel/pricing-skukuza-restcamp-kruger-park.html",
+    "https://www.kayak.com/Skukuza-Hotels-aha-Skukuza-Safari-Lodge.1071920045.ksp",
+    "https://www.krugerpark.co.za/Kruger_Park_Private_Concession_Lodging-travel/pricing_kruger-private-jock-safari-lodge.html",
+    "https://krugerpark.co.za/Kruger_Park_Private_Concession_Lodging-travel/pricing_lukimbi-safari-lodge.html",
+    "https://lekkeslaap.co.za/accommodation/the-bungalow-marloth",
+    "https://www.lekkeslaap.co.za/accommodation/tatenda-guesthouse",
+    "https://www.hotel.com.au/cape-town/never-at-home-kloof-street.htm",
+    "https://www.lekkeslaap.co.za/accommodation/never--home-kloof-street/rates",
+    "https://plek.co.za/products/ashanti-lodge-gardens-gardens-cape-town-western-cape-south-africa",
+    "https://www.kayak.com/Cape-Town-Hotels-The-Muize.2576654.ksp",
+    "https://www.travelbutlers.com/property/Four_Rosmead_Boutique_Guest_House",
+    "https://www.poundsterlinglive.com/history/ZAR-USD-2026"
   ],
   "safety_short": "Real risk: violent crime (carjacking, mugging), cities, after dark. Cape route and Kruger low-risk with care."
 }

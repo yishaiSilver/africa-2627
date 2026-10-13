@@ -2,7 +2,7 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=pre-south-africa
 
-**Depart LAX:** 2026-12-19 · **Return LAX:** 2027-01-16 · **Planned cost:** $9,980 per person
+**Depart LAX:** 2026-12-19 · **Return LAX:** 2027-01-16 · **Planned cost:** $9,995 per person
 
 ## Overview
 
@@ -10,7 +10,7 @@
 - **Stopover:** 3n Cape Peninsula (penguins, fynbos, Table Mtn), 3n self-drive southern Kruger in SANParks camps. Christmas in Kruger. Dec 27 exit via MQP, NBO 22:05.
 - **Verdict:** Most varied stopover: Cape penguins/seals/fynbos plus cheap Kruger self-drive (rhino, wild dog, leopard). Priciest too (~+$2,400 pp, 3 peak regional flights); overlaps Kenya safari, and holiday camps may be full, so check SANParks first.
 - **Safety:** US State Dept Level 2: Exercise Increased Caution (May 27 2025; still L2 as of Mar 2026; re-check travel.state.gov). Advisory: crime, terrorism, unrest, kidnapping. Real tourist risk: violent crime (carjacking, smash-and-grab, mugging) in cities, at lights, highways after dark. Route (Gardens, Peninsula, Kruger, daytime N4, airports) low risk with care; in Kruger wildlife, speed, heat matter; low-moderate malaria.
-- **Cost:** $9,980 pp, **+$2,380** vs the Wild loop alone ($7,600).
+- **Cost:** $9,995 pp, **+$2,395** vs the Wild loop alone ($7,600).
 
 **Highlights:** Boulders Beach penguin colony: boardwalks, near-certain sightings · Cape Point/Good Hope: fynbos, bontebok, eland, baboons, ostrich, cliffs · Chapman's Peak Drive; Table Mtn cableway peninsula views · Kirstenbosch: proteas, Cape sugarbirds · Southern Kruger Big 5 self-drive: H4-1, H4-2/S28 (rhino, leopard, lion, wild dog) · SANParks sunset/night drive: only way to see Kruger nocturnals · Christmas at Lower Sabie: hippos, elephants on Sabie River below deck · Two biomes Kenya lacks: Cape Floral Kingdom, Cape marine life
 
@@ -231,9 +231,9 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Once in Cape Town (private en-suite double) | Kloof St, Gardens, Cape Town | 3 | $55 | Private en-suite, Wi-Fi, breakfast (often incl.), parking |
-| Skukuza Rest Camp (bungalow BD2/BA2) | Skukuza, southern Kruger NP | 1 | $60 | En-suite double, fridge, AC, braai stand. Conservation fee extra (R602 pp/day through Oct 2026; 2026/27 rate from Nov 1). |
-| Lower Sabie Rest Camp (bungalow, river view if possible) | Lower Sabie, southern Kruger NP | 2 | $65 | En-suite double, AC, fridge; river units have Sabie deck. Restaurant, pool. Conservation fee extra. |
+| never@home Kloof Street (ex-Once in Cape Town), private en-suite double | Kloof St, Gardens, Cape Town | 3 | $55 | Private en-suite, Wi-Fi; breakfast/parking extra or limited (confirm) |
+| Skukuza Rest Camp (bungalow BD2/BA2) | Skukuza, southern Kruger NP | 1 | $68 | En-suite double, fridge, AC, braai stand. R2,220/unit 2026/27 (+1% levy). Conservation fee extra (2026/27 rate from Nov 1). |
+| Lower Sabie Rest Camp (bungalow, river view if possible) | Lower Sabie, southern Kruger NP | 2 | $68 | En-suite double, AC, fridge; river units have Sabie deck. Restaurant, pool. R2,225/unit 2026/27. Conservation fee extra. |
 | Budget guesthouse near JKIA / Langata | Nairobi | 1 | $30 | ~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights). |
 | Operator camp at an OPC campsite | Ol Pejeta Conservancy, Laikipia | 2 | $70 | OPC campsite $70 pppn (2026 tariff); entry separate |
 | Operator camp at a Samburu / Buffalo Springs campsite | Samburu National Reserve | 3 | $30 | Campsite ~$20–50 pppn (public vs special site); reserve fee separate |
@@ -245,6 +245,96 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Camp Carnelley's or Fisherman's Camp | Lake Naivasha, south shore | 2 | $15 | Campsite fee; operator tents, cook, meals |
 | Budget hotel near JKIA (free shuttle) | Nairobi, Mombasa Rd | 1 | $40 | ~$80/room B&B; 24h shuttle |
 
+### Hotel options (pick on the website; budget updates)
+
+**Kloof St, Gardens, Cape Town** (3n)
+- Plan: [never@home Kloof Street (ex-Once in Cape Town), private en-suite double](https://www.lekkeslaap.co.za/accommodation/never--home-kloof-street) $55 pp/night (plan). Current pick; see main notes.
+- Cheaper: [Ashanti Lodge Gardens (private room)](https://www.ashanti.co.za) $33 pp/night (−$66 pp). Cheapest safe Gardens private room; walk to Kloof St.
+- Deal: [The Muize, Muizenberg (B&B)](https://sa-venues.com/visit/themuize) $50 pp/night (−$15 pp). Breakfast in; 25 min to Boulders. Cableway/airport ~30-35 min.
+- Value: [Liberty Lodge, Tamboerskloof](https://www.kayak.com/Cape-Town-Hotels-Liberty-Lodge.608071.ksp) $58 pp/night (+$9 pp). Quiet guesthouse feel, near Kloof St and cableway road.
+- Splurge: [Four Rosmead Boutique Guest House, Oranjezicht](https://www.travelbutlers.com/property/Four_Rosmead_Boutique_Guest_House) $213 pp/night (+$474 pp). Top Gardens-area boutique; pool, mountain views.
+
+**Skukuza, southern Kruger NP** (1n)
+- Plan: [Skukuza Rest Camp (bungalow BD2/BA2)](https://www.sanparks.org/parks/kruger/camps/skukuza) $68 pp/night (plan). Current pick; see main notes.
+- Cheaper: [Skukuza safari tent](https://www.sanparks.org/parks/kruger/camps/skukuza) $31 pp/night (−$37 pp). Half the bungalow price; same camp, same location.
+- Value: [Skukuza riverside bungalow](https://www.sanparks.org/parks/kruger/camps/skukuza) $95 pp/night (+$27 pp). Christmas Eve on the Sabie; hippos and elephants from stoep.
+- Deal: [aha Skukuza Safari Lodge](https://www.kayak.com/Skukuza-Hotels-aha-Skukuza-Safari-Lodge.1071920045.ksp) $80 pp/night (+$12 pp). 128 rooms: best odds when SANParks bungalows full.
+- Splurge: [Jock Safari Lodge (private concession)](https://www.krugerpark.co.za/Kruger_Park_Private_Concession_Lodging-travel/pricing_kruger-private-jock-safari-lodge.html) $1,100 pp/night (+$1,032 pp). Open-vehicle off-road guided drives; leopard country.
+
+**Lower Sabie, southern Kruger NP** (2n)
+- Plan: [Lower Sabie Rest Camp (bungalow, river view if possible)](https://www.sanparks.org/parks/kruger/camps/lower-sabie) $68 pp/night (plan). Current pick; see main notes.
+- Cheaper: [Crocodile Bridge safari tent](https://www.sanparks.org/parks/kruger/camps/crocodile-bridge) $31 pp/night (−$74 pp). Cheapest in-park; at gate, shortest Dec 27 drive to MQP.
+- Value: [Lower Sabie safari tent (river or bush view)](https://www.sanparks.org/parks/kruger/camps/lower-sabie) $65 pp/night (−$6 pp). Same camp, slightly cheaper, river-view decks.
+- Value: [Berg-en-Dal Rest Camp bungalow](https://www.sanparks.org/parks/kruger/camps/berg-en-dal) $65 pp/night (−$6 pp). Fallback camp near Malelane gate; ~1h to MQP Dec 27.
+- Deal: [The Bungalow Marloth (Marloth Park)](https://lekkeslaap.co.za/accommodation/the-bungalow-marloth) $60 pp/night (−$16 pp). Outside-park fallback; 20 min to Crocodile Bridge gate.
+- Splurge: [Lukimbi Safari Lodge (private concession)](https://krugerpark.co.za/Kruger_Park_Private_Concession_Lodging-travel/pricing_lukimbi-safari-lodge.html) $950 pp/night (+$1,764 pp). Private Christmas: open-vehicle drives, suites, near Malelane.
+
+**Nairobi** (1n)
+- Plan: [Budget guesthouse near JKIA / Langata](https://www.booking.com/city/ke/nairobi.html) $30 pp/night, ★ Pick 8+/10 on Booking (plan). Cheap, safe, ~20m from Sheldrick + JKIA. Crew picks up here.
+- Value: [Wildebeest Eco Camp (garden tent)](https://wildebeestecocamp.com) $55 pp/night, ★ TA ~4.5; backpacker classic (+$25 pp). Tent-camp feel, safe compound, ~10m to Sheldrick.
+- Deal: [Karen Gables (Karen guesthouse)](https://www.booking.com/searchresults.html?ss=Karen+Gables) $85 pp/night, ★ Reviews ~4.9/5 (+$55 pp). Quiet leafy Karen, near Sheldrick + Giraffe Centre.
+- Splurge: [Nairobi Tented Camp (inside Nairobi NP)](https://www.safari.com/nairobi-tented-camp) $260 pp/night, ★ Porini/Gamewatchers; TA ~5 (+$230 pp). Sleep inside Nairobi NP on day one. Lions by the skyline.
+
+**Ol Pejeta Conservancy, Laikipia** (2n)
+- Plan: [Operator camp at an OPC campsite](https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf) $70 pp/night, ★ Official OPC site (plan). Cheapest way to sleep inside OPC.
+- Value: [Pelican House (OPC self-catering cottage)](https://www.olpejetaconservancy.org/pelican-house/) $100 pp/night, ★ Official OPC house (+$60 pp). Real bed + roof inside OPC; crew cooks in kitchen.
+- Deal: [Sweetwaters Serena Camp](https://www.serenahotels.com/sweetwaters) $315 pp/night, ★ TA ~4.5; Serena (+$490 pp). Waterhole rhino from your tent. Easy mid-range comfort.
+- Splurge: [Ol Pejeta Bush Camp](https://www.olpejetaconservancy.org/ol-pejeta-bush-camp/) $820 pp/night, ★ Asilia/OPC; TA ~5 (+$1,500 pp). Tiny bush camp, night drives, rhino on foot.
+- Splurge: [Porini Rhino Camp](https://www.porini.com/porini-camps/rhino-camp/) $840 pp/night, ★ Porini; TA ~5 (+$1,540 pp). Includes OPC fees + guided walks + night drives.
+
+**Samburu National Reserve** (3n)
+- Plan: [Operator camp at a Samburu / Buffalo Springs campsite](https://www.safarifind.com/accommodations/samburu-riverside-camp) $30 pp/night, ★ County reserve campsite (plan). Wake up on the Ewaso Ng'iro river among the Special Five.
+- Cheaper: [Umoja women's campsite / cottages (Archer's Post)](https://umojawomen.or.ke) $20 pp/night, ★ Community-run; basic (−$30 pp). Supports Umoja women's village. Cheapest, but outside gate.
+- Deal: [Ashnil Samburu Camp](https://www.ashnilhotels.com/ashnil-samburu-camp/) $220 pp/night, ★ TA ~4.5 (+$570 pp). River tents, inside reserve. Solid mid-range NYE.
+- Deal: [Sarova Shaba Game Lodge (Buffalo Springs/Shaba side)](https://www.sarovahotels.com/shaba-samburu/) $185 pp/night, ★ TA ~4.3; Sarova (+$465 pp). Cheapest proper lodge; pool for hot afternoons.
+- Splurge: [Elephant Bedroom Camp](https://www.atuaenkop.com/elephant-bedroom-camp/) $600 pp/night, ★ Atua Enkop; TA ~5 (+$1,710 pp). Elephants wander between tents. Special Five daily.
+
+**Nyahururu** (1n)
+- Plan: [Thomson's Falls campsite](https://en.wikipedia.org/wiki/Thomson%27s_Falls) $10 pp/night, ★ Lodge grounds; TA ~3.5 (plan). Splits Samburu → Nakuru into two easy days. Waterfall at the door.
+- Value: [Thomson's Falls Lodge room/cottage](https://www.booking.com/hotel/ke/thomsons-falls-lodge.html) $65 pp/night, ★ TA ~3.5; colonial, dated (+$55 pp). Bed + fire on a cold 2,360m night. Same falls view.
+- Splurge: [Panari Resort Nyahururu (BW Signature)](https://www.bestwestern.com/en_US/book/hotel-rooms.80008.html) $75 pp/night, ★ Booking ~8; 4-star (+$65 pp). Hot shower, reliable comfort before Nakuru.
+
+**Lake Nakuru NP** (2n)
+- Plan: [KWS public campsite inside Lake Nakuru NP](https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025) $30 pp/night, ★ KWS official (plan). Wake up inside the park. NYE by the fire.
+- Value: [Naishi Guest House (KWS, inside park)](https://www.kws.go.ke) $125 pp/night, ★ KWS self-catering (+$190 pp). Private house inside park; crew cooks in kitchen.
+- Deal: [Lake Nakuru Lodge](https://www.lakenakurulodge.com) $110 pp/night, ★ TA ~4; 3-star (+$160 pp). Cheapest lodge inside the park; pool, rhino nearby.
+- Deal: [Flamingo Hill Tented Camp](https://flamingohillcamp.com) $150 pp/night, ★ TA ~4.5 (+$240 pp). Tented, quiet, inside park, closer to lake.
+- Splurge: [Sarova Lion Hill Game Lodge](https://www.sarovahotels.com/lionhill-nakuru/) $150 pp/night, ★ TA ~4.3; Sarova (+$240 pp). Big lake views. Our nights fall after festive window.
+
+**Kakamega Forest** (2n)
+- Plan: [Rondo Retreat](https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html) $130 pp/night, ★ TA ~4.5 (plan). Only comfortable bed inside the rainforest. Guides at the gate.
+- Cheaper: [Udo's campsite (KWS, Buyangu)](https://kws.go.ke/park/kakamega-forest-national-reserve/) $20 pp/night, ★ KWS; basic (−$220 pp). Cheapest night in the forest; crew cooks.
+- Value: [Udo's Bandas (KWS)](https://kws.go.ke/park/kakamega-forest-national-reserve/) $20 pp/night, ★ KWS; simple (−$220 pp). Bed + roof in rainforest rain; crew cooks.
+- Cheaper: [Isecheno Blue-shouldered Guest House](https://en.wikivoyage.org/wiki/Kakamega_Rainforest) $10 pp/night, ★ TA ~4; birders' base (−$240 pp). Birder favourite; guide Smith Likare on site.
+- Deal: [Rondo Retreat, half board](https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html) $120 pp/night, ★ TA ~4.5 (−$20 pp). Same bed, $10 cheaper; crew picnic lunch.
+
+**Kericho tea country** (1n)
+- Plan: [Budget hotel, Kericho](https://www.booking.com/city/ke/kericho.html) $30 pp/night, ★ Pick 8+/10 on Booking (plan). Breaks Kakamega → Mara into two short drives.
+- Cheaper: [Sahara Gardens Kericho](https://discoverkenya.co.ke/listing/sahara-gardens-kericho) $17 pp/night, ★ Expedia ~8 (−$13 pp). Cheapest clean room; breakfast in.
+- Value: [Tea Hotel Kericho](https://www.kayak.com/Kericho-Hotels-Tea-Hotel-Kericho.2780476.ksp) $45 pp/night, ★ Historic; reviews mixed (+$15 pp). Iconic tea-country stay, gardens, estate walks.
+- Splurge: [The Exotic House Kericho](https://www.expedia.com/Kericho-Hotels.d3000425103.Travel-Guide-Hotels) $41 pp/night, ★ Expedia ~8.5 (+$11 pp). Nicest small stay in town; Kericho has no luxury.
+
+**Northern Greater Mara** (4n)
+- Plan: [Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)](https://cheetahsafaris.com/national-park/enonkishu-conservancy) $25 pp/night, ★ Conservancy-run (plan). Conservancy: few vehicles, walks, off-road. Confirm mobile camping in writing.
+- Value: [Mara Siria Tented Camp](https://www.marasiria.com) $230 pp/night, ★ TA ~4.5 (+$820 pp). Huge Triangle views; cheap roofed option.
+- Deal: [Basecamp Masai Mara (Talek)](https://www.basecampexplorer.com/kenya/basecamp-masai-mara/) $280 pp/night, ★ TA ~4.5; eco pioneer (+$1,020 pp). Eco-camp, community-run, cheap for its quality.
+- Splurge: [Porini Mara Camp (Ol Kinyei)](https://www.porini.com/porini-camps/porini-mara-camp/) $500 pp/night, ★ Porini; TA ~5 (+$1,900 pp). Max 6 tents, conservancy, walks + night drives.
+- Splurge: [Kicheche Mara Camp (Mara North)](https://kicheche.com/camps/kicheche-mara-camp/) $660 pp/night, ★ TA ~5; photo guides (+$2,540 pp). Top photographic guiding in Mara North.
+
+**Lake Naivasha, south shore** (2n)
+- Plan: [Camp Carnelley's or Fisherman's Camp](https://monkey.travel/en/usd/accommodation/naivasha-sopa/) $15 pp/night, ★ TA ~4 (plan). Soft finish: Hell's Gate + boat day, 2.5–3h from the airport.
+- Cheaper: [Fisherman's Camp (bottom camp)](https://discoverkenya.co.ke/listing/fishermans-camp) $8 pp/night, ★ TA ~4 (−$14 pp). Shady lakeshore, quieter; near Hell's Gate.
+- Value: [Camp Carnelley's lakefront banda](https://www.campcarnelleys.com) $50 pp/night, ★ TA ~4.3 (+$70 pp). Bed + lake view, same camp vibe.
+- Deal: [Sanctuary Farm – Watch Tower cottage](https://www.sanctuaryfarmkenya.com) $90 pp/night, ★ TA ~4.5 (+$150 pp). Walk/ride with giraffes; crew uses kitchen.
+- Splurge: [Loldia House (Governors')](https://www.governorscamp.com/loldia-house/) $600 pp/night, ★ TA ~5 (+$1,170 pp). Ranch-house luxury; boat + Crescent Island in rate.
+
+**Nairobi, Mombasa Rd** (1n)
+- Plan: [Budget hotel near JKIA (free shuttle)](https://www.booking.com/city/ke/nairobi.html) $40 pp/night, ★ Pick 8+/10, 24h shuttle (plan). 02:45 wake, 10–20m to JKIA before TK608.
+- Cheaper: [Heavenly Meadows / Lewisky (near JKIA)](https://www.kayak.com/Nairobi-Hotels.7983.hotel.ksp) $35 pp/night, ★ Small homestays (−$5 pp). Cheapest close bed; prearrange 02:45 taxi.
+- Value: [Eka Hotel (Mombasa Rd)](https://www.ekahotel.com) $60 pp/night, ★ TA ~4.3; 4-star (+$20 pp). Proper hotel, ~15m to JKIA; shuttle on request.
+- Deal: [Four Points by Sheraton Nairobi Airport](https://www.marriott.com/en-us/hotels/nbofp-four-points-nairobi-airport/) $85 pp/night, ★ TA ~4.3; at JKIA (+$45 pp). 5 min to terminal. Max sleep before 02:45.
+- Splurge: [Ole Sereni](https://www.olesereni.com) $115 pp/night, ★ TA ~4.5 (+$75 pp). Last-night game view from terrace.
+
 ## Budget (per person, USD)
 
 | Category | Item | Planned | Range | Notes |
@@ -254,7 +344,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Stopover (excl. flights) | Regional flights: Airlink MQP-JNB (4Z840, Dec 27) | $200 | $140–$280 | Replaces Skukuza-JNB (13:35/14:35 too tight for KQ763). Several daily flights. Separate ticket. |
 | Stopover (excl. flights) | Regional flights: Kenya Airways KQ763 JNB-NBO (Dec 27) | $450 | $330–$650 | Daily 17:00-22:05. Recent one-way ~$410-450; Christmas likely higher. Flight delta vs base ~+$1,130 pp. |
 | Stopover (excl. flights) | Lodging: Cape Town guesthouse, 3n | $165 | $120–$240 | ~R1,800-2,200/room/night peak, split 2. |
-| Stopover (excl. flights) | Lodging: Kruger: Skukuza 1n + Lower Sabie 2n | $190 | $150–$260 | 2026 bungalows est. ~R2,000-2,400/unit (old sheets R1,310-1,815). Outside-park fallback similar. |
+| Stopover (excl. flights) | Lodging: Kruger: Skukuza 1n + Lower Sabie 2n | $205 | $150–$260 | 2026/27 bungalows R2,220-2,225/unit (+1% levy) @R16.4/$ = ~$68 pp/night. Tents ~R1,010 if budget/availability bites. |
 | Stopover (excl. flights) | Lodging: Nairobi guesthouse, Dec 27 (extra night from stopover) | $40 | $30–$60 | Karen or JKIA-area plus late transfer. |
 | Stopover (excl. flights) | Permits/fees: Kruger conservation fees, 4 days (Dec 24-27) | $135 | $135–$160 | R602/intl adult/day 2025/26 (~$34). 2026/27 (from Nov 1) unread, maybe +5-10%. Wild Card not worth it. |
 | Stopover (excl. flights) | Permits/fees: Cape Point + Boulders + cableway + Kirstenbosch | $85 | $70–$100 | Cape Point ~R515 intl, Boulders ~R190, cableway return ~R495 (online), Kirstenbosch ~R250. Card only at SANParks gates. |
@@ -263,7 +353,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Stopover (excl. flights) | Tours/transport: SANParks sunset/night drive (1) + optional morning walk | $60 | $30–$110 | Drive ~R550-600, walk ~R800-900. Book with camps. |
 | Stopover (excl. flights) | Food: 8 days meals (braais, casual restaurants, Christmas lunch) | $280 | $200–$380 | Cheap: ~$10-20 restaurant main. Camp shops pricier. |
 | Stopover (excl. flights) | Visa: South Africa visa | $0 | $0–$0 | Visa-free 90 days, US passport. |
-| Stopover (excl. flights) | Misc: eSIM, tips, IST lounge/hotel, Uber, incidentals | $90 | $50–$150 | IST hotel (~$100+/room) optional. Stopover total incl. ticket ~$3,880 pp ($2,985-5,350), ~+$2,380 over $1,500 base. |
+| Stopover (excl. flights) | Misc: eSIM, tips, IST lounge/hotel, Uber, incidentals | $90 | $50–$150 | IST hotel (~$100+/room) optional. Stopover total incl. ticket ~$3,895 pp ($2,985-5,350), ~+$2,380 over $1,500 base. |
 | Kenya domestic flights | None (all road) | $0 | $0–$0 | Fly options shown side by side in Route. |
 | Lodging | Private camping crew 18 days Dec 29–Jan 15: 4x4, guide, cook, tents, meals, fuel | $2,735 | $2,350–$3,450 | 5 festive days × $170 + 13 × $145. Get 3 KATO quotes. |
 | Lodging | Ol Pejeta OPC campsite, 2n | $140 | $140–$150 | $70 pppn |
@@ -295,7 +385,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Misc/souvenirs | eSIM / Safaricom SIM | $15 | $8–$25 |  |
 | Misc/souvenirs | Souvenirs, laundry, sundries | $50 | $30–$250 |  |
 | Contingency | ~5%: operator quotes, fares, fees, FX | $300 | $250–$500 | Hold until quotes are signed |
-| **Total** | | **$9,980** | | ≈ $19,960 for two |
+| **Total** | | **$9,995** | | ≈ $19,990 for two |
 
 ## Options & swaps
 
@@ -377,7 +467,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 ## Open questions
 
-1. South Africa stopover adds $2,380 pp and a week. Worth it vs. Christmas at home?
+1. South Africa stopover adds $2,395 pp and a week. Worth it vs. Christmas at home?
 2. Confirm the budget is per person (assumed), not total for both.
 3. Exotic loop is ~$7,600 pp. OK, or cut (skip Kakamega −$800, home Jan 14 −$450)?
 4. Extra 2 days went to Mara + Hell's Gate. Prefer them elsewhere (e.g. 4th Samburu night)?
@@ -415,6 +505,23 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 - https://www.traveladvisory.io/advisory/south-africa
 - https://www.travelpulse.com/news/destinations/us-state-department-issues-updated-travel-advisory-for-south-africa
 - https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-africa-travel-advisory.html
+- https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_skukuza-camp.html
+- https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_lower-sabie-camp.html
+- https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_crocodile-bridge-camp.html
+- https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_berg-en-dal-camp.html
+- https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_satara-camp.html
+- https://www.krugerpark.org/Kruger_Park_Camps-travel/pricing-skukuza-restcamp-kruger-park.html
+- https://www.kayak.com/Skukuza-Hotels-aha-Skukuza-Safari-Lodge.1071920045.ksp
+- https://www.krugerpark.co.za/Kruger_Park_Private_Concession_Lodging-travel/pricing_kruger-private-jock-safari-lodge.html
+- https://krugerpark.co.za/Kruger_Park_Private_Concession_Lodging-travel/pricing_lukimbi-safari-lodge.html
+- https://lekkeslaap.co.za/accommodation/the-bungalow-marloth
+- https://www.lekkeslaap.co.za/accommodation/tatenda-guesthouse
+- https://www.hotel.com.au/cape-town/never-at-home-kloof-street.htm
+- https://www.lekkeslaap.co.za/accommodation/never--home-kloof-street/rates
+- https://plek.co.za/products/ashanti-lodge-gardens-gardens-cape-town-western-cape-south-africa
+- https://www.kayak.com/Cape-Town-Hotels-The-Muize.2576654.ksp
+- https://www.travelbutlers.com/property/Four_Rosmead_Boutique_Guest_House
+- https://www.poundsterlinglive.com/history/ZAR-USD-2026
 - https://uk.trip.com/flights/status-tk607
 - https://www.airpaz.com/en/flight/code/TK-607
 - https://info.flightmapper.net/flight/Turkish_Airlines_TK_10
@@ -457,3 +564,34 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 - https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve
 - https://en.wikipedia.org/wiki/Maasai_Mara_conservancies
 - https://roadtripafrica.com/kenya/self-drive-tours/taste-of-kenya/
+- https://www.porini.com/wp-content/uploads/2026/06/Porini-Rhino-Camp-02-Nights-Fly-In-Package.pdf
+- https://www.chaloafrica.com/accommodation/porini-rhino-camp-ol-pejeta-conservancy-laikipia-kenya/
+- https://www.chaloafrica.com/accommodation/ol-pejeta-bush-camp-kenya/
+- https://www.olpejetaconservancy.org/pelican-house/
+- https://africanspicesafaris.com/tour/sweetwaters-serena-camp-morani-wing-luxury-tents/
+- https://africanspicesafaris.com/website/ashnil-samburu-camp.html
+- https://www.go2africa.com/accommodation/sarova-shaba-game-lodge
+- https://www.go2africa.com/accommodation/elephant-bedroom-camp
+- https://africanspicesafaris.com/website/elephant-bedroom-camp-samburu.html
+- https://umojawomen.or.ke/qinstpckg/index.php/post-formats
+- https://www.go2africa.com/accommodation/sarova-lion-hill-game-lodge
+- https://www.travelocity.com/Nakuru-Hotels-Lake-Nakuru-Lodge.h21623169.Hotel-Reviews
+- https://victormatara.com/kws-guest-houses-and-bandas-accommodation-rates/
+- https://www.kws.go.ke/sites/default/files/2025-09/KWS%20Conservation%20Fee%20October%20%202025.pdf
+- https://en.wikivoyage.org/wiki/Kakamega_Rainforest
+- https://africanspicesafaris.com/tour/rondo-retreat-centre-kakamega-rainforest-lodge/
+- https://www.booking.com/hotel/ke/thomsons-falls-lodge.html
+- https://www.kayak.com/Nyahururu-Hotels-The-Panari-Resort-Nyahururu.2571964.ksp
+- https://www.expedia.com/Kericho-Hotels.d3000425103.Travel-Guide-Hotels
+- https://www.chaloafrica.com/accommodation/basecamp-masai-mara-masai-mara-national-reserve-kenya/
+- https://www.go2africa.com/accommodation/porini-mara-camp
+- https://www.siyabona.com/pricing_safari-lodge-kicheche-tented-camp-kenya.html
+- https://www.travelocity.com/Maasai-Mara-Hotels-Mara-Siria-Luxury-Tented-Camp-Luxury-Cottages.h40190488.Hotel-Information
+- https://thekenyatimes.com/lifestyle/travel-tourism/kenyas-hidden-gem-camp-carnelley-with-luxury-stays-of-ksh4k-per-night/
+- https://africanspicesafaris.com/tour/camp-carnellys-lake-naivasha/
+- https://africanspicesafaris.com/tour/sanctuary-farm-house-naivasha/
+- https://governorscamp.com/wp-content/uploads/2025/04/2026-governors-rate-sheet-recommened-selling-rates.pdf
+- https://africanspicesafaris.com/tour/wildebeest-eco-camp-nairobi/
+- https://www.safari.com/nairobi-tented-camp
+- https://africanspicesafaris.com/tour/ole-sereni-hotel-nairobi/
+- https://www.kayak.com/Nairobi-Hotels-Eka-Hotel-Nairobi.676138.ksp
