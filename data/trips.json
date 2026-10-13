@@ -65,6 +65,12 @@
       "summary": "El Yunque, Culebra turtle snorkel, Vieques: brightest bio bay, horses, reefs; east only, ferry, ~$2,039 pp.",
       "file": "data/trips/puerto-rico.json",
       "compare": false
+    },
+    {
+      "id": "no-crew",
+      "label": "Independent loop · Jan 16",
+      "summary": "Istanbul 3n, then a Kenya loop on public transport. No private crew.",
+      "file": "data/trips/no-crew.json"
     }
   ]
 }
