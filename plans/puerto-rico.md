@@ -7,7 +7,7 @@
 ## Overview
 
 - **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.
-- **Route (east only):** Old San Juan 1n → Luquillo/El Yunque 3n → Vieques (Esperanza) 2n → Isla Verde 1n. Southwest dropped: too far.
+- **Route (east only):** Old San Juan 1n → Luquillo/El Yunque 3n → Vieques (Esperanza) 2n → Isla Verde 1n.
 - **Bio bay:** Mosquito Bay, Vieques, **Wed Nov 11** ~19:30: brightest bay; moon 7%, sets 19:31. Nov 12 = rain backup. One bay only.
 - **Snorkel:** **Tue Nov 10** catamaran Fajardo → Culebra reefs (turtles, rays). Vieques Nov 11–12: Playa Esperanza, Mosquito Pier.
 - **Nature:** El Yunque at 08:00 gate, coquí nights, Vieques refuge beaches, wild horses, Playa Negra.
@@ -163,7 +163,6 @@ Slow breakfast. 5m to SJU. 1-stop SJU ~10:00–12:00 → LAX ~17:00–20:00 same
 
 - **Fly to Vieques instead of ferry** (+$135 pp): Ceiba (NRR) → VQS ~10m on Vieques Air Link/Air Flamenco (~$45–80 each way), or SJU → VQS on Cape Air (from ~$99). No sell-out/holiday crowd risk; tight bag limits. Fly SJU both ways = return car Nov 11 at SJU instead, but then ~1h back-track.
 - **Laguna Grande Fajardo bio bay too (Nov 9)** (+$85 pp): Kayak the mangrove channel on new-moon night, 25m from Luquillo. 2nd bay, dimmer than Mosquito; late night before 07:45 Culebra start. Worth it only as insurance if Vieques gets cancelled.
-- **Southwest loop instead of Vieques** (+$17 pp): Old plan: Nov 11 drive ~2h50 via Ponce to La Parguera 2n (Guánica dry forest endemics, Cabo Rojo, Parguera bio bay), Nov 13 ~3h back via Cueva Ventana. More birds + caves, ~6h more driving; Laguna Grande as main bay.
 - **Old San Juan last night (not Isla Verde)** (+$35 pp): CasaBlanca again Nov 13: evening on the walls. +2 taxis (~$30/car each), 20m to SJU Nov 14.
 - **No car: taxis + tours** (+$40 pp): Taxi to Luquillo, El Yunque tour, catamaran with hotel pickup, taxis to/from Ceiba. Fixed times, long pickups; not cheaper.
 - **Culebra DIY: Ceiba ferry + golf cart** (−$110 pp): Same day, own pace: Tamarindo turtles at 08:00, Carlos Rosario, Flamenco. Ferry $2.25/leg + $2 fee (fare rise delayed to Dec 31, 2026); cart ~$75–90/day shared. Online seats sell out (only ~20% online); 1h check-in; ~11h day. Or 15m flight Ceiba→Culebra ~$100–110 RT.
