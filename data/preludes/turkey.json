@@ -295,7 +295,74 @@
       "includes": "Breakfast usually; Wi-Fi; rooftop/common room",
       "why": "Old City sights walkable; T1 tram at door to ferry.",
       "url": "https://www.hostelworld.com/st/hostels/istanbul/",
-      "alternatives": "Sultan Hostel, Bunk Hostel Taksim (livelier), Agora Life (pricier)"
+      "alternatives": "Also: Antique Hostel (Kayak 8.0, ensuite privates).",
+      "options": [
+        {
+          "id": "ist-cheers-private",
+          "tag": "Plan",
+          "name": "Cheers Hostel (or similar Sultanahmet hostel)",
+          "pppn_usd": 35,
+          "room_usd": 70,
+          "rating": "Kayak 8.7 (~1,350)",
+          "style": "Hostel private double (dorm ~$18–25 pp)",
+          "includes": "Breakfast usually; Wi-Fi; rooftop/common room",
+          "why": "Hagia Sophia steps away; cheapest private room in Sultanahmet.",
+          "url": "https://www.kayak.com/Istanbul-Hotels-Cheers-Hostel.318984.ksp",
+          "notes": "Off-peak double ~$36–47/room on Kayak; $70 Xmas est. Twin/double, private bath. Heating/AC yes. Check free-cancel rate."
+        },
+        {
+          "id": "ist-cheers-dorm",
+          "tag": "Cheaper",
+          "name": "Cheers Hostel dorm bed",
+          "pppn_usd": 20,
+          "room_usd": null,
+          "rating": "Kayak 8.7 (~1,350)",
+          "style": "Mixed/female dorm bed",
+          "includes": "Breakfast; Wi-Fi; lockers",
+          "why": "Same spot, half price; fine if sleep OK with bunks.",
+          "url": "https://www.kayak.com/Istanbul-Hotels-Cheers-Hostel.318984.ksp",
+          "notes": "Est. $18–25/bed Xmas. 2 beds ≈ private-room price at peak; compare before booking."
+        },
+        {
+          "id": "ist-peninsula",
+          "tag": "Value",
+          "name": "Hotel Peninsula",
+          "pppn_usd": 38,
+          "room_usd": 75,
+          "rating": "Kayak 9.1 (~3,000)",
+          "style": "Small 2-star family hotel, double",
+          "includes": "Rooftop buffet breakfast; heating/AC; Wi-Fi",
+          "why": "Better-rated hotel room for near-hostel price; Sultanahmet, quieter lane.",
+          "url": "https://www.kayak.com/Istanbul-Hotels-Hotel-Peninsula.2174259.ksp",
+          "notes": "Snapshots $57–80/room; Frommer's doubles from €40. Airport shuttle €20/car. Xmas price est."
+        },
+        {
+          "id": "ist-sirkeci-mansion",
+          "tag": "Deal",
+          "name": "Sirkeci Mansion",
+          "pppn_usd": 65,
+          "room_usd": 130,
+          "rating": "Kayak 9.4 (1,280); Trip.com 9.4 (73)",
+          "style": "4-star boutique, Sirkeci (by Gülhane)",
+          "includes": "Big breakfast; afternoon tea; small pool/hammam; heating",
+          "why": "Top-rated boutique; member/app rates often ~10% off.",
+          "url": "https://www.kayak.com/Istanbul-Hotels-Sirkeci-Mansion.171066.ksp",
+          "notes": "Snapshots $95–110/room (Mar); Dec est $120–140 incl tax. Hotels.com/Booking Genius member price. Tram T1 at Gülhane, 10 min walk."
+        },
+        {
+          "id": "ist-four-seasons",
+          "tag": "Splurge",
+          "name": "Four Seasons Hotel Istanbul at Sultanahmet",
+          "pppn_usd": 406,
+          "room_usd": 812,
+          "rating": "Trip.com 9.5 (42)",
+          "style": "Luxury, converted Ottoman prison",
+          "includes": "Heating; spa; breakfast extra (~€45 pp)",
+          "why": "Iconic; Hagia Sophia view; once-in-a-lifetime Xmas splurge.",
+          "url": "https://www.fourseasons.com/istanbul/",
+          "notes": "Expedia Dec 21–22 snapshot $812 incl tax/room; breakfast not included. €400/night deposit."
+        }
+      ]
     },
     {
       "name": "Diadem Cappadocia Guest House & Hostel (or similar cave hostel)",
@@ -307,7 +374,74 @@
       "includes": "Breakfast; heated cave room; balloon-view rooftop; balloon/tour desk",
       "why": "Real cave room; walk to trailheads and Open Air Museum; balloon/Green Tour door pickups.",
       "url": "https://www.hostelz.com/en/best-hostels-goreme",
-      "alternatives": "Kamelya, Garden Cave, HomeStay Cave hostels; upgrade: Kelebek or Sultan Cave Suites ($150–300/room)"
+      "alternatives": "Also: Kamelya Cave Hostel (adults only, pricier privates).",
+      "options": [
+        {
+          "id": "gor-diadem-private",
+          "tag": "Plan",
+          "name": "Diadem Cappadocia Guest House & Hostel (or similar cave hostel)",
+          "pppn_usd": 40,
+          "room_usd": 80,
+          "rating": "Hostelworld 9.9 (~485)",
+          "style": "Cave guesthouse/hostel private double (dorm from ~$35/bed)",
+          "includes": "Breakfast; heated cave room; balloon-view rooftop; balloon/tour desk",
+          "why": "Top-rated cave guesthouse; central; breakfast; tour/balloon desk.",
+          "url": "https://www.hostelworld.com/hostels/p/309518/diadem-cappadocia-guest-house-and-hostel/",
+          "notes": "Hostelz private from ~$79/room; HW ‘from €11.50’ off-peak. Heated rooms, free breakfast, unlimited tea. Xmas week sells out; book now."
+        },
+        {
+          "id": "gor-diadem-dorm",
+          "tag": "Cheaper",
+          "name": "Diadem Cappadocia dorm bed",
+          "pppn_usd": 25,
+          "room_usd": null,
+          "rating": "Hostelworld 9.9 (~485)",
+          "style": "Dorm bed, cave hostel",
+          "includes": "Breakfast; heating; Wi-Fi; tour desk",
+          "why": "Cheapest bed in best-rated hostel; same breakfast and pickups.",
+          "url": "https://www.hostelworld.com/hostels/p/309518/diadem-cappadocia-guest-house-and-hostel/",
+          "notes": "Hostelz dorm from ~$35; HW from €9 off-peak. $25 Xmas est; verify."
+        },
+        {
+          "id": "gor-terra-cave",
+          "tag": "Value",
+          "name": "Terra Cave Hotel",
+          "pppn_usd": 45,
+          "room_usd": 90,
+          "rating": "Kayak 9.5 (1,562); Hotels.com 9.8 (75–92)",
+          "style": "Small cave hotel, double",
+          "includes": "Full cooked breakfast; heating; kettle; some fireplaces",
+          "why": "Real cave hotel room, famous breakfast, near hostel price.",
+          "url": "https://hotels.com/ho485017/terra-cave-hotel-nevsehir-turkey",
+          "notes": "Expedia Dec 7–8 snapshot $60/night (year unclear); Xmas est $80–100. Uphill walk."
+        },
+        {
+          "id": "gor-osmanbey",
+          "tag": "Deal",
+          "name": "Osmanbey Cave House",
+          "pppn_usd": 40,
+          "room_usd": 80,
+          "rating": "Kayak 9.6 (1,152)",
+          "style": "Family cave guesthouse",
+          "includes": "Breakfast; heating; terrace balloon view",
+          "why": "Near-perfect scores at hostel-private price; owner-run.",
+          "url": "https://www.kayak.com/Goereme-Hotels-Osmanbey-Cave-Hotel.770747.ksp",
+          "notes": "Expedia Dec 18–19 snapshot $71/night; Xmas est $80. Stairs to breakfast; Wi-Fi spotty per reviews."
+        },
+        {
+          "id": "gor-kelebek",
+          "tag": "Splurge",
+          "name": "Kelebek Special Cave Hotel & Spa",
+          "pppn_usd": 100,
+          "room_usd": 200,
+          "rating": "Kayak 9.2–9.4 (~1,800); Hotels.com 9.8 (701)",
+          "style": "Boutique cave hotel, fairy-chimney rooms",
+          "includes": "Breakfast; heating; hammam/pool; balloon-view terrace",
+          "why": "Classic Göreme splurge; best rooftop balloon views.",
+          "url": "https://www.kayak.com/Goereme-Hotels-Kelebek-Special-Cave-Hotel.208615.ksp",
+          "notes": "Expedia Dec 10–11 $149 incl tax (year unclear); May ~$230. Xmas est $180–250. Kayak value score weak."
+        }
+      ]
     }
   ],
   "budget": [
@@ -505,7 +639,18 @@
     "https://myturkeyadventure.com/blog/basilica-cistern-night-ticket-vs-day",
     "https://audiala.com/de/turkei/cappadocia/goreme-open-air-museum",
     "https://istanbulclues.com/derinkuyu-underground-city-entrance-fee/",
-    "https://fatbirder.com/?p=19002"
+    "https://fatbirder.com/?p=19002",
+    "https://www.kayak.com/Istanbul-Hotels-Cheers-Hostel.318984.ksp",
+    "https://www.kayak.com/Istanbul-Hotels-Hotel-Peninsula.2174259.ksp",
+    "https://www.frommers.com/destinations/istanbul/hotels/hotel-peninsula",
+    "https://www.kayak.com/Istanbul-Hotels-Sirkeci-Mansion.171066.ksp",
+    "https://www.trip.com/hotels/istanbul-hotel-detail-2195554/sirkeci-mansion-hotel-sirkeci-hotel-group/",
+    "https://www.trip.com/t/KUaxcCLu7U2",
+    "https://www.hostelworld.com/hostels/p/309518/diadem-cappadocia-guest-house-and-hostel/",
+    "https://hotels.com/ho485017/terra-cave-hotel-nevsehir-turkey",
+    "https://www.kayak.com/Goereme-Hotels-Osmanbey-Cave-Hotel.770747.ksp",
+    "https://www.kayak.com/Goereme-Hotels-Kelebek-Special-Cave-Hotel.208615.ksp",
+    "https://www.travelocity.com/Goereme-Nevsehir-Hotels.0-n6224480-0.Travel-Guide-Filter-Hotels"
   ],
   "safety_short": "Far from restricted southeast. Risks: low-odds crowd attack, protests (anti-US mood since Feb 2026 US–Iran hostilities), scams, icy trails."
 }
