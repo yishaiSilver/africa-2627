@@ -354,3 +354,32 @@ table.cmp td.best { background: var(--green-soft); color: var(--green); font-wei
 table.cmp tr.long td { font-size: .8rem; line-height: 1.4; min-width: 180px; }
 table.cmp.screen { min-width: 820px; font-size: .82rem; }
 table.cmp.screen tbody th { color: var(--ink); font-weight: 600; }
+
+/* hotel picker */
+.hotel-note { margin-top: -4px; }
+.link-btn { background: none; border: 0; padding: 0; color: var(--accent); text-decoration: underline; cursor: pointer; font: inherit; }
+.hotel-pick { border: 1px solid var(--line); border-radius: 10px; padding: 6px 8px 8px; margin: 6px 0 0; }
+.hotel-pick legend { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); padding: 0 4px; }
+.hp-row { display: grid; grid-template-columns: auto auto 1fr auto auto; gap: 8px; align-items: center; padding: 6px 4px; border-radius: 8px; cursor: pointer; font-size: .86rem; }
+.hp-row + .hp-row { border-top: 1px dashed var(--line); }
+.hp-row.on { background: var(--accent-soft); }
+.hp-row input { margin: 0; accent-color: var(--accent); }
+.hp-tag { font-size: .68rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; padding: 2px 6px; border-radius: 999px; background: var(--line); color: var(--ink); }
+.hp-tag.t-plan { background: var(--accent); color: #fff; }
+.hp-tag.t-cheaper { background: var(--green-soft); color: var(--green); }
+.hp-tag.t-splurge { background: #f3e2c7; color: #7a4a00; }
+.hp-name { min-width: 0; }
+.hp-name small { color: var(--muted); white-space: nowrap; }
+.hp-price { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.hp-price small { color: var(--muted); }
+.hp-delta { font-size: .78rem; white-space: nowrap; color: var(--muted); font-variant-numeric: tabular-nums; }
+.hp-delta.up { color: #a33; }
+.hp-delta.down { color: var(--green); }
+.budget-table tr.picks td { background: var(--accent-soft); }
+@media (max-width: 560px) {
+  .hp-row { grid-template-columns: auto 1fr auto; }
+  .hp-tag { grid-column: 2; justify-self: start; }
+  .hp-name { grid-column: 2; }
+  .hp-price { grid-column: 3; grid-row: 1; }
+  .hp-delta { grid-column: 3; grid-row: 2; }
+}

@@ -55,6 +55,19 @@ def check(path):
         if aid and aid not in ids:
             errors.append(f"leg {l['date']} choice links to unknown option {aid}")
 
+    for l in plan.get("lodging", []):
+        opts = l.get("options") or []
+        if not opts:
+            continue
+        if opts[0].get("name") != l["name"] or opts[0].get("pppn_usd") != l["pppn_usd"]:
+            errors.append(f"lodging {l['name']}: options[0] must be the plan pick (same name and pppn_usd)")
+        oids = [o.get("id") for o in opts]
+        if None in oids or len(oids) != len(set(oids)):
+            errors.append(f"lodging {l['name']}: options need unique ids")
+        for o in opts:
+            if not isinstance(o.get("pppn_usd"), (int, float)) or not o.get("name"):
+                errors.append(f"lodging {l['name']}: option {o.get('id')} needs name and numeric pppn_usd")
+
     if errors:
         print(f"{path}:\n  " + "\n  ".join(errors))
         return False
