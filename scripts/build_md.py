@@ -4,7 +4,7 @@ import json
 import os
 from datetime import date
 
-manifest = json.load(open("data/trips.json"))
+manifest = json.load(open("data/trips.json", encoding="utf-8"))
 SITE = "https://yishaisilver.github.io/africa-2627/"
 
 
@@ -63,8 +63,8 @@ def render(plan):
 
 os.makedirs("plans", exist_ok=True)
 for t in manifest["trips"]:
-    text = render(json.load(open(t["file"])))
-    open(f"plans/{t['id']}.md", "w").write(text)
+    text = render(json.load(open(t["file"], encoding="utf-8")))
+    open(f"plans/{t['id']}.md", "w", encoding="utf-8").write(text)
     if t["id"] == manifest["default"]:
-        open("PLAN.md", "w").write(text)
+        open("PLAN.md", "w", encoding="utf-8").write(text)
     print(f"wrote plans/{t['id']}.md" + (" + PLAN.md" if t["id"] == manifest["default"] else ""))
