@@ -2,7 +2,7 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=puerto-rico
 
-**Depart LAX:** 2026-11-07 · **Return LAX:** 2026-11-14 · **Planned cost:** $2,043 per person
+**Depart LAX:** 2026-11-07 · **Return LAX:** 2026-11-14 · **Planned cost:** $2,056 per person
 
 ## Overview
 
@@ -12,7 +12,7 @@
 - **Snorkel:** **Tue Nov 10** catamaran day from Fajardo to Culebra reefs (Tamarindo/Culebrita: green turtles, rays, reef fish). Lunch + gear incl. DIY ferry option shown.
 - **Nature:** El Yunque at 08:00 gate, coquí nights, Guánica dry forest at dawn (endemics), Cabo Rojo flats, Cueva Ventana.
 - **Culture:** Old San Juan forts (NPS), Ponce lunch stop.
-- **Pace:** max ~3h driving/day. No full rest day now (Culebra replaced it); Nov 12 afternoon kept loose. ~$2043 pp.
+- **Pace:** max ~3h driving/day. No full rest day now (Culebra replaced it); Nov 12 afternoon kept loose. ~$2056 pp.
 
 ## Travel legs
 
@@ -45,43 +45,43 @@
 
 Early 1-stop (via MIA/CLT/DFW/ATL/JFK). LAX ~06:00–08:00 → SJU ~18:00–21:00 (+4h clock). Taxi 20m to Old San Juan. Street food, sleep.
 
-*Overnight:* Old San Juan guesthouse · *Meals:* In-flight; D own
+*Overnight:* Old San Juan – CasaBlanca Hotel · *Meals:* In-flight; D own
 
 ### Sun Nov 08 — Forts, then east (Old San Juan → Río Grande)
 
 08:30 El Morro + San Cristóbal (one ~$10 fee). Paseo del Morro walk. Lunch. Taxi to SJU, pick up car ~13:00. ~50m PR-26/PR-3 east. Dusk: coquí chorus at guesthouse.
 
-*Overnight:* Río Grande / Luquillo guesthouse · *Meals:* B, L, D own
+*Overnight:* Luquillo – Sunrise Beach Inn · *Meals:* B, L, D own
 
 ### Mon Nov 09 — Rainforest + bio bay (new moon) (El Yunque → Laguna Grande)
 
 Gate 08:00 (PR-191 free, no reservation; closes at capacity: go early, Monday quieter). El Portal center ($8). Short trails open (check alerts; La Mina closed). Parrot/tody/lizard-cuckoo watch. Nap. ~18:00 Laguna Grande kayak, ~2h. New moon 02:03 AST today: darkest night. Bed by 22:00: boat tomorrow.
 
-*Overnight:* Río Grande / Luquillo guesthouse · *Meals:* B, L, D own
+*Overnight:* Luquillo – Sunrise Beach Inn · *Meals:* B, L, D own
 
 ### Tue Nov 10 — Culebra snorkel day (catamaran) (Fajardo → Culebra reefs)
 
 07:45 drive ~35m to Puerto del Rey marina, Fajardo. ~08:30–09:00 catamaran, ~45–50m crossing. Captain picks the calm spot: Tamarindo/Carlos Rosario (west side, Luis Peña reserve: turtles, reef) or Culebrita/Flamenco. 2 snorkel stops, beach time, buffet lunch, drinks, gear. Back ~15:00. Siesta. Easy dinner. Bio bay backup tonight only if Nov 9 rained out. Swell cancels? Fall back to Luquillo swim + kioskos.
 
-*Overnight:* Río Grande / Luquillo guesthouse · *Meals:* B own; L on boat; D own
+*Overnight:* Luquillo – Sunrise Beach Inn · *Meals:* B own; L on boat; D own
 
 ### Wed Nov 11 — Cross to the southwest (Río Grande → Ponce → La Parguera)
 
 ~1h50 PR-30/PR-52 (tolls) to Ponce. Lunch + Parque de Bombas, plaza, cathedral (~2h). ~1h on to La Parguera. Sunset on the water.
 
-*Overnight:* La Parguera inn · *Meals:* B, L, D own
+*Overnight:* La Parguera – Parador Villa Parguera · *Meals:* B, L, D own
 
 ### Thu Nov 12 — Dry forest + endemic birds (Guánica · Cabo Rojo · La Parguera)
 
 06:30 Guánica dry forest (30m): nightjar zone, Adelaide's warbler, lizard-cuckoo, tody. Out before heat (~11:00). Optional 2nd snorkel: Gilligan's Island / Cayo Aurora, 10m boat from Restaurante San Jacinto (~$11; mangrove + seagrass, calm, shallow; no shade/food; confirm open). Siesta. Cabo Rojo salt flats only if fresh (skip = easier day). ~19:30 La Parguera bio bay boat (moon sets early; dark).
 
-*Overnight:* La Parguera inn · *Meals:* B, L, D own
+*Overnight:* La Parguera – Parador Villa Parguera · *Meals:* B, L, D own
 
 ### Fri Nov 13 — Karst cave, back to San Juan (La Parguera → Cueva Ventana → Old San Juan)
 
 ~1h50 north (PR-2 or scenic PR-10 via karst). Cueva Ventana tour (~1h, $19). Optional Río Camuy only if confirmed open. ~1h PR-22 to SJU, return car. Taxi to Old San Juan. Farewell dinner.
 
-*Overnight:* Old San Juan guesthouse · *Meals:* B, L, D own
+*Overnight:* Old San Juan – CasaBlanca Hotel · *Meals:* B, L, D own
 
 ### Sat Nov 14 — Fly home (San Juan → Los Angeles)
 
@@ -93,18 +93,18 @@ Coffee walk on the walls. Taxi 20m. 1-stop SJU ~10:00–12:00 → LAX ~17:00–2
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Guesthouse / Airbnb inside the walls | Old San Juan | 2 | $90 | ~$180/room; usually no parking (no car these nights) |
-| Small guesthouse in the El Yunque foothills | Río Grande / Luquillo | 3 | $65 | ~$130/room; parking; kitchen often |
-| Small inn / guesthouse in La Parguera | La Parguera, Lajas | 2 | $60 | ~$120/room; parking |
+| CasaBlanca Hotel | Old San Juan | 2 | $90 | ~$135/room incl 9% tax (Nov snapshots $107–122 + tax). AC, wifi, 2 roof terraces, 24h desk. No parking (none needed: no car). Some rooms windowless; ask. |
+| Luquillo Sunrise Beach Inn | Río Grande / Luquillo | 3 | $65 | ~$155/room incl 9% tax (snapshots $114–175; Hotels.com may add ~6% fee). Breakfast, free gated parking, AC, wifi. Beachfront. |
+| Parador Villa Parguera | La Parguera, Lajas | 2 | $60 | ~$140/room incl 7% parador tax (snapshots $121–147). Pool, free parking, AC, bay-view rooms. No breakfast. Rooms dated. |
 
 ## Budget (per person, USD)
 
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
 | Flights | LAX–SJU round trip, 1 stop each way (AA/Delta/JetBlue/Spirit), main cabin + carry-on | $450 | $260–$700 | No nonstop LAX–SJU found. Basic economy seen ~$250 RT; real fare w/ bag + seat ~$350–550. Price now. |
-| Lodging | Old San Juan guesthouse/Airbnb, 2 nights (Nov 7, Nov 13) | $180 | $130–$260 | ~$180/room/night. Condado/Isla Verde cheaper, less charm. |
-| Lodging | Río Grande / Luquillo guesthouse near El Yunque, 3 nights | $195 | $135–$270 | ~$130/room. Coquí chorus from the porch. |
-| Lodging | La Parguera small inn / Airbnb, 2 nights | $120 | $90–$180 | ~$120/room. Fishing village; Guánica 30m. |
+| Lodging | Old San Juan: CasaBlanca Hotel, 2 nights (Nov 7, Nov 13) | $135 | $105–$280 | ~$135/room incl 9% tax. Low = Navona Studios or Isla Verde Villa del Sol Nov 13. High = Palacio Provincial. |
+| Lodging | Luquillo: Luquillo Sunrise Beach Inn, 3 nights (Nov 8–10) | $233 | $165–$300 | ~$155/room incl tax, breakfast + parking. Low = Casa Coral. High = Fairfield Luquillo. |
+| Lodging | La Parguera: Parador Villa Parguera, 2 nights (Nov 11–12) | $140 | $100–$180 | ~$140/room incl 7% tax. Low = Airbnb studio. High = Parguera Plaza (breakfast incl). |
 | Car | Compact rental, SJU Nov 8 → Nov 13 (5 days, all-in taxes) | $165 | $110–$260 | Nov SJU avg ~$60–75/day. Use credit-card CDW; skip $22–26/day waiver if covered. |
 | Car | AutoExpreso toll tag fee + tolls | $25 | $15–$45 | Rental tag fee varies by company (flat/day or per-use). Tolls ~$15–25 for this loop. Never run tolls w/o tag. |
 | Car | Gas (~650 km) | $35 | $25–$50 | Gas sold per liter. |
@@ -118,7 +118,7 @@ Coffee walk on the walls. Taxi 20m. 1-stop SJU ~10:00–12:00 → LAX ~17:00–2
 | Tours & fees | Guánica dry forest, Cabo Rojo refuge, coquí walks | $0 | $0–$10 | Free. |
 | Food | 7 days food: bakery breakfast, kiosk lunch, sit-down dinner (Nov 10 lunch on boat) | $405 | $290–$580 | ~$60/day; Nov 10 lunch in tour. Kioskos, Piñones, lechón (Guavate) cheap. |
 | Misc | Tips, insect repellent, dry bag, small buffer | $80 | $40–$150 |  |
-| **Total** | | **$2,043** | | ≈ $4,086 for two |
+| **Total** | | **$2,056** | | ≈ $4,112 for two |
 
 ## Options & swaps
 
@@ -132,7 +132,8 @@ Coffee walk on the walls. Taxi 20m. 1-stop SJU ~10:00–12:00 → LAX ~17:00–2
 
 ## Booking timeline
 
-- **Now (Oct 11–15):** Book LAX–SJU 1-stop RT, out Sat Nov 7 early, home Sat Nov 14 midday. Avoid basic economy if bags. Book Old San Juan (Nov 7, 13), Río Grande (Nov 8–10), La Parguera (Nov 11–12), free-cancel.
+- **Now (Oct 11–15):** Book LAX–SJU 1-stop RT, out Sat Nov 7 early, home Sat Nov 14 midday. Avoid basic economy if bags. Book CasaBlanca (Nov 7, 13), Luquillo Sunrise (Nov 8–10), Villa Parguera (Nov 11–12), free-cancel.
+- **Now, then ~Oct 24 (2 wks out):** Hotels: book refundable rates now (no prepay). Re-check same rooms ~2 weeks out on official site + Expedia/Booking; rebook if ≥$15/night cheaper. Note cancel deadline (often 24–72h). Ask Parguera Plaza about deposit.
 - **Oct 11–12 (if DIY Culebra):** Ferry Ceiba–Culebra seats for Nov 10 open ~30 days out on puertoricoferry.com / app; sell out fast. Check the Nov PDF timetable. Book golf cart ahead.
 - **By Oct 20:** Book compact car SJU Nov 8 → Nov 13. Ask in writing: AutoExpreso tag fee (flat vs per use). Check credit-card CDW covers PR.
 - **By Oct 25:** Book Laguna Grande kayak Mon Nov 9 ~18:00 (2nd choice Tue Nov 10). Ask rain policy. Book Culebra catamaran Tue Nov 10 (East Island or similar, Puerto del Rey); ask swell policy + min-pax rule. If Vieques: book ferry + tour + room now.
@@ -184,6 +185,15 @@ Coffee walk on the walls. Taxi 20m. 1-stop SJU ~10:00–12:00 → LAX ~17:00–2
 
 ## Food
 - Mofongo, lechón, alcapurrias, bacalaítos. Kiosk lunch $10–15; dinner $25–40 pp. Tap water OK in metro; bottled in rural spots after storms.
+
+## Hotel deals
+- Quotes above: room rate + tax, for 2. Room tax: 9% hotels, 11% casino hotels, 7% paradores + Airbnb. Resorts add resort fee ($20–40/night); small inns usually none.
+- Book direct or with member rate (Marriott Bonvoy, Hilton Honors free sign-up; AAA) often 5–15% off + free cancel. Compare to Expedia/Booking total-with-tax.
+- Hotels.com/Expedia may add a property service fee (~6%) at check-in; read the fine print.
+- Discover Puerto Rico posts fall partner offers (Aug–Cyber Monday); check discoverpuertorico.com before Nov.
+- Old San Juan: no hotel parking; Doña Fela garage ~$10/day (6'2" clearance). Plan has no car there.
+- Airbnb: 7% tax + cleaning fee; for 1–3 nights rarely beats a small inn.
+- Nov 13: Isla Verde (Villa del Sol) = 5m to SJU, cheaper taxi, but no OSJ evening.
 
 
 ## Open questions
@@ -249,3 +259,21 @@ Coffee walk on the walls. Taxi 20m. 1-stop SJU ~10:00–12:00 → LAX ~17:00–2
 - https://wanderlog.com/place/details/32854/playa-carlos-rosario
 - https://www.lonelyplanet.com/points-of-interest/gilligan-s-island/1419486
 - https://touroldsanjuan.com/gilligans-island
+- https://www.expedia.com/San-Juan-Hotels-CasaBlanca-Hotel.h3009193.Hotel-Information
+- https://www.expedia.com/San-Juan-Hotels-Navona-Studios.h10103408.Hotel-Information
+- https://www.caribjournal.com/2026/06/09/old-san-juan-small-hotels-best/
+- https://www.expedia.com/Isla-Verde-San-Juan-Hotels-Cheap-Hotels.0-n6139938-0-tCheapHotels.Travel-Guide-Filter-Hotels
+- https://www.expedia.com/San-Juan-Hoteles-Luquillo-Sunrise-Beach-Inn.h31686708.Informacion-Hotel
+- https://oyster.com/luquillo/hotels/luquillo-sunrise-beach-inn
+- https://www.hostelworld.com/hostels/p/291053/casa-coral/
+- https://www.travelocity.com/Luquillo-Hotels.d500171.Travel-Guide-Hotels
+- https://www.airdna.co/vacation-rental-data/app/us/puerto-rico/luquillo/overview
+- https://www.expedia.com/es/Lajas-Hoteles-Parador-Villa-Parguera.h978603.Informacion-Hotel
+- https://www.discoverpuertorico.com/profile/parador-villa-parguera
+- https://www.travelocity.com/Lajas-Hotels-Parguera-Plaza-Hotel.h11928077.Hotel-Information
+- https://www.expedia.com/La-Parguera-Guest-Houses.d6360426-aaGuestHouses.Travel-Guide-Accommodation
+- https://www.travelocity.com/Guanica-Hotels-Copamarina-Beach-Resort-Spa.h9505.Hotel-Reviews
+- https://tourism.pr.gov/room-tax/
+- https://www.noticel.com/economia/20140227/a-educar-a-hosteleros-sobre-el-room-tax
+- https://www.discoverpuertorico.com/industry/article/discover-puerto-rico-helps-promote-your-fall-offers/2025-10-07
+- https://sanjuanpuertorico.com/parking-in-tourist-districts-san-juan-puerto-rico/
