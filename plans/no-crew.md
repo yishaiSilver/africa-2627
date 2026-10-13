@@ -2,18 +2,19 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=no-crew
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-16 · **Planned cost:** $5,377 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-16 · **Planned cost:** $5,447 per person
 
 ## Overview
 
 - **Dates:** LAX Sat Dec 26 → LAX Sat Jan 16. 19 nights: 3 Istanbul, 16 Kenya, 2 on planes.
-- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → Lake Nakuru 2n → Kakamega rainforest 3n → Kericho 1n → Mara conservancy 4n → Naivasha 2n → airport hotel 1n.
+- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → Lake Nakuru 2n → Kakamega rainforest 3n → Kericho 2n → Mara conservancy 2n → Naivasha 3n → airport hotel 1n.
 - **No private crew.** Matatus and buses between parks, game drives hired by the day, one all-inclusive conservancy camp in the Mara.
 - **Wildlife focus:** seven primate species and the only amphibians of the trip at Kakamega, rhino and a six-person bush walk at Ol Pejeta, night drives and a walking safari in the Mara conservancy.
+- **Mara is 2 nights, not 4.** At ~$400 pppn, four nights would put the trip near $6,200. Two nights still give a dusk drive, a dawn walking safari, a full day out, a night drive and a last dawn drive. The freed nights went to a tea-estate day in Kericho and a third night at Naivasha. A third Mara night is +$370.
 - **Samburu is out.** Hardest leg to reach without a vehicle, and the weakest for primates, reptiles and amphibians. Those nights went to Kakamega and Naivasha.
 - **Istanbul is at the front** to break the 1.5h Istanbul connection risk and split the +11h shift into two moves.
-- **Budget: ~$5,377 pp**, everything in. About $1,858 pp below the same loop with a private camping crew.
-- **Fatigue:** longest road day 5h, seven zero-travel days, no day over 5h.
+- **Budget: ~$5,447 pp**, everything in, with the Mara camp at a realistic ~$400 pppn all-inclusive.
+- **Fatigue:** longest road day 5h, ten zero-travel days, no day over 5h.
 
 ## Travel legs
 
@@ -31,10 +32,10 @@
 | 2027-01-05 | Eldoret → Kakamega Forest (Isecheno) | road | ~2.5h | Matatu to Kakamega town, then Shinyalu and a boda 18km of murram to Isecheno |
 | 2027-01-08 | Kakamega Forest (Isecheno) → Kisumu | road | ~1h | Boda to Shinyalu, matatu via Kakamega town |
 | 2027-01-08 | Kisumu → Kericho | road | ~1.5h | Matatu through the tea estates |
-| 2027-01-09 | Kericho → Bomet | road | ~1.5h | Matatu |
-| 2027-01-09 | Bomet → Mara conservancy (Siana) | road | ~2–2.5h | Camp collection — confirm the point and time before leaving Kericho |
-| 2027-01-13 | Mara conservancy (Siana) → Narok | road | ~2.5h | Camp transfer to Narok |
-| 2027-01-13 | Narok → Lake Naivasha | road | ~2h | Matatu via Mai Mahiu |
+| 2027-01-10 | Kericho → Bomet | road | ~1.5h | Matatu |
+| 2027-01-10 | Bomet → Mara conservancy (Siana) | road | ~2–2.5h | Camp collection — confirm the point and time before leaving Kericho |
+| 2027-01-12 | Mara conservancy (Siana) → Narok | road | ~2.5h | Camp transfer to Narok |
+| 2027-01-12 | Narok → Lake Naivasha | road | ~2h | Matatu via Mai Mahiu |
 | 2027-01-15 | Lake Naivasha → Airport-area hotel, Mombasa Rd | road | ~2.5h | A104 via Limuru and the Southern Bypass |
 | 2027-01-16 | Airport-area hotel, Mombasa Rd → Nairobi (JKIA) | road | ~20m | Hotel shuttle at 03:00 |
 | 2027-01-16 | Nairobi (JKIA) → Los Angeles (LAX) | flight | ~21h | TK608 04:50 → IST, then TK9 → LAX ~18:15 same day |
@@ -121,43 +122,43 @@ Zero travel. Lirhanda Hill at sunrise over the canopy. Second night walk — gui
 
 ### Fri Jan 08 — Tea country (Kakamega → Kericho)
 
-Matatu to Kisumu (~1h), then Kisumu → Kericho (~1.5h). Tea estate walk and factory visit. A bridge night — without it, Kakamega to the Mara is about six hours.
+Matatu to Kisumu (~1h), then Kisumu → Kericho (~1.5h). Afternoon off — a breather after three forest days.
 
 *Overnight:* Kericho budget hotel · *Meals:* B; L, D own
 
-### Sat Jan 09 — Into the Mara (Kericho → Mara conservancy)
+### Sat Jan 09 — Tea estates (Kericho)
 
-Matatu Kericho → Bomet, then the camp collects — confirm the point and time before leaving Kericho. ~3.5–4h door to door. Arrive for lunch and a dusk drive.
+Zero travel. Guided tea-estate walk and factory visit, then a slow afternoon before the Mara. Also the bridge that keeps Kakamega → Mara from being a six-hour day.
+
+*Overnight:* Kericho budget hotel · *Meals:* B; L, D own
+
+### Sun Jan 10 — Into the Mara (Kericho → Mara conservancy)
+
+Matatu Kericho → Bomet, then the camp collects — confirm the point and time before leaving Kericho. ~3.5–4h door to door. Arrive for lunch and a dusk drive; ask for the night drive tonight so tomorrow stays free for the full day.
 
 *Overnight:* Mara conservancy camp · *Meals:* B own; L, D camp
 
-### Sun Jan 10 — Full game days begin (Mara conservancy)
+### Mon Jan 11 — Walking safari, full day out, night drive (Mara conservancy)
 
-Zero travel. Dawn and late-afternoon drives, off-road, few vehicles. Big cats, topi, plains game. Midday siesta.
-
-*Overnight:* Mara conservancy camp · *Meals:* B, L, D
-
-### Mon Jan 11 — Walking safari and night drive (Mara conservancy)
-
-Zero travel. Maasai ranger walking safari in the morning — prohibited inside the National Reserve. Night drive after dinner for serval, genet, porcupine and white-tailed mongoose.
+Zero travel. Maasai ranger walking safari at dawn — prohibited inside the National Reserve — then out with a packed lunch for the rest of the day: big cats, topi, plains game, off-road with few vehicles. Night drive after dinner for serval, genet, porcupine and white-tailed mongoose if it wasn't done last night. Two nights means every slot counts: confirm the walk and night drive in writing before arrival.
 
 *Overnight:* Mara conservancy camp · *Meals:* B, L, D
 
-### Tue Jan 12 — Full day with picnic lunch (Mara conservancy)
+### Tue Jan 12 — Rift Valley lakes (Mara → Naivasha)
 
-Zero travel. Out from dawn with a packed lunch, sundowner in the evening. Time to sit on a sighting rather than move on.
-
-*Overnight:* Mara conservancy camp · *Meals:* B, L, D
-
-### Wed Jan 13 — Rift Valley lakes (Mara → Naivasha)
-
-Camp transfer to Narok, then matatu via Mai Mahiu to Naivasha. ~4.5h door to door. Lakeshore camp by mid-afternoon. Hippos graze the lawns after dark — the staff will tell you where not to walk, and they mean it.
+Last dawn drive, breakfast, then camp transfer to Narok and a matatu via Mai Mahiu to Naivasha. ~4.5h door to door. Lakeshore camp by late afternoon. Hippos graze the lawns after dark — the staff will tell you where not to walk, and they mean it.
 
 *Overnight:* Naivasha lakeshore banda · *Meals:* B camp; L, D own
 
-### Thu Jan 14 — Hell's Gate by bike, then Crescent Island (Naivasha / Hell's Gate)
+### Wed Jan 13 — Hell's Gate by bike (Naivasha / Hell's Gate)
 
-Zero transfer. Hire a bike at the gate and ride the gorge between the cliffs — the one Kenyan park you explore on foot or by bike, no vehicle or guide required. Afternoon boat on the lake and the Crescent Island walk, where you walk freely among zebra, giraffe and waterbuck.
+Zero transfer. Hire a bike at the gate and ride the gorge between the cliffs — the one Kenyan park you explore on foot or by bike, no vehicle or guide required. Back for a slow afternoon by the lake.
+
+*Overnight:* Naivasha lakeshore banda · *Meals:* Own
+
+### Thu Jan 14 — Crescent Island and a rest day (Lake Naivasha)
+
+Zero transfer. Morning boat on the lake and the Crescent Island walk, where you walk freely among zebra, giraffe and waterbuck. Afternoon off — laundry and rest before the 25h journey home.
 
 *Overnight:* Naivasha lakeshore banda · *Meals:* Own
 
@@ -182,9 +183,9 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 | Budget room, Ol Pejeta (The Stables or Pelican House) | Ol Pejeta Conservancy, Laikipia | 2 | $70 | Room only. Conservancy entry is separate at $110 per 24h. |
 | Budget hotel, Nakuru town | Nakuru | 2 | $25 | Room only. Both Main and Lanet gates are minutes away. |
 | Isecheno Blue Shouldered Guest House | Isecheno, Kakamega Forest | 3 | $10 | Bed only, ~KSh 700–1,000. Hot shower, flush toilet, kitchen for ~KSh 200/day. Meals cooked on request — order ahead. |
-| Budget hotel, Kericho | Kericho | 1 | $30 | ~$60/room B&B. |
-| All-inclusive conservancy camp (Enkorok or similar, Siana) | Siana Conservancy, Greater Mara | 4 | $200 | Conservancy fee, all meals, shared morning and evening game drives, a guide, a night drive and a walking safari — confirm each in writing. |
-| Camp Carnelley's or Fisherman's Camp | Lake Naivasha, south shore | 2 | $35 | Banda with a restaurant and bar on site, so no cooking. |
+| Budget hotel, Kericho | Kericho | 2 | $30 | ~$60/room B&B. |
+| All-inclusive conservancy camp (Enkorok or similar, Siana) | Siana Conservancy, Greater Mara | 2 | $400 | Conservancy fee, all meals, shared morning and evening game drives, a guide, a night drive and a walking safari — confirm each in writing. |
+| Camp Carnelley's or Fisherman's Camp | Lake Naivasha, south shore | 3 | $35 | Banda with a restaurant and bar on site, so no cooking. |
 | Budget hotel near JKIA (free shuttle) | Mombasa Road, Nairobi | 1 | $40 | ~$80/room B&B, free airport shuttle, 10–20 minutes from the terminal. |
 
 ## Budget (per person, USD)
@@ -200,29 +201,29 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 | Lodging | Ol Pejeta budget room, 2n | $140 | $60–$300 | Low end is camping with your own gear plus an armed guard. |
 | Lodging | Nakuru town hotel, 2n | $50 | $40–$90 |  |
 | Lodging | Blue Shouldered Guest House, Kakamega, 3n | $30 | $24–$420 | High end is three nights at Rondo Retreat, full board. |
-| Lodging | Kericho budget hotel, 1n | $30 | $25–$60 |  |
-| Lodging | Mara conservancy camp, all-inclusive, 4n | $800 | $600–$1,400 | $200 pppn assumed. Siana camps run $150–250; Naboisho starts around $350. |
-| Lodging | Naivasha lakeshore banda, 2n | $70 | $30–$120 | Low end is a campsite pitch. |
+| Lodging | Kericho budget hotel, 2n | $60 | $50–$120 |  |
+| Lodging | Mara conservancy camp, all-inclusive, 2n | $800 | $700–$1,100 | ~$400 pppn assumed — a realistic all-inclusive rate for a good conservancy camp in January. A third night is about +$370 pp. |
+| Lodging | Naivasha lakeshore banda, 3n | $105 | $45–$180 | Low end is a campsite pitch. |
 | Lodging | Hotel near JKIA, 1n | $40 | $35–$135 | High end is Ole Sereni or Four Points. |
 | Park fees | Ol Pejeta entry, 2 × 24h | $220 | $220–$260 | $110/24h on the 2026 tariff; 2027 may be ~$120. Overnight guests get the full 24h. |
 | Park fees | Lake Nakuru NP, 1 × 24h | $90 | $60–$90 | KWS new rate $90; $60 if the October 2025 increase is struck down. |
 | Park fees | Kakamega Forest entry, 3 days | $15 | $12–$150 | Isecheno is Kenya Forest Service at ~KSh 600/day. KWS charges $20–50 at Buyangu in the north — the two get conflated constantly. |
-| Park fees | Mara conservancy fee, 4n | $0 | $0–$600 | Assumed included in the camp rate. Mara conservancy fees run $80–150 pppn — a $400+ swing. Get this in writing. |
+| Park fees | Mara conservancy fee, 2n | $0 | $0–$300 | Assumed included in the camp rate. Mara conservancy fees run $80–150 pppn — up to $300 if they're not. Get this in writing. |
 | Park fees | Hell's Gate NP, 1 day | $50 | $26–$50 | KWS new $50; $26 if the old rate stands. |
 | Guides and vehicles | Ol Pejeta — 2 guided game drives | $215 | $105–$215 | KSh 28,000 per vehicle for 4h, split two ways. Low end assumes a shared vehicle — ask before booking. |
 | Guides and vehicles | Ol Pejeta — guided bush walk | $70 | $70–$70 | 06:30–08:30, capped at six people. The best wildlife hour of the trip. |
 | Guides and vehicles | Lake Nakuru — hired vehicle and driver, 1 day | $55 | $40–$60 | $80–120 per vehicle, split two ways. Arrange the evening before. |
 | Guides and vehicles | Kakamega — 2 night walks, 1 sunrise, 2 long walks | $45 | $35–$70 | Night walk KSh 1,200, long walk KSh 1,000, sunrise KSh 1,200. |
-| Guides and vehicles | Mara — drives, guide, night drive, walking safari | $0 | $0–$120 | Assumed included. Confirm the night drive and walking safari specifically. |
+| Guides and vehicles | Mara — drives, guide, night drive, walking safari | $0 | $0–$60 | Assumed included. Confirm the night drive and walking safari specifically. |
 | Activities | Hell's Gate bike hire | $10 | $8–$20 | Hired at the gate. |
 | Activities | Naivasha boat and Crescent Island walk | $55 | $40–$90 | One of very few places in Kenya you walk freely among plains game. |
 | Transport | Matatus and buses across the loop | $78 | $60–$110 | Nairobi–Nanyuki–Nyahururu–Nakuru–Eldoret–Kakamega–Kisumu–Kericho–Bomet, then Narok–Naivasha–Nairobi. |
 | Transport | Airport and gate transfers | $45 | $35–$80 | JKIA taxi, Nanyuki → Ol Pejeta, hotel shuttle. |
 | Transport | Mara camp pickup and drop-off | $88 | $60–$130 | Bomet or Narok, both directions. Ask whether it's in the camp rate. |
 | Transport | Bodas and local hops | $15 | $10–$30 | Shinyalu, the forest station, town stages. |
-| Meals | Food outside the all-inclusive legs, 12 days | $185 | $140–$280 | The Mara's four days are included in the camp rate. |
+| Meals | Food outside the all-inclusive legs, 14 days | $215 | $165–$325 | The Mara's two days are included in the camp rate. |
 | Meals | Travel-day food and water | $25 | $20–$45 |  |
-| Tips | Mara camp guide, spotter and staff, 4 nights | $55 | $40–$90 | Crisp post-2013 USD bills. |
+| Tips | Mara camp guide, spotter and staff, 2 nights | $30 | $20–$50 | Crisp post-2013 USD bills. |
 | Tips | Kakamega forest guides | $25 | $20–$45 | Cash only. |
 | Tips | Ol Pejeta guides and walk leader | $25 | $20–$40 |  |
 | Tips | Nakuru driver, porters, hotel staff | $30 | $20–$50 |  |
@@ -234,24 +235,24 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 | Admin | eSIM or Safaricom SIM | $15 | $8–$25 | Set up M-Pesa on arrival. |
 | Admin | Laundry, sundries, souvenirs | $50 | $30–$250 |  |
 | Contingency | ~5%, held until bookings are confirmed | $256 | $200–$450 | Conservancy fees, KWS ruling, festive uplift, FX. |
-| **Total** | | **$5,377** | | ≈ $10,754 for two |
+| **Total** | | **$5,447** | | ≈ $10,894 for two |
 
 ## Options & swaps
 
 - **Already have yellow fever shot** (−$200 pp): Kenya does not require yellow fever for arrivals from the US. Check your records before paying for it.
 - **Shared game-drive vehicle at Ol Pejeta** (−$110 pp): KSh 28,000 for four hours is the private rate. Ask your accommodation whether they can put you in a shared vehicle — the single biggest saving left on the itinerary.
-- **Mara camp at $175 rather than $200 pppn** (−$105 pp): Enkorok and other Siana camps quote $150–250. The lower end is realistic in January.
-- **Drop Kericho, one six-hour day to the Mara** (−$50 pp): Saves a night and a hotel, at the cost of the only day over five hours.
+- **Third Mara night, one fewer in Kericho** (+$370 pp): Another full game day at ~$400 pppn plus tips, less a Kericho night and a day's food. Lands at about $5,817 pp — over the $5.5k ceiling unless something else goes.
+- **One Kericho night, a fourth at Naivasha** (+$5 pp): Kericho as a bridge night only, skipping the tea-estate day, and one more lakeshore night before flying home.
 - **One night at Rondo Retreat, two at Blue Shouldered** (+$108 pp): A 1948 colonial house with gardens, a library and full board, in the middle of the forest leg.
 - **All three Kakamega nights at Rondo Retreat** (+$341 pp): Full board throughout, which also removes the self-catering food line.
 - **Second day in Lake Nakuru** (+$145 pp): A second 24h ticket plus another day of hired vehicle.
-- **Naboisho conservancy instead of Siana** (+$630 pp): Materially better wildlife density, at roughly $350 pppn against $200.
+- **Naboisho conservancy instead of Siana** (+$300 pp): Materially better wildlife density, but camps there run roughly $550+ pppn against the ~$400 assumed for Siana.
 
 ## Booking timeline
 
 - **Now (Oct 13–20):** Price and book the TK round trip, out Dec 26 with a 3-night Istanbul stop, home Jan 16. Buy insurance once ticketed.
 - **Within 72h of ticketing:** Request the free TK Stopover hotel for Dec 27–29. Two nights, US-origin economy, once per ticket.
-- **By Oct 31:** Email Mara conservancy camps for Jan 9–12. Ask in writing: is the conservancy fee included, are the night drive and walking safari included, and where do they collect from?
+- **By Oct 31:** Email Mara conservancy camps for Jan 10–11. Expect ~$400 pppn all-inclusive. Ask in writing: is the conservancy fee included, are the night drive and walking safari included, and where do they collect from?
 - **By Oct 31:** Ask Ol Pejeta whether you can join a shared game-drive vehicle rather than hiring privately. Worth $110 pp.
 - **By Nov 15:** Book Blue Shouldered Guest House for Jan 5–7 (blueshouldered@gmail.com / +254 722 888 833). Confirm meals and ask about a reptile-and-amphibian guide.
 - **By Nov 15:** Book Ol Pejeta accommodation and pre-book the 06:30 bush walk — it caps at six people. Book the Nairobi guesthouse with the room held from Dec 30.
@@ -293,9 +294,9 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 
 ## Open questions
 
-1. Is ~$5,377 pp acceptable, or should it come down further? The two cleanest cuts are a shared vehicle at Ol Pejeta (−$110) and a cheaper Siana camp (−$105).
+1. Is ~$5,447 pp acceptable? The cleanest cut left is a shared vehicle at Ol Pejeta (−$110).
 2. Are you already vaccinated for yellow fever? That is $200 pp either way.
-3. Siana at ~$200 pppn, or Naboisho at ~$350 for materially better wildlife (+$630 pp)?
+3. Two Mara nights at ~$400 pppn, or a third (+$370, about $5,817 pp — over the $5.5k ceiling)?
 4. Is dropping Samburu acceptable? It costs you the Special Five, but it is the hardest leg to reach without a vehicle and the weakest for primates and amphibians.
 5. Three nights at Blue Shouldered at $10, or one night at Rondo Retreat for the gardens and dining room (+$108)?
 6. Is about a dozen matatu legs with a backpack each genuinely fine, or is a private transfer worth buying for the Ol Pejeta → Nakuru day?
