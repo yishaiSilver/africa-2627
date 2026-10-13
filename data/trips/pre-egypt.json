@@ -279,7 +279,61 @@
       "includes": "Rooftop breakfast, pyramid view. Airport pickup extra; essential for ~04:00 arrival.",
       "why": "Walk to Sphinx gate, 10-15 min to GEM, no Cairo traffic. Great value. Book Dec 20 night for pre-dawn arrival. Basic rooms, noisy touty street.",
       "url": "https://www.booking.com/searchresults.html?ss=Nazlet+El-Semman%2C+Giza",
-      "alternatives": "Upgrade: Marriott Mena House ($250+/room). Downtown hostels cheaper, 1h away."
+      "alternatives": "Also: Pyramids On The Spot View, Marvel Stone (budget, Sphinx gate).",
+      "options": [
+        {
+          "id": "giz-pyramids-view-inn",
+          "tag": "Plan",
+          "name": "Pyramid-view guesthouse, Nazlet el-Semman (e.g. Pyramids View Inn / Great Pyramid Inn type)",
+          "pppn_usd": 25,
+          "room_usd": 55,
+          "rating": "Booking 7.9 (1,187); Expedia 8.6 (634)",
+          "style": "Budget guesthouse, private double",
+          "includes": "Rooftop breakfast, pyramid view. Airport pickup extra; essential for ~04:00 arrival.",
+          "why": "Opposite Sphinx gate; rooftop pyramid breakfast; cheap.",
+          "url": "https://oyster.com/cairo/hotels/pyramids-view-inn",
+          "notes": "Pyramids View Inn: Booking from ~£45 (~$57)/room. Rooftop pyramid view, free breakfast, many stairs, kitchen noise. Book Dec 20 night; CAI pickup ~$20–25/car extra."
+        },
+        {
+          "id": "giz-great-pyramid-inn",
+          "tag": "Value",
+          "name": "Great Pyramid Inn",
+          "pppn_usd": 25,
+          "room_usd": 50,
+          "rating": "Kayak 8.7 (5,678); Expedia 9.2 (~1,000)",
+          "style": "3-star guesthouse-hotel, double",
+          "includes": "Buffet breakfast; rooftop view; small pool; AC",
+          "why": "Same Sphinx-gate spot, higher scores, pool, similar price.",
+          "url": "https://www.kayak.com/Giza-Hotels-Great-Pyramid-Inn.2781145.ksp",
+          "notes": "Kayak $27–58/room by type; Expedia ~£55 incl tax. Xmas est $50–60. Ask for pre-dawn pickup."
+        },
+        {
+          "id": "giz-steigenberger",
+          "tag": "Deal",
+          "name": "Steigenberger Pyramids Cairo",
+          "pppn_usd": 90,
+          "room_usd": 180,
+          "rating": "Booking 8.2",
+          "style": "Large 5-star resort hotel",
+          "includes": "Breakfast; pool; heating/AC; shuttle-able to GEM",
+          "why": "Proper hotel comfort, quiet, 5 min drive to plateau.",
+          "url": "https://www.booking.com/searchresults.html?ss=Steigenberger+Pyramids+Cairo",
+          "notes": "Booking from ~£135/night snapshot; Xmas est $170–200 incl tax. Not walk-to-gate; Uber needed."
+        },
+        {
+          "id": "giz-mena-house",
+          "tag": "Splurge",
+          "name": "Marriott Mena House, Cairo",
+          "pppn_usd": 250,
+          "room_usd": 500,
+          "rating": "Kayak (high 8s; check)",
+          "style": "Historic palace hotel at the pyramids' foot",
+          "includes": "Pyramid-view rooms; pools; breakfast often extra",
+          "why": "Pyramid out the window; history; Bonvoy points usable.",
+          "url": "https://www.marriott.com/en-us/hotels/caimh-marriott-mena-house-cairo/overview/",
+          "notes": "Expedia Dec 11–12 snapshot $418–437 + tax (~$480–503). Bonvoy member rate a few % off; pyramid-view rooms more."
+        }
+      ]
     },
     {
       "name": "Nubian guesthouse, Gharb Soheil / Elephantine (e.g. Anakato-area or Bet El Kerem style)",
@@ -291,7 +345,74 @@
       "includes": "Breakfast; dinners on request; boat transfers",
       "why": "Colorful, quiet Nubian village on Nile; calm Christmas Eve. Hosts arrange felucca, birding boat, Luxor car.",
       "url": "https://www.booking.com/searchresults.html?ss=Gharb+Soheil%2C+Aswan",
-      "alternatives": "Splurge: Old Cataract (Sofitel Legend, $400+). Dahabiya Aswan-Luxor (3-4 nights, $250-450 pppn) replaces car + hotels."
+      "alternatives": "Also: Dahabiya Aswan–Luxor 3–4 nights ($250–450 pppn) replaces car + hotels.",
+      "options": [
+        {
+          "id": "asw-nubian-gh",
+          "tag": "Plan",
+          "name": "Nubian guesthouse, Gharb Soheil / Elephantine (e.g. Anakato-area or Bet El Kerem style)",
+          "pppn_usd": 30,
+          "room_usd": 60,
+          "rating": "Varies; Ekadolli Kayak 8.7 (458) as proxy",
+          "style": "Nubian family guesthouse, private room",
+          "includes": "Breakfast; dinners on request; boat transfers",
+          "why": "Nubian village calm; hosts arrange felucca, birding boat, Luxor car.",
+          "url": "https://www.booking.com/searchresults.html?ss=Gharb+Soheil%2C+Aswan",
+          "notes": "Generic pick; Gharb Soheil guesthouses ~$35–90/room. Anakato reviews conflict (closures). Dinner ~$8–12 pp extra; boat transfers sometimes free."
+        },
+        {
+          "id": "asw-baba-dool",
+          "tag": "Cheaper",
+          "name": "Baba Dool (Elephantine Island)",
+          "pppn_usd": 20,
+          "room_usd": 40,
+          "rating": "Travelmyth 9.2",
+          "style": "Nubian family guesthouse",
+          "includes": "Breakfast; home-cooked dinners on request; Nile terrace",
+          "why": "Cheapest well-rated; island village, 5 EGP ferry to town.",
+          "url": "https://wanderlog.com/place/details/843322/baba-dool",
+          "notes": "From ~$23/room snapshot; Xmas est $40. Not west bank but closer to corniche/Philae taxi."
+        },
+        {
+          "id": "asw-ekadolli",
+          "tag": "Value",
+          "name": "Ekadolli Nubian Guesthouse (Kerma)",
+          "pppn_usd": 25,
+          "room_usd": 50,
+          "rating": "Kayak 8.7 (458)",
+          "style": "Nubian guesthouse, Gharb Sehel",
+          "includes": "Breakfast; dinner extra; boat/transfer help",
+          "why": "Classic Nubian domes in Gharb Sehel, good scores, low price.",
+          "url": "https://www.ca.kayak.com/Aswan-Hotels-Eka-Dolli-Guesthouse.694387.ksp",
+          "notes": "Kayak from C$28/room off-peak; Xmas est $45–55. 6 km from center; boat/taxi."
+        },
+        {
+          "id": "asw-kato-dool",
+          "tag": "Deal",
+          "name": "Kato Dool Wellness Resort",
+          "pppn_usd": 63,
+          "room_usd": 125,
+          "rating": "Kayak 9.1 (1,195)",
+          "style": "Nubian-style boutique resort, west bank",
+          "includes": "Breakfast; pool; Nile terrace; boat shuttle",
+          "why": "Photogenic Nubian resort, big review base, mid-range.",
+          "url": "https://ae.trip.com/hotels/aswan-hotel-detail-13796862/kato-dool-nubian-house",
+          "notes": "Kayak ~R2,206 (~$120–130)/night; one review: poor value at peak. Xmas est $125–160."
+        },
+        {
+          "id": "asw-old-cataract",
+          "tag": "Splurge",
+          "name": "Sofitel Legend Old Cataract Aswan",
+          "pppn_usd": 260,
+          "room_usd": 520,
+          "rating": "Kayak (9+; check)",
+          "style": "Legendary 1899 palace hotel",
+          "includes": "Nile/Elephantine views; pools; spa; breakfast varies by rate",
+          "why": "Agatha Christie's hotel; Christmas Eve terrace sunset.",
+          "url": "https://www.kayak.com/Aswan-Hotels-Sofitel-Legend-Old-Cataract-Aswan.50787.ksp",
+          "notes": "Snapshots $450–850+/night; Accor ALL member rate ~5–10% off. NYE gala $320 pp (not our dates)."
+        }
+      ]
     },
     {
       "name": "Nour El Gourna Hotel (or similar West Bank guesthouse)",
@@ -303,7 +424,61 @@
       "includes": "Breakfast; balloon, taxi bookings",
       "why": "Walk/bike to VoK side, near balloon launch, quieter than east bank. Long-running budget favorite.",
       "url": "https://www.booking.com/searchresults.html?ss=West+Bank%2C+Luxor",
-      "alternatives": "Boutique: Al Moudira ($150+/room). East-bank Nile-view mid-range $40-70/room."
+      "alternatives": "Also: East-bank Nile-view mid-range $40–70/room.",
+      "options": [
+        {
+          "id": "lxr-nour-el-gourna",
+          "tag": "Plan",
+          "name": "Nour El Gourna Hotel (or similar West Bank guesthouse)",
+          "pppn_usd": 25,
+          "room_usd": 50,
+          "rating": "Priceline 8.2 (66)",
+          "style": "Simple mud-brick guesthouse",
+          "includes": "Breakfast; balloon, taxi bookings",
+          "why": "West Bank tombs nearby; quiet; near balloon launch.",
+          "url": "https://www.priceline.com/hotel-deals/en-us/P5000003065/H53363805/nour-el-gourna.ssp",
+          "notes": "Priceline from ~$23; Frommer's $29–48/room. Palm-grove garden, some Colossi views; 10 min walk Medinet Habu. Xmas est $50/room."
+        },
+        {
+          "id": "lxr-nour-el-balad",
+          "tag": "Value",
+          "name": "Nour El Balad",
+          "pppn_usd": 25,
+          "room_usd": 50,
+          "rating": "Booking 9.1 (632); Priceline 9.2 (150)",
+          "style": "Mud-brick guesthouse, West Bank fields",
+          "includes": "Breakfast; rooftop; AC; dinner on request",
+          "why": "Sister-style guesthouse, much better scores, same price.",
+          "url": "https://www.priceline.com/hotel-deals/en-us/P5000003065/H51243705/nour-el-balad.ssp",
+          "notes": "Booking from ~$45/room; Xmas est $50. Rural; bike/taxi to sites."
+        },
+        {
+          "id": "lxr-marsam",
+          "tag": "Deal",
+          "name": "Marsam Hotel",
+          "pppn_usd": 50,
+          "room_usd": 100,
+          "rating": "ATR 8.5; Lonely Planet pick",
+          "style": "Historic archaeologists' hostel, Qurna",
+          "includes": "Breakfast; garden-grown food; AC only in ensuite rooms",
+          "why": "Character: Egyptologists' base since 1920s, by Memnon.",
+          "url": "https://www.tripexpert.com/luxor/hotels/marsam-hotel-luxor/comparisons",
+          "notes": "~$100/room listed; some rooms fan-only, shared bath. Book ahead (dig season)."
+        },
+        {
+          "id": "lxr-al-moudira",
+          "tag": "Splurge",
+          "name": "Al Moudira Hotel",
+          "pppn_usd": 150,
+          "room_usd": 300,
+          "rating": "Kayak 9.6 (534); Priceline 9.7 (151)",
+          "style": "Boutique oasis palace, West Bank",
+          "includes": "Pool; gardens; heating; breakfast ~$30 pp extra",
+          "why": "Most atmospheric West Bank hotel; peaceful Christmas splurge.",
+          "url": "https://www.kayak.com/Luxor-Hotels-Al-Moudira-Hotel.279928.ksp",
+          "notes": "Kayak from $210; Priceline $336; Mr&Mrs Smith from $351. Open Sep–Jun. Service complaints noted."
+        }
+      ]
     },
     {
       "name": "Budget guesthouse near JKIA / Langata",
@@ -314,8 +489,62 @@
       "style": "Guesthouse",
       "includes": "~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights).",
       "why": "Cheap, safe, ~20m from Sheldrick + JKIA. Crew picks up here.",
-      "alternatives": "Karen B&B ~$120/room",
-      "url": "https://www.booking.com/city/ke/nairobi.html"
+      "alternatives": "Wildebeest Eco Camp tent ~$55 pp. See options.",
+      "url": "https://www.booking.com/city/ke/nairobi.html",
+      "options": [
+        {
+          "id": "kar-plan",
+          "tag": "Plan",
+          "name": "Budget guesthouse near JKIA / Langata",
+          "pppn_usd": 30,
+          "room_usd": 60,
+          "rating": "Pick 8+/10 on Booking",
+          "style": "Guesthouse",
+          "includes": "~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights).",
+          "why": "Cheap, safe, ~20m from Sheldrick + JKIA. Crew picks up here.",
+          "url": "https://www.booking.com/city/ke/nairobi.html",
+          "notes": "Room held from Dec 27 for 03:30 landing = 2 room-nights (~$60 pp). Take free-cancel rate."
+        },
+        {
+          "id": "kar-wildebeest",
+          "tag": "Value",
+          "name": "Wildebeest Eco Camp (garden tent)",
+          "pppn_usd": 55,
+          "room_usd": 110,
+          "rating": "TA ~4.5; backpacker classic",
+          "style": "En-suite safari tent, Langata",
+          "includes": "B&B. $110/dbl tent 2026 non-res. HB $170, FB $208/dbl.",
+          "why": "Tent-camp feel, safe compound, ~10m to Sheldrick.",
+          "url": "https://wildebeestecocamp.com",
+          "notes": "2026 rate from agent sheet (African Spice); old listings ~$30 pp. Still 2 room-nights for Dec 27 hold."
+        },
+        {
+          "id": "kar-karen-gables",
+          "tag": "Deal",
+          "name": "Karen Gables (Karen guesthouse)",
+          "pppn_usd": 85,
+          "room_usd": 170,
+          "rating": "Reviews ~4.9/5",
+          "style": "Boutique guesthouse, big garden",
+          "includes": "B&B; dinner on request",
+          "why": "Quiet leafy Karen, near Sheldrick + Giraffe Centre.",
+          "url": "https://www.booking.com/searchresults.html?ss=Karen+Gables",
+          "notes": "No 2026 rate found; ~$150–190/room est. Unverified."
+        },
+        {
+          "id": "kar-nairobi-tented",
+          "tag": "Splurge",
+          "name": "Nairobi Tented Camp (inside Nairobi NP)",
+          "pppn_usd": 260,
+          "room_usd": null,
+          "rating": "Porini/Gamewatchers; TA ~5",
+          "style": "8-tent camp in park forest",
+          "includes": "FB from ~$180 pp; Nairobi NP fee (~$80–100 pp/24h) extra",
+          "why": "Sleep inside Nairobi NP on day one. Lions by the skyline.",
+          "url": "https://www.safari.com/nairobi-tented-camp",
+          "notes": "Gross ~$180 FB + ~$80 park fee. No netting: crew not running yet. 03:30 landing = pay 2 nights. Festive rate unverified."
+        }
+      ]
     },
     {
       "name": "Operator camp at an OPC campsite",
@@ -326,8 +555,75 @@
       "style": "Private serviced camping",
       "includes": "OPC campsite $70 pppn (2026 tariff); entry separate",
       "why": "Cheapest way to sleep inside OPC.",
-      "alternatives": "Sweetwaters Serena (~$240 pp FB)",
-      "url": "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf"
+      "alternatives": "Pelican House $100 pp self-cater; Sweetwaters ~$315 net. See options.",
+      "url": "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf",
+      "options": [
+        {
+          "id": "opc-plan",
+          "tag": "Plan",
+          "name": "Operator camp at an OPC campsite",
+          "pppn_usd": 70,
+          "room_usd": null,
+          "rating": "Official OPC site",
+          "style": "Private serviced camping",
+          "includes": "OPC campsite $70 pppn (2026 tariff); entry separate",
+          "why": "Cheapest way to sleep inside OPC.",
+          "url": "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf",
+          "notes": "OPC 2026 tariff: all stays exclude conservancy entry ($110 non-res/24h). Book via operator; confirm site."
+        },
+        {
+          "id": "opc-pelican",
+          "tag": "Value",
+          "name": "Pelican House (OPC self-catering cottage)",
+          "pppn_usd": 100,
+          "room_usd": 200,
+          "rating": "Official OPC house",
+          "style": "Self-catering stone cottage inside OPC",
+          "includes": "Beds, kitchen. $100 pppn (2–4 pax). Chef +$50/day. Entry extra.",
+          "why": "Real bed + roof inside OPC; crew cooks in kitchen.",
+          "url": "https://www.olpejetaconservancy.org/pelican-house/",
+          "notes": "+$30 pppn vs campsite; crew still cooks, no netting. Ask OPC re 'The Stables' (~$70 pp FB, unverified) as near-same-price room."
+        },
+        {
+          "id": "opc-sweetwaters",
+          "tag": "Deal",
+          "name": "Sweetwaters Serena Camp",
+          "pppn_usd": 315,
+          "room_usd": 670,
+          "rating": "TA ~4.5; Serena",
+          "style": "Mid-range tented camp, floodlit waterhole",
+          "includes": "FB. Festive (Dec 23–Jan 1) ~$670/dbl tent. Entry + drives extra (crew 4x4 drives).",
+          "why": "Waterhole rhino from your tent. Easy mid-range comfort.",
+          "url": "https://www.serenahotels.com/sweetwaters",
+          "notes": "Gross ~$335 pp FB minus ~$20 crew-food = $315 net. +$45 pp surcharge only on Dec 24–26/31/Jan 1 (not our nights). Agent rate; confirm with Serena."
+        },
+        {
+          "id": "opc-bush-camp",
+          "tag": "Splurge",
+          "name": "Ol Pejeta Bush Camp",
+          "pppn_usd": 820,
+          "room_usd": null,
+          "rating": "Asilia/OPC; TA ~5",
+          "style": "6-tent seasonal camp on Ewaso Nyiro",
+          "includes": "FB, house drinks, day + night drives, airstrip transfers. Entry extra.",
+          "why": "Tiny bush camp, night drives, rhino on foot.",
+          "url": "https://www.olpejetaconservancy.org/ol-pejeta-bush-camp/",
+          "notes": "2026 ~$690–860 pp (Jan $690, peak $860); festive est ~$840. Net ~$820 after crew food. Unverified festive."
+        },
+        {
+          "id": "opc-porini-rhino",
+          "tag": "Splurge",
+          "name": "Porini Rhino Camp",
+          "pppn_usd": 840,
+          "room_usd": null,
+          "rating": "Porini; TA ~5",
+          "style": "8-tent eco camp, private-ish OPC corner",
+          "includes": "FB, drinks, drives, walks, OPC fees included",
+          "why": "Includes OPC fees + guided walks + night drives.",
+          "url": "https://www.porini.com/porini-camps/rhino-camp/",
+          "notes": "Festive 2n fly-in pkg $2,275 pp (incl flights ~$330) → ~$970/night. Net = 970 − $110 entry − $20 food ≈ $840. +$40 on Dec 24–26/31/Jan 1 only."
+        }
+      ]
     },
     {
       "name": "Operator camp at a Samburu / Buffalo Springs campsite",
@@ -338,8 +634,75 @@
       "style": "Private serviced camping",
       "includes": "Campsite ~$20–50 pppn (public vs special site); reserve fee separate",
       "why": "Wake up on the Ewaso Ng'iro river among the Special Five.",
-      "alternatives": "Samburu Riverside Camp ~$85–170 pp FB",
-      "url": "https://www.safarifind.com/accommodations/samburu-riverside-camp"
+      "alternatives": "Ashnil ~$220 net; Elephant Bedroom ~$600 net. See options.",
+      "url": "https://www.safarifind.com/accommodations/samburu-riverside-camp",
+      "options": [
+        {
+          "id": "sam-plan",
+          "tag": "Plan",
+          "name": "Operator camp at a Samburu / Buffalo Springs campsite",
+          "pppn_usd": 30,
+          "room_usd": null,
+          "rating": "County reserve campsite",
+          "style": "Private serviced camping",
+          "includes": "Campsite ~$20–50 pppn (public vs special site); reserve fee separate",
+          "why": "Wake up on the Ewaso Ng'iro river among the Special Five.",
+          "url": "https://www.safarifind.com/accommodations/samburu-riverside-camp",
+          "notes": "Public site ~$20; special (private) site ~$35–50 + booking fee. Reserve fee $85/24h separate."
+        },
+        {
+          "id": "sam-umoja",
+          "tag": "Cheaper",
+          "name": "Umoja women's campsite / cottages (Archer's Post)",
+          "pppn_usd": 20,
+          "room_usd": null,
+          "rating": "Community-run; basic",
+          "style": "Campsite + simple cottages, just outside reserve",
+          "includes": "Camp ~KES 1,000 pp est.; cottage ~KES 5,000/bed FB (2023-24)",
+          "why": "Supports Umoja women's village. Cheapest, but outside gate.",
+          "url": "https://umojawomen.or.ke",
+          "notes": "Outside reserve: each day = new 24h fee anyway; loses river-in-park nights. Rates 2023-24, unverified."
+        },
+        {
+          "id": "sam-ashnil",
+          "tag": "Deal",
+          "name": "Ashnil Samburu Camp",
+          "pppn_usd": 220,
+          "room_usd": 480,
+          "rating": "TA ~4.5",
+          "style": "Mid-range tented camp on Ewaso Ng'iro",
+          "includes": "FB. Festive (Dec 21–Jan 2) $480/dbl. Fees + drives extra.",
+          "why": "River tents, inside reserve. Solid mid-range NYE.",
+          "url": "https://www.ashnilhotels.com/ashnil-samburu-camp/",
+          "notes": "Gross $240 pp minus ~$20 crew food = $220. Agent table partly garbled; confirm NYE gala supplement."
+        },
+        {
+          "id": "sam-shaba",
+          "tag": "Deal",
+          "name": "Sarova Shaba Game Lodge (Buffalo Springs/Shaba side)",
+          "pppn_usd": 185,
+          "room_usd": 390,
+          "rating": "TA ~4.3; Sarova",
+          "style": "Big lodge, pool, river frontage",
+          "includes": "FB. Festive (Dec 23–Jan 3) ~$390/dbl ($202 pp). Shaba fee extra.",
+          "why": "Cheapest proper lodge; pool for hot afternoons.",
+          "url": "https://www.sarovahotels.com/shaba-samburu/",
+          "notes": "Gross ~$202 pp minus $20 food ≈ $185. In Shaba reserve: different fee gate (~$70). NYE gala dinner likely mandatory extra."
+        },
+        {
+          "id": "sam-elephant-bedroom",
+          "tag": "Splurge",
+          "name": "Elephant Bedroom Camp",
+          "pppn_usd": 600,
+          "room_usd": 1250,
+          "rating": "Atua Enkop; TA ~5",
+          "style": "12-tent luxury camp, elephants in camp",
+          "includes": "Fully inclusive (FB, drinks, drives). Reserve fee extra.",
+          "why": "Elephants wander between tents. Special Five daily.",
+          "url": "https://www.atuaenkop.com/elephant-bedroom-camp/",
+          "notes": "Festive (Dec 23–Jan 2) ~$1,250/dbl = $625 pp, minus $20 food ≈ $600 net. 3n = +$1,710 pp vs plan."
+        }
+      ]
     },
     {
       "name": "Thomson's Falls campsite",
@@ -350,8 +713,49 @@
       "style": "Campsite",
       "includes": "Campsite fee; operator tents, cook, meals",
       "why": "Splits Samburu → Nakuru into two easy days. Waterfall at the door.",
-      "alternatives": "Thomson's Falls Lodge rooms ~$50–70 pp B&B",
-      "url": "https://en.wikipedia.org/wiki/Thomson%27s_Falls"
+      "alternatives": "Lodge room ~$65 pp. See options.",
+      "url": "https://en.wikipedia.org/wiki/Thomson%27s_Falls",
+      "options": [
+        {
+          "id": "nya-plan",
+          "tag": "Plan",
+          "name": "Thomson's Falls campsite",
+          "pppn_usd": 10,
+          "room_usd": null,
+          "rating": "Lodge grounds; TA ~3.5",
+          "style": "Campsite",
+          "includes": "Campsite fee; operator tents, cook, meals",
+          "why": "Splits Samburu → Nakuru into two easy days. Waterfall at the door.",
+          "url": "https://en.wikipedia.org/wiki/Thomson%27s_Falls",
+          "notes": "Lodge lawn camping ~KES 1,000–1,250 pp (traveler reports). Falls entry ~KES 500 non-res."
+        },
+        {
+          "id": "nya-tfl-room",
+          "tag": "Value",
+          "name": "Thomson's Falls Lodge room/cottage",
+          "pppn_usd": 65,
+          "room_usd": 130,
+          "rating": "TA ~3.5; colonial, dated",
+          "style": "Old colonial lodge at the falls",
+          "includes": "B&B ~$110–180/room non-res (cottage higher). Fireplace.",
+          "why": "Bed + fire on a cold 2,360m night. Same falls view.",
+          "url": "https://www.booking.com/hotel/ke/thomsons-falls-lodge.html",
+          "notes": "~$130/room mid. Crew still cooks dinner → no netting. Rates conflict across sources."
+        },
+        {
+          "id": "nya-panari",
+          "tag": "Splurge",
+          "name": "Panari Resort Nyahururu (BW Signature)",
+          "pppn_usd": 75,
+          "room_usd": 150,
+          "rating": "Booking ~8; 4-star",
+          "style": "Modern resort hotel, town edge",
+          "includes": "B&B ~$127–200/room (aggregators)",
+          "why": "Hot shower, reliable comfort before Nakuru.",
+          "url": "https://www.bestwestern.com/en_US/book/hotel-rooms.80008.html",
+          "notes": "Not at falls (~3 km). Crew dinner still served → no netting. Aggregator rates, unverified."
+        }
+      ]
     },
     {
       "name": "KWS public campsite inside Lake Nakuru NP",
@@ -362,8 +766,75 @@
       "style": "Serviced camping",
       "includes": "KWS campsite $30 pppn; 2×24h park fee separate",
       "why": "Wake up inside the park. NYE by the fire.",
-      "alternatives": "Flamingo Hill tented camp (~$150–185 pp FB)",
-      "url": "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025"
+      "alternatives": "Lake Nakuru Lodge ~$110 net. See options.",
+      "url": "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025",
+      "options": [
+        {
+          "id": "nak-plan",
+          "tag": "Plan",
+          "name": "KWS public campsite inside Lake Nakuru NP",
+          "pppn_usd": 30,
+          "room_usd": null,
+          "rating": "KWS official",
+          "style": "Serviced camping",
+          "includes": "KWS campsite $30 pppn; 2×24h park fee separate",
+          "why": "Wake up inside the park. NYE by the fire.",
+          "url": "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025",
+          "notes": "KWS public site $30 pppn; special site ~$40 + KES 10k/week reservation. Park $90/24h separate (court case on new fees)."
+        },
+        {
+          "id": "nak-naishi",
+          "tag": "Value",
+          "name": "Naishi Guest House (KWS, inside park)",
+          "pppn_usd": 125,
+          "room_usd": 250,
+          "rating": "KWS self-catering",
+          "style": "Stone house, sleeps 8, self-catering",
+          "includes": "Whole house ~$250/night non-res; kitchen. Park fee extra.",
+          "why": "Private house inside park; crew cooks in kitchen.",
+          "url": "https://www.kws.go.ke",
+          "notes": "Old rate ($250); KWS 2025 Mbugani rate card unreadable. Pricey for 2 pax. Book via KWS eCitizen."
+        },
+        {
+          "id": "nak-lake-lodge",
+          "tag": "Deal",
+          "name": "Lake Nakuru Lodge",
+          "pppn_usd": 110,
+          "room_usd": 260,
+          "rating": "TA ~4; 3-star",
+          "style": "Older lodge, south of park, inside boundary",
+          "includes": "FB ~$260/dbl (aggregator snapshot). Park fee extra.",
+          "why": "Cheapest lodge inside the park; pool, rhino nearby.",
+          "url": "https://www.lakenakurulodge.com",
+          "notes": "~$130 pp gross minus $20 food ≈ $110. Jan 4–5 is post-festive. Unverified 2027."
+        },
+        {
+          "id": "nak-flamingo-hill",
+          "tag": "Deal",
+          "name": "Flamingo Hill Tented Camp",
+          "pppn_usd": 150,
+          "room_usd": null,
+          "rating": "TA ~4.5",
+          "style": "Mid-range tented camp in park",
+          "includes": "FB ~$150–185 pp (est.). Park fee extra.",
+          "why": "Tented, quiet, inside park, closer to lake.",
+          "url": "https://flamingohillcamp.com",
+          "notes": "Gross ~$170 minus $20 food ≈ $150. No 2026 official sheet found. Unverified."
+        },
+        {
+          "id": "nak-lion-hill",
+          "tag": "Splurge",
+          "name": "Sarova Lion Hill Game Lodge",
+          "pppn_usd": 150,
+          "room_usd": 340,
+          "rating": "TA ~4.3; Sarova",
+          "style": "Hillside lodge, lake view",
+          "includes": "FB. Nov–Dec 22 $141 pp; festive (to Jan 3) $313 pp. Park fee extra.",
+          "why": "Big lake views. Our nights fall after festive window.",
+          "url": "https://www.sarovahotels.com/lionhill-nakuru/",
+          "notes": "Jan 4–5 rate est. ~$170 pp, minus $20 food ≈ $150. Real splurge = The Cliff Nakuru ($385–540 pp FB)."
+        }
+      ]
     },
     {
       "name": "Rondo Retreat",
@@ -374,8 +845,75 @@
       "style": "Forest lodge (full board)",
       "includes": "Full board; ~$260/double/night non-resident",
       "why": "Only comfortable bed inside the rainforest. Guides at the gate.",
-      "alternatives": "KWS Udo's bandas (cheap, self-catering)",
-      "url": "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html"
+      "alternatives": "Udo's bandas ~$20 pp. See options.",
+      "url": "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html",
+      "options": [
+        {
+          "id": "kak-plan",
+          "tag": "Plan",
+          "name": "Rondo Retreat",
+          "pppn_usd": 130,
+          "room_usd": 260,
+          "rating": "TA ~4.5",
+          "style": "Forest lodge (full board)",
+          "includes": "Full board; ~$260/double/night non-resident",
+          "why": "Only comfortable bed inside the rainforest. Guides at the gate.",
+          "url": "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html",
+          "notes": "$260/dbl FB non-res 2026 (agent sheet); HB $240/dbl. Crew food not netted in plan."
+        },
+        {
+          "id": "kak-udo-camp",
+          "tag": "Cheaper",
+          "name": "Udo's campsite (KWS, Buyangu)",
+          "pppn_usd": 20,
+          "room_usd": null,
+          "rating": "KWS; basic",
+          "style": "KWS forest campsite, north sector",
+          "includes": "Campsite ~$15–20 pp; reserve fee $50/day (KWS) extra",
+          "why": "Cheapest night in the forest; crew cooks.",
+          "url": "https://kws.go.ke/park/kakamega-forest-national-reserve/",
+          "notes": "Buyangu (north, KWS) ≠ Isecheno/Rondo (south, KFS); ~1h apart. Rates from old guides."
+        },
+        {
+          "id": "kak-udo-banda",
+          "tag": "Value",
+          "name": "Udo's Bandas (KWS)",
+          "pppn_usd": 20,
+          "room_usd": 40,
+          "rating": "KWS; simple",
+          "style": "Self-catering huts in forest",
+          "includes": "Hut for 2 ~$40; shared kitchen. Fee extra.",
+          "why": "Bed + roof in rainforest rain; crew cooks.",
+          "url": "https://kws.go.ke/park/kakamega-forest-national-reserve/",
+          "notes": "Old rate ($40/2-pax hut); confirm via kakamegaforest@kws.go.ke. Saves ~$110 pppn vs Rondo."
+        },
+        {
+          "id": "kak-isecheno",
+          "tag": "Cheaper",
+          "name": "Isecheno Blue-shouldered Guest House",
+          "pppn_usd": 10,
+          "room_usd": null,
+          "rating": "TA ~4; birders' base",
+          "style": "Basic guesthouse at Isecheno, south forest",
+          "includes": "~KES 1,200 pp room only; ~KES 3,400 FB",
+          "why": "Birder favourite; guide Smith Likare on site.",
+          "url": "https://en.wikivoyage.org/wiki/Kakamega_Rainforest",
+          "notes": "Very basic, hot shower. Old KES rates. 5 min walk to Rondo trails. Unverified."
+        },
+        {
+          "id": "kak-rondo-hb",
+          "tag": "Deal",
+          "name": "Rondo Retreat, half board",
+          "pppn_usd": 120,
+          "room_usd": 240,
+          "rating": "TA ~4.5",
+          "style": "Same lodge, HB",
+          "includes": "HB $240/dbl; crew does lunch",
+          "why": "Same bed, $10 cheaper; crew picnic lunch.",
+          "url": "https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html",
+          "notes": "Only bed upgrade in forest = Rondo; no true splurge exists here."
+        }
+      ]
     },
     {
       "name": "Budget hotel, Kericho",
@@ -386,8 +924,62 @@
       "style": "Town hotel",
       "includes": "~$60/room B&B est.",
       "why": "Breaks Kakamega → Mara into two short drives.",
-      "alternatives": "Tea-estate guesthouse",
-      "url": "https://www.booking.com/city/ke/kericho.html"
+      "alternatives": "Tea Hotel ~$45 pp. See options.",
+      "url": "https://www.booking.com/city/ke/kericho.html",
+      "options": [
+        {
+          "id": "ker-plan",
+          "tag": "Plan",
+          "name": "Budget hotel, Kericho",
+          "pppn_usd": 30,
+          "room_usd": 60,
+          "rating": "Pick 8+/10 on Booking",
+          "style": "Town hotel",
+          "includes": "~$60/room B&B est.",
+          "why": "Breaks Kakamega → Mara into two short drives.",
+          "url": "https://www.booking.com/city/ke/kericho.html",
+          "notes": "~$60/room B&B estimate."
+        },
+        {
+          "id": "ker-sahara",
+          "tag": "Cheaper",
+          "name": "Sahara Gardens Kericho",
+          "pppn_usd": 17,
+          "room_usd": 34,
+          "rating": "Expedia ~8",
+          "style": "Simple town hotel",
+          "includes": "B&B ~$34/room (Expedia); KES 5–8k listed",
+          "why": "Cheapest clean room; breakfast in.",
+          "url": "https://discoverkenya.co.ke/listing/sahara-gardens-kericho",
+          "notes": "Snapshot rate, early 2026. Unverified."
+        },
+        {
+          "id": "ker-tea-hotel",
+          "tag": "Value",
+          "name": "Tea Hotel Kericho",
+          "pppn_usd": 45,
+          "room_usd": 90,
+          "rating": "Historic; reviews mixed",
+          "style": "1950s colonial hotel among tea",
+          "includes": "B&B; tea-estate walks",
+          "why": "Iconic tea-country stay, gardens, estate walks.",
+          "url": "https://www.kayak.com/Kericho-Hotels-Tea-Hotel-Kericho.2780476.ksp",
+          "notes": "No 2026 rate found (~$80–100/room est.). Upkeep varies; read recent reviews."
+        },
+        {
+          "id": "ker-exotic",
+          "tag": "Splurge",
+          "name": "The Exotic House Kericho",
+          "pppn_usd": 41,
+          "room_usd": 82,
+          "rating": "Expedia ~8.5",
+          "style": "Boutique guesthouse",
+          "includes": "B&B ~$82/room (Expedia)",
+          "why": "Nicest small stay in town; Kericho has no luxury.",
+          "url": "https://www.expedia.com/Kericho-Hotels.d3000425103.Travel-Guide-Hotels",
+          "notes": "Snapshot rate. Kericho tops out ~$80–100/room."
+        }
+      ]
     },
     {
       "name": "Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)",
@@ -398,8 +990,75 @@
       "style": "Private serviced camping",
       "includes": "Site/community fee ~$25 pppn est. Conservancy fee (~$80) separate.",
       "why": "Conservancy: few vehicles, walks, off-road. Confirm mobile camping in writing.",
-      "alternatives": "Mara tented camps $400–860 pppn festive",
-      "url": "https://cheetahsafaris.com/national-park/enonkishu-conservancy"
+      "alternatives": "Porini Mara ~$500 net. See options.",
+      "url": "https://cheetahsafaris.com/national-park/enonkishu-conservancy",
+      "options": [
+        {
+          "id": "mara-plan",
+          "tag": "Plan",
+          "name": "Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)",
+          "pppn_usd": 25,
+          "room_usd": null,
+          "rating": "Conservancy-run",
+          "style": "Private serviced camping",
+          "includes": "Site/community fee ~$25 pppn est. Conservancy fee (~$80) separate.",
+          "why": "Conservancy: few vehicles, walks, off-road. Confirm mobile camping in writing.",
+          "url": "https://cheetahsafaris.com/national-park/enonkishu-conservancy",
+          "notes": "Fee ~$25 site + ~$80 conservancy pppn (est.; one source KES 17,500/day, unclear). Confirm mobile camping in writing."
+        },
+        {
+          "id": "mara-siria",
+          "tag": "Value",
+          "name": "Mara Siria Tented Camp",
+          "pppn_usd": 230,
+          "room_usd": 500,
+          "rating": "TA ~4.5",
+          "style": "Budget-mid tents on Oloololo escarpment",
+          "includes": "~$500/2 adults (Travelocity snapshot), board unclear",
+          "why": "Huge Triangle views; cheap roofed option.",
+          "url": "https://www.marasiria.com",
+          "notes": "Outside conservancies: Triangle fee (~$100 Jan) daily instead. Net ≈ $250 − $20 food. Unverified."
+        },
+        {
+          "id": "mara-basecamp",
+          "tag": "Deal",
+          "name": "Basecamp Masai Mara (Talek)",
+          "pppn_usd": 280,
+          "room_usd": null,
+          "rating": "TA ~4.5; eco pioneer",
+          "style": "Eco tented camp on Talek river",
+          "includes": "Jan $300 pp (FB + drives est.); reserve fee extra",
+          "why": "Eco-camp, community-run, cheap for its quality.",
+          "url": "https://www.basecampexplorer.com/kenya/basecamp-masai-mara/",
+          "notes": "Jan rate $300 (festive $500 to Jan 2). Not conservancy: reserve fee $100/day Jan–Jun. Net ≈ $280."
+        },
+        {
+          "id": "mara-porini",
+          "tag": "Splurge",
+          "name": "Porini Mara Camp (Ol Kinyei)",
+          "pppn_usd": 500,
+          "room_usd": null,
+          "rating": "Porini; TA ~5",
+          "style": "6-tent eco camp, private conservancy",
+          "includes": "FB, drinks, drives, walks, night drives, conservancy fee",
+          "why": "Max 6 tents, conservancy, walks + night drives.",
+          "url": "https://www.porini.com/porini-camps/porini-mara-camp/",
+          "notes": "Jan est ~$600 pp (Nov–Dec 19 $599; festive $928 to Jan 2). Net = 600 − $80 conservancy − $20 food ≈ $500. +$10 pp trust levy."
+        },
+        {
+          "id": "mara-kicheche",
+          "tag": "Splurge",
+          "name": "Kicheche Mara Camp (Mara North)",
+          "pppn_usd": 660,
+          "room_usd": null,
+          "rating": "TA ~5; photo guides",
+          "style": "Luxury tented, Mara North",
+          "includes": "Fully inclusive; conservancy fee status unclear",
+          "why": "Top photographic guiding in Mara North.",
+          "url": "https://kicheche.com/camps/kicheche-mara-camp/",
+          "notes": "Jan 2026 $730 pp; Jan 2027 est ~$760. Net ≈ 760 − $80 fee − $20 food ≈ $660 if fee included. Mara Bush Houses ($1,600+/house) not worth it for 2."
+        }
+      ]
     },
     {
       "name": "Camp Carnelley's or Fisherman's Camp",
@@ -410,8 +1069,75 @@
       "style": "Lakeshore campsite",
       "includes": "Campsite fee; operator tents, cook, meals",
       "why": "Soft finish: Hell's Gate + boat day, 2.5–3h from the airport.",
-      "alternatives": "Banda same camp (~$40–60 pp)",
-      "url": "https://monkey.travel/en/usd/accommodation/naivasha-sopa/"
+      "alternatives": "Carnelley's banda ~$50 pp. See options.",
+      "url": "https://monkey.travel/en/usd/accommodation/naivasha-sopa/",
+      "options": [
+        {
+          "id": "nai-plan",
+          "tag": "Plan",
+          "name": "Camp Carnelley's or Fisherman's Camp",
+          "pppn_usd": 15,
+          "room_usd": null,
+          "rating": "TA ~4",
+          "style": "Lakeshore campsite",
+          "includes": "Campsite fee; operator tents, cook, meals",
+          "why": "Soft finish: Hell's Gate + boat day, 2.5–3h from the airport.",
+          "url": "https://monkey.travel/en/usd/accommodation/naivasha-sopa/",
+          "notes": "Carnelley's camping KES 1,200 pp (2026); Fisherman's ~KES 1,000. Hippos graze at night: stay in tent."
+        },
+        {
+          "id": "nai-fisherman",
+          "tag": "Cheaper",
+          "name": "Fisherman's Camp (bottom camp)",
+          "pppn_usd": 8,
+          "room_usd": null,
+          "rating": "TA ~4",
+          "style": "Lakeshore campsite, acacia lawn",
+          "includes": "Camping ~KES 1,000 pp; bandas + dorm too",
+          "why": "Shady lakeshore, quieter; near Hell's Gate.",
+          "url": "https://discoverkenya.co.ke/listing/fishermans-camp",
+          "notes": "Undated KES rate. Unverified."
+        },
+        {
+          "id": "nai-carnelley-banda",
+          "tag": "Value",
+          "name": "Camp Carnelley's lakefront banda",
+          "pppn_usd": 50,
+          "room_usd": 100,
+          "rating": "TA ~4.3",
+          "style": "Wooden banda, lake view",
+          "includes": "Room only KSh 8,000 (~$62) to $120–140 B&B; crew cooks",
+          "why": "Bed + lake view, same camp vibe.",
+          "url": "https://www.campcarnelleys.com",
+          "notes": "Sources clash ($62 vs $120–140/room); used ~$100. Book direct."
+        },
+        {
+          "id": "nai-sanctuary",
+          "tag": "Deal",
+          "name": "Sanctuary Farm – Watch Tower cottage",
+          "pppn_usd": 90,
+          "room_usd": 180,
+          "rating": "TA ~4.5",
+          "style": "Self-catering cottage on game farm",
+          "includes": "$180/night self-catering (2026); walk among giraffe + zebra",
+          "why": "Walk/ride with giraffes; crew uses kitchen.",
+          "url": "https://www.sanctuaryfarmkenya.com",
+          "notes": "No netting (crew still cooks). Rose Cottage $200, Mabati House $240."
+        },
+        {
+          "id": "nai-loldia",
+          "tag": "Splurge",
+          "name": "Loldia House (Governors')",
+          "pppn_usd": 600,
+          "room_usd": null,
+          "rating": "TA ~5",
+          "style": "Historic ranch house, lakeshore",
+          "includes": "FB+ : meals, drinks, activities (boat, walks, drives)",
+          "why": "Ranch-house luxury; boat + Crescent Island in rate.",
+          "url": "https://www.governorscamp.com/loldia-house/",
+          "notes": "2026 Jan–Mar $623 pp; Jan 2027 likely similar. Net ≈ $600. Kiboko Luxury Camp (~$225/room B&B, ~$113 pp) = middle."
+        }
+      ]
     },
     {
       "name": "Budget hotel near JKIA (free shuttle)",
@@ -422,8 +1148,75 @@
       "style": "Budget airport hotel",
       "includes": "~$80/room B&B; 24h shuttle",
       "why": "02:45 wake, 10–20m to JKIA before TK608.",
-      "alternatives": "Ole Sereni ~$150/room",
-      "url": "https://www.booking.com/city/ke/nairobi.html"
+      "alternatives": "Four Points at JKIA ~$85 pp. See options.",
+      "url": "https://www.booking.com/city/ke/nairobi.html",
+      "options": [
+        {
+          "id": "jkh-plan",
+          "tag": "Plan",
+          "name": "Budget hotel near JKIA (free shuttle)",
+          "pppn_usd": 40,
+          "room_usd": 80,
+          "rating": "Pick 8+/10, 24h shuttle",
+          "style": "Budget airport hotel",
+          "includes": "~$80/room B&B; 24h shuttle",
+          "why": "02:45 wake, 10–20m to JKIA before TK608.",
+          "url": "https://www.booking.com/city/ke/nairobi.html",
+          "notes": "Confirm 02:45 shuttle in writing."
+        },
+        {
+          "id": "jkh-homestay",
+          "tag": "Cheaper",
+          "name": "Heavenly Meadows / Lewisky (near JKIA)",
+          "pppn_usd": 35,
+          "room_usd": 70,
+          "rating": "Small homestays",
+          "style": "Guesthouse ~2 km from JKIA",
+          "includes": "~$67–72/room (Kayak 'from')",
+          "why": "Cheapest close bed; prearrange 02:45 taxi.",
+          "url": "https://www.kayak.com/Nairobi-Hotels.7983.hotel.ksp",
+          "notes": "Shuttle not confirmed. Unverified."
+        },
+        {
+          "id": "jkh-eka",
+          "tag": "Value",
+          "name": "Eka Hotel (Mombasa Rd)",
+          "pppn_usd": 60,
+          "room_usd": 120,
+          "rating": "TA ~4.3; 4-star",
+          "style": "Business hotel",
+          "includes": "~$101–145/room; breakfast varies",
+          "why": "Proper hotel, ~15m to JKIA; shuttle on request.",
+          "url": "https://www.ekahotel.com",
+          "notes": "Aggregator rates 2026."
+        },
+        {
+          "id": "jkh-four-points",
+          "tag": "Deal",
+          "name": "Four Points by Sheraton Nairobi Airport",
+          "pppn_usd": 85,
+          "room_usd": 170,
+          "rating": "TA ~4.3; at JKIA",
+          "style": "Airport hotel at terminal",
+          "includes": "~$154–258/room; breakfast ~$25 pp extra; 24h free shuttle",
+          "why": "5 min to terminal. Max sleep before 02:45.",
+          "url": "https://www.marriott.com/en-us/hotels/nbofp-four-points-nairobi-airport/",
+          "notes": "Mar 2026 $170 snapshot; Kayak avg $224."
+        },
+        {
+          "id": "jkh-ole-sereni",
+          "tag": "Splurge",
+          "name": "Ole Sereni",
+          "pppn_usd": 115,
+          "room_usd": 230,
+          "rating": "TA ~4.5",
+          "style": "Hotel overlooking Nairobi NP",
+          "includes": "B&B ~$160–310/room (agent sheets); Expedia from ~$130",
+          "why": "Last-night game view from terrace.",
+          "url": "https://www.olesereni.com",
+          "notes": "~10–15m to JKIA. Splurge only for last sunset."
+        }
+      ]
     }
   ],
   "budget": [
@@ -874,6 +1667,21 @@
     "https://www.travelnews.ch/english-corner/31643-new-pricing-model-for-visas-in-egypt.html",
     "https://tripprof.com/en/blog/uk-egypt-visa-fee-increase/",
     "https://www.encounterstravel.com/blog/egypt-sleeper-train",
+    "https://oyster.com/cairo/hotels/pyramids-view-inn",
+    "https://www.kayak.com/Giza-Hotels-Great-Pyramid-Inn.2781145.ksp",
+    "https://expedia.co.uk/Cairo-Hotels-Great-Pyramid-Inn.h15900609.Hotel-Reviews",
+    "https://www.kayak.com/Giza-Hotels-Marriott-Mena-House-Cairo.6106.ksp",
+    "https://www.ca.kayak.com/Aswan-Hotels-Eka-Dolli-Guesthouse.694387.ksp",
+    "https://wanderlog.com/place/details/843322/baba-dool",
+    "https://ae.trip.com/hotels/aswan-hotel-detail-13796862/kato-dool-nubian-house",
+    "https://kayak.ie/Aswan-Hotels-Anakato-Nubian-Houses.336855.ksp",
+    "https://www.kayak.com/Aswan-Hotels-Sofitel-Legend-Old-Cataract-Aswan.50787.ksp",
+    "https://www.priceline.com/hotel-deals/en-us/P5000003065/H53363805/nour-el-gourna.ssp",
+    "https://www.frommers.com/destinations/luxor/hotels/nour-el-gourna",
+    "https://www.priceline.com/hotel-deals/en-us/P5000003065/H51243705/nour-el-balad.ssp",
+    "https://atrsafari.com/safari-lodges/egypt/luxor/marsam-hotel",
+    "https://www.kayak.com/Luxor-Hotels-Al-Moudira-Hotel.279928.ksp",
+    "https://www.mrandmrssmith.com/luxury-hotels/al-moudira",
     "https://uk.trip.com/flights/status-tk607",
     "https://www.airpaz.com/en/flight/code/TK-607",
     "https://info.flightmapper.net/flight/Turkish_Airlines_TK_10",
@@ -915,7 +1723,38 @@
     "https://www.expedia.com/lp/flights/kis/nbo/kisumu-to-nairobi",
     "https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve",
     "https://en.wikipedia.org/wiki/Maasai_Mara_conservancies",
-    "https://roadtripafrica.com/kenya/self-drive-tours/taste-of-kenya/"
+    "https://roadtripafrica.com/kenya/self-drive-tours/taste-of-kenya/",
+    "https://www.porini.com/wp-content/uploads/2026/06/Porini-Rhino-Camp-02-Nights-Fly-In-Package.pdf",
+    "https://www.chaloafrica.com/accommodation/porini-rhino-camp-ol-pejeta-conservancy-laikipia-kenya/",
+    "https://www.chaloafrica.com/accommodation/ol-pejeta-bush-camp-kenya/",
+    "https://www.olpejetaconservancy.org/pelican-house/",
+    "https://africanspicesafaris.com/tour/sweetwaters-serena-camp-morani-wing-luxury-tents/",
+    "https://africanspicesafaris.com/website/ashnil-samburu-camp.html",
+    "https://www.go2africa.com/accommodation/sarova-shaba-game-lodge",
+    "https://www.go2africa.com/accommodation/elephant-bedroom-camp",
+    "https://africanspicesafaris.com/website/elephant-bedroom-camp-samburu.html",
+    "https://umojawomen.or.ke/qinstpckg/index.php/post-formats",
+    "https://www.go2africa.com/accommodation/sarova-lion-hill-game-lodge",
+    "https://www.travelocity.com/Nakuru-Hotels-Lake-Nakuru-Lodge.h21623169.Hotel-Reviews",
+    "https://victormatara.com/kws-guest-houses-and-bandas-accommodation-rates/",
+    "https://www.kws.go.ke/sites/default/files/2025-09/KWS%20Conservation%20Fee%20October%20%202025.pdf",
+    "https://en.wikivoyage.org/wiki/Kakamega_Rainforest",
+    "https://africanspicesafaris.com/tour/rondo-retreat-centre-kakamega-rainforest-lodge/",
+    "https://www.booking.com/hotel/ke/thomsons-falls-lodge.html",
+    "https://www.kayak.com/Nyahururu-Hotels-The-Panari-Resort-Nyahururu.2571964.ksp",
+    "https://www.expedia.com/Kericho-Hotels.d3000425103.Travel-Guide-Hotels",
+    "https://www.chaloafrica.com/accommodation/basecamp-masai-mara-masai-mara-national-reserve-kenya/",
+    "https://www.go2africa.com/accommodation/porini-mara-camp",
+    "https://www.siyabona.com/pricing_safari-lodge-kicheche-tented-camp-kenya.html",
+    "https://www.travelocity.com/Maasai-Mara-Hotels-Mara-Siria-Luxury-Tented-Camp-Luxury-Cottages.h40190488.Hotel-Information",
+    "https://thekenyatimes.com/lifestyle/travel-tourism/kenyas-hidden-gem-camp-carnelley-with-luxury-stays-of-ksh4k-per-night/",
+    "https://africanspicesafaris.com/tour/camp-carnellys-lake-naivasha/",
+    "https://africanspicesafaris.com/tour/sanctuary-farm-house-naivasha/",
+    "https://governorscamp.com/wp-content/uploads/2025/04/2026-governors-rate-sheet-recommened-selling-rates.pdf",
+    "https://africanspicesafaris.com/tour/wildebeest-eco-camp-nairobi/",
+    "https://www.safari.com/nairobi-tented-camp",
+    "https://africanspicesafaris.com/tour/ole-sereni-hotel-nairobi/",
+    "https://www.kayak.com/Nairobi-Hotels-Eka-Hotel-Nairobi.676138.ksp"
   ],
   "places": {
     "LAX": {

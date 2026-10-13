@@ -1,9 +1,9 @@
 {
   "id": "puerto-rico",
   "label": "Puerto Rico · Nov 7–14",
-  "summary": "El Yunque, Culebra turtle snorkel, Vieques: brightest bio bay, horses, reefs; east only, ferry, ~$2,039 pp.",
+  "summary": "El Yunque, Culebra turtle snorkel, Vieques: brightest bio bay, horses, reefs; east only, ferry, ~$2,047 pp.",
   "title": "Puerto Rico: Rainforest, Reefs & Vieques Bio Bay",
-  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.\n- **Route (east only):** Old San Juan 1n → Luquillo/El Yunque 3n → Vieques (Esperanza) 2n → Isla Verde 1n. Southwest dropped: too far.\n- **Bio bay:** Mosquito Bay, Vieques, **Wed Nov 11** ~19:30: brightest bay; moon 7%, sets 19:31. Nov 12 = rain backup. One bay only.\n- **Snorkel:** **Tue Nov 10** catamaran Fajardo → Culebra reefs (turtles, rays). Vieques Nov 11–12: Playa Esperanza, Mosquito Pier.\n- **Nature:** El Yunque at 08:00 gate, coquí nights, Vieques refuge beaches, wild horses, Playa Negra.\n- **Getting there:** Car Nov 8–13 (parked at Ceiba Nov 11–13). Ceiba → Vieques passenger ferry ($2/leg). Jeep on Vieques.\n- **Culture:** Old San Juan forts (NPS), Fortín Conde de Mirasol.\n- **Pace:** max ~1h driving/day. Nov 12 slow. ~$2,039 pp.",
+  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.\n- **Route (east only):** Old San Juan 1n → Luquillo/El Yunque 3n → Vieques (Esperanza) 2n → Isla Verde 1n. Southwest dropped: too far.\n- **Bio bay:** Mosquito Bay, Vieques, **Wed Nov 11** ~19:30: brightest bay; moon 7%, sets 19:31. Nov 12 = rain backup. One bay only.\n- **Snorkel:** **Tue Nov 10** catamaran Fajardo → Culebra reefs (turtles, rays). Vieques Nov 11–12: Playa Esperanza, Mosquito Pier.\n- **Nature:** El Yunque at 08:00 gate, coquí nights, Vieques refuge beaches, wild horses, Playa Negra.\n- **Getting there:** Car Nov 8–13 (parked at Ceiba Nov 11–13). Ceiba → Vieques passenger ferry ($2/leg). Jeep on Vieques.\n- **Culture:** Old San Juan forts (NPS), Fortín Conde de Mirasol.\n- **Pace:** max ~1h driving/day. Nov 12 slow. ~$2,047 pp.",
   "dates": {
     "depart": "2026-11-07",
     "return": "2026-11-14"
@@ -88,24 +88,158 @@
       "place": "OSJ",
       "location": "Old San Juan",
       "nights": 1,
-      "pppn_usd": 90,
+      "pppn_usd": 68,
       "style": "Small hotel",
       "includes": "~$135/room incl 9% tax (Nov snapshots $107–122 + tax). AC, wifi, 2 roof terraces, 24h desk. No parking (none needed: no car). Some rooms windowless; ask.",
       "why": "Calle Fortaleza: walk 15m to El Morro, 10m San Cristóbal. 8.6 Expedia (1,465), 7.7 Kayak. Taxi 20m SJU.",
-      "alternatives": "Cheaper: Navona Studios ~$105/room (8.0, fridge, adults only, Calle San Francisco). Deal: Palacio Provincial (Hilton Curio) ~$220–300/room (Honors/AAA rate; historic, rooftop pool).",
-      "url": "https://www.expedia.com/San-Juan-Hotels-CasaBlanca-Hotel.h3009193.Hotel-Information"
+      "alternatives": "",
+      "url": "https://www.expedia.com/San-Juan-Hotels-CasaBlanca-Hotel.h3009193.Hotel-Information",
+      "options": [
+        {
+          "id": "osj-casablanca",
+          "tag": "Plan",
+          "name": "CasaBlanca Hotel",
+          "pppn_usd": 68,
+          "room_usd": 135,
+          "rating": "8.8 Expedia, 1,269 reviews; 7.7 Kayak, 1,860",
+          "style": "Small hotel, Calle Fortaleza",
+          "includes": "AC, wifi, 2 roof terraces, 24h desk. No breakfast, no parking (no car needed).",
+          "why": "Walk 15m El Morro, 10m San Cristóbal. Cheap, central.",
+          "url": "https://www.expedia.com/San-Juan-Hotels-CasaBlanca-Hotel.h3009193.Hotel-Information",
+          "notes": "Snapshots $96–132 + 9% tax; Kayak: Nov among cheapest months. Some rooms windowless: ask. Take refundable rate."
+        },
+        {
+          "id": "osj-navona",
+          "tag": "Cheaper",
+          "name": "Navona Studios",
+          "pppn_usd": 52,
+          "room_usd": 105,
+          "rating": "8.0 Expedia, 795 reviews; 8.1 Kayak, 1,477",
+          "style": "Guesthouse studios, Calle San Francisco",
+          "includes": "AC, wifi, fridge/kitchenette in some studios. Adults only. No parking.",
+          "why": "Cheapest decent private room inside the walls.",
+          "url": "https://www.expedia.com/San-Juan-Hotels-Navona-Studios.h10103408.Hotel-Information",
+          "notes": "Snapshots $85–101 + tax (Feb/Jul, not Nov dates). Unverified for Nov 7."
+        },
+        {
+          "id": "osj-decanter",
+          "tag": "Value",
+          "name": "Decanter Hotel",
+          "pppn_usd": 76,
+          "room_usd": 152,
+          "rating": "9.2 Expedia, 1,001 reviews",
+          "style": "Small hotel, near San Juan Gate",
+          "includes": "AC, wifi, rooftop terrace, bar/restaurant. No parking.",
+          "why": "Best-rated small hotel at near-budget price; 3m to San Juan Gate.",
+          "url": "https://expedia.com/San-Juan-(and-vicinity)-hotels-Decanter-Hotel.h12348107.Hotel-information",
+          "notes": "Hotels.com Nov snapshot $125 → $152 total incl tax/fees. Year of snapshot unclear."
+        },
+        {
+          "id": "osj-palacio",
+          "tag": "Deal",
+          "name": "Palacio Provincial San Juan (Curio by Hilton)",
+          "pppn_usd": 130,
+          "room_usd": 260,
+          "rating": "4.3 TripAdvisor, 186 reviews",
+          "style": "Historic boutique, adults only, 43 rooms",
+          "includes": "AC, rooftop pool, bar. Resort fee ~$60/night (in total).",
+          "why": "Historic palace, rooftop pool; Hilton Honors/AAA rate cuts cost.",
+          "url": "https://www.hilton.com/en/hotels/sjuppqq-palacio-provincial-san-juan/",
+          "notes": "AAA from $178 + $59.95 resort fee + 9% tax ≈ $260. Free Honors sign-up for member rate. Nov rate unverified."
+        },
+        {
+          "id": "osj-el-convento",
+          "tag": "Splurge",
+          "name": "Hotel El Convento",
+          "pppn_usd": 165,
+          "room_usd": 330,
+          "rating": "9.0 Travelocity, 1,004 reviews; 8.4 Kayak, 1,187",
+          "style": "Historic 17th-c. convent hotel",
+          "includes": "AC, pool, gym, restaurant, bar, room service.",
+          "why": "Iconic upscale stay across from the cathedral.",
+          "url": "https://www.kayak.com/San-Juan-Hotels-Hotel-El-Convento.14807.ksp",
+          "notes": "Snapshots $272 all-in (Sep) to $507 (Feb). Nov ~$300–350 all-in est., unverified; may add fees."
+        }
+      ]
     },
     {
       "name": "Luquillo Sunrise Beach Inn",
       "place": "LUQ",
       "location": "Río Grande / Luquillo",
       "nights": 3,
-      "pppn_usd": 65,
+      "pppn_usd": 78,
       "style": "Small inn",
-      "includes": "~$155/room incl 9% tax (snapshots $114–175; Hotels.com may add ~6% fee). Breakfast, free gated parking, AC, wifi. Beachfront.",
+      "includes": "~$155/room incl 9% tax (Aug '26 snapshot CA$184 ≈ $133 + tax; Travelocity adds 5.87% fee). Free gated parking (limited), AC, wifi, restaurant. Beachfront. Breakfast: sites disagree; confirm.",
       "why": "9.2 (327 reviews). ~20m to PR-191 El Yunque gate, ~15m Las Croabas bio bay launch, ~25m Puerto del Rey.",
-      "alternatives": "Cheaper: Casa Coral (hostel, private room) ~$110/room (9.1, free parking, Luquillo town, 10m El Yunque). Deal: Fairfield by Marriott Luquillo Beach ~$200/room incl tax (9.4, breakfast, free cancel; Bonvoy member rate). Airbnb Luquillo avg ~$200/night + 7% tax + cleaning: no saving.",
-      "url": "https://www.expedia.com/San-Juan-Hoteles-Luquillo-Sunrise-Beach-Inn.h31686708.Informacion-Hotel"
+      "alternatives": "",
+      "url": "https://www.expedia.com/San-Juan-Hoteles-Luquillo-Sunrise-Beach-Inn.h31686708.Informacion-Hotel",
+      "options": [
+        {
+          "id": "luq-sunrise",
+          "tag": "Plan",
+          "name": "Luquillo Sunrise Beach Inn",
+          "pppn_usd": 78,
+          "room_usd": 155,
+          "rating": "9.2 Expedia, ~335–358 reviews",
+          "style": "Small beachfront inn",
+          "includes": "Free gated parking, AC, wifi, restaurant. Breakfast unclear (Oyster yes, Travelocity no).",
+          "why": "~20m El Yunque gate, ~25m Puerto del Rey, beach out front.",
+          "url": "https://www.expedia.com/San-Juan-Hoteles-Luquillo-Sunrise-Beach-Inn.h31686708.Informacion-Hotel",
+          "notes": "Snapshots $131–151 + tax; OTA service fee ~6% possible. Check-in 14–20h: Nov 8 arrival ~14:00 fine."
+        },
+        {
+          "id": "luq-casa-coral",
+          "tag": "Cheaper",
+          "name": "Casa Coral (hostel, private room)",
+          "pppn_usd": 58,
+          "room_usd": 115,
+          "rating": "9.6 Hotels.com, 72 reviews; 9.1 Booking, 461",
+          "style": "Hostel, private queen room w/ bath",
+          "includes": "Free parking, AC, shared kitchen, wifi.",
+          "why": "Luquillo town; ~10m drive El Yunque. Cheapest private room.",
+          "url": "https://www.hostelworld.com/hostels/p/291053/casa-coral/",
+          "notes": "Hotels.com $104 → $114 all-in (Jul). Private-room Nov availability unverified; property type differs by site."
+        },
+        {
+          "id": "luq-surfing-turtle",
+          "tag": "Value",
+          "name": "The Surfing Turtle",
+          "pppn_usd": 61,
+          "room_usd": 122,
+          "rating": "8.3 Kayak, 142 reviews; 8.4 Trip.com, 100",
+          "style": "Small beachfront hotel (2★)",
+          "includes": "AC, wifi, parking. No breakfast.",
+          "why": "Beachfront in Luquillo for budget price.",
+          "url": "https://www.kayak.com/Luquillo-Hotels-The-Surfing-Turtle.7472054.ksp",
+          "notes": "Kayak Nov 13–14 (year unclear) $112 + 9% tax. Travelocity $184 spring. Gripes: road noise, late music."
+        },
+        {
+          "id": "luq-fairfield",
+          "tag": "Deal",
+          "name": "Fairfield by Marriott Luquillo Beach",
+          "pppn_usd": 116,
+          "room_usd": 232,
+          "rating": "9.4 Hotels.com, 945 reviews",
+          "style": "Chain hotel, pool, near Luquillo Beach",
+          "includes": "Breakfast, pool, AC. $30/night destination fee (incl breakfast + $15 lunch credit). Parking ~$17/night extra.",
+          "why": "Top-rated, breakfast; Bonvoy member rate trims 5–10%.",
+          "url": "https://www.hotels.com/ho3152146240/fairfield-by-marriott-luquillo-beach-luquillo-puerto-rico",
+          "notes": "Aug snapshots $177–188 → $197–239 all-in. Est. ~$185 + tax + $30 fee. Free cancel on flexible rate. Nov unverified."
+        },
+        {
+          "id": "luq-rio-mar",
+          "tag": "Splurge",
+          "name": "Wyndham Grand Rio Mar Rainforest Beach Resort",
+          "pppn_usd": 210,
+          "room_usd": 420,
+          "rating": "Ratings vary; not verified",
+          "style": "Big beach + golf resort, Río Grande",
+          "includes": "Pools, beach, restaurants, spa. Resort fee (amount unverified). Parking fee likely.",
+          "why": "Resort on the beach under El Yunque; ~20m to PR-191.",
+          "url": "https://www.wyndhamriomar.com/",
+          "notes": "Jun 2026: $331 → $456 all-in; Mar $600+. Nov ~$400–450 all-in est., unverified."
+        }
+      ]
     },
     {
       "name": "Trade Winds Guesthouse",
@@ -116,20 +250,154 @@
       "style": "Guesthouse over restaurant",
       "includes": "~$110/room incl 9% tax (snapshots $87 Aug, ~$95 Oct incl tax; Nov higher). AC, wifi, waterfront on malecón. No breakfast; restaurant downstairs. Rooms basic; some bathroom gripes (Jun 2026).",
       "why": "Esperanza = bio bay tour meet-up, snorkel off the beach in front, Sun Bay 5m, food on the malecón. 8/10 (~130 reviews).",
-      "alternatives": "Cheaper: Esperanza Inn ~$85–110/room (9.1; small, check dates). Deal: Bananas Guesthouse ~$140/room incl tax (Esperanza, bar-restaurant, garden rooms). Splurge: The Vieques Guesthouse ~$200+ (9.5) or Hix Island House ~$280+.",
-      "url": "https://www.expedia.com/Vieques-Esperanza.dx6084481"
+      "alternatives": "",
+      "url": "https://www.expedia.com/Vieques-Esperanza.dx6084481",
+      "options": [
+        {
+          "id": "vqe-trade-winds",
+          "tag": "Plan",
+          "name": "Trade Winds Guesthouse",
+          "pppn_usd": 55,
+          "room_usd": 110,
+          "rating": "8.0 Expedia, 126 reviews",
+          "style": "Guesthouse over restaurant, on malecón",
+          "includes": "AC, wifi, restaurant/bar downstairs, free parking. No breakfast.",
+          "why": "On malecón: bio bay meet-up, snorkel in front, food steps away.",
+          "url": "https://www.expedia.com/Vieques-Esperanza.dx6084481",
+          "notes": "Snapshots $87 all-in (Aug), ~£71 (Oct), $119 (Apr). Nov ~$100–115 est. Basic rooms; bathroom gripes."
+        },
+        {
+          "id": "vqe-bananas",
+          "tag": "Cheaper",
+          "name": "Bananas Guesthouse",
+          "pppn_usd": 50,
+          "room_usd": 100,
+          "rating": "Airbnb/Expedia room listings; no aggregate score",
+          "style": "Basic rooms behind bar-restaurant",
+          "includes": "AC, wifi. No breakfast. Lively/noisy area.",
+          "why": "Cheapest bed in Esperanza, across from the water.",
+          "url": "https://www.expedia.com/Bananas-Vieques-Guesthouse-Room-9Vibrant-AreaPrivateSteps-To-The-Beach.h114530943.Hotel-Information",
+          "notes": "Nov 12 2025 $89 + tax/fees; other rooms $129–145. Host warns of noise (holiday Nov 11). Unverified for 2026."
+        },
+        {
+          "id": "vqe-vieques-guesthouse",
+          "tag": "Value",
+          "name": "The Vieques Guesthouse",
+          "pppn_usd": 70,
+          "room_usd": 140,
+          "rating": "9.8 Expedia, 520 reviews",
+          "style": "Small guesthouse, Calle Flamboyan",
+          "includes": "AC, wifi, free parking. Breakfast (extra charge; reviewers rave).",
+          "why": "Best-rated in Esperanza; 5m walk to malecón. +$15 pp/night over plan.",
+          "url": "https://www.expedia.com/Vieques-Guest-Houses.d6139918-aaGuestHouses.Travel-Guide-Accommodation",
+          "notes": "Early-Dec snapshots $119–131 + tax; Jan–Feb $169–200. Nov est. Strict cancel likely; check."
+        },
+        {
+          "id": "vqe-esperanza-inn",
+          "tag": "Value",
+          "name": "Esperanza Inn",
+          "pppn_usd": 78,
+          "room_usd": 155,
+          "rating": "9.5 Kayak, 617 reviews",
+          "style": "9-room inn with pool",
+          "includes": "AC, outdoor pool, wifi, free parking.",
+          "why": "Pool + top score, Esperanza walkable.",
+          "url": "https://www.kayak.com/Vieques-Hotels-Esperanza-Inn.2582086.ksp",
+          "notes": "Kayak from C$195 (≈$140) + 9% tax; date unknown. Unverified for Nov."
+        },
+        {
+          "id": "vqe-el-blok",
+          "tag": "Splurge",
+          "name": "El Blok",
+          "pppn_usd": 128,
+          "room_usd": 255,
+          "rating": "8.8 Expedia, 487 reviews; 8.9 HotelsCombined, 440",
+          "style": "Design hotel on the malecón, rooftop pool",
+          "includes": "AC, rooftop pool + bar, restaurant, wifi.",
+          "why": "Stylish, on malecón; rooftop pool for sunset.",
+          "url": "https://www.hotelscombined.ca/Hotel/El_Blok.htm",
+          "notes": "Apr 2026 $233 → $254 all-in; Mar $272. Nov est., unverified; possible fees."
+        }
+      ]
     },
     {
       "name": "Hotel Villa del Sol",
       "place": "IVE",
       "location": "Isla Verde, Carolina",
       "nights": 1,
-      "pppn_usd": 63,
+      "pppn_usd": 70,
       "style": "Small hotel",
-      "includes": "~$125/room incl 9% tax. AC, small pool, short walk to beach.",
+      "includes": "~$140/room incl 9% tax (Oct '25 $105 + tax; Jan '26 $159 all-in). AC, pool, limited parking, short walk to beach. $100 deposit (Trip.com); 21+ main guest.",
       "why": "Nov 13 night: 5m to SJU for Nov 14 flight; car drop at SJU then short hop. 9.2. Saves 2 OSJ taxis; OSJ already done Nov 7–8.",
-      "alternatives": "Old San Juan again: CasaBlanca ~$135/room + ~$30 taxi each way (OSJ evening on the walls). Splurge: beachfront chain hotels on member rate ~$200+ (+resort fee).",
-      "url": "https://www.expedia.com/Isla-Verde-San-Juan-Hotels-Cheap-Hotels.0-n6139938-0-tCheapHotels.Travel-Guide-Filter-Hotels"
+      "alternatives": "",
+      "url": "https://expedia.com/Carolina-hotels-Hotel-Villa-del-Sol.h1627483.Hotel-information",
+      "options": [
+        {
+          "id": "ive-villa-del-sol",
+          "tag": "Plan",
+          "name": "Hotel Villa del Sol",
+          "pppn_usd": 70,
+          "room_usd": 140,
+          "rating": "9.2 Expedia, ~2,000 reviews; 8.3 Trip.com, 102",
+          "style": "Small hotel, Calle Rosa",
+          "includes": "AC, pool, wifi. Limited parking (car returned anyway). No breakfast.",
+          "why": "~10m to SJU, 15m walk to beach; quiet value.",
+          "url": "https://expedia.com/Carolina-hotels-Hotel-Villa-del-Sol.h1627483.Hotel-information",
+          "notes": "Was $125; Nov est. ~$130–150 all-in from Oct/Jan snapshots. Spring $196–229 (peak)."
+        },
+        {
+          "id": "ive-by-the-beach-gh",
+          "tag": "Cheaper",
+          "name": "Isla Verde By The Beach Guest House",
+          "pppn_usd": 32,
+          "room_usd": 65,
+          "rating": "7.7 Kayak, 208 reviews",
+          "style": "Guesthouse rooms, some shared bath",
+          "includes": "AC, wifi, self check-in. Basic.",
+          "why": "200 m to Isla Verde beach; half the price.",
+          "url": "https://www.kayak.com/Carolina-Hotels-Isla-Verde-By-The-Beach-Guest-House.6023251.ksp",
+          "notes": "Kayak from $52 + 7–9% tax + fees; date unknown. Check private bath. Unverified."
+        },
+        {
+          "id": "ive-esj",
+          "tag": "Value",
+          "name": "ESJ by PMI Puerto Rico",
+          "pppn_usd": 96,
+          "room_usd": 193,
+          "rating": "Not verified",
+          "style": "Beachfront condo-hotel, suites",
+          "includes": "AC, kitchenette suites, pool, beach. Resort/parking fees possible.",
+          "why": "On the beach, kitchen; near-chain price.",
+          "url": "https://hopper.com/hotels/pr/carolina/isla-verde",
+          "notes": "Expedia Nov 19–20 (prior year) $177 → $193 all-in. Check resort fee. Unverified."
+        },
+        {
+          "id": "ive-tryp",
+          "tag": "Deal",
+          "name": "TRYP by Wyndham Isla Verde",
+          "pppn_usd": 96,
+          "room_usd": 193,
+          "rating": "Not verified",
+          "style": "Chain hotel across from beach",
+          "includes": "AC, pool, restaurant. Parking extra.",
+          "why": "Wyndham Rewards member rate; near beach + SJU.",
+          "url": "https://www.expedia.com/Isla-Verde-San-Juan-Hotels-Hotels-With-Restaurants.0-n6139938-0-tHotelswithRestaurants.Travel-Guide-Filter-Hotels",
+          "notes": "Expedia Nov 30 $177 → $193 all-in; Nov 18 $235. Member rate ~10% less. Unverified for Nov 13."
+        },
+        {
+          "id": "ive-courtyard",
+          "tag": "Splurge",
+          "name": "Courtyard by Marriott Isla Verde Beach Resort",
+          "pppn_usd": 146,
+          "room_usd": 293,
+          "rating": "8.8 Expedia, 1,891 reviews",
+          "style": "Beachfront resort",
+          "includes": "Beach, pools, restaurants, casino. Resort fee + ~$15 parking.",
+          "why": "Beachfront, 5m to SJU; Bonvoy rate.",
+          "url": "https://www.hotels.com/ho208479/courtyard-by-marriott-isla-verde-beach-resort-carolina-puerto-rico",
+          "notes": "Expedia Nov 24–25 $264 → $293 incl taxes/fees (11% casino tax). Resort fee maybe extra. Unverified for 2026."
+        }
+      ]
     }
   ],
   "budget": [
@@ -146,32 +414,32 @@
       "item": "Old San Juan: CasaBlanca Hotel, 1 night (Nov 7)",
       "per_person_usd": 68,
       "low_usd": 53,
-      "high_usd": 150,
-      "notes": "~$135/room incl 9% tax. Low = Navona Studios. High = Palacio Provincial."
+      "high_usd": 130,
+      "notes": "~$135/room incl 9% tax. Low = Navona Studios. High = Palacio Provincial (incl resort fee)."
     },
     {
       "category": "Lodging",
       "item": "Luquillo: Luquillo Sunrise Beach Inn, 3 nights (Nov 8–10)",
-      "per_person_usd": 233,
-      "low_usd": 165,
-      "high_usd": 300,
-      "notes": "~$155/room incl tax, breakfast + parking. Low = Casa Coral. High = Fairfield Luquillo."
+      "per_person_usd": 234,
+      "low_usd": 174,
+      "high_usd": 348,
+      "notes": "~$155/room incl tax, free parking. Low = Casa Coral. High = Fairfield Luquillo (breakfast, fee)."
     },
     {
       "category": "Lodging",
       "item": "Vieques: Trade Winds Guesthouse, Esperanza, 2 nights (Nov 11–12)",
       "per_person_usd": 110,
-      "low_usd": 85,
-      "high_usd": 200,
-      "notes": "~$110/room incl tax. Low = Esperanza Inn. High = Vieques Guesthouse."
+      "low_usd": 100,
+      "high_usd": 256,
+      "notes": "~$110/room incl tax. Low = Bananas. High = El Blok. Best upgrade: Vieques Guesthouse (+$30 pp)."
     },
     {
       "category": "Lodging",
       "item": "Isla Verde: Hotel Villa del Sol, 1 night (Nov 13)",
-      "per_person_usd": 63,
-      "low_usd": 55,
-      "high_usd": 110,
-      "notes": "~$125/room incl tax. 5m to SJU."
+      "per_person_usd": 70,
+      "low_usd": 33,
+      "high_usd": 147,
+      "notes": "~$140/room incl tax. 10m to SJU. Low = By The Beach GH. High = Courtyard."
     },
     {
       "category": "Car",
@@ -286,7 +554,7 @@
       "notes": ""
     }
   ],
-  "budget_total_per_person_usd": 2039,
+  "budget_total_per_person_usd": 2047,
   "alternatives": [
     {
       "id": "vieques-fly",
@@ -522,7 +790,29 @@
     "https://snorkelaroundtheworld.com/snorkeling-in-vieques/",
     "https://www.expedia.com/Vieques-Esperanza.dx6084481",
     "https://www.expedia.com/Vieques-Guest-Houses.d6139918-aaGuestHouses.Travel-Guide-Accommodation",
-    "https://www.booking.com/guest-house/city/pr/vieques.html"
+    "https://www.booking.com/guest-house/city/pr/vieques.html",
+    "https://www.kayak.com/San-Juan-Hotels-CasaBlanca-Hotel.312028.ksp",
+    "https://expedia.com/San-Juan-(and-vicinity)-hotels-Decanter-Hotel.h12348107.Hotel-information",
+    "https://www.hilton.com/en/hotels/sjuppqq-palacio-provincial-san-juan",
+    "https://www.aaa.com/tripcanvas/hotel/palacio-provincial-san-juan-curio-collection-by-hilton-AA190790",
+    "https://uk.hotels.com/ho1919264000/palacio-provincial-san-juan-puerto-rico",
+    "https://www.kayak.com/San-Juan-Hotels-Hotel-El-Convento.14807.ksp",
+    "https://www.kayak.com/San-Juan-Hotels-Navona-Studios.2253884.ksp",
+    "https://www.travelocity.com/San-Juan-Hotels-Luquillo-Sunrise-Beach-Inn.h31686708.Hotel-Reviews",
+    "https://www.hotels.com/ho3152146240/fairfield-by-marriott-luquillo-beach-luquillo-puerto-rico",
+    "https://www.kayak.com/Luquillo-Hotels-The-Surfing-Turtle.7472054.ksp",
+    "https://www.expedia.com.my/San-Juan-Hotels-Casa-Coral-Hostel.h38986144.Hotel-Information",
+    "https://www.travelocity.com/Rio-Grande-Hotels-All-Inclusive-Hotel.0-0-d500118-tAllinclusiveHotel.Travel-Guide-Filter-Hotels",
+    "https://www.kayak.com/Vieques-Hotels-Esperanza-Inn.2582086.ksp",
+    "https://www.expedia.com/Bananas-Vieques-Guesthouse-Room-9Vibrant-AreaPrivateSteps-To-The-Beach.h114530943.Hotel-Information",
+    "https://www.hotelscombined.ca/Hotel/El_Blok.htm",
+    "https://islaguru.com/articles/where-to-stay-vieques",
+    "https://expedia.com/Carolina-hotels-Hotel-Villa-del-Sol.h1627483.Hotel-information",
+    "https://www.kayak.com/Carolina-Hotels-Isla-Verde-By-The-Beach-Guest-House.6023251.ksp",
+    "https://hopper.com/hotels/pr/carolina/isla-verde",
+    "https://www.expedia.com/Isla-Verde-San-Juan-Hotels-Hotels-With-Restaurants.0-n6139938-0-tHotelswithRestaurants.Travel-Guide-Filter-Hotels",
+    "https://www.hotels.com/ho208479/courtyard-by-marriott-isla-verde-beach-resort-carolina-puerto-rico",
+    "https://www.hotelplanner.com/Hotels/12796/Reservations-Courtyard-by-Marriott-Isla-Verde-Beach-Resort-Carolina-7012-Boca-De-Cangrejos-Ave-00979?gencall=1"
   ],
   "places": {
     "LAX": {

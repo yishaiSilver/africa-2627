@@ -2,7 +2,7 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=pre-uganda
 
-**Depart LAX:** 2026-12-19 · **Return LAX:** 2027-01-16 · **Planned cost:** $11,470 per person
+**Depart LAX:** 2026-12-19 · **Return LAX:** 2027-01-16 · **Planned cost:** $11,510 per person
 
 ## Overview
 
@@ -10,7 +10,7 @@
 - **Stopover:** LAX→Istanbul (1 night)→Entebbe late Dec 21. Fly to Bwindi gorillas, Christmas in QENP, Kibale chimps, fly Kasese→EBB→Nairobi Dec 27/28. ~+$3,900 pp. US advisory Level 4.
 - **Verdict:** Best wildlife stopover: gorillas, chimps, tree-climbing lions, Kazinga hippos in 9 days, ~+$3,900 pp. Deal-breaker: still Level 4 (Jun 4 2026, Ebola) despite outbreak over — book refundable only until Level 3.
 - **Safety:** Level 4 – Do Not Travel. Issued Jun 4 2026: crime, Ebola, terrorism, unrest; limited US consular services. Was Level 3 (Dec 8 2025). Not lowered as of Oct 8 2026 despite outbreak declared over (Uganda Jul 28, WHO Aug 26). Re-check travel.state.gov before paying.. Ebola over, but DRC transmission may continue; Bwindi/Ishasha border DRC, one imported case could close parks. ADF (ISIS-linked) killed honeymoon couple + guide in QENP Oct 2023; armed escorts since, no tourist attacks. 2023 Anti-Homosexuality Act applies to visitors; roads deadliest daily risk; real problem is insurance/refunds.
-- **Cost:** $11,470 pp, **+$3,870** vs the Wild loop alone ($7,600).
+- **Cost:** $11,510 pp, **+$3,910** vs the Wild loop alone ($7,600).
 
 **Highlights:** Bwindi (Buhoma) gorilla trek: 1h with habituated family, ~95%+ success · Kibale chimp tracking: East Africa's densest primates, ~90% success · Ishasha tree-climbing lions on Christmas Eve · Christmas: Kasenyi game drive + Kazinga boat (hippos, buffalo, elephants, birds) · Aerolink light aircraft over green hills; skips 9–10h drives · Free evening/morning in Istanbul · Bigodi Wetland community walk: red colobus, turacos
 
@@ -235,7 +235,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 |---|---|---|---|---|
 | YOTEL Istanbul Airport (airside) or a nearby airport hotel | In IST airport or 10–20 min away | 1 | $75 | Room only |
 | Entebbe budget guesthouse (e.g. Karibu / Airport Guesthouse) | Entebbe, 10–15 min from EBB | 1 | $40 | Breakfast; often late airport pickup |
-| CTPH Gorilla Conservation Camp / Buhoma Community Rest Camp | Buhoma, walk to gorilla briefing | 2 | $60 | Full board, ~$60 pp/night |
+| CTPH Gorilla Conservation Camp / Buhoma Community Rest Camp | Buhoma, walk to gorilla briefing | 2 | $80 | Full board (CTPH double ~$160/room FB = ~$80 pp) |
 | Simba Safari Camp (or UWA Mweya bandas) | Near Kasenyi / Kazinga Channel | 2 | $75 | Half board |
 | Chimpanzee Forest Guesthouse / Kibale Forest Camp budget tents | Near Kanyanchu, Kibale NP | 1 | $65 | Half to full board |
 | Budget guesthouse near JKIA / Langata | Nairobi | 1 | $30 | ~$60/room/night. Held from Dec 27 so it's ready at 03:30 Dec 28 (2 room-nights). |
@@ -249,6 +249,108 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Camp Carnelley's or Fisherman's Camp | Lake Naivasha, south shore | 2 | $15 | Campsite fee; operator tents, cook, meals |
 | Budget hotel near JKIA (free shuttle) | Nairobi, Mombasa Rd | 1 | $40 | ~$80/room B&B; 24h shuttle |
 
+### Hotel options (pick on the website; budget updates)
+
+**In IST airport or 10–20 min away** (1n)
+- Plan: [YOTEL Istanbul Airport (airside) or a nearby airport hotel](https://www.yotel.com/en/hotels/yotel-istanbul-airport-airside) $75 pp/night (plan). Current pick; see main notes.
+- Cheaper: [Arnavutkoy/Tayakadin budget airport hotel](https://www.booking.com/airport/tr/ist.html) $28 pp/night (−$47 pp). Half price; 15 min taxi. Needs Turkish entry (US visa-free).
+- Value: [YOTEL Istanbul Airport (landside)](https://www.yotel.com) $100 pp/night (+$25 pp). No taxi; sleep in terminal, walk to TK591 check-in.
+- Splurge: [YOTELAIR Istanbul Airport (airside)](https://www.expedia.com/Istanbul-Hotels-YOTELAIR-Istanbul-Airport-Airside.h38543599.Hotel-Information) $200 pp/night (+$125 pp). No immigration, no bags; easiest, priciest.
+
+**Entebbe, 10–15 min from EBB** (1n)
+- Plan: [Entebbe budget guesthouse (e.g. Karibu / Airport Guesthouse)](https://www.booking.com/city/ug/entebbe.html) $40 pp/night (plan). Current pick; see main notes.
+- Cheaper: [Secrets Guest House, Entebbe](https://www.kayak.com/Entebbe-Hotels-Secrets-Guest-House.2773487.ksp) $23 pp/night (−$17 pp). Cheapest with shuttle near EBB.
+- Deal: [Lake Point Villa, Entebbe](https://www.expedia.com/Entebbe-Hotels.d180351.Travel-Guide-Hotels) $27 pp/night (−$13 pp). Breakfast plus free shuttle at ~$53/room all-in.
+- Value: [Elephant Safari Village, Entebbe](https://tulavo.com/?p=4787) $38 pp/night (−$2 pp). 10 min from EBB; quieter, garden setting.
+- Splurge: [2 Friends Beach Hotel, Entebbe](https://www.kayak.com/Entebbe-Hotels-2-Friends-Entebbe-Beach-Hotel.823794.ksp) $60 pp/night (+$20 pp). Best-known Entebbe boutique; lakefront, good restaurant.
+
+**Buhoma, walk to gorilla briefing** (2n)
+- Plan: [CTPH Gorilla Conservation Camp / Buhoma Community Rest Camp](https://ctph.org/) $80 pp/night (plan). Current pick; see main notes.
+- Cheaper: [Bwindi View Bandas, Buhoma](https://ugandatravelblog.com/lodges/bwindi-view-bandas/) $60 pp/night (−$40 pp). Cheapest FB at Buhoma; walk to gorilla briefing.
+- Deal: [Buhoma Community Rest Camp (non-s/c banda)](https://trekafricatours.com/buhoma-community-rest-camp/) $55 pp/night (−$50 pp). Community-owned since 1993; at park gate; proceeds fund clinic/school.
+- Value: [Engagi Lodge, Buhoma](https://www.theafricaspecialists.com/uganda/bwindi-impenetrable-national-park/engagi-lodge/) $250 pp/night (+$340 pp). Comfy mid-range cottages, forest views, near trailhead.
+- Splurge: [Buhoma Lodge](https://www.safari.com/buhoma) $545 pp/night (+$930 pp). Best location at Buhoma; cottages overlook forest.
+
+**Near Kasenyi / Kazinga Channel** (2n)
+- Plan: [Simba Safari Camp (or UWA Mweya bandas)](https://www.simbasafaricamp.com/) $75 pp/night (plan). Current pick; see main notes.
+- Cheaper: [The Bush Lodge (Nature Lodges), Kazinga Channel](https://naturelodgesuganda.com/the-bush-lodge/) $50 pp/night (−$50 pp). Cheapest on channel; hippos at night, near Katunguru.
+- Deal: [Pumba Safari Cottages](https://www.tripadvisor.com/HotelsList-Queen_Elizabeth_National_Park-Lodge-Luxury-zfp14320571.html) $95 pp/night (+$40 pp). Budget cottages with meals, near Kasenyi plains.
+- Value: [Mweya Safari Lodge](https://mweyalodge.com/rates-1-african-safari-rooms/) $240 pp/night (+$330 pp). Best location: Kazinga boat dock, Kasenyi 30 min, Christmas dinner.
+- Splurge: [Ishasha Wilderness Camp](https://www.chaloafrica.com/accommodation/ishasha-wilderness-camp-uganda/) $495 pp/night (+$840 pp). Tree-climbing lion sector; riverside tents, quiet.
+
+**Near Kanyanchu, Kibale NP** (1n)
+- Plan: [Chimpanzee Forest Guesthouse / Kibale Forest Camp budget tents](https://www.chimpanzeeforestguesthouse.com/) $65 pp/night (plan). Current pick; see main notes.
+- Cheaper: [Fort Portal guesthouse](https://www.booking.com/city/ug/fort-portal.html) $30 pp/night (−$35 pp). Cheapest; 45 min to Kanyanchu. Fine after 14:00 chimps.
+- Deal: [Isunga Lodge, Kibale](https://hotels.edreams.co.uk/budget/city/ug/bigodi.en-gb.html) $30 pp/night, ★ 9.7/10 Booking (60) (−$35 pp). Top-rated, cheap, ~10 min to Kanyanchu chimp start.
+- Value: [Kibale Forest Camp (Nature Lodges)](https://naturelodgesuganda.com) $75 pp/night (+$10 pp). Forest tents near Bigodi swamp walk; good mid-budget.
+- Splurge: [Primate Lodge Kibale](https://www.tripadvisor.com/Hotel_Review-g1553443-d1119775-Reviews-Primate_Lodge-Kibale_National_Park_Western_Region.html) $400 pp/night (+$335 pp). Inside park at chimp start; cheaper tented rooms exist.
+
+**Nairobi** (1n)
+- Plan: [Budget guesthouse near JKIA / Langata](https://www.booking.com/city/ke/nairobi.html) $30 pp/night, ★ Pick 8+/10 on Booking (plan). Cheap, safe, ~20m from Sheldrick + JKIA. Crew picks up here.
+- Value: [Wildebeest Eco Camp (garden tent)](https://wildebeestecocamp.com) $55 pp/night, ★ TA ~4.5; backpacker classic (+$25 pp). Tent-camp feel, safe compound, ~10m to Sheldrick.
+- Deal: [Karen Gables (Karen guesthouse)](https://www.booking.com/searchresults.html?ss=Karen+Gables) $85 pp/night, ★ Reviews ~4.9/5 (+$55 pp). Quiet leafy Karen, near Sheldrick + Giraffe Centre.
+- Splurge: [Nairobi Tented Camp (inside Nairobi NP)](https://www.safari.com/nairobi-tented-camp) $260 pp/night, ★ Porini/Gamewatchers; TA ~5 (+$230 pp). Sleep inside Nairobi NP on day one. Lions by the skyline.
+
+**Ol Pejeta Conservancy, Laikipia** (2n)
+- Plan: [Operator camp at an OPC campsite](https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf) $70 pp/night, ★ Official OPC site (plan). Cheapest way to sleep inside OPC.
+- Value: [Pelican House (OPC self-catering cottage)](https://www.olpejetaconservancy.org/pelican-house/) $100 pp/night, ★ Official OPC house (+$60 pp). Real bed + roof inside OPC; crew cooks in kitchen.
+- Deal: [Sweetwaters Serena Camp](https://www.serenahotels.com/sweetwaters) $315 pp/night, ★ TA ~4.5; Serena (+$490 pp). Waterhole rhino from your tent. Easy mid-range comfort.
+- Splurge: [Ol Pejeta Bush Camp](https://www.olpejetaconservancy.org/ol-pejeta-bush-camp/) $820 pp/night, ★ Asilia/OPC; TA ~5 (+$1,500 pp). Tiny bush camp, night drives, rhino on foot.
+- Splurge: [Porini Rhino Camp](https://www.porini.com/porini-camps/rhino-camp/) $840 pp/night, ★ Porini; TA ~5 (+$1,540 pp). Includes OPC fees + guided walks + night drives.
+
+**Samburu National Reserve** (3n)
+- Plan: [Operator camp at a Samburu / Buffalo Springs campsite](https://www.safarifind.com/accommodations/samburu-riverside-camp) $30 pp/night, ★ County reserve campsite (plan). Wake up on the Ewaso Ng'iro river among the Special Five.
+- Cheaper: [Umoja women's campsite / cottages (Archer's Post)](https://umojawomen.or.ke) $20 pp/night, ★ Community-run; basic (−$30 pp). Supports Umoja women's village. Cheapest, but outside gate.
+- Deal: [Ashnil Samburu Camp](https://www.ashnilhotels.com/ashnil-samburu-camp/) $220 pp/night, ★ TA ~4.5 (+$570 pp). River tents, inside reserve. Solid mid-range NYE.
+- Deal: [Sarova Shaba Game Lodge (Buffalo Springs/Shaba side)](https://www.sarovahotels.com/shaba-samburu/) $185 pp/night, ★ TA ~4.3; Sarova (+$465 pp). Cheapest proper lodge; pool for hot afternoons.
+- Splurge: [Elephant Bedroom Camp](https://www.atuaenkop.com/elephant-bedroom-camp/) $600 pp/night, ★ Atua Enkop; TA ~5 (+$1,710 pp). Elephants wander between tents. Special Five daily.
+
+**Nyahururu** (1n)
+- Plan: [Thomson's Falls campsite](https://en.wikipedia.org/wiki/Thomson%27s_Falls) $10 pp/night, ★ Lodge grounds; TA ~3.5 (plan). Splits Samburu → Nakuru into two easy days. Waterfall at the door.
+- Value: [Thomson's Falls Lodge room/cottage](https://www.booking.com/hotel/ke/thomsons-falls-lodge.html) $65 pp/night, ★ TA ~3.5; colonial, dated (+$55 pp). Bed + fire on a cold 2,360m night. Same falls view.
+- Splurge: [Panari Resort Nyahururu (BW Signature)](https://www.bestwestern.com/en_US/book/hotel-rooms.80008.html) $75 pp/night, ★ Booking ~8; 4-star (+$65 pp). Hot shower, reliable comfort before Nakuru.
+
+**Lake Nakuru NP** (2n)
+- Plan: [KWS public campsite inside Lake Nakuru NP](https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-from-october-1-2025) $30 pp/night, ★ KWS official (plan). Wake up inside the park. NYE by the fire.
+- Value: [Naishi Guest House (KWS, inside park)](https://www.kws.go.ke) $125 pp/night, ★ KWS self-catering (+$190 pp). Private house inside park; crew cooks in kitchen.
+- Deal: [Lake Nakuru Lodge](https://www.lakenakurulodge.com) $110 pp/night, ★ TA ~4; 3-star (+$160 pp). Cheapest lodge inside the park; pool, rhino nearby.
+- Deal: [Flamingo Hill Tented Camp](https://flamingohillcamp.com) $150 pp/night, ★ TA ~4.5 (+$240 pp). Tented, quiet, inside park, closer to lake.
+- Splurge: [Sarova Lion Hill Game Lodge](https://www.sarovahotels.com/lionhill-nakuru/) $150 pp/night, ★ TA ~4.3; Sarova (+$240 pp). Big lake views. Our nights fall after festive window.
+
+**Kakamega Forest** (2n)
+- Plan: [Rondo Retreat](https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html) $130 pp/night, ★ TA ~4.5 (plan). Only comfortable bed inside the rainforest. Guides at the gate.
+- Cheaper: [Udo's campsite (KWS, Buyangu)](https://kws.go.ke/park/kakamega-forest-national-reserve/) $20 pp/night, ★ KWS; basic (−$220 pp). Cheapest night in the forest; crew cooks.
+- Value: [Udo's Bandas (KWS)](https://kws.go.ke/park/kakamega-forest-national-reserve/) $20 pp/night, ★ KWS; simple (−$220 pp). Bed + roof in rainforest rain; crew cooks.
+- Cheaper: [Isecheno Blue-shouldered Guest House](https://en.wikivoyage.org/wiki/Kakamega_Rainforest) $10 pp/night, ★ TA ~4; birders' base (−$240 pp). Birder favourite; guide Smith Likare on site.
+- Deal: [Rondo Retreat, half board](https://africanspicesafaris.com/website/rondo-retreat-centre-kakamega-rainforest-lodge.html) $120 pp/night, ★ TA ~4.5 (−$20 pp). Same bed, $10 cheaper; crew picnic lunch.
+
+**Kericho tea country** (1n)
+- Plan: [Budget hotel, Kericho](https://www.booking.com/city/ke/kericho.html) $30 pp/night, ★ Pick 8+/10 on Booking (plan). Breaks Kakamega → Mara into two short drives.
+- Cheaper: [Sahara Gardens Kericho](https://discoverkenya.co.ke/listing/sahara-gardens-kericho) $17 pp/night, ★ Expedia ~8 (−$13 pp). Cheapest clean room; breakfast in.
+- Value: [Tea Hotel Kericho](https://www.kayak.com/Kericho-Hotels-Tea-Hotel-Kericho.2780476.ksp) $45 pp/night, ★ Historic; reviews mixed (+$15 pp). Iconic tea-country stay, gardens, estate walks.
+- Splurge: [The Exotic House Kericho](https://www.expedia.com/Kericho-Hotels.d3000425103.Travel-Guide-Hotels) $41 pp/night, ★ Expedia ~8.5 (+$11 pp). Nicest small stay in town; Kericho has no luxury.
+
+**Northern Greater Mara** (4n)
+- Plan: [Operator camp, Enonkishu conservancy (Pardamat/Ol Chorro fallback)](https://cheetahsafaris.com/national-park/enonkishu-conservancy) $25 pp/night, ★ Conservancy-run (plan). Conservancy: few vehicles, walks, off-road. Confirm mobile camping in writing.
+- Value: [Mara Siria Tented Camp](https://www.marasiria.com) $230 pp/night, ★ TA ~4.5 (+$820 pp). Huge Triangle views; cheap roofed option.
+- Deal: [Basecamp Masai Mara (Talek)](https://www.basecampexplorer.com/kenya/basecamp-masai-mara/) $280 pp/night, ★ TA ~4.5; eco pioneer (+$1,020 pp). Eco-camp, community-run, cheap for its quality.
+- Splurge: [Porini Mara Camp (Ol Kinyei)](https://www.porini.com/porini-camps/porini-mara-camp/) $500 pp/night, ★ Porini; TA ~5 (+$1,900 pp). Max 6 tents, conservancy, walks + night drives.
+- Splurge: [Kicheche Mara Camp (Mara North)](https://kicheche.com/camps/kicheche-mara-camp/) $660 pp/night, ★ TA ~5; photo guides (+$2,540 pp). Top photographic guiding in Mara North.
+
+**Lake Naivasha, south shore** (2n)
+- Plan: [Camp Carnelley's or Fisherman's Camp](https://monkey.travel/en/usd/accommodation/naivasha-sopa/) $15 pp/night, ★ TA ~4 (plan). Soft finish: Hell's Gate + boat day, 2.5–3h from the airport.
+- Cheaper: [Fisherman's Camp (bottom camp)](https://discoverkenya.co.ke/listing/fishermans-camp) $8 pp/night, ★ TA ~4 (−$14 pp). Shady lakeshore, quieter; near Hell's Gate.
+- Value: [Camp Carnelley's lakefront banda](https://www.campcarnelleys.com) $50 pp/night, ★ TA ~4.3 (+$70 pp). Bed + lake view, same camp vibe.
+- Deal: [Sanctuary Farm – Watch Tower cottage](https://www.sanctuaryfarmkenya.com) $90 pp/night, ★ TA ~4.5 (+$150 pp). Walk/ride with giraffes; crew uses kitchen.
+- Splurge: [Loldia House (Governors')](https://www.governorscamp.com/loldia-house/) $600 pp/night, ★ TA ~5 (+$1,170 pp). Ranch-house luxury; boat + Crescent Island in rate.
+
+**Nairobi, Mombasa Rd** (1n)
+- Plan: [Budget hotel near JKIA (free shuttle)](https://www.booking.com/city/ke/nairobi.html) $40 pp/night, ★ Pick 8+/10, 24h shuttle (plan). 02:45 wake, 10–20m to JKIA before TK608.
+- Cheaper: [Heavenly Meadows / Lewisky (near JKIA)](https://www.kayak.com/Nairobi-Hotels.7983.hotel.ksp) $35 pp/night, ★ Small homestays (−$5 pp). Cheapest close bed; prearrange 02:45 taxi.
+- Value: [Eka Hotel (Mombasa Rd)](https://www.ekahotel.com) $60 pp/night, ★ TA ~4.3; 4-star (+$20 pp). Proper hotel, ~15m to JKIA; shuttle on request.
+- Deal: [Four Points by Sheraton Nairobi Airport](https://www.marriott.com/en-us/hotels/nbofp-four-points-nairobi-airport/) $85 pp/night, ★ TA ~4.3; at JKIA (+$45 pp). 5 min to terminal. Max sleep before 02:45.
+- Splurge: [Ole Sereni](https://www.olesereni.com) $115 pp/night, ★ TA ~4.5 (+$75 pp). Last-night game view from terrace.
+
 ## Budget (per person, USD)
 
 | Category | Item | Planned | Range | Notes |
@@ -260,7 +362,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Stopover (excl. flights) | Permits/fees: Bwindi gorilla permit (FNR) | $800 | $800–$800 | $800 (UWA 2024–26). Incl. Bwindi entry. Full payment via licensed operator. |
 | Stopover (excl. flights) | Permits/fees: Kibale chimp permit | $250 | $250–$300 | $250; reportedly $300 from Jan 1 2027. Incl. Kibale entry. |
 | Stopover (excl. flights) | Permits/fees: QENP entry (2 x 24h) + Kazinga boat | $140 | $110–$170 | $40/24h (FNR) x 2 + boat (~$30–40) + ranger/Ishasha fees. |
-| Stopover (excl. flights) | Lodging: 7 nights (IST 1, Entebbe 1, Buhoma 2, QENP 2, Kibale 1, Nairobi 1) | $490 | $340–$650 | Twin share, budget; most meals incl. at Bwindi, QENP, Kibale. Mid-range +$800–1,500+. |
+| Stopover (excl. flights) | Lodging: 7 nights (IST 1, Entebbe 1, Buhoma 2, QENP 2, Kibale 1, Nairobi 1) | $530 | $340–$650 | Twin share, budget; most meals incl. at Bwindi, QENP, Kibale. Buhoma $60->$80 pp (CTPH FB $160/room). Mid-range +$800-1,500+. |
 | Stopover (excl. flights) | Food: Uncovered meals + drinks (incl. IST) | $130 | $90–$180 | ~$15–25/day. |
 | Stopover (excl. flights) | Visa: Uganda single-entry eVisa | $50 | $50–$50 | Kenya eTA in base trip. No Turkish visa airside. |
 | Stopover (excl. flights) | Misc: Tips (porter, rangers, driver), SIM, contingency | $180 | $120–$300 | Porter $20, driver ~$15/day/vehicle, ranger tips. |
@@ -295,7 +397,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 | Misc/souvenirs | eSIM / Safaricom SIM | $15 | $8–$25 |  |
 | Misc/souvenirs | Souvenirs, laundry, sundries | $50 | $30–$250 |  |
 | Contingency | ~5%: operator quotes, fares, fees, FX | $300 | $250–$500 | Hold until quotes are signed |
-| **Total** | | **$11,470** | | ≈ $22,940 for two |
+| **Total** | | **$11,510** | | ≈ $23,020 for two |
 
 ## Options & swaps
 
@@ -376,7 +478,7 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 
 ## Open questions
 
-1. Uganda stopover adds $3,870 pp and a week. Worth it vs. Christmas at home?
+1. Uganda stopover adds $3,910 pp and a week. Worth it vs. Christmas at home?
 2. Confirm the budget is per person (assumed), not total for both.
 3. Exotic loop is ~$7,600 pp. OK, or cut (skip Kakamega −$800, home Jan 14 −$450)?
 4. Extra 2 days went to Mara + Hell's Gate. Prefer them elsewhere (e.g. 4th Samburu night)?
@@ -404,6 +506,22 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 - https://www.expedia.com/lp/flight-routes/turkish-airlines-from-los-angeles-intl-to-entebbe-intl/tk/lax/ebb
 - https://safarifind.com/blog/uganda-visa-for-american-citizens-2026
 - https://ctph.org/
+- https://ctph.org/gorilla-conservation-camp/
+- https://tracks4africa.co.za/listings/item/w171291/buhoma-community-rest-camp/
+- https://ugandatravelblog.com/lodges/bwindi-view-bandas/
+- https://www.theafricaspecialists.com/uganda/bwindi-impenetrable-national-park/engagi-lodge/
+- https://www.safari.com/buhoma
+- https://mweyalodge.com/rates-1-african-safari-rooms/
+- https://www.chaloafrica.com/accommodation/ishasha-wilderness-camp-uganda/
+- https://naturelodgesuganda.com/the-bush-lodge/
+- https://www.monitor.co.ug/uganda/magazines/life/soothing-delights-of-simba-safari-camp-1550032
+- https://www.porini.com/wp-content/uploads/2024/05/Primate-Lodge-Kibale.pdf
+- https://safarifind.com/blog/best-safari-lodges-in-kibale-forest-2027-budget-to-luxury-rates
+- https://www.privatetourscapetown.com/blog/kibale-safari-packages
+- https://www.businesstraveller.com/news/yotel-opens-properties-at-new-istanbul-airport/
+- https://www.expedia.com/Istanbul-Hotels-YOTELAIR-Istanbul-Airport-Airside.h38543599.Hotel-Information
+- https://www.kayak.com/Entebbe-Hotels-2-Friends-Entebbe-Beach-Hotel.823794.ksp
+- https://www.expedia.ae/Karen.dx553248626150029171
 - https://uk.trip.com/flights/status-tk607
 - https://www.airpaz.com/en/flight/code/TK-607
 - https://info.flightmapper.net/flight/Turkish_Airlines_TK_10
@@ -446,3 +564,34 @@ Wake ~02:45, 10–20m to JKIA. TK608 04:50 → IST 11:45. ~2h45 airside connect.
 - https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve
 - https://en.wikipedia.org/wiki/Maasai_Mara_conservancies
 - https://roadtripafrica.com/kenya/self-drive-tours/taste-of-kenya/
+- https://www.porini.com/wp-content/uploads/2026/06/Porini-Rhino-Camp-02-Nights-Fly-In-Package.pdf
+- https://www.chaloafrica.com/accommodation/porini-rhino-camp-ol-pejeta-conservancy-laikipia-kenya/
+- https://www.chaloafrica.com/accommodation/ol-pejeta-bush-camp-kenya/
+- https://www.olpejetaconservancy.org/pelican-house/
+- https://africanspicesafaris.com/tour/sweetwaters-serena-camp-morani-wing-luxury-tents/
+- https://africanspicesafaris.com/website/ashnil-samburu-camp.html
+- https://www.go2africa.com/accommodation/sarova-shaba-game-lodge
+- https://www.go2africa.com/accommodation/elephant-bedroom-camp
+- https://africanspicesafaris.com/website/elephant-bedroom-camp-samburu.html
+- https://umojawomen.or.ke/qinstpckg/index.php/post-formats
+- https://www.go2africa.com/accommodation/sarova-lion-hill-game-lodge
+- https://www.travelocity.com/Nakuru-Hotels-Lake-Nakuru-Lodge.h21623169.Hotel-Reviews
+- https://victormatara.com/kws-guest-houses-and-bandas-accommodation-rates/
+- https://www.kws.go.ke/sites/default/files/2025-09/KWS%20Conservation%20Fee%20October%20%202025.pdf
+- https://en.wikivoyage.org/wiki/Kakamega_Rainforest
+- https://africanspicesafaris.com/tour/rondo-retreat-centre-kakamega-rainforest-lodge/
+- https://www.booking.com/hotel/ke/thomsons-falls-lodge.html
+- https://www.kayak.com/Nyahururu-Hotels-The-Panari-Resort-Nyahururu.2571964.ksp
+- https://www.expedia.com/Kericho-Hotels.d3000425103.Travel-Guide-Hotels
+- https://www.chaloafrica.com/accommodation/basecamp-masai-mara-masai-mara-national-reserve-kenya/
+- https://www.go2africa.com/accommodation/porini-mara-camp
+- https://www.siyabona.com/pricing_safari-lodge-kicheche-tented-camp-kenya.html
+- https://www.travelocity.com/Maasai-Mara-Hotels-Mara-Siria-Luxury-Tented-Camp-Luxury-Cottages.h40190488.Hotel-Information
+- https://thekenyatimes.com/lifestyle/travel-tourism/kenyas-hidden-gem-camp-carnelley-with-luxury-stays-of-ksh4k-per-night/
+- https://africanspicesafaris.com/tour/camp-carnellys-lake-naivasha/
+- https://africanspicesafaris.com/tour/sanctuary-farm-house-naivasha/
+- https://governorscamp.com/wp-content/uploads/2025/04/2026-governors-rate-sheet-recommened-selling-rates.pdf
+- https://africanspicesafaris.com/tour/wildebeest-eco-camp-nairobi/
+- https://www.safari.com/nairobi-tented-camp
+- https://africanspicesafaris.com/tour/ole-sereni-hotel-nairobi/
+- https://www.kayak.com/Nairobi-Hotels-Eka-Hotel-Nairobi.676138.ksp

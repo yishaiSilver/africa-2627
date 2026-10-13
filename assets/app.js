@@ -44,7 +44,7 @@
 
   // ---------- feedback store ----------
   // One store per trip, so notes and ticked options never leak between trips.
-  var store = { notes: {}, reacts: {}, general: '', altsById: {} };
+  var store = { notes: {}, reacts: {}, general: '', altsById: {}, hotels: {} };
   function initStore(isDefault) {
     try {
       var raw = localStorage.getItem(STORE_KEY);
@@ -158,12 +158,14 @@
     var days = (plan.itinerary || []).length;
     var stats = [[days, 'days door to door']]
       .concat(nightsByCountry().filter(function (c) { return c[1] > 0; }).map(function (c) { return [c[1], 'nights in ' + c[0]]; }))
-      .concat([[usd(plan.budget_total_per_person_usd), 'planned per person'],
+      .concat([[usd(plan.budget_total_per_person_usd + hotelDelta()), hotelDelta() ? 'per person, your hotels' : 'planned per person'],
                TARGET_LOW != null ? [targetLabel(), 'target per person'] : null]);
     $('#stats').innerHTML = stats.filter(Boolean).map(function (s) {
       return '<div class="stat"><b>' + esc(s[0]) + '</b><span>' + esc(s[1]) + '</span></div>';
     }).join('');
   }
+
+  function renderHeroTotal() { if (plan) renderHero(); }
 
   function renderItinerary() {
     var list = $('#itinerary-list');
@@ -192,20 +194,93 @@
     });
   }
 
+  // ---------- hotel picker ----------
+  // A lodging entry may carry `options` (options[0] = the plan's pick). The viewer's choice per stay is saved in
+  // store.hotels and priced as (picked pppn − plan pppn) × nights, on top of the plan's budget.
+  function lodgingKey(l, i) { return (l.place || 'stay') + ':' + i; }
+  function pickedOption(l, i, st) {
+    var opts = l.options || [];
+    var id = ((st || store).hotels || {})[lodgingKey(l, i)];
+    for (var k = 0; k < opts.length; k++) if (opts[k].id === id) return opts[k];
+    return null;
+  }
+  function hotelDelta(p, st) {
+    return ((p || plan).lodging || []).reduce(function (sum, l, i) {
+      var o = pickedOption(l, i, st);
+      return sum + (o ? (o.pppn_usd - l.pppn_usd) * l.nights : 0);
+    }, 0);
+  }
+  function signedUsdPP(d) { return d === 0 ? 'same' : (d > 0 ? '+' : '−') + usd(Math.abs(d)) + ' pp'; }
+
+  function lodgingCardHTML(l, i) {
+    var o = pickedOption(l, i) || (l.options || [])[0] || l;
+    var name = o.name || l.name, url = o.url || l.url;
+    var html =
+      '<h3>' + (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(name) + '</a>' : esc(name)) + '</h3>' +
+      '<div class="sub">' + esc(l.location) + (o.style || l.style ? ' · ' + esc(o.style || l.style) : '') + (o.rating ? ' · ★ ' + esc(o.rating) : '') + '</div>' +
+      '<div class="price">' + usd(o.pppn_usd) + ' <small>pp / night × ' + esc(l.nights) + ' = ' + usd(o.pppn_usd * l.nights) + ' pp' +
+        (o.room_usd ? ' · ' + usd(o.room_usd) + '/room' : '') + '</small></div>' +
+      '<p><b>Includes:</b> ' + mdInline(o.includes || l.includes) + '</p>' +
+      '<p>' + mdInline(o.why || l.why) + '</p>' +
+      (o.notes ? '<p class="alts-note">' + mdInline(o.notes) + '</p>' : '');
+    if ((l.options || []).length > 1) {
+      var cur = (pickedOption(l, i) || l.options[0]).id;
+      html += '<fieldset class="hotel-pick"><legend>Choose where to stay</legend>' + l.options.map(function (op) {
+        var d = (op.pppn_usd - l.pppn_usd) * l.nights;
+        return '<label class="hp-row' + (op.id === cur ? ' on' : '') + '" title="' + esc((op.why || '') + (op.notes ? ' · ' + op.notes : '')) + '">' +
+          '<input type="radio" name="hp-' + i + '" value="' + esc(op.id) + '"' + (op.id === cur ? ' checked' : '') + '>' +
+          '<span class="hp-tag t-' + esc((op.tag || '').toLowerCase()) + '">' + esc(op.tag || '') + '</span>' +
+          '<span class="hp-name">' + esc(op.name) + (op.rating ? ' <small>★ ' + esc(op.rating) + '</small>' : '') + '</span>' +
+          '<span class="hp-price">' + usd(op.pppn_usd) + '<small>/pp/n</small></span>' +
+          '<span class="hp-delta ' + (d > 0 ? 'up' : d < 0 ? 'down' : '') + '">' + signedUsdPP(d) + '</span>' +
+        '</label>';
+      }).join('') + '</fieldset>';
+    } else if (l.alternatives) {
+      html += '<p class="alts-note"><b>Alternatives:</b> ' + mdInline(l.alternatives) + '</p>';
+    }
+    return html;
+  }
+
   function renderLodging() {
     var grid = $('#lodging-grid');
-    (plan.lodging || []).forEach(function (l) {
+    var any = (plan.lodging || []).some(function (l) { return (l.options || []).length > 1; });
+    var note = $('#hotel-note');
+    if (note) note.hidden = !any;
+    (plan.lodging || []).forEach(function (l, i) {
       var card = el('article', { class: 'card' });
-      card.innerHTML =
-        '<h3>' + (l.url ? '<a href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.name) + '</a>' : esc(l.name)) + '</h3>' +
-        '<div class="sub">' + esc(l.location) + (l.style ? ' · ' + esc(l.style) : '') + '</div>' +
-        '<div class="price">' + usd(l.pppn_usd) + ' <small>pp / night × ' + esc(l.nights) + ' = ' + usd(l.pppn_usd * l.nights) + ' pp</small></div>' +
-        '<p><b>Includes:</b> ' + mdInline(l.includes) + '</p>' +
-        '<p>' + mdInline(l.why) + '</p>' +
-        (l.alternatives ? '<p class="alts-note"><b>Alternatives:</b> ' + mdInline(l.alternatives) + '</p>' : '');
+      var body = el('div', { class: 'card-body' });
+      body.innerHTML = lodgingCardHTML(l, i);
+      card.appendChild(body);
+      body.addEventListener('change', function (e) {
+        if (!e.target.matches('input[type=radio]')) return;
+        store.hotels = store.hotels || {};
+        if (e.target.value === l.options[0].id) delete store.hotels[lodgingKey(l, i)];
+        else store.hotels[lodgingKey(l, i)] = e.target.value;
+        save();
+        body.innerHTML = lodgingCardHTML(l, i);
+        refreshBudget();
+      });
       card.appendChild(feedbackTools('lodging:' + l.name, l.name));
       grid.appendChild(card);
     });
+    refreshHotelNote();
+  }
+  function refreshHotelNote() {
+    var note = $('#hotel-note'); if (!note || note.hidden) return;
+    var d = hotelDelta();
+    var n = Object.keys(store.hotels || {}).length;
+    note.innerHTML = n ? 'Your picks: <b>' + n + '</b> change' + (n > 1 ? 's' : '') + ' from the plan, <b>' + signedUsdPP(d) + '</b>. <button type="button" class="link-btn" id="hotel-reset">Reset to plan</button>'
+      : 'Pick a hotel per stay; the budget updates. Starts on the plan\'s pick.';
+    var r = $('#hotel-reset');
+    if (r) r.addEventListener('click', function () {
+      store.hotels = {}; save();
+      var grid = $('#lodging-grid');
+      grid.querySelectorAll('.card-body').forEach(function (b, i) { b.innerHTML = lodgingCardHTML(plan.lodging[i], i); });
+      refreshBudget();
+    });
+  }
+  function refreshBudget() {
+    renderBudgetSummary(); renderBudgetTable(); renderHeroTotal(); refreshHotelNote();
   }
 
   function groupBudget() {
@@ -229,8 +304,8 @@
     var base = groups.reduce(function (s, g) { return s + g.total; }, 0);
     var low = groups.reduce(function (s, g) { return s + g.low; }, 0);
     var high = groups.reduce(function (s, g) { return s + g.high; }, 0);
-    var delta = altDelta();
-    var total = base + delta;
+    var delta = altDelta(), hd = hotelDelta();
+    var total = base + delta + hd;
     var scaleMax = Math.max(7000, high, total) * 1.02;
     var pct = function (v) { return Math.min(100, (v / scaleMax) * 100); };
     var hasTarget = TARGET_LOW != null;
@@ -239,7 +314,9 @@
 
     $('#budget-summary').innerHTML =
       '<div class="total-line"><b>' + usd(total) + '</b> per person — <span>' + status + '</span>' +
-        (delta ? ' <span class="hint">(base ' + usd(base) + (delta > 0 ? ' + ' : ' − ') + usd(Math.abs(delta)) + ' in selected options)</span>' : '') +
+        (delta || hd ? ' <span class="hint">(plan ' + usd(base) +
+          (delta ? (delta > 0 ? ' + ' : ' − ') + usd(Math.abs(delta)) + ' options' : '') +
+          (hd ? (hd > 0 ? ' + ' : ' − ') + usd(Math.abs(hd)) + ' hotel picks' : '') + ')</span>' : '') +
         ' · about <b style="font-size:1.1rem">' + usd(total * 2) + '</b> for two' +
       '</div>' +
       '<div><div class="meter" role="img" aria-label="Planned total ' + usd(total) + (hasTarget ? ' against the ' + usd(TARGET_LOW) + ' to ' + usd(TARGET_HIGH) + ' target' : '') + '">' +
@@ -262,6 +339,12 @@
       });
       tot += g.total; lo += g.low; hi += g.high;
     });
+    var hd = hotelDelta();
+    if (hd) {
+      var ch = (plan.lodging || []).map(function (l, i) { var o = pickedOption(l, i); return o ? esc(l.name) + ' → ' + esc(o.name) : null; }).filter(Boolean);
+      rows += '<tr class="cat picks"><td>Your hotel picks (vs plan)</td><td class="num">' + (hd > 0 ? '+' : '−') + usd(Math.abs(hd)) + '</td><td></td><td class="notes">' + ch.join('<br>') + '</td></tr>';
+      tot += hd; lo += hd; hi += hd;
+    }
     rows += '<tr class="total"><td>Total per person</td><td class="num">' + usd(tot) + '</td><td class="num">' + usd(lo) + '–' + usd(hi) + '</td><td class="notes">≈ ' + usd(tot * 2) + ' for two travelers</td></tr>';
     tbody.innerHTML = rows;
   }
@@ -347,6 +430,8 @@
     var alts = Object.keys(store.altsById || {}).filter(function (k) { return store.altsById[k] && altById(k); })
       .map(function (k) { return '- ' + altById(k).name; });
     if (alts.length) out.push('## Options I\'m interested in\n' + alts.join('\n'));
+    var picks = (plan.lodging || []).map(function (l, i) { var o = pickedOption(l, i); return o ? '- ' + l.location + ': ' + o.name + ' (' + signedUsdPP((o.pppn_usd - l.pppn_usd) * l.nights) + ')' : null; }).filter(Boolean);
+    if (picks.length) out.push('## Hotel picks\n' + picks.join('\n'));
     return out.join('\n\n');
   }
 
@@ -376,7 +461,7 @@
     });
     $('#fb-clear').addEventListener('click', function () {
       if (!confirm('Clear all your notes on this device?')) return;
-      store = { notes: {}, reacts: {}, general: '', altsById: {} };
+      store = { notes: {}, reacts: {}, general: '', altsById: {}, hotels: {} };
       save(); location.reload();
     });
   }
@@ -997,7 +1082,14 @@
     }).join('');
     Promise.all(all.map(function (t) { return getJSON(t.file).catch(function () { return null; }); })).then(function (trips) {
       var byId = {};
-      trips.forEach(function (p, i) { if (p) byId[all[i].id] = { meta: all[i], plan: p, m: tripMetrics(p), color: TRIP_COLORS[i % TRIP_COLORS.length] }; });
+      trips.forEach(function (p, i) {
+        if (!p) return;
+        var st = {};
+        try { st = JSON.parse(localStorage.getItem('trip-feedback:' + REPO + ':' + all[i].id) || '{}') || {}; } catch (e) { /* ignore */ }
+        var m = tripMetrics(p);
+        m.hotelDelta = hotelDelta(p, st);
+        byId[all[i].id] = { meta: all[i], plan: p, m: m, color: TRIP_COLORS[i % TRIP_COLORS.length] };
+      });
       var draw = function () {
         var cols = all.filter(function (t) { return picked[t.id] && byId[t.id]; }).map(function (t) { return byId[t.id]; });
         var tbl = box.querySelector('.cmp-table');
@@ -1041,6 +1133,8 @@
         }
         html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Cost per person</th></tr>';
         html += row('<b>Planned total</b>', cols.map(function (c) { return c.m.total; }), function (v) { return '<b>' + usd(v) + '</b>'; }, { cls: 'total' });
+        if (cols.some(function (c) { return c.m.hotelDelta; }))
+          html += row('With your hotel picks', cols.map(function (c) { return c.m.total + c.m.hotelDelta; }), function (v) { return '<b>' + usd(v) + '</b>'; }, { cls: 'total' });
         html += row('Realistic range', cols.map(function (c) { return usd(c.m.low) + '–' + usd(c.m.high); }), null, { noBest: true });
         html += row('For two', cols.map(function (c) { return c.m.total * 2; }), usd);
         catNames.forEach(function (k) {

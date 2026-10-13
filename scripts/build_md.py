@@ -32,6 +32,17 @@ def render(plan):
     for l in plan["lodging"]:
         out.append(f"| {l['name']} | {l['location']} | {l['nights']} | ${l['pppn_usd']:,.0f} | {l['includes']} |")
     out.append("")
+    picks = [l for l in plan["lodging"] if len(l.get("options") or []) > 1]
+    if picks:
+        out += ["### Hotel options (pick on the website; budget updates)", ""]
+        for l in picks:
+            out.append(f"**{l['location']}** ({l['nights']}n)")
+            for o in l["options"]:
+                d = (o["pppn_usd"] - l["pppn_usd"]) * l["nights"]
+                delta = "plan" if o is l["options"][0] else ("same" if d == 0 else f"{'+' if d > 0 else '−'}${abs(d):,.0f} pp")
+                rating = f", ★ {o['rating']}" if o.get("rating") else ""
+                out.append(f"- {o.get('tag', '')}: [{o['name']}]({o.get('url', '')}) ${o['pppn_usd']:,.0f} pp/night{rating} ({delta}). {o.get('why', '')}")
+            out.append("")
 
     out += ["## Budget (per person, USD)", "", "| Category | Item | Planned | Range | Notes |", "|---|---|---|---|---|"]
     for b in plan["budget"]:
