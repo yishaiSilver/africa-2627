@@ -2,7 +2,7 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=tanzania
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-12 · **Planned cost:** $5,455 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-12 · **Planned cost:** $5,820 per person
 
 ## Overview
 
@@ -11,7 +11,8 @@
 - **Why Istanbul Dec 30, not Dec 31:** one fewer paid hotel night and day of food (~$95 pp), and the trip ends a day sooner. Istanbul is on Tanzania time, so the jet lag is handled there; the Dec 31 Arusha day only has to absorb the 01:40 landing.
 - **Why Udzungwa and Mikumi:** Udzungwa is real Eastern Arc rainforest with 12 primate species, two of them found nowhere else (Udzungwa red colobus, Sanje mangabey). Mikumi is the savanna next door: a second, quiet big-game park.
 - **Big 5:** lion, elephant, buffalo near-certain; leopard gets three Serengeti days plus Mikumi; rhino rests on the Ngorongoro crater.
-- **Budget: ~$5,455 pp,** just under the $5.5k ceiling, with **no contingency**. To fit, the northern safari is 6 days (Lake Manyara cut) and Istanbul ends Dec 30. Manyara is one toggle away in Options.
+- **On foot and after dark:** the northern safari is private, so day 1 in Tarangire adds a ranger-led walking safari and a night drive. Most Tanzanian parks (Serengeti, Ngorongoro) ban night drives; Tarangire is one of the few that allow them. Udzungwa is a full day on foot, and a Mikumi walk + night drive is an option.
+- **Budget: ~$5,820 pp**, ~$365 more than the shared-group version, with **no contingency**. The private safari and the Tarangire walk + night drive add ~$475; switching insurance to medical + evacuation takes back $110. The northern safari is 6 days (Lake Manyara cut) and Istanbul ends Dec 30.
 
 ## Travel legs
 
@@ -70,11 +71,11 @@ Visa check at JRO, pre-booked taxi to Arusha (~1h). Room held from Dec 30 so it'
 
 *Overnight:* Arusha budget hotel · *Meals:* Own
 
-### Fri Jan 01 — Safari day 1: Tarangire elephants (Arusha → Tarangire)
+### Fri Jan 01 — Safari day 1: Tarangire on foot and after dark (Arusha → Tarangire)
 
-Pickup ~08:00, ~2.5h to Tarangire. Full afternoon drive: big elephant herds, baobabs, lion. Camp near Mto wa Mbu or Karatu.
+Pickup ~07:00, ~2.5h to Tarangire. Late-morning drive: big elephant herds, baobabs, lion. Mid-afternoon, a 2–3h walking safari with an armed TANAPA ranger, on foot among elephant, giraffe and zebra. After dinner, a night drive (TANAPA window 19:00–23:00) with a spotlight: bushbaby, genet, civet, porcupine, and a chance of leopard or lion hunting. Camp at the Tarangire public campsite.
 
-*Overnight:* Safari camp (in package) · *Meals:* B, L, D safari
+*Overnight:* Tarangire public campsite · *Meals:* B, L, D safari
 
 ### Sat Jan 02 — Safari day 2: into the Serengeti (Ngorongoro highlands → Serengeti)
 
@@ -120,7 +121,7 @@ Operator pickup. SGR train to Morogoro (~1.5h) then road to Mikumi, or ~5h by ro
 
 ### Sat Jan 09 — South trip day 2: full day in Mikumi (Mikumi NP)
 
-Zero transfer. Full-day drive on the Mkata floodplain; leopard is possible in the wooded hills. Few vehicles compared with the north.
+Zero transfer. Full-day drive on the Mkata floodplain; leopard is possible in the wooded hills. Few vehicles compared with the north. Option: a ranger-led morning walk and a night drive here too.
 
 *Overnight:* Lodge/camp near Mikumi (in package) · *Meals:* B, L, D tour
 
@@ -148,7 +149,7 @@ Leave the hotel ~00:30. TK604 DAR ~03:25 → IST ~11:05, then TK9 → LAX, arriv
 |---|---|---|---|---|
 | Istanbul hotel (TK Stopover, 2 nights free) | Istanbul, Türkiye | 3 | $20 | Room and breakfast. Turkish Airlines gives US-origin economy passengers two free nights, once per ticket — only the third is paid. |
 | Budget hotel, Arusha | Arusha | 2 | $25 | ~$50/room B&B. Night of Dec 31 (room held from Dec 30 for the 01:40 landing) and Jan 6 after the crater. |
-| Northern safari campsites (in package) | Tarangire area, Seronera, Ngorongoro rim | 5 | $0 | Tents, mats, cook and all meals are in the safari price, along with park and campsite fees. |
+| Northern safari campsites (in package) | Tarangire, Seronera, Ngorongoro rim | 5 | $0 | Tents, mats, cook and all meals are in the safari price, along with park and campsite fees. |
 | Budget hotel, Dar es Salaam | Dar es Salaam | 2 | $30 | ~$60/room. Jan 7 in town; Jan 11 near the airport with the room until midnight. |
 | Mikumi and Udzungwa lodges (in package) | Mikumi and Mang'ula | 3 | $0 | Covered by the 4-day tour. |
 
@@ -161,20 +162,22 @@ Leave the hotel ~00:30. TK604 DAR ~03:25 → IST ~11:05, then TK9 → LAX, arriv
 | Istanbul | Food, 3 days | $105 | $90–$200 | ~$35 pp/day. |
 | Istanbul | Sights — Hagia Sophia, Basilica Cistern, Topkapı | $120 | $90–$160 | Skip the Harem ticket to land at the low end. |
 | Istanbul | Airport transfers ×2 and Istanbulkart | $30 | $20–$60 |  |
-| Safaris | 6-day northern camping safari (shared group) | $1,850 | $1,650–$2,500 | Tarangire, Serengeti ×3, Ngorongoro crater. Includes park fees, crater fee, campsites, meals, guide and vehicle. 7-day budget camping listings run ~$2,190+; the 6-day cut drops Lake Manyara. Estimate — get two quotes. |
+| Safaris | 6-day northern camping safari (private vehicle, 2 people) | $2,200 | $1,950–$2,600 | Tarangire, Serengeti ×3, Ngorongoro crater. Includes park fees, crater fee, campsites, meals, guide and vehicle. Private, so the day can bend for walks, night drives and leopard. A shared group runs ~$1,850 but can't add either. Estimate — get two quotes. |
+| Safaris | Tarangire walking safari with armed ranger (2–3h) | $40 | $35–$60 | TANAPA walking fee ~$24 pp + ranger fee ~$24 per group (secondary-source rates; confirm). |
+| Safaris | Tarangire night game drive | $70 | $60–$100 | TANAPA night-drive fee ~$59 pp (Tarangire is one of six parks that allow them) + guide/ranger time. Confirm your operator holds the night-drive permission. |
 | Safaris | 4-day Mikumi and Udzungwa tour from Dar | $850 | $810–$1,200 | Published budget tours from ~$810 pp exclude fee increases; ~$1,030 at a mid-range operator. |
-| Tips | Safari guides, cooks, Udzungwa rangers | $170 | $130–$250 | ~$15 pp/day for guide + cook on the north trip; Udzungwa hiking guide separate. Crisp USD. |
+| Tips | Safari guides, cooks, rangers | $185 | $140–$260 | ~$15 pp/day for guide + cook on the north trip; Udzungwa hiking guide separate. Crisp USD. |
 | Transport | Arusha/JRO → Dar flight | $100 | $55–$150 | Precision Air / Air Tanzania, ~1h15. Checked bag limits are tight (15–20 kg). |
 | Transport | Airport and town transfers | $60 | $40–$90 | JRO → Arusha at 02:00 (~$50/car), Arusha → airport, Dar airport both ways. |
 | Lodging | Arusha budget hotel, 3 room-nights (Dec 30 held, Dec 31, Jan 6) | $75 | $60–$150 |  |
 | Lodging | Dar budget hotel, 2 nights | $60 | $45–$120 |  |
 | Meals | Food outside the safaris (Dec 31, Jan 6–7, Jan 11) | $70 | $50–$120 |  |
-| Health and insurance | Travel insurance, ≥$250k evacuation | $200 | $180–$350 |  |
+| Health and insurance | Travel medical + evacuation plan (no trip cancellation) | $90 | $60–$250 | Same choice as the Kenya plan: single-trip medical with ≥$250k evacuation home. Comprehensive with cancellation is an option (+$110). |
 | Health and insurance | Malaria prophylaxis and travel clinic | $90 | $50–$200 | Atovaquone-proguanil. All of mainland Tanzania on this route is malarial; Istanbul is not. |
 | Health and insurance | Yellow fever vaccine | $0 | $0–$350 | Not required: flying from the US via Istanbul (not a yellow-fever country). Tanzania asks for it only after >12h transit in a risk country. |
 | Admin | Tanzania visa (US multiple-entry) | $100 | $100–$100 | US citizens: $100, 12-month multiple entry. Official portal only: visa.immigration.go.tz. |
 | Admin | eSIM or local SIM | $15 | $8–$25 |  |
-| **Total** | | **$5,455** | | ≈ $10,910 for two |
+| **Total** | | **$5,820** | | ≈ $11,640 for two |
 
 ## Options & swaps
 
@@ -184,11 +187,14 @@ Leave the hotel ~00:30. TK604 DAR ~03:25 → IST ~11:05, then TK9 → LAX, arriv
 - **Arusha National Park day** (+$180 pp): Forest with black-and-white colobus, buffalo, giraffe, and walking safaris with an armed ranger. Fits on Dec 31 only if you skip the rest day.
 - **Buffer day in Dar before the flight** (+$55 pp): Avoids the Udzungwa → Dar → 03:25 flight in one stretch. Home Jan 13.
 - **Skip the Topkapı Harem ticket** (−$25 pp): 
+- **Mikumi walking safari + night drive (Jan 9)** (+$105 pp): Ranger-led morning walk (~$20–25 + ranger) and a night drive (~$50–59 TANAPA fee + guide time). Mikumi is on TANAPA's night-drive list; ask the tour operator.
+- **Shared group safari instead of private** (−$475 pp): Back to the cheaper fixed-route group safari. Drops the Tarangire walk and night drive, which a shared group can't add.
+- **Comprehensive insurance with trip cancellation** (+$110 pp): Instead of medical + evacuation only.
 
 ## Booking timeline
 
 - **Now (Oct 13–20):** Price TK multi-city: LAX → IST (stop Dec 27–30) → JRO, and DAR → IST → LAX on Jan 12. Compare against a plain JRO round trip. Confirm the Dec IST → JRO times (summer schedule was 18:30 → 01:40).
-- **By Oct 31:** Get two quotes for a 6-day shared camping safari starting Jan 1 (Tarangire, Serengeti ×3 at Seronera, Simba rim, crater). Confirm Jan 1 departures run, the crater fee is included, and pickup from your Arusha hotel.
+- **By Oct 31:** Get two quotes for a private 6-day camping safari for 2 starting Jan 1 (Tarangire, Serengeti ×3 at Seronera, Simba rim, crater). Ask for a Jan 1 ranger-led walk and night drive in Tarangire, camping at the Tarangire public campsite, and confirm the operator holds TANAPA night-drive permission. Confirm the crater fee is included.
 - **By Oct 31:** Book the Mikumi–Udzungwa 4-day for Jan 8–11; ask for the Sanje Falls trail plus a primate walk, and whether they use the SGR to Morogoro.
 - **By Nov 15:** Book Arusha (Dec 30–31, Jan 6) and Dar (Jan 7, Jan 11) hotels and the Jan 7 Arusha → Dar flight. Book the 02:00 JRO taxi.
 - **Mid-to-late Nov:** Travel clinic: malaria prophylaxis. Yellow fever not required on this routing.
@@ -221,8 +227,8 @@ Leave the hotel ~00:30. TK604 DAR ~03:25 → IST ~11:05, then TK9 → LAX, arriv
 
 ## Open questions
 
-1. ~$5,455 pp has no contingency. OK to run that tight, or add Manyara back and accept ~$5,700?
-2. Shared group safari (cheaper, set route) or private vehicle (+~$400–600 pp, your own pace for leopard)?
+1. ~$5,820 pp has no contingency. OK to run that tight?
+2. Add the Mikumi walk + night drive too (+$105)?
 3. Is the Jan 11 Udzungwa → Dar → 03:25 flight stretch OK, or buy the Dar buffer day (+$55)?
 
 ## Sources
@@ -235,5 +241,7 @@ Leave the hotel ~00:30. TK604 DAR ~03:25 → IST ~11:05, then TK9 → LAX, arriv
 - https://www.safaribookings.com/rates/t85273
 - https://safarifind.com/blog/tanzania-safari-cost-in-2026-7-day-prices-by-budget
 - https://www.tourradar.com/t/162609
+- https://roadtripafrica.com/en/wp-json/wp/v2/guide/326
+- https://www.jaynevytours.com/night-game-drives-on-6-day-tanzania-safari.html
 - https://www.trip.com/flights/arusha-to-dar-es-salaam/airfares-ark-dar/
 - https://safarifind.com/blog/tanzania-visa-for-american-citizens-2026-requirements
