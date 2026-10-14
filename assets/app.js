@@ -954,9 +954,8 @@
       return '<option value="' + esc(tripUrl(t.id)) + '"' + (t.id === activeId ? ' selected' : '') + ' title="' + esc(t.summary || '') + '">' + esc(t.label) + '</option>';
     });
     if (activeId === 'compare') opts.unshift('<option value="" selected disabled>Choose a trip…</option>');
-    var html = '<select class="trip-select" aria-label="Choose a trip">' + opts.join('') + '</select>';
     var cur = MANIFEST.trips.filter(function (t) { return t.id === activeId; })[0];
-    if (cur && cur.summary) html += '<span class="trip-sum">' + esc(cur.summary) + '</span>';
+    var html = '<select class="trip-select" aria-label="Choose a trip"' + (cur && cur.summary ? ' title="' + esc(cur.summary) + '"' : '') + '>' + opts.join('') + '</select>';
     if (MANIFEST.trips.length > 1) html += '<a href="?view=compare" class="tab-compare' + (activeId === 'compare' ? ' on' : '') + '">⇆ Compare</a>';
     var box = bar.querySelector('.tabs');
     box.innerHTML = html;
