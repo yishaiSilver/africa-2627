@@ -1,12 +1,12 @@
 {
   "id": "indonesia",
-  "label": "Indonesia: reefs + rainforest · Jan 14",
-  "title": "North Sulawesi & Raja Ampat: tarsiers, muck diving, the world's richest reefs and Waigeo's rainforest at night",
-  "summary": "Tangkoko (tarsiers, macaques, cuscus), Lembeh muck diving (6 dives), Raja Ampat from a village homestay (10 dives, mantas), then Waigeo's rainforest by day and night. ~$3,892 pp.",
-  "overview": "- **Built around reptiles, amphibians, mammals and fish** (birds are a bonus): primates and marsupials in Sulawesi, critters and big reef fish underwater, night walks for cuscus, frogs and snakes on Waigeo.\n- **Dates:** LAX Sat Dec 26 → LAX Thu Jan 14. 18 nights on the ground (plus 1 on a plane).\n- **Route:** Jakarta 1n → **Tangkoko 2n** → **Lembeh Strait 3n** (6 muck dives) → ✈ direct to Sorong 1n → **Arborek 7n** (10 dives, mantas, Piaynemo) → **Waigeo 3n** (treks, two night walks, Kali Biru) → Jakarta 1n.\n- **Two kinds of diving:** Lembeh is the world capital of muck diving — frogfish, mimic octopus, flamboyant cuttlefish, mandarinfish. The Dampier Strait has the highest reef-fish and coral diversity recorded anywhere — mantas, sharks, big schools. You're Advanced Open Water, so the current sites and deeper pinnacles are open to you.\n- **Mammals on land:** spectral tarsiers and crested black macaques at Tangkoko (both near-certain), bear and dwarf cuscus there, and the Waigeo spotted cuscus — found only on Waigeo — on night walks.\n- **Season:** October–April is the good diving season in Raja Ampat; North Sulawesi is wet in Dec–Jan but Lembeh diving runs year-round.\n- **Budget: ~$3,892 pp**, about $430 more than the reef + Waigeo-only version, including ~5% contingency.",
+  "label": "Indonesia: Borneo, Sulawesi, Raja Ampat · Jan 16",
+  "title": "Borneo, North Sulawesi & Raja Ampat: orangutans by houseboat, tarsiers, muck diving, the world's richest reefs and Waigeo at night",
+  "summary": "Tanjung Puting by houseboat (orangutans, proboscis monkeys), Tangkoko (tarsiers, macaques, cuscus), Lembeh muck diving (6 dives), Raja Ampat (10 dives, mantas) and Waigeo night walks. ~$4,423 pp.",
+  "overview": "- **Built around reptiles, amphibians, mammals and fish** (birds are a bonus): apes and monkeys in Borneo, primates and marsupials in Sulawesi, critters and big reef fish underwater, night walks for cuscus, frogs and snakes on Waigeo.\n- **Dates:** LAX Sat Dec 26 → LAX Sat Jan 16. 20 nights on the ground (plus 1 on a plane).\n- **Route:** Jakarta 1n → **Tanjung Puting 2n** (houseboat) → Jakarta 1n → **Tangkoko 2n** → **Lembeh Strait 3n** (6 muck dives) → ✈ direct to Sorong 1n → **Arborek 6n** (10 dives, mantas) → **Waigeo 3n** (treks, two night walks, Kali Biru) → Jakarta 1n.\n- **Borneo:** three days on a private klotok up the Sekonyer River: orangutans at Camp Leakey, proboscis monkeys roosting along the river at dusk, gibbons calling, crocodiles by spotlight.\n- **Two kinds of diving:** Lembeh is the world capital of muck diving (frogfish, mimic octopus, flamboyant cuttlefish, mandarinfish). The Dampier Strait has the highest reef-fish and coral diversity recorded anywhere (mantas, sharks, big schools). You're Advanced Open Water, so the current sites and deeper pinnacles are open to you.\n- **To fit Jan 16,** the Piaynemo viewpoint day was dropped rather than any dives (16 dives in total).\n- **Budget: ~$4,423 pp**, including ~5% contingency.",
   "dates": {
     "depart": "2026-12-26",
-    "return": "2027-01-14"
+    "return": "2027-01-16"
   },
   "itinerary": [
     {
@@ -30,15 +30,42 @@
     {
       "date": "2026-12-28",
       "day_label": "Day 3 – Mon",
-      "location": "Jakarta → Manado → Tangkoko",
-      "title": "To North Sulawesi; tarsiers at dusk",
-      "details": "Morning flight CGK → Manado (~3.5h; Manado is 1h ahead). Car to Batuputih at the edge of Tangkoko reserve (~2h). At dusk, a ranger takes you to a strangler fig where a family of spectral tarsiers — fist-sized primates with enormous eyes — wake up and leap off to hunt insects.",
-      "overnight": "Batuputih homestay, Tangkoko (full board)",
-      "meals": "D homestay"
+      "location": "Jakarta → Pangkalan Bun → Tanjung Puting",
+      "title": "Borneo: up the Sekonyer River by houseboat",
+      "details": "Early flight CGK → Pangkalan Bun (~1h20). The crew meets you and drives you 20 minutes to Kumai harbour, where you board a private klotok, a wooden houseboat with a crew, guide and cook. Cruise up the Sekonyer River into Tanjung Puting National Park, past long-tailed macaques and kingfishers. Afternoon at the Tanjung Harapan feeding station for orangutans. At dusk, proboscis monkeys settle into the riverside trees to sleep. You sleep on the top deck on mattresses under mosquito nets (no tent needed).",
+      "overnight": "Klotok houseboat, Tanjung Puting",
+      "meals": "L, D on board"
     },
     {
       "date": "2026-12-29",
       "day_label": "Day 4 – Tue",
+      "location": "Tanjung Puting National Park",
+      "title": "Orangutans at Camp Leakey",
+      "details": "Morning at Pondok Tanggui, then upriver to Camp Leakey, the research camp Biruté Galdikas founded in 1971. Orangutans at the feeding platform and around camp, plus bearded pigs and gibbons calling in the forest. Afternoon forest trek with your guide. After dark, spotlight the river from the boat for crocodiles (the rare false gharial lives here) and watch fireflies in the riverside trees.",
+      "overnight": "Klotok houseboat, Tanjung Puting",
+      "meals": "B, L, D on board"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 5 – Wed",
+      "location": "Tanjung Puting → Pangkalan Bun → Jakarta",
+      "title": "Last forest walk, back to Jakarta",
+      "details": "Dawn on the river: proboscis monkeys and hornbills. A short jungle walk, then downriver to Kumai by midday. Afternoon flight Pangkalan Bun → Jakarta. Airport hotel.",
+      "overnight": "Jakarta airport hotel",
+      "meals": "B, L on board; D own"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 6 – Thu",
+      "location": "Jakarta → Manado → Tangkoko",
+      "title": "To North Sulawesi; tarsiers at dusk",
+      "details": "Morning flight CGK → Manado (~3.5h; Manado is 1h ahead). Car to Batuputih at the edge of Tangkoko reserve (~2h). At dusk, a ranger takes you to a strangler fig where a family of spectral tarsiers — fist-sized primates with enormous eyes — wake up and leap off to hunt insects. New Year's Eve in Batuputih.",
+      "overnight": "Batuputih homestay, Tangkoko (full board)",
+      "meals": "D homestay"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 7 – Fri",
       "location": "Tangkoko Nature Reserve",
       "title": "Macaques, cuscus and a night walk",
       "details": "Dawn walk with a ranger: troops of crested black macaques (critically endangered, unafraid of people) foraging on the forest floor, bear cuscus and Sulawesi dwarf cuscus in the canopy, flying lizards gliding between trunks. Rest through midday. Night walk: hunting tarsiers, Sulawesi pit vipers, frogs, sleeping birds and civets if lucky.",
@@ -46,8 +73,8 @@
       "meals": "B, L, D homestay"
     },
     {
-      "date": "2026-12-30",
-      "day_label": "Day 5 – Wed",
+      "date": "2027-01-02",
+      "day_label": "Day 8 – Sat",
       "location": "Tangkoko → Lembeh Strait",
       "title": "Second dawn walk, then into the muck",
       "details": "Second dawn walk for anything missed. Car to Bitung (~1.5h) and boat to a Lembeh dive resort. One afternoon dive to settle in on black volcanic sand.",
@@ -55,17 +82,17 @@
       "meals": "B; L, D resort"
     },
     {
-      "date": "2026-12-31",
-      "day_label": "Day 6 – Thu",
+      "date": "2027-01-03",
+      "day_label": "Day 9 – Sun",
       "location": "Lembeh Strait (diving)",
       "title": "Muck diving: three dives",
-      "details": "Two day dives on Lembeh's black sand and rubble — frogfish, mimic and wonderpus octopus, flamboyant cuttlefish, ghost pipefish, pygmy seahorses, nudibranchs by the dozen — and a dusk dive for mating mandarinfish. New Year's Eve at the resort.",
+      "details": "Two day dives on Lembeh's black sand and rubble — frogfish, mimic and wonderpus octopus, flamboyant cuttlefish, ghost pipefish, pygmy seahorses, nudibranchs by the dozen — and a dusk dive for mating mandarinfish.",
       "overnight": "Budget dive resort, Lembeh Strait (full board)",
       "meals": "B, L, D resort"
     },
     {
-      "date": "2027-01-01",
-      "day_label": "Day 7 – Fri",
+      "date": "2027-01-04",
+      "day_label": "Day 10 – Mon",
       "location": "Lembeh Strait (diving)",
       "title": "Two last muck dives",
       "details": "Two morning dives, then out of the water by midday to leave ~22h before tomorrow's flight. Afternoon off.",
@@ -73,8 +100,8 @@
       "meals": "B, L, D resort"
     },
     {
-      "date": "2027-01-02",
-      "day_label": "Day 8 – Sat",
+      "date": "2027-01-05",
+      "day_label": "Day 11 – Tue",
       "location": "Lembeh → Manado → Sorong",
       "title": "Fly to West Papua",
       "details": "Car to Manado airport (~1.5h). Direct flight Manado → Sorong (~1h25; Sorong is 1h ahead again). Buy all the cash (IDR) you'll need in Raja Ampat here — the islands have no reliable ATMs.",
@@ -82,8 +109,8 @@
       "meals": "B resort; L, D own"
     },
     {
-      "date": "2027-01-03",
-      "day_label": "Day 9 – Sun",
+      "date": "2027-01-06",
+      "day_label": "Day 12 – Wed",
       "location": "Sorong → Waisai → Arborek",
       "title": "Ferry into Raja Ampat",
       "details": "09:00 fast ferry Sorong → Waisai (~2h). Pay the Raja Ampat marine park tag and visitor levy at Waisai. Homestay boat to Arborek (~1h). Snorkel the Arborek jetty — schooling fish, wobbegong sharks under the pier — and look after dark for Raja Ampat's endemic 'walking' epaulette shark in the shallows.",
@@ -91,8 +118,8 @@
       "meals": "L, D homestay"
     },
     {
-      "date": "2027-01-04",
-      "day_label": "Day 10 – Mon",
+      "date": "2027-01-07",
+      "day_label": "Day 13 – Thu",
       "location": "Dampier Strait (diving)",
       "title": "Dive day 1: check-out and Arborek reefs",
       "details": "Two dives with Arborek Dive Shop (village-run): a check-out dive, then a Dampier Strait site. Afternoon snorkel.",
@@ -100,8 +127,8 @@
       "meals": "B, L, D homestay"
     },
     {
-      "date": "2027-01-05",
-      "day_label": "Day 11 – Tue",
+      "date": "2027-01-08",
+      "day_label": "Day 14 – Fri",
       "location": "Dampier Strait (diving)",
       "title": "Dive day 2: Cape Kri and Sardine Reef",
       "details": "Two dives on the strait's famous current sites — Cape Kri held the record for fish species counted on one dive. Strong currents; the guides pick the tide.",
@@ -109,8 +136,8 @@
       "meals": "B, L, D homestay"
     },
     {
-      "date": "2027-01-06",
-      "day_label": "Day 12 – Wed",
+      "date": "2027-01-09",
+      "day_label": "Day 15 – Sat",
       "location": "Dampier Strait (diving)",
       "title": "Dive day 3: manta cleaning stations",
       "details": "Two dives at Manta Sandy / Manta Ridge, where reef mantas queue at cleaning stations, plus a reef dive.",
@@ -118,8 +145,8 @@
       "meals": "B, L, D homestay"
     },
     {
-      "date": "2027-01-07",
-      "day_label": "Day 13 – Thu",
+      "date": "2027-01-10",
+      "day_label": "Day 16 – Sun",
       "location": "Dampier Strait (diving)",
       "title": "Dive day 4: Blue Magic and Mioskon",
       "details": "Two dives on pinnacles with big schools, sharks and pygmy seahorses — deeper sites your Advanced Open Water covers. Night snorkel off the jetty.",
@@ -127,8 +154,8 @@
       "meals": "B, L, D homestay"
     },
     {
-      "date": "2027-01-08",
-      "day_label": "Day 14 – Fri",
+      "date": "2027-01-11",
+      "day_label": "Day 17 – Mon",
       "location": "Dampier Strait (diving)",
       "title": "Dive day 5: guides' choice",
       "details": "Last two dives of the package at the guides' pick for the conditions.",
@@ -136,17 +163,8 @@
       "meals": "B, L, D homestay"
     },
     {
-      "date": "2027-01-09",
-      "day_label": "Day 15 – Sat",
-      "location": "Piaynemo / Fam islands",
-      "title": "Karst islands and lagoons",
-      "details": "Shared boat day trip west to Piaynemo: the climb to the viewpoint over the karst islands, then snorkelling in the lagoons on the way back.",
-      "overnight": "Arborek village homestay (full board)",
-      "meals": "B, L (packed), D homestay"
-    },
-    {
-      "date": "2027-01-10",
-      "day_label": "Day 16 – Sun",
+      "date": "2027-01-12",
+      "day_label": "Day 18 – Tue",
       "location": "Arborek → Waigeo (Saporkren)",
       "title": "To Waigeo's rainforest; first night walk",
       "details": "Homestay boat to Waigeo, Raja Ampat's biggest island (~1.5h). Afternoon forest walk with a village guide; monitor lizards on the forest edge. After dark, a night walk for the Waigeo spotted cuscus (found only on this island), northern common cuscus, fruit bats, frogs and snakes.",
@@ -154,8 +172,8 @@
       "meals": "B, L, D homestay"
     },
     {
-      "date": "2027-01-11",
-      "day_label": "Day 17 – Mon",
+      "date": "2027-01-13",
+      "day_label": "Day 19 – Wed",
       "location": "Waigeo (Kali Biru)",
       "title": "The blue river",
       "details": "Drive to Warsambin and trek ~1–1.5h through primary forest to Kali Biru, a river of clear blue water in the jungle — swim in it, look for skinks, frogs and freshwater fish. Second night walk on a different trail.",
@@ -163,8 +181,8 @@
       "meals": "B, L (packed), D homestay"
     },
     {
-      "date": "2027-01-12",
-      "day_label": "Day 18 – Tue",
+      "date": "2027-01-14",
+      "day_label": "Day 20 – Thu",
       "location": "Waigeo rainforest",
       "title": "Deep into the interior",
       "details": "Full day on foot into unlogged lowland forest with a village guide: giant buttressed trees, lizards and frogs along the streams, hornbills and cockatoos overhead. Optional: the dawn red bird-of-paradise display before you set off.",
@@ -172,8 +190,8 @@
       "meals": "B, L (packed), D homestay"
     },
     {
-      "date": "2027-01-13",
-      "day_label": "Day 19 – Wed",
+      "date": "2027-01-15",
+      "day_label": "Day 21 – Fri",
       "location": "Waigeo → Sorong → Jakarta",
       "title": "Back to Jakarta",
       "details": "Car Saporkren → Waisai (~30m), 09:00 ferry to Sorong (~2h), afternoon flight Sorong → Jakarta (~4h). Airport hotel.",
@@ -181,11 +199,11 @@
       "meals": "B; L, D own"
     },
     {
-      "date": "2027-01-14",
-      "day_label": "Day 20 – Thu",
+      "date": "2027-01-16",
+      "day_label": "Day 22 – Sat",
       "location": "Jakarta → Los Angeles",
       "title": "Fly home",
-      "details": "CGK → LAX with one stop; the date line gives the day back, so you land the same calendar day. Last dive was Jan 8.",
+      "details": "CGK → LAX with one stop; the date line gives the day back, so you land the same calendar day. Last dive was Jan 11.",
       "overnight": "Home",
       "meals": "In-flight"
     }
@@ -195,13 +213,25 @@
       "name": "Airport hotel, Jakarta (CGK)",
       "place": "CGK",
       "location": "Jakarta",
-      "nights": 2,
+      "nights": 3,
       "pppn_usd": 30,
       "style": "Hotel",
-      "includes": "~$60/room. Dec 27 and Jan 13.",
+      "includes": "~$60/room. Dec 27, Dec 30 and Jan 15.",
       "why": "Late arrival and a next-day connection.",
       "alternatives": "",
       "url": "https://www.booking.com/city/id/jakarta.html"
+    },
+    {
+      "name": "Private klotok houseboat, Tanjung Puting",
+      "place": "TPT",
+      "location": "Sekonyer River, Central Kalimantan",
+      "nights": 2,
+      "pppn_usd": 0,
+      "style": "Houseboat, full board",
+      "includes": "Covered by the klotok trip price (budget line): boat, crew, guide, cook, meals, park fees. Mattresses on deck under mosquito nets.",
+      "why": "The river is the road: you sleep where the proboscis monkeys roost.",
+      "alternatives": "Rimba Ecolodge on the river bank (~$90 per room per night extra).",
+      "url": "https://www.oceanearthtravels.com/tour-packages/orangutan-tour-tanjung-puting-borneo"
     },
     {
       "name": "Batuputih homestay, Tangkoko",
@@ -234,7 +264,7 @@
       "nights": 1,
       "pppn_usd": 25,
       "style": "Hotel",
-      "includes": "~$50/room. Jan 2.",
+      "includes": "~$50/room. Jan 5.",
       "why": "Makes the 09:00 ferry an easy walk.",
       "alternatives": "",
       "url": "https://www.booking.com/city/id/sorong.html"
@@ -243,7 +273,7 @@
       "name": "Arborek village homestay",
       "place": "ARB",
       "location": "Arborek, Dampier Strait",
-      "nights": 7,
+      "nights": 6,
       "pppn_usd": 40,
       "style": "Homestay, full board",
       "includes": "~IDR 600–700k pp/night with three meals. Simple hut on the water, mosquito net, shared bathroom, generator power in the evening.",
@@ -271,7 +301,15 @@
       "per_person_usd": 1100,
       "low_usd": 750,
       "high_usd": 1400,
-      "notes": "ANA listed ~$1,106 round trip for Dec 9–27, 2026; other carriers via Taipei or Seoul. Price your dates now."
+      "notes": "ANA listed ~$1,106 round trip for Dec 9–27, 2026; other carriers via Taipei or Seoul. Price Dec 26 / Jan 16 now."
+    },
+    {
+      "category": "Domestic flights",
+      "item": "Jakarta ⇄ Pangkalan Bun",
+      "per_person_usd": 140,
+      "low_usd": 110,
+      "high_usd": 260,
+      "notes": "~1h20 each way; Skyscanner listed from ~$66 one-way. Holiday-week fares can run higher."
     },
     {
       "category": "Domestic flights",
@@ -299,11 +337,19 @@
     },
     {
       "category": "Lodging",
-      "item": "Jakarta airport hotel, 2n",
-      "per_person_usd": 60,
-      "low_usd": 40,
-      "high_usd": 100,
+      "item": "Jakarta airport hotel, 3n",
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 150,
       "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Tanjung Puting klotok, 3 days / 2 nights, private for two",
+      "per_person_usd": 395,
+      "low_usd": 395,
+      "high_usd": 840,
+      "notes": "Ocean Earth Travels lists $395 pp for two (standard klotok; boat, crew, guide, cook, meals). Confirm park fees and the Kumai transfers are included."
     },
     {
       "category": "Lodging",
@@ -331,10 +377,10 @@
     },
     {
       "category": "Lodging",
-      "item": "Arborek homestay, 7n, full board",
-      "per_person_usd": 280,
-      "low_usd": 210,
-      "high_usd": 420,
+      "item": "Arborek homestay, 6n, full board",
+      "per_person_usd": 240,
+      "low_usd": 180,
+      "high_usd": 360,
       "notes": "Stay Raja Ampat lists twin share from ~IDR 590–650k pp/night with meals."
     },
     {
@@ -370,6 +416,14 @@
       "notes": "~IDR 100k cash on site."
     },
     {
+      "category": "Park fees",
+      "item": "Tanjung Puting park fees",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 30,
+      "notes": "Usually included in klotok packages; confirm."
+    },
+    {
       "category": "Diving",
       "item": "Raja Ampat: 10-dive package, Arborek Dive Shop",
       "per_person_usd": 315,
@@ -399,14 +453,6 @@
       "per_person_usd": 45,
       "low_usd": 30,
       "high_usd": 60,
-      "notes": ""
-    },
-    {
-      "category": "Activities",
-      "item": "Piaynemo shared boat day trip",
-      "per_person_usd": 60,
-      "low_usd": 40,
-      "high_usd": 100,
       "notes": ""
     },
     {
@@ -452,9 +498,9 @@
     {
       "category": "Meals",
       "item": "Food outside full board (travel days)",
-      "per_person_usd": 75,
-      "low_usd": 50,
-      "high_usd": 120,
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 140,
       "notes": ""
     },
     {
@@ -464,6 +510,14 @@
       "low_usd": 45,
       "high_usd": 110,
       "notes": "Cash IDR."
+    },
+    {
+      "category": "Tips",
+      "item": "Klotok crew, guide and cook",
+      "per_person_usd": 25,
+      "low_usd": 15,
+      "high_usd": 40,
+      "notes": ""
     },
     {
       "category": "Health and insurance",
@@ -487,7 +541,7 @@
       "per_person_usd": 60,
       "low_usd": 45,
       "high_usd": 200,
-      "notes": "CDC: all of West Papua has malaria; rural Sulawesi is a risk area too. Atovaquone-proguanil."
+      "notes": "CDC: all of West Papua has malaria; rural Kalimantan and Sulawesi are risk areas too. Atovaquone-proguanil."
     },
     {
       "category": "Admin",
@@ -516,13 +570,13 @@
     {
       "category": "Contingency",
       "item": "~5%, held until bookings are confirmed",
-      "per_person_usd": 185,
-      "low_usd": 148,
-      "high_usd": 370,
+      "per_person_usd": 211,
+      "low_usd": 169,
+      "high_usd": 422,
       "notes": "Fuel-price boat surcharges, fee changes, FX."
     }
   ],
-  "budget_total_per_person_usd": 3892,
+  "budget_total_per_person_usd": 4423,
   "alternatives": [
     {
       "id": "more-lembeh",
@@ -543,34 +597,38 @@
       "cost_delta_per_person_usd": 70
     },
     {
-      "id": "tanjung-puting",
-      "name": "Add 3 days of orangutans in Tanjung Puting (Borneo)",
-      "description": "Klotok houseboat from Pangkalan Bun (~$395 pp for two): orangutans, proboscis monkeys, gibbons, crocodiles along the river. Two extra domestic flights; trip 3 days longer.",
-      "cost_delta_per_person_usd": 650
+      "id": "piaynemo",
+      "name": "Piaynemo instead of the last Raja Ampat dive day",
+      "description": "The karst viewpoint and lagoon snorkel in place of 2 dives (about cost-neutral).",
+      "cost_delta_per_person_usd": 0
     },
     {
-      "id": "skip-piaynemo",
-      "name": "Skip the Piaynemo day",
-      "description": "Snorkel and rest at Arborek instead.",
-      "cost_delta_per_person_usd": -60
+      "id": "rimba",
+      "name": "Rimba Ecolodge instead of sleeping on deck, both nights",
+      "description": "Riverside rooms with walls and a fan; the klotok still does the river.",
+      "cost_delta_per_person_usd": 90
     }
   ],
   "booking_timeline": [
     {
       "when": "Now (Oct 13–20)",
-      "task": "Price LAX ⇄ CGK for Dec 26 / Jan 14 (ANA, EVA, Korean, Starlux), plus CGK → Manado, Manado → Sorong and Sorong → CGK. Domestic schedules change often — book on the airline sites or Traveloka."
+      "task": "Price LAX ⇄ CGK for Dec 26 / Jan 16 (ANA, EVA, Korean, Starlux), plus CGK ⇄ Pangkalan Bun, CGK → Manado, Manado → Sorong and Sorong → CGK. Book domestic flights on the airline sites or Traveloka."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Book a private 3D2N klotok for Dec 28–30 (Ocean Earth Travels or similar): confirm park fees, Kumai transfers and that the Dec 28 flight arrival works with the boat's start."
     },
     {
       "when": "By Nov 1",
-      "task": "Book a Lembeh budget dive resort for Dec 30–Jan 1 with 6 dives incl. a dusk mandarinfish dive; ask them to arrange the Tangkoko homestay, rangers and the cars from Manado."
+      "task": "Book a Lembeh budget dive resort for Jan 2–4 with 6 dives incl. a dusk mandarinfish dive; ask them to arrange the Tangkoko homestay (Dec 31–Jan 1), rangers and the cars from Manado."
     },
     {
       "when": "By Nov 1",
-      "task": "WhatsApp Arborek Dive Shop and an Arborek homestay for Jan 3–10; confirm the 10-dive package, gear sizes and boat pickup from Waisai."
+      "task": "WhatsApp Arborek Dive Shop and an Arborek homestay for Jan 6–12; confirm the 10-dive package, gear sizes and boat pickup from Waisai."
     },
     {
       "when": "By Nov 1",
-      "task": "Book a Saporkren homestay for Jan 10–13; ask for a guide who does night walks and the Kali Biru trek."
+      "task": "Book a Saporkren homestay for Jan 12–15; ask for a guide who does night walks and the Kali Biru trek."
     },
     {
       "when": "By Nov 15",
@@ -582,13 +640,13 @@
     },
     {
       "when": "Dec 20–24",
-      "task": "Reconfirm the Manado → Sorong flight, ferries and homestay boats; plan cash in IDR for the whole Raja Ampat stay."
+      "task": "Reconfirm all domestic flights (Indonesian schedules shift), the klotok and the homestay boats; plan cash in IDR for Raja Ampat."
     }
   ],
-  "practical": "## Entry\n- **Indonesia:** e-Visa on Arrival, IDR 500k (~$32), 30 days. Official site only: evisa.imigrasi.go.id. Passport 6+ months, 2 blank pages.\n- **Raja Ampat:** marine park tag (IDR 700k) + visitor levy (IDR 1M) ≈ IDR 1.7M, cash at Waisai. Carry the tag.\n- **Lembeh:** small park entry (~IDR 100k) in cash.\n\n## Money\n- **Cash is everything.** Homestays, dive shops, boats and guides want IDR cash. Manado and Sorong have ATMs; Waisai's are unreliable and the islands have none.\n\n## Packing\n- **No camping gear needed.** Homestays are simple huts with a mattress and mosquito net, shared bathrooms (often a bucket 'mandi'), generator power in the evening.\n- Your own mask, snorkel, fins and dive computer; a rash guard; reef-safe sunscreen; a dry bag.\n- A strong headtorch (plus a red-light mode) for night walks and spotting eyeshine; binoculars; light long sleeves and trousers against mosquitoes; trail shoes that can get wet.\n- Domestic flights allow ~20 kg checked; keep dive gear light.\n\n## Health and safety\n- **Malaria:** CDC lists all of West Papua (incl. Raja Ampat) as a risk area, and rural Sulawesi too — take prophylaxis (atovaquone-proguanil). Dengue too: DEET or picaridin day and night.\n- **Diving:** strong currents in the Dampier Strait; dive with the local guides and a surface marker. Get dive accident cover — the nearest recompression chamber may be hours away.\n- Medical care on the islands is minimal; evacuation cover is essential.\n- Re-check the State Department's Indonesia advisory (it flags parts of the Papuan highlands, not Raja Ampat) before booking.\n\n## Season\n- Raja Ampat's diving season is roughly October–April; December–January brings showers and some northwest wind, but the Dampier Strait stays diveable.\n- North Sulawesi is in its wet season (Dec–Jan): expect rain at Tangkoko; Lembeh diving runs year-round.\n- Flying after diving: the plan leaves ~22h after the last Lembeh dive and 5 days after the last Raja Ampat dive.",
+  "practical": "## Entry\n- **Indonesia:** e-Visa on Arrival, IDR 500k (~$32), 30 days. Official site only: evisa.imigrasi.go.id. Passport 6+ months, 2 blank pages.\n- **Raja Ampat:** marine park tag (IDR 700k) + visitor levy (IDR 1M) ≈ IDR 1.7M, cash at Waisai. Carry the tag.\n- **Lembeh:** small park entry (~IDR 100k) in cash.\n\n## Money\n- **Cash is everything.** Homestays, dive shops, boats and guides want IDR cash. Manado and Sorong have ATMs; Waisai's are unreliable and the islands have none.\n\n## Packing\n- **No camping gear needed.** Homestays are simple huts with a mattress and mosquito net, shared bathrooms (often a bucket 'mandi'), generator power in the evening.\n- Your own mask, snorkel, fins and dive computer; a rash guard; reef-safe sunscreen; a dry bag.\n- A strong headtorch (plus a red-light mode) for night walks and spotting eyeshine; binoculars; light long sleeves and trousers against mosquitoes; trail shoes that can get wet.\n- Domestic flights allow ~20 kg checked; keep dive gear light.\n\n## Health and safety\n- **Malaria:** CDC lists all of West Papua (incl. Raja Ampat) as a risk area, and rural Sulawesi too — take prophylaxis (atovaquone-proguanil). Dengue too: DEET or picaridin day and night.\n- **Diving:** strong currents in the Dampier Strait; dive with the local guides and a surface marker. Get dive accident cover — the nearest recompression chamber may be hours away.\n- Medical care on the islands is minimal; evacuation cover is essential.\n- Re-check the State Department's Indonesia advisory (it flags parts of the Papuan highlands, not Raja Ampat) before booking.\n\n## Season\n- Raja Ampat's diving season is roughly October–April; December–January brings showers and some northwest wind, but the Dampier Strait stays diveable.\n- North Sulawesi is in its wet season (Dec–Jan): expect rain at Tangkoko; Lembeh diving runs year-round.\n- Flying after diving: the plan leaves ~22h after the last Lembeh dive (Jan 4) and 4 days after the last Raja Ampat dive (Jan 11).\n- Central Kalimantan is wet in Dec–Jan too; the klotok has a roof, and the river trips run year-round.",
   "open_questions": [
-    "Add a Tanjung Puting extension for orangutans and proboscis monkeys (+~$650, 3 more days)?",
-    "More dives at Lembeh (+$170) or Raja Ampat (+$195)?"
+    "Sleep on deck on the klotok, or Rimba Ecolodge rooms (+$90)?",
+    "More dives at Lembeh (+$170) or Raja Ampat (+$195)? Either would need a day from somewhere else to stay within Jan 16."
   ],
   "sources": [
     "https://flights.ana.co.jp/en-us/flights-from-los-angeles-to-jakarta",
@@ -609,7 +667,8 @@
     "https://www.flightsfrom.com/MDC-SOQ",
     "https://skyscanner.com/routes/cgki/mdc/jakarta-to-manado.html",
     "https://www.mammalwatching.com/wp-content/uploads/JR-West-Papua-Mammal-Trip-Report-2022.pdf",
-    "https://www.vacationindonesiatours.com/wp-content/uploads/2023/04/trip-report-16-21-april-2023-janet-bair-vit.pdf"
+    "https://www.vacationindonesiatours.com/wp-content/uploads/2023/04/trip-report-16-21-april-2023-janet-bair-vit.pdf",
+    "https://www.skyscanner.com/routes/cgki/pkn/jakarta-to-pangkalanbuun.html"
   ],
   "places": {
     "LAX": {
@@ -647,13 +706,6 @@
       "kind": "nature",
       "country": "Indonesia"
     },
-    "PIA": {
-      "name": "Piaynemo",
-      "lat": -0.5639,
-      "lng": 130.274,
-      "kind": "nature",
-      "country": "Indonesia"
-    },
     "SAP": {
       "name": "Saporkren, Waigeo",
       "lat": -0.41,
@@ -681,6 +733,20 @@
       "lng": 125.23,
       "kind": "nature",
       "country": "Indonesia"
+    },
+    "PKN": {
+      "name": "Pangkalan Bun / Kumai",
+      "lat": -2.7052,
+      "lng": 111.6731,
+      "kind": "transit",
+      "country": "Indonesia"
+    },
+    "TPT": {
+      "name": "Tanjung Puting NP (Camp Leakey)",
+      "lat": -2.758,
+      "lng": 111.947,
+      "kind": "nature",
+      "country": "Indonesia"
     }
   },
   "legs": [
@@ -695,13 +761,45 @@
     {
       "date": "2026-12-28",
       "from": "CGK",
+      "to": "PKN",
+      "mode": "flight",
+      "duration": "~1h20",
+      "detail": "Early flight"
+    },
+    {
+      "date": "2026-12-28",
+      "from": "PKN",
+      "to": "TPT",
+      "mode": "boat",
+      "duration": "~3h",
+      "detail": "Klotok up the Sekonyer River from Kumai, game-viewing on the way"
+    },
+    {
+      "date": "2026-12-30",
+      "from": "TPT",
+      "to": "PKN",
+      "mode": "boat",
+      "duration": "~3h",
+      "detail": "Downriver to Kumai"
+    },
+    {
+      "date": "2026-12-30",
+      "from": "PKN",
+      "to": "CGK",
+      "mode": "flight",
+      "duration": "~1h20",
+      "detail": "Afternoon flight"
+    },
+    {
+      "date": "2026-12-31",
+      "from": "CGK",
       "to": "MDC",
       "mode": "flight",
       "duration": "~3.5h",
       "detail": "Morning flight; Manado is UTC+8"
     },
     {
-      "date": "2026-12-28",
+      "date": "2026-12-31",
       "from": "MDC",
       "to": "TKK",
       "mode": "road",
@@ -709,7 +807,7 @@
       "detail": "Car to Batuputih"
     },
     {
-      "date": "2026-12-30",
+      "date": "2027-01-02",
       "from": "TKK",
       "to": "LBH",
       "mode": "road",
@@ -717,7 +815,7 @@
       "detail": "Car to Bitung, short boat to the resort"
     },
     {
-      "date": "2027-01-02",
+      "date": "2027-01-05",
       "from": "LBH",
       "to": "MDC",
       "mode": "road",
@@ -725,7 +823,7 @@
       "detail": "Car to Manado airport"
     },
     {
-      "date": "2027-01-02",
+      "date": "2027-01-05",
       "from": "MDC",
       "to": "SOQ",
       "mode": "flight",
@@ -733,7 +831,7 @@
       "detail": "Direct; Sorong is UTC+9"
     },
     {
-      "date": "2027-01-03",
+      "date": "2027-01-06",
       "from": "SOQ",
       "to": "WSI",
       "mode": "boat",
@@ -741,7 +839,7 @@
       "detail": "09:00 fast ferry"
     },
     {
-      "date": "2027-01-03",
+      "date": "2027-01-06",
       "from": "WSI",
       "to": "ARB",
       "mode": "boat",
@@ -749,7 +847,7 @@
       "detail": "Homestay boat"
     },
     {
-      "date": "2027-01-10",
+      "date": "2027-01-12",
       "from": "ARB",
       "to": "SAP",
       "mode": "boat",
@@ -757,7 +855,7 @@
       "detail": "Homestay boat to Waigeo"
     },
     {
-      "date": "2027-01-13",
+      "date": "2027-01-15",
       "from": "SAP",
       "to": "WSI",
       "mode": "road",
@@ -765,7 +863,7 @@
       "detail": "Car to the ferry"
     },
     {
-      "date": "2027-01-13",
+      "date": "2027-01-15",
       "from": "WSI",
       "to": "SOQ",
       "mode": "boat",
@@ -773,7 +871,7 @@
       "detail": "09:00 fast ferry"
     },
     {
-      "date": "2027-01-13",
+      "date": "2027-01-15",
       "from": "SOQ",
       "to": "CGK",
       "mode": "flight",
@@ -781,7 +879,7 @@
       "detail": "Afternoon flight"
     },
     {
-      "date": "2027-01-14",
+      "date": "2027-01-16",
       "from": "CGK",
       "to": "LAX",
       "mode": "flight",
@@ -797,43 +895,55 @@
       "label": "Jakarta"
     },
     {
-      "place": "TKK",
+      "place": "TPT",
       "from": "2026-12-28",
+      "nights": 2,
+      "label": "Tanjung Puting by klotok"
+    },
+    {
+      "place": "CGK",
+      "from": "2026-12-30",
+      "nights": 1,
+      "label": "Jakarta"
+    },
+    {
+      "place": "TKK",
+      "from": "2026-12-31",
       "nights": 2,
       "label": "Tangkoko"
     },
     {
       "place": "LBH",
-      "from": "2026-12-30",
+      "from": "2027-01-02",
       "nights": 3,
       "label": "Lembeh: muck diving"
     },
     {
       "place": "SOQ",
-      "from": "2027-01-02",
+      "from": "2027-01-05",
       "nights": 1,
       "label": "Sorong"
     },
     {
       "place": "ARB",
-      "from": "2027-01-03",
-      "nights": 7,
+      "from": "2027-01-06",
+      "nights": 6,
       "label": "Arborek: reef diving"
     },
     {
       "place": "SAP",
-      "from": "2027-01-10",
+      "from": "2027-01-12",
       "nights": 3,
       "label": "Waigeo: rainforest"
     },
     {
       "place": "CGK",
-      "from": "2027-01-13",
+      "from": "2027-01-15",
       "nights": 1,
       "label": "Jakarta"
     }
   ],
-  "fatigue_check": "Long-haul both ends (~22–24h). Domestic: Jakarta → Manado (~3.5h), Manado → Sorong (~1.5h), Sorong → Jakarta (~4h).\nDec 28 (flight + 2h car) and Jan 13 (car, ferry, 4h flight) are the long days; everything else is a ≤2h car or boat.\nZero-transfer days: Dec 29, Dec 31, Jan 1, Jan 4–9, Jan 11, Jan 12.",
+  "fatigue_check": "Long-haul both ends (~22–24h). Five domestic flights: Jakarta ⇄ Pangkalan Bun, Jakarta → Manado, Manado → Sorong, Sorong → Jakarta (all ≤4h).\nDec 31 (flight + 2h car) and Jan 15 (car, ferry, 4h flight) are the long days; Dec 28 and Dec 30 are short flights plus a river cruise.\nNo pure rest day: Borneo, Sulawesi and Raja Ampat run back to back, but most days are zero-transfer.",
   "hero_photo": "Raja_Ampat_Islands",
   "photos": {
     "TKK": {
@@ -863,12 +973,6 @@
         "Coral_Triangle"
       ]
     },
-    "PIA": {
-      "name": "Piaynemo",
-      "wiki": [
-        "Raja_Ampat_Islands"
-      ]
-    },
     "SAP": {
       "name": "Waigeo rainforest",
       "wiki": [
@@ -876,9 +980,48 @@
         "Waigeo_cuscus",
         "Northern_common_cuscus"
       ]
+    },
+    "TPT": {
+      "name": "Tanjung Puting",
+      "wiki": [
+        "Tanjung_Puting_National_Park",
+        "Bornean_orangutan",
+        "Proboscis_monkey",
+        "False_gharial"
+      ]
     }
   },
   "wildlife": [
+    {
+      "name": "Bornean orangutan",
+      "wiki": "Bornean_orangutan",
+      "where": "Tanjung Puting (Camp Leakey, Pondok Tanggui, Tanjung Harapan)",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Proboscis monkey",
+      "wiki": "Proboscis_monkey",
+      "where": "Sekonyer River at dusk and dawn",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Bornean white-bearded gibbon",
+      "wiki": "Bornean_white-bearded_gibbon",
+      "where": "Tanjung Puting forest",
+      "odds": "Heard for sure; seen possibly"
+    },
+    {
+      "name": "Bearded pig",
+      "wiki": "Bornean_bearded_pig",
+      "where": "Camp Leakey",
+      "odds": "Likely"
+    },
+    {
+      "name": "False gharial",
+      "wiki": "False_gharial",
+      "where": "Sekonyer River by spotlight",
+      "odds": "Possible"
+    },
     {
       "name": "Gursky's spectral tarsier",
       "wiki": "Gursky's_spectral_tarsier",
