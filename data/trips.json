@@ -77,6 +77,12 @@
       "label": "No-crew, fact-checked · Jan 16",
       "summary": "Andrew's no-crew loop with the fact-check fixes: Naboisho conservancy camp at real rates, Narok pickup night, private car on the worst matatu day, CDC/Ebola notes. ~$6,136 pp.",
       "file": "data/trips/no-crew-fixed.json"
+    },
+    {
+      "id": "tanzania",
+      "label": "Istanbul + Tanzania · Jan 12",
+      "summary": "Istanbul 3n, then a 6-day northern camping safari (Tarangire, Serengeti ×3, crater) and a 4-day Mikumi + Udzungwa trip from Dar. ~$5,455 pp.",
+      "file": "data/trips/tanzania.json"
     }
   ]
 }
