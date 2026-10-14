@@ -2,7 +2,7 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=no-crew-slow
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-15 · **Planned cost:** $5,722 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-15 · **Planned cost:** $5,764 per person
 
 ## Overview
 
@@ -10,8 +10,8 @@
 - **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 18 nights on the ground: 3 Istanbul, 15 Kenya (plus 2 on planes).
 - **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Nakuru 3n** → Naboisho 2n → **Naivasha 5n** → Nairobi (Karen) 2n.
 - **Less moving:** in Kenya, 6 bases instead of 9 and 6 travel days instead of 8; about 22 road hours instead of 32. Every stay is now 2+ nights.
-- **Where the freed nights went:** Nakuru +1 (a rest day), Naivasha +2 (Elsamere colobus, a free day or Mount Longonot), and Karen for the last two nights instead of an airport hotel, with a dawn Nairobi National Park drive and the Sheldrick elephant orphanage on the last day. Home a day earlier (Jan 15).
-- **Budget: ~$5,722 pp** vs $5,579 for the lean loop. Kakamega was the cheapest part of the trip per night, so the swap doesn't save much.
+- **Where the freed nights went:** Nakuru +1 (a rest day), Naivasha +2 (a Mount Longonot volcano climb and a free day), and Karen for the last two nights instead of an airport hotel, with a dawn Nairobi National Park drive and the Sheldrick elephant orphanage on the last day. Home a day earlier (Jan 15).
+- **Budget: ~$5,764 pp** vs $5,579 for the lean loop. Kakamega was the cheapest part of the trip per night, so the swap doesn't save much.
 
 ## Travel legs
 
@@ -131,15 +131,15 @@ Zero transfer. Morning boat on the lake and the Crescent Island walk, where you 
 
 *Overnight:* Naivasha lakeshore banda · *Meals:* Own
 
-### Mon Jan 11 — Elsamere and Lake Oloiden (Lake Naivasha)
+### Mon Jan 11 — Climb Mount Longonot (Mount Longonot)
 
-Zero transfer. Elsamere, Joy Adamson's lakeside house: black-and-white colobus in the garden trees, and afternoon tea on the lawn. Walk or boda on to Lake Oloiden for flamingos and pelicans when the water's right.
+Early matatu to Longonot town (~45m), boda to the gate. Steep 1–1.5h climb to the rim of a 2,776 m volcano, then the full crater-rim circuit (~13.5 km, 4–6h total): sheer drops into a forested caldera with steam vents, Rift Valley views to Lake Naivasha, and zebra, giraffe and buffalo on the lower slopes. Start by 08:00; it gets hot and there's no water on the mountain. KWS recommends a ranger ($15–25 per group).
 
 *Overnight:* Naivasha lakeshore banda · *Meals:* Own
 
 ### Tue Jan 12 — Free day (Lake Naivasha)
 
-Zero transfer. Rest, read, watch hippos on the lawn. Or climb Mount Longonot (Option: ~4–5h round the crater rim, $50 KWS).
+Zero transfer. Rest legs after Longonot; hippos on the lawn. Option: a 2h horseback ride among giraffe, zebra and wildebeest at Sanctuary Farm.
 
 *Overnight:* Naivasha lakeshore banda · *Meals:* Own
 
@@ -210,13 +210,13 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 | Guides and vehicles | Mara — drives, guide, night drive, walking safari | $0 | $0–$60 | Walks and night drives are conservancy activities; confirm they are in the camp rate. |
 | Activities | Hell's Gate bike hire + cycling fee | $20 | $15–$30 | Bike KES 1,000–2,000 at Elsa Gate + ~$10 cycling fee. Lower Gorge needs a licensed guide. |
 | Activities | Naivasha boat and Crescent Island walk | $50 | $45–$60 | Crescent Island $33 + boat ~$20 pp shared. |
-| Activities | Elsamere and Lake Oloiden | $20 | $10–$35 | Elsamere entry/tea fee unconfirmed; ask on arrival. |
+| Park fees | Mount Longonot NP, 1 day + transport | $60 | $55–$75 | KWS non-resident $50 since Oct 2025; matatu and boda to the gate ~$5; ranger optional, $15–25 per group. |
 | Park fees | Nairobi NP, 1 day | $80 | $60–$80 | KWS non-resident rate since Oct 2025 (KSh ~10,360). Also covers the Sheldrick visit, which is inside the park. |
 | Guides and vehicles | Nairobi NP — hired vehicle and driver, half day + Sheldrick | $80 | $65–$100 | ~$120 per vehicle for the morning, split two ways, + Sheldrick $20 minimum donation (cash). |
 | Transport | Matatus and buses across the loop | $70 | $55–$95 | Nairobi → Nanyuki, Jan 3 via Nyahururu, Nakuru → Narok, Narok → Naivasha, Naivasha → Karen shuttle (~$15). 2026 fuel-driven fares. |
 | Transport | Airport and gate transfers | $55 | $40–$80 | JKIA taxi in, Nanyuki → Ol Pejeta, Karen → JKIA taxi at 02:45 (~$30/car). |
 | Transport | Mara camp transfers, Narok both ways | $150 | $120–$250 | Private camp vehicle ~$150/vehicle each way, split two ways. Arriving from Nakuru, Talek by matatu would make Jan 6 a 6h day. |
-| Transport | Bodas and local hops | $10 | $5–$20 | Naivasha lakeshore hops, Elsa Gate, Oloiden. |
+| Transport | Bodas and local hops | $10 | $5–$20 | Naivasha lakeshore hops, Elsa Gate, Longonot gate. |
 | Meals | Food outside the full-board legs, 11 days | $175 | $130–$260 | Ol Pejeta (Stables FB) and Mara are included. Nairobi days run a little dearer. |
 | Meals | Travel-day food and water | $25 | $20–$45 |  |
 | Tips | Mara camp guide, spotter and staff, 2 nights | $30 | $20–$50 | Crisp post-2013 USD bills. |
@@ -229,8 +229,8 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 | Admin | Kenya eTA | $30 | $30–$35 | Official site: etakenya.go.ke. etas.gov.ke is not it; lookalike sites overcharge. |
 | Admin | eSIM or Safaricom SIM | $15 | $8–$25 | Set up M-Pesa on arrival. |
 | Admin | Laundry, sundries, souvenirs | $50 | $30–$250 |  |
-| Contingency | ~5%, held until bookings are confirmed | $272 | $234–$526 | Ebola/advisory changes, KWS ruling, festive uplift, FX. |
-| **Total** | | **$5,722** | | ≈ $11,444 for two |
+| Contingency | ~5%, held until bookings are confirmed | $274 | $234–$526 | Ebola/advisory changes, KWS ruling, festive uplift, FX. |
+| **Total** | | **$5,764** | | ≈ $11,528 for two |
 
 ## Options & swaps
 
@@ -243,7 +243,7 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 - **Comprehensive insurance with trip cancellation** (+$150 pp): Back to the fact-check's policy. Worth it mainly for the prepaid Naboisho camp; ordinary cancellation cover does not pay out for fear of Ebola.
 - **Add the Topkapı Harem** (+$25 pp): 
 - **Third night at Ol Pejeta instead of the third Nakuru night** (+$200 pp): Another 24h entry and Stables night, plus a 4h vehicle hire: time for the northern white rhino visit and lion tracking.
-- **Climb Mount Longonot (Jan 12)** (+$60 pp): Crater-rim hike, ~4–5h. KWS $50 + matatu/taxi to the gate.
+- **Horseback safari at Sanctuary Farm (Jan 12)** (+$80 pp): 2h ride among giraffe, zebra and wildebeest on the lakeshore; operator-listed at ~$80 pp. Confirm the rate with the farm.
 
 ## Booking timeline
 
@@ -253,7 +253,7 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 - **By Oct 31:** Book The Stables (full board) and an OPC vehicle with driver for an 8h day on Jan 2; pre-book the 06:30 bush walk (max 6).
 - **By Nov 15:** Book Nakuru (Jan 3–5), Naivasha (Jan 8–12) and Karen (Jan 13–14), the Jan 14 Nairobi NP vehicle and the 02:45 Jan 15 taxi. Email Sheldrick for the Jan 14 11:00 visit (they reply within ~2 business days).
 - **Mid-to-late Nov:** Travel clinic: yellow fever (CDC-recommended here), malaria prophylaxis.
-- **Dec 1–5:** Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru, Hell's Gate and Nairobi NP (and Longonot if taking it).
+- **Dec 1–5:** Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru, Hell's Gate, Longonot and Nairobi NP.
 - **Dec 20–24:** Re-check the Kenya advisory and Ebola news. Reconfirm the Narok pickup and the airport taxi.
 
 ## Practical
@@ -295,7 +295,7 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 
 ## Open questions
 
-1. ~$5,722 pp: OK, or trade a Naivasha night for something?
+1. ~$5,764 pp: OK, or trade a Naivasha night for something?
 2. Insurance: medical + evacuation only, or pay ~$150 more for cancellation cover on the prepaid camp?
 3. Five Naivasha nights: restful, or too many? The third Naboisho night is the obvious swap if budget allows.
 4. Are you already vaccinated for yellow fever? It is CDC-recommended for this route.

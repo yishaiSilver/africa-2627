@@ -2,8 +2,8 @@
   "id": "no-crew-slow",
   "label": "No-crew, fewer moves · Jan 15",
   "title": "Kenya with fewer moves: Istanbul, Ol Pejeta, Nakuru, Naboisho and a long Naivasha stay",
-  "summary": "The lean no-crew loop without Kakamega: 6 Kenya bases instead of 9, ~22h on the road instead of ~32h, 18 nights on the ground. ~$5,722 pp.",
-  "overview": "- **What this is:** the lean no-crew loop with Kakamega dropped, so the Kericho and Narok stopover nights go too. Ol Pejeta, Nakuru, Naboisho and Naivasha all stay.\n- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 18 nights on the ground: 3 Istanbul, 15 Kenya (plus 2 on planes).\n- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Nakuru 3n** → Naboisho 2n → **Naivasha 5n** → Nairobi (Karen) 2n.\n- **Less moving:** in Kenya, 6 bases instead of 9 and 6 travel days instead of 8; about 22 road hours instead of 32. Every stay is now 2+ nights.\n- **Where the freed nights went:** Nakuru +1 (a rest day), Naivasha +2 (Elsamere colobus, a free day or Mount Longonot), and Karen for the last two nights instead of an airport hotel, with a dawn Nairobi National Park drive and the Sheldrick elephant orphanage on the last day. Home a day earlier (Jan 15).\n- **Budget: ~$5,722 pp** vs $5,579 for the lean loop. Kakamega was the cheapest part of the trip per night, so the swap doesn't save much.",
+  "summary": "The lean no-crew loop without Kakamega: 6 Kenya bases instead of 9, ~22h on the road instead of ~32h, 18 nights on the ground. ~$5,764 pp.",
+  "overview": "- **What this is:** the lean no-crew loop with Kakamega dropped, so the Kericho and Narok stopover nights go too. Ol Pejeta, Nakuru, Naboisho and Naivasha all stay.\n- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 18 nights on the ground: 3 Istanbul, 15 Kenya (plus 2 on planes).\n- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Nakuru 3n** → Naboisho 2n → **Naivasha 5n** → Nairobi (Karen) 2n.\n- **Less moving:** in Kenya, 6 bases instead of 9 and 6 travel days instead of 8; about 22 road hours instead of 32. Every stay is now 2+ nights.\n- **Where the freed nights went:** Nakuru +1 (a rest day), Naivasha +2 (a Mount Longonot volcano climb and a free day), and Karen for the last two nights instead of an airport hotel, with a dawn Nairobi National Park drive and the Sheldrick elephant orphanage on the last day. Home a day earlier (Jan 15).\n- **Budget: ~$5,764 pp** vs $5,579 for the lean loop. Kakamega was the cheapest part of the trip per night, so the swap doesn't save much.",
   "dates": {
     "depart": "2026-12-26",
     "return": "2027-01-15"
@@ -156,9 +156,9 @@
     {
       "date": "2027-01-11",
       "day_label": "Day 17 – Mon",
-      "location": "Lake Naivasha",
-      "title": "Elsamere and Lake Oloiden",
-      "details": "Zero transfer. Elsamere, Joy Adamson's lakeside house: black-and-white colobus in the garden trees, and afternoon tea on the lawn. Walk or boda on to Lake Oloiden for flamingos and pelicans when the water's right.",
+      "location": "Mount Longonot",
+      "title": "Climb Mount Longonot",
+      "details": "Early matatu to Longonot town (~45m), boda to the gate. Steep 1–1.5h climb to the rim of a 2,776 m volcano, then the full crater-rim circuit (~13.5 km, 4–6h total): sheer drops into a forested caldera with steam vents, Rift Valley views to Lake Naivasha, and zebra, giraffe and buffalo on the lower slopes. Start by 08:00; it gets hot and there's no water on the mountain. KWS recommends a ranger ($15–25 per group).",
       "overnight": "Naivasha lakeshore banda",
       "meals": "Own"
     },
@@ -167,7 +167,7 @@
       "day_label": "Day 18 – Tue",
       "location": "Lake Naivasha",
       "title": "Free day",
-      "details": "Zero transfer. Rest, read, watch hippos on the lawn. Or climb Mount Longonot (Option: ~4–5h round the crater rim, $50 KWS).",
+      "details": "Zero transfer. Rest legs after Longonot; hippos on the lawn. Option: a 2h horseback ride among giraffe, zebra and wildebeest at Sanctuary Farm.",
       "overnight": "Naivasha lakeshore banda",
       "meals": "Own"
     },
@@ -537,12 +537,12 @@
       "notes": "Crescent Island $33 + boat ~$20 pp shared."
     },
     {
-      "category": "Activities",
-      "item": "Elsamere and Lake Oloiden",
-      "per_person_usd": 20,
-      "low_usd": 10,
-      "high_usd": 35,
-      "notes": "Elsamere entry/tea fee unconfirmed; ask on arrival."
+      "category": "Park fees",
+      "item": "Mount Longonot NP, 1 day + transport",
+      "per_person_usd": 60,
+      "low_usd": 55,
+      "high_usd": 75,
+      "notes": "KWS non-resident $50 since Oct 2025; matatu and boda to the gate ~$5; ranger optional, $15–25 per group."
     },
     {
       "category": "Park fees",
@@ -590,7 +590,7 @@
       "per_person_usd": 10,
       "low_usd": 5,
       "high_usd": 20,
-      "notes": "Naivasha lakeshore hops, Elsa Gate, Oloiden."
+      "notes": "Naivasha lakeshore hops, Elsa Gate, Longonot gate."
     },
     {
       "category": "Meals",
@@ -691,13 +691,13 @@
     {
       "category": "Contingency",
       "item": "~5%, held until bookings are confirmed",
-      "per_person_usd": 272,
+      "per_person_usd": 274,
       "low_usd": 234,
       "high_usd": 526,
       "notes": "Ebola/advisory changes, KWS ruling, festive uplift, FX."
     }
   ],
-  "budget_total_per_person_usd": 5722,
+  "budget_total_per_person_usd": 5764,
   "alternatives": [
     {
       "id": "private-car-jan3",
@@ -754,10 +754,10 @@
       "cost_delta_per_person_usd": 200
     },
     {
-      "id": "longonot",
-      "name": "Climb Mount Longonot (Jan 12)",
-      "description": "Crater-rim hike, ~4–5h. KWS $50 + matatu/taxi to the gate.",
-      "cost_delta_per_person_usd": 60
+      "id": "horseback",
+      "name": "Horseback safari at Sanctuary Farm (Jan 12)",
+      "description": "2h ride among giraffe, zebra and wildebeest on the lakeshore; operator-listed at ~$80 pp. Confirm the rate with the farm.",
+      "cost_delta_per_person_usd": 80
     }
   ],
   "booking_timeline": [
@@ -787,7 +787,7 @@
     },
     {
       "when": "Dec 1–5",
-      "task": "Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru, Hell's Gate and Nairobi NP (and Longonot if taking it)."
+      "task": "Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru, Hell's Gate, Longonot and Nairobi NP."
     },
     {
       "when": "Dec 20–24",
@@ -796,7 +796,7 @@
   ],
   "practical": "## Entry\n- Kenya eTA $30, **etakenya.go.ke only** (not etas.gov.ke); lookalike sites overcharge. Passport 6+ months, 2 blank pages.\n- Türkiye is visa-free for US tourists.\n\n## Packing\n- **One bag each you can carry and lift onto a roof rack.** About seven matatu legs; no wheeled cases.\n- Ventilated low hikers plus **short gaiters** for grass seeds on the Ol Pejeta and Mara walks.\n- Headtorch and a power bank.\n- A fleece. Laikipia and Nakuru nights run 8–12°C and dawn drives are genuinely cold. Istanbul is 4–9°C and wet.\n- **No camouflage or military-style clothing**: wearing anything resembling police/military uniform is illegal and police enforce it. Plastic bags are banned, including ones brought in (duty-free bags get confiscated).\n\n## Money\n- ~130 KES to the dollar. **Carry both cash and cards.** All KWS payments are cashless through eCitizen; matatus, bodas, bike hire and tips are cash only.\n- Safaricom SIM at the airport with your passport, then set up M-Pesa.\n- Crisp post-2013 USD bills for tips.\n\n## Fees\n- The October 2025 KWS increase is still in court, but **the new rates are being charged**: Nakuru $90, Hell's Gate and Longonot $50 (+~$10 cycling at Hell's Gate).\n- Ol Pejeta and the Mara conservancies are not KWS and run separate, cashless systems.\n- Ol Pejeta entry covers 24h for overnight guests, but day visitors pay again on re-entry.\n\n## Road reality\n- **Nothing moves after dark.** Rural matatus stop in the late afternoon. Every leg is built for a morning start.\n- Longest days are ~5h (Jan 6, Jan 8). Ten days in Kenya involve no travel.\n- Jan 1 is a public holiday — matatus run fuller and less often.\n\n## Health and safety\n- Kenya is **Level 2** (reissued Jul 2026). No Do-Not-Travel areas on this route.\n- **Matatus:** the State Dept tells travelers to avoid matatus and boda-bodas, and US government staff may not use them. The main risk is **crashes**, not just theft. Prefer registered coach/shuttle companies, daylight only, and get your insurer to confirm in writing that matatu and boda travel is covered.\n- **Yellow fever:** not required for US arrivals, but **CDC-recommended** for this route (everything outside Nairobi city and the coast).\n- **Ebola:** Kenya confirmed an imported Bundibugyo case on Oct 6 2026 (patient from DRC via Kampala, died in Nairobi). Nakuru was named a high-risk preparedness county. Re-check the advisory before paying deposits; prefer refundable bookings.\n- **Mpox:** active in Nakuru and Nairobi.\n- Malaria prophylaxis from before arrival through 7 days after. DEET.\n- AMREF Maisha Bronze ($10) covers 15 days: start it Dec 31 so it runs through Jan 14.",
   "open_questions": [
-    "~$5,722 pp: OK, or trade a Naivasha night for something?",
+    "~$5,764 pp: OK, or trade a Naivasha night for something?",
     "Insurance: medical + evacuation only, or pay ~$150 more for cancellation cover on the prepaid camp?",
     "Five Naivasha nights: restful, or too many? The third Naboisho night is the obvious swap if budget allows.",
     "Are you already vaccinated for yellow fever? It is CDC-recommended for this route."
@@ -1149,12 +1149,6 @@
     }
   },
   "wildlife": [
-    {
-      "name": "Mantled guereza (black-and-white colobus)",
-      "wiki": "Mantled_guereza",
-      "where": "Elsamere gardens, Naivasha",
-      "odds": "Likely"
-    },
     {
       "name": "Black rhinoceros",
       "wiki": "Black_rhinoceros",
