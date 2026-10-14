@@ -1,9 +1,9 @@
 {
   "id": "puerto-rico",
   "label": "Puerto Rico · Nov 7–14",
-  "summary": "El Yunque, Culebra turtle snorkel, Vieques: brightest bio bay, horses, reefs; east only, ferry, ~$2,047 pp.",
+  "summary": "Slow Sunday in Old San Juan, El Yunque, Vieques: brightest bio bay, horses, reefs; short flight back, ~$1,867 pp.",
   "title": "Puerto Rico: Rainforest, Reefs & Vieques Bio Bay",
-  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 0 on planes. 1-stop flights both ways.\n- **Route (east only):** Old San Juan 1n → Luquillo/El Yunque 3n → Vieques (Esperanza) 2n → Isla Verde 1n.\n- **Bio bay:** Mosquito Bay, Vieques, **Wed Nov 11** ~19:30: brightest bay; moon 7%, sets 19:31. Nov 12 = rain backup. One bay only.\n- **Snorkel:** **Tue Nov 10** catamaran Fajardo → Culebra reefs (turtles, rays). Vieques Nov 11–12: Playa Esperanza, Mosquito Pier.\n- **Nature:** El Yunque at 08:00 gate, coquí nights, Vieques refuge beaches, wild horses, Playa Negra.\n- **Getting there:** Car Nov 8–13 (parked at Ceiba Nov 11–13). Ceiba → Vieques passenger ferry ($2/leg). Jeep on Vieques.\n- **Culture:** Old San Juan forts (NPS), Fortín Conde de Mirasol.\n- **Pace:** max ~1h driving/day. Nov 12 slow. ~$2,047 pp.",
+  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 7 nights in PR, 1-stop flights both ways.\n- **Route (3 moves, all short):** Old San Juan 2n → Luquillo/El Yunque 2n → Vieques (Esperanza) 2n → Isla Verde 1n.\n- **Slow days:** Sun Nov 8 in Old San Juan (no travel); Thu Nov 12 on Vieques.\n- **Bio bay:** Mosquito Bay, Vieques, **Wed Nov 11** ~19:30: brightest bay; moon 7%, sets 19:31. Nov 12 = rain backup.\n- **Nature:** El Yunque at 08:00 gate Tue Nov 10, coquí nights, Vieques snorkel (turtles, rays), wild horses, Playa Negra.\n- **Getting around:** Car Nov 9–11 only, dropped at Ceiba. Ferry to Vieques ($2). Jeep on Vieques. 25m flight Vieques → SJU Nov 13.\n- **Culebra catamaran:** now optional (+~$200 pp).\n- **Pace:** max ~1h driving/day. ~$1,867 pp.",
   "dates": {
     "depart": "2026-11-07",
     "return": "2026-11-14"
@@ -14,43 +14,43 @@
       "day_label": "Day 1 – Sat",
       "location": "Los Angeles → San Juan",
       "title": "Fly to Puerto Rico",
-      "details": "Early 1-stop (via MIA/CLT/DFW/ATL/JFK). LAX ~06:00–08:00 → SJU ~18:00–21:00 (+4h clock). Taxi 20m to Old San Juan. Street food, sleep.",
+      "details": "Early 1-stop (via MIA/CLT/DFW/ATL/JFK). LAX ~06:00–08:00 → SJU ~18:00–21:00 (+4h clock). Taxi 20m to Old San Juan. Street food, sleep in tomorrow.",
       "overnight": "Old San Juan – CasaBlanca Hotel",
       "meals": "In-flight; D own"
     },
     {
       "date": "2026-11-08",
       "day_label": "Day 2 – Sun",
-      "location": "Old San Juan → Luquillo",
-      "title": "Forts, then east",
-      "details": "08:30 El Morro + San Cristóbal (one ~$10 fee). Paseo del Morro walk. Lunch. Taxi to SJU, pick up car ~13:00. ~50m PR-26/PR-3 east. Dusk: coquí chorus at inn.",
-      "overnight": "Luquillo – Sunrise Beach Inn",
+      "location": "Old San Juan",
+      "title": "Slow day in Old San Juan",
+      "details": "Sleep in after the flight. Late breakfast. ~11:00 El Morro (one ~$10 fee covers San Cristóbal too), Paseo del Morro walk. Lunch, siesta. Late afternoon: San Cristóbal or just the blue streets, Paseo de la Princesa at sunset. No driving, no packing.",
+      "overnight": "Old San Juan – CasaBlanca Hotel",
       "meals": "B, L, D own"
     },
     {
       "date": "2026-11-09",
       "day_label": "Day 3 – Mon",
-      "location": "El Yunque · Luquillo",
-      "title": "Rainforest, coquí night",
-      "details": "Gate 08:00 (PR-191 free, no reservation; closes at capacity: go early, Monday quieter). El Portal center ($8). Short trails open (check alerts; La Mina closed). Parrot/tody/lizard-cuckoo watch. Out by ~13:00. Nap, swim. Dusk: coquí walk with red light on inn grounds/Luquillo lanes (forest road closed after hours). No bio bay tonight: Mosquito Bay Nov 11 is brighter. Bed by 22:00: boat tomorrow.",
+      "location": "Old San Juan → Luquillo",
+      "title": "East to the coast",
+      "details": "Easy morning. ~09:00 taxi to SJU, pick up car, ~50m PR-26/PR-3 east. Luquillo beach, lunch at the kioskos. Swim, nap. Dusk: coquí chorus at the inn. Bed early: forest gate 08:00.",
       "overnight": "Luquillo – Sunrise Beach Inn",
       "meals": "B, L, D own"
     },
     {
       "date": "2026-11-10",
       "day_label": "Day 4 – Tue",
-      "location": "Fajardo → Culebra reefs",
-      "title": "Culebra snorkel day (catamaran)",
-      "details": "07:45 drive ~35m to Puerto del Rey marina, Fajardo. ~08:30–09:00 catamaran, ~45–50m crossing. Captain picks the calm spot: Tamarindo/Carlos Rosario (west side, Luis Peña reserve: turtles, reef) or Culebrita/Flamenco. 2 snorkel stops, beach time, buffet lunch, drinks, gear. Back ~15:00. Siesta. Easy dinner. Pack tonight: ferry tomorrow. Swell cancels? Fall back to Luquillo swim + kioskos.",
+      "location": "El Yunque · Luquillo",
+      "title": "Rainforest, coquí night",
+      "details": "Gate 08:00 (PR-191 free, no reservation; closes at capacity: go early, weekday quieter). El Portal center ($8). Short trails open (check alerts; La Mina closed). Parrot/tody/lizard-cuckoo watch. Out by ~13:00. Nap, swim. Dusk: coquí walk with red light on inn grounds/Luquillo lanes. Pack tonight: ferry tomorrow.",
       "overnight": "Luquillo – Sunrise Beach Inn",
-      "meals": "B own; L on boat; D own"
+      "meals": "B, L, D own"
     },
     {
       "date": "2026-11-11",
       "day_label": "Day 5 – Wed",
       "location": "Luquillo → Ceiba → Vieques",
       "title": "Ferry to Vieques, brightest bio bay",
-      "details": "08:00 drive ~35m to Ceiba terminal. Park in terminal lot (~$8–11/day). Morning passenger ferry (check timetable; window opens 1h before; Veterans Day holiday: book online, arrive early). ~45–75m crossing to Isabel II. Jeep handed over at dock. Optional 30m at Fortín Conde de Mirasol (museum, views). ~20m to Esperanza. Lunch on malecón. Easy snorkel off Playa Esperanza (seagrass: turtles, rays). Siesta. ~19:30 Mosquito Bay clear-kayak tour (~2h): thin 7% moon sets 19:31: dark.",
+      "details": "08:00 drive ~35m to Ceiba, return car at Avis, short hop to terminal. Morning passenger ferry (check timetable; window opens 1h before; Veterans Day holiday: book online, arrive early). ~45–75m crossing to Isabel II. Jeep handed over at dock. Optional 30m at Fortín Conde de Mirasol (museum, views). ~20m to Esperanza. Lunch on malecón. Easy snorkel off Playa Esperanza (seagrass: turtles, rays). Siesta. ~19:30 Mosquito Bay clear-kayak tour (~2h): thin 7% moon sets 19:31: dark.",
       "overnight": "Esperanza, Vieques – Trade Winds Guesthouse",
       "meals": "B, L, D own"
     },
@@ -66,9 +66,9 @@
     {
       "date": "2026-11-13",
       "day_label": "Day 7 – Fri",
-      "location": "Vieques → Ceiba → Isla Verde",
-      "title": "Back to the big island",
-      "details": "Easy morning, last swim. Jeep back at dock. Late-morning ferry (~45–75m). Car from Ceiba lot, ~1h PR-53/PR-66 (tolls) to SJU, return car ~14:00. Hotel 5m. Beach walk; dinner at Piñones kioskos (10m) or Isla Verde.",
+      "location": "Vieques → San Juan (Isla Verde)",
+      "title": "Short hop back",
+      "details": "Easy morning, last swim at Playa Esperanza. ~15m jeep to Vieques airport, drop jeep. ~25m flight to SJU (Cape Air). 5m taxi to hotel. Beach walk; dinner at Piñones kioskos (10m) or Isla Verde.",
       "overnight": "Isla Verde – Hotel Villa del Sol",
       "meals": "B, L, D own"
     },
@@ -87,7 +87,7 @@
       "name": "CasaBlanca Hotel",
       "place": "OSJ",
       "location": "Old San Juan",
-      "nights": 1,
+      "nights": 2,
       "pppn_usd": 68,
       "style": "Small hotel",
       "includes": "~$135/room incl 9% tax (Nov snapshots $107–122 + tax). AC, wifi, 2 roof terraces, 24h desk. No parking (none needed: no car). Some rooms windowless; ask.",
@@ -166,11 +166,11 @@
       "name": "Luquillo Sunrise Beach Inn",
       "place": "LUQ",
       "location": "Río Grande / Luquillo",
-      "nights": 3,
+      "nights": 2,
       "pppn_usd": 78,
       "style": "Small inn",
       "includes": "~$155/room incl 9% tax (Aug '26 snapshot CA$184 ≈ $133 + tax; Travelocity adds 5.87% fee). Free gated parking (limited), AC, wifi, restaurant. Beachfront. Breakfast: sites disagree; confirm.",
-      "why": "9.2 (327 reviews). ~20m to PR-191 El Yunque gate, ~15m Las Croabas bio bay launch, ~25m Puerto del Rey.",
+      "why": "9.2 (327 reviews). ~20m to PR-191 El Yunque gate, ~15m Las Croabas bio bay launch.",
       "alternatives": "",
       "url": "https://www.expedia.com/San-Juan-Hoteles-Luquillo-Sunrise-Beach-Inn.h31686708.Informacion-Hotel",
       "options": [
@@ -328,7 +328,7 @@
       "pppn_usd": 70,
       "style": "Small hotel",
       "includes": "~$140/room incl 9% tax (Oct '25 $105 + tax; Jan '26 $159 all-in). AC, pool, limited parking, short walk to beach. $100 deposit (Trip.com); 21+ main guest.",
-      "why": "Nov 13 night: 5m to SJU for Nov 14 flight; car drop at SJU then short hop. 9.2. Saves 2 OSJ taxis; OSJ already done Nov 7–8.",
+      "why": "Nov 13 night: 5m from SJU, where the Vieques flight lands; 5m to SJU for Nov 14 flight. 9.2.",
       "alternatives": "",
       "url": "https://expedia.com/Carolina-hotels-Hotel-Villa-del-Sol.h1627483.Hotel-information",
       "options": [
@@ -411,18 +411,18 @@
     },
     {
       "category": "Lodging",
-      "item": "Old San Juan: CasaBlanca Hotel, 1 night (Nov 7)",
-      "per_person_usd": 68,
-      "low_usd": 53,
-      "high_usd": 130,
+      "item": "Old San Juan: CasaBlanca Hotel, 2 nights (Nov 7–8)",
+      "per_person_usd": 136,
+      "low_usd": 106,
+      "high_usd": 260,
       "notes": "~$135/room incl 9% tax. Low = Navona Studios. High = Palacio Provincial (incl resort fee)."
     },
     {
       "category": "Lodging",
-      "item": "Luquillo: Luquillo Sunrise Beach Inn, 3 nights (Nov 8–10)",
-      "per_person_usd": 234,
-      "low_usd": 174,
-      "high_usd": 348,
+      "item": "Luquillo: Luquillo Sunrise Beach Inn, 2 nights (Nov 9–10)",
+      "per_person_usd": 156,
+      "low_usd": 116,
+      "high_usd": 232,
       "notes": "~$155/room incl tax, free parking. Low = Casa Coral. High = Fairfield Luquillo (breakfast, fee)."
     },
     {
@@ -443,39 +443,31 @@
     },
     {
       "category": "Car",
-      "item": "Compact rental, SJU Nov 8 → Nov 13 (5 days, all-in taxes; idle at Ceiba Nov 11–13)",
-      "per_person_usd": 165,
-      "low_usd": 110,
-      "high_usd": 260,
-      "notes": "Nov SJU avg ~$60–75/day. Use credit-card CDW; skip $22–26/day waiver if covered. No rentals on the ferry."
+      "item": "Compact rental, SJU Nov 9 → Avis Ceiba Nov 11 (2 days, one-way, all-in)",
+      "per_person_usd": 85,
+      "low_usd": 55,
+      "high_usd": 140,
+      "notes": "Nov SJU ~$60–75/day + possible one-way fee (ask). Use credit-card CDW if it covers PR."
     },
     {
       "category": "Car",
       "item": "AutoExpreso toll tag fee + tolls",
-      "per_person_usd": 15,
-      "low_usd": 8,
-      "high_usd": 30,
+      "per_person_usd": 10,
+      "low_usd": 5,
+      "high_usd": 20,
       "notes": "Tag fee flat/day or per use. Tolls only PR-26/66/53 bits now (~$5–10)."
     },
     {
       "category": "Car",
-      "item": "Gas (~250 km)",
-      "per_person_usd": 10,
-      "low_usd": 8,
-      "high_usd": 20,
+      "item": "Gas (~120 km)",
+      "per_person_usd": 5,
+      "low_usd": 4,
+      "high_usd": 10,
       "notes": "Gas sold per liter."
     },
     {
       "category": "Car",
-      "item": "Ceiba terminal parking, 2 nights",
-      "per_person_usd": 13,
-      "low_usd": 8,
-      "high_usd": 18,
-      "notes": "~$8–11/day + tax, ~$25/car. Shuttle/walk to pier."
-    },
-    {
-      "category": "Car",
-      "item": "Taxis SJU ↔ Old San Juan ×2 + Isla Verde hops",
+      "item": "Taxis SJU ↔ Old San Juan ×2, SJU ↔ Isla Verde ×2",
       "per_person_usd": 30,
       "low_usd": 20,
       "high_usd": 45,
@@ -483,11 +475,19 @@
     },
     {
       "category": "Transport",
-      "item": "Ceiba ↔ Vieques passenger ferry, round trip",
-      "per_person_usd": 4,
-      "low_usd": 4,
+      "item": "Ceiba → Vieques passenger ferry, one way",
+      "per_person_usd": 2,
+      "low_usd": 2,
+      "high_usd": 80,
+      "notes": "$2/leg non-resident until Dec 31, 2026. High = fly NRR → VQS."
+    },
+    {
+      "category": "Transport",
+      "item": "Vieques → SJU flight, Nov 13 (Cape Air)",
+      "per_person_usd": 110,
+      "low_usd": 55,
       "high_usd": 150,
-      "notes": "$2/leg non-resident until Dec 31, 2026 (then $11.25). High = fly NRR/SJU ↔ VQS."
+      "notes": "From ~$99 + bag. Low = ferry back + taxi share."
     },
     {
       "category": "Transport",
@@ -504,14 +504,6 @@
       "low_usd": 70,
       "high_usd": 115,
       "notes": "Kayak ~$67–80; electric boat $75–100 (+$3 fee). Tip ~$10."
-    },
-    {
-      "category": "Tours & fees",
-      "item": "Culebra catamaran snorkel day from Fajardo, Nov 10 (+tip)",
-      "per_person_usd": 185,
-      "low_usd": 75,
-      "high_usd": 210,
-      "notes": "Listings $155–185 (lunch, drinks, gear). Tip ~$15. Low = DIY ferry+cart."
     },
     {
       "category": "Tours & fees",
@@ -539,8 +531,8 @@
     },
     {
       "category": "Food",
-      "item": "7 days food: bakery breakfast, kiosk lunch, sit-down dinner (Nov 10 lunch on boat)",
-      "per_person_usd": 420,
+      "item": "7 days food: bakery breakfast, kiosk lunch, sit-down dinner",
+      "per_person_usd": 430,
       "low_usd": 300,
       "high_usd": 600,
       "notes": "~$60–65/day; Vieques a bit pricier. Kioskos, Piñones cheap."
@@ -554,13 +546,42 @@
       "notes": ""
     }
   ],
-  "budget_total_per_person_usd": 2047,
+  "budget_total_per_person_usd": 1867,
   "alternatives": [
     {
-      "id": "vieques-fly",
-      "name": "Fly to Vieques instead of ferry",
-      "description": "Ceiba (NRR) → VQS ~10m on Vieques Air Link/Air Flamenco (~$45–80 each way), or SJU → VQS on Cape Air (from ~$99). No sell-out/holiday crowd risk; tight bag limits. Fly SJU both ways = return car Nov 11 at SJU instead, but then ~1h back-track.",
-      "cost_delta_per_person_usd": 135,
+      "id": "culebra-day",
+      "name": "Add Culebra catamaran snorkel day",
+      "description": "Old plan: 3rd Luquillo night (drop 2nd Old San Juan night), Tue Nov 10 power catamaran from Puerto del Rey to Culebra reefs (Tamarindo turtles, Carlos Rosario; lunch, gear incl., back ~15:00), El Yunque Mon. Best snorkeling on the trip, but another full travel day. DIY ferry + golf cart ~$75 pp but sells out, ~11h day.",
+      "cost_delta_per_person_usd": 200,
+      "place": "TAM",
+      "legs": [
+        {
+          "from": "LUQ",
+          "to": "PDR",
+          "mode": "road",
+          "duration": "~35m",
+          "detail": "Puerto del Rey marina, Fajardo."
+        },
+        {
+          "from": "PDR",
+          "to": "TAM",
+          "mode": "road",
+          "duration": "~45–50m",
+          "detail": "Boat: catamaran to Culebra reefs, 2 stops."
+        }
+      ]
+    },
+    {
+      "id": "ferry-back",
+      "name": "Ferry back + taxi (not the flight)",
+      "description": "Nov 13: jeep to dock, ferry 45–75m (+45m early), taxi Ceiba → Isla Verde ~1h (~$90–120/car). Cheaper, ~2h longer, the day the feedback flagged.",
+      "cost_delta_per_person_usd": -55
+    },
+    {
+      "id": "fly-both-ways",
+      "name": "Fly to Vieques too",
+      "description": "Ceiba (NRR) → VQS ~10m on Vieques Air Link / Air Flamenco (~$45–80). No ferry sell-out or Nov 11 holiday queue; tight bag limits.",
+      "cost_delta_per_person_usd": 65,
       "legs": [
         {
           "from": "NRR",
@@ -574,7 +595,7 @@
     {
       "id": "laguna-grande-too",
       "name": "Laguna Grande Fajardo bio bay too (Nov 9)",
-      "description": "Kayak the mangrove channel on new-moon night, 25m from Luquillo. 2nd bay, dimmer than Mosquito; late night before 07:45 Culebra start. Worth it only as insurance if Vieques gets cancelled.",
+      "description": "Kayak the mangrove channel on new-moon night, 25m from Luquillo. 2nd bay, dimmer than Mosquito; late night before the 08:00 forest gate. Worth it only as insurance if Vieques gets cancelled.",
       "cost_delta_per_person_usd": 85,
       "place": "LGF",
       "legs": [
@@ -590,26 +611,14 @@
     {
       "id": "osj-last-night",
       "name": "Old San Juan last night (not Isla Verde)",
-      "description": "CasaBlanca again Nov 13: evening on the walls. +2 taxis (~$30/car each), 20m to SJU Nov 14.",
-      "cost_delta_per_person_usd": 35
+      "description": "CasaBlanca again Nov 13: evening on the walls. Taxi 20m from SJU after the Vieques flight, 20m back Nov 14.",
+      "cost_delta_per_person_usd": 30
     },
     {
       "id": "skip-car",
       "name": "No car: taxis + tours",
-      "description": "Taxi to Luquillo, El Yunque tour, catamaran with hotel pickup, taxis to/from Ceiba. Fixed times, long pickups; not cheaper.",
-      "cost_delta_per_person_usd": 40
-    },
-    {
-      "id": "culebra-ferry-diy",
-      "name": "Culebra DIY: Ceiba ferry + golf cart",
-      "description": "Same day, own pace: Tamarindo turtles at 08:00, Carlos Rosario, Flamenco. Ferry $2.25/leg + $2 fee (fare rise delayed to Dec 31, 2026); cart ~$75–90/day shared. Online seats sell out (only ~20% online); 1h check-in; ~11h day. Or 15m flight Ceiba→Culebra ~$100–110 RT.",
-      "cost_delta_per_person_usd": -110
-    },
-    {
-      "id": "keep-luquillo-slow",
-      "name": "Keep slow Luquillo day instead",
-      "description": "Drop Culebra Nov 10. Sleep in, Luquillo swim, kioskos. Real rest day before the ferry; snorkel only in Vieques.",
-      "cost_delta_per_person_usd": -170
+      "description": "Taxi to Luquillo, El Yunque half-day tour with pickup, taxi to Ceiba. Fixed times; costs more.",
+      "cost_delta_per_person_usd": 64
     },
     {
       "id": "birding-guide",
@@ -627,15 +636,15 @@
   "booking_timeline": [
     {
       "when": "Now (Oct 13–15)",
-      "task": "Book LAX–SJU 1-stop RT, out Sat Nov 7 early, home Sat Nov 14 midday. Book CasaBlanca (Nov 7), Luquillo Sunrise (Nov 8–10), Trade Winds Vieques (Nov 11–12), Villa del Sol (Nov 13), free-cancel."
+      "task": "Book LAX–SJU 1-stop RT, out Sat Nov 7 early, home Sat Nov 14 midday. Book CasaBlanca (Nov 7–8), Luquillo Sunrise (Nov 9–10), Trade Winds Vieques (Nov 11–12), Villa del Sol (Nov 13), free-cancel."
     },
     {
       "when": "Now (seats open ~30 days out)",
-      "task": "Ferry Ceiba→Vieques Wed Nov 11 (morning) + Vieques→Ceiba Fri Nov 13 (late morning) on puertoricoferry.com / app. Only ~20% seats online; Nov 11 is Veterans Day. Sold out online? Plan to queue 1h+ early, or book NRR→VQS flight."
+      "task": "Ferry Ceiba→Vieques Wed Nov 11 (morning) on puertoricoferry.com / app. Only ~20% seats online; Nov 11 is Veterans Day. Sold out online? Queue 1h+ early, or fly NRR→VQS."
     },
     {
       "when": "Now",
-      "task": "Vieques jeep Nov 11–13, delivered at ferry dock (Maritza's, Island Car Rental, Coquí/Island Jeep). Book out fast. Mosquito Bay tour Wed Nov 11 ~19:30 (2nd choice Thu Nov 12 ~20:30); ask rain/refund policy."
+      "task": "Vieques jeep Nov 11–13, delivered at ferry dock, returned at Vieques airport (Maritza's, Island Car Rental, Coquí/Island Jeep). Mosquito Bay tour Wed Nov 11 ~19:30 (2nd choice Thu Nov 12 ~20:30); ask rain/refund policy. Cape Air VQS→SJU Fri Nov 13 early afternoon."
     },
     {
       "when": "Now, then ~Oct 24 (2 wks out)",
@@ -643,36 +652,32 @@
     },
     {
       "when": "By Oct 20",
-      "task": "Book compact car SJU Nov 8 → Nov 13. Ask in writing: AutoExpreso tag fee; OK to leave car 2 nights at Ceiba lot. Check credit-card CDW covers PR."
-    },
-    {
-      "when": "By Oct 25",
-      "task": "Book Culebra catamaran Tue Nov 10 (Puerto del Rey); ask swell policy + min-pax rule."
+      "task": "Book compact car SJU Nov 9 → Avis Ceiba Nov 11 (one-way). Ask in writing: one-way fee, Ceiba hours (08:00–17:00), AutoExpreso tag fee. Check credit-card CDW covers PR."
     },
     {
       "when": "Nov 1–5",
-      "task": "Check El Yunque alerts (open trails, any new fee). Check ferry timetable PDF for Nov 11/13. Optional bird guide."
+      "task": "Check El Yunque alerts (open trails, any new fee). Check ferry timetable PDF for Nov 11. Optional bird guide."
     },
     {
       "when": "Nov 5",
-      "task": "Check NHC tropical outlook. Download offline maps (Vieques signal patchy). Nov 8–12: check marine forecast (north swell; ferry cancels)."
+      "task": "Check NHC tropical outlook. Download offline maps (Vieques signal patchy). Nov 9–13: check marine forecast (ferry and small planes can cancel)."
     },
     {
       "when": "Nov 7",
       "task": "Fly. Card for most; cash for kioskos, públicos, tips, Vieques small shops."
     }
   ],
-  "practical": "## Entry\n- US citizens: domestic flight. No passport. REAL ID or passport for TSA.\n\n## Flights\n- No nonstop LAX–SJU found. 1 stop: AA (MIA/CLT/DFW), Delta (ATL), JetBlue (JFK/BOS/MCO), Spirit/Frontier (MCO/FLL).\n- Red-eyes exist (LAX ~22:00 → SJU ~noon next day) but cost a night. Plan: early Sat departure, arrive evening.\n- PR = AST (UTC−4), no DST. LA = PST after Nov 1: **+4h** going east.\n\n## Car? Yes, Nov 8–13 (drives Nov 8–11 + Nov 13).\n- Needed for El Yunque 08:00, Puerto del Rey 07:45, Ceiba ferry. Uber thin outside metro.\n- Rental cars can't go on the passenger ferry (contracts bar leaving main island). Park at Ceiba terminal lot ~$8–11/day, pick up Nov 13, return at SJU.\n- Cheaper? Avis has a Ceiba branch (08:00–17:00): return there Nov 11 (if one-way OK) = 3 rental days, then taxi Ceiba → Isla Verde Nov 13 (~$90–120/car, unverified). Saves ~$25 pp at best; loses fallback. Not chosen.\n- Tours-only = taxis + fixed pickups. Costs more.\n- No car in Old San Juan nights: narrow streets, scarce parking.\n- **AutoExpreso**: all tolls electronic. Rental tag mandatory; fee flat/day or per use + tolls. Ask at pickup. Tolls up slightly Jan 2026. This route: few tolls (PR-26/66/53).\n- Distances in km, speed in mph, gas in liters. Driving assertive; potholes; avoid unlit mountain roads at night.\n\n## Money\n- USD. Cards widely; cash for kioskos, tips. NHS forts cashless.\n- Tip 15–20%. Bio bay guides ~$10.\n\n## Safety\n- Generally fine for tourists. Usual car rules: nothing visible in car, esp. beach/trailheads.\n- Bio bay: no sunscreen/repellent before kayak (harms organisms); follow guide. Life vest.\n- Flash floods: stay out of rivers when raining upstream (El Yunque).\n\n## Snorkel (Culebra Nov 10, Vieques Nov 11–12)\n- Tour: lunch, drinks, mask/fins incl. Bring own mask if picky. Towel not incl.\n- Tamarindo, Melones, Carlos Rosario = Canal Luis Peña reserve: no fishing, no touching/taking coral, no standing on reef. Keep ~3 m from turtles; no chasing.\n- Reef-safe (mineral, zinc) sunscreen, or better: long-sleeve rash guard + hat. Apply 30m before.\n- Nov = north swell season. North beaches (Flamenco, Carlos Rosario edge) can break; west/south (Tamarindo, Melones, Culebrita lee) calmer. Captain decides. Seasick-prone: pill before boarding.\n- Water shoes: rocky, urchin entries at Tamarindo/Carlos Rosario.\n- Water ~28°C: no wetsuit needed.\n- Vieques: Playa Esperanza (seagrass, turtles, by the pier + in front of Trade Winds), Mosquito Pier (stay on calm side; morning). Strong current off points; never alone.\n\n## Vieques\n- **Ferry:** Ceiba (Roosevelt Roads) → Isabel II, passenger boat ~45–75m (reports 30m–1h30). $2/leg non-resident until Dec 31, 2026; $11.25/leg after. puertoricoferry.com: ~20% seats online, rest at window from 1h before. Residents first when full. Schedules shift; delays common.\n- **Fly:** Vieques Air Link / Air Flamenco from Ceiba (NRR) ~10m; Cape Air SJU–VQS ~25m. Weight limits; small planes.\n- **Getting around:** jeep (~$55–85/day) best: refuge roads rough. Golf carts ~$90–120/day, slow on hills. Públicos at ferry dock, few at night. Book ahead.\n- **Bio bay:** Mosquito Bay, no swimming. No repellent/sunscreen before. Tours cancel in heavy rain; Nov 12 backup.\n- **Refuge:** ex-Navy land; stay on open roads/beaches, don't enter fenced areas (unexploded ordnance). Gates close ~sunset. Horses: don't feed, give space; slow driving at night (horses on road).\n- Gas stations few (Isabel II/Esperanza area); fill jeep early. Shops close early; Nov 11 holiday.\n\n## Weather\n- Highs ~29°C/84°F, lows ~22–24°C. Short showers, often afternoon. El Yunque wet any day.\n- Hurricane season ends Nov 30: low but real risk. Watch NHC; free-cancel bookings.\n- Rain/clouds dim bio bays. Bays close in storms. Ferry cancels in big swell.\n\n## Packing\n- Rain shell, quick-dry clothes, trail shoes with grip (slick), sandals, swimsuit, headlamp (red light for coquí), binoculars, repellent (mosquitoes + no-see-ums at dusk, esp. Vieques/Fajardo), reef-safe sunscreen, dry bag.\n\n## Food\n- Mofongo, lechón, alcapurrias, bacalaítos. Kiosk lunch $10–15; dinner $25–40 pp. Tap water OK in metro; bottled in rural spots after storms.\n\n## Hotel deals\n- Quotes above: room rate + tax, for 2. Room tax: 9% hotels, 11% casino hotels, 7% paradores + Airbnb. Resorts add resort fee ($20–40/night); small inns usually none.\n- Book direct or with member rate (Marriott Bonvoy, Hilton Honors free sign-up; AAA) often 5–15% off + free cancel. Compare to Expedia/Booking total-with-tax.\n- Hotels.com/Expedia may add a property service fee (~6%) at check-in; read the fine print.\n- Discover Puerto Rico posts fall partner offers (Aug–Cyber Monday); check discoverpuertorico.com before Nov.\n- Old San Juan: no hotel parking; Doña Fela garage ~$10/day (6'2\" clearance). Plan has no car there.\n- Vieques: small guesthouses; strict cancel windows; Esperanza = food + tours walkable.\n- Airbnb: 7% tax + cleaning fee; for 1–3 nights rarely beats a small inn.\n- Nov 13: Isla Verde (Villa del Sol) chosen: 5m to SJU, car drop then short hop. OSJ again = osj-last-night option.\n",
+  "practical": "## Entry\n- US citizens: domestic flight. No passport. REAL ID or passport for TSA.\n\n## Flights\n- No nonstop LAX–SJU found. 1 stop: AA (MIA/CLT/DFW), Delta (ATL), JetBlue (JFK/BOS/MCO), Spirit/Frontier (MCO/FLL).\n- Red-eyes exist (LAX ~22:00 → SJU ~noon next day) but cost a night. Plan: early Sat departure, arrive evening.\n- PR = AST (UTC−4), no DST. LA = PST after Nov 1: **+4h** going east.\n\n## Car? Only Nov 9–11 (Luquillo days).\n- Needed for El Yunque 08:00 and the Ceiba ferry. Uber thin outside metro.\n- Pick up SJU Nov 9, drop at Avis Ceiba (08:00–17:00) Nov 11 before the ferry. One-way fee: ask. Fallback: park at Ceiba terminal lot (~$8–11/day), ferry back Nov 13, return at SJU.\n- Rental cars can't go on the passenger ferry.\n- Tours-only = taxis + fixed pickups. Costs more.\n- No car in Old San Juan nights: narrow streets, scarce parking.\n- **AutoExpreso**: all tolls electronic. Rental tag mandatory; fee flat/day or per use + tolls. Ask at pickup. Tolls up slightly Jan 2026. This route: few tolls (PR-26/66).\n- Distances in km, speed in mph, gas in liters. Driving assertive; potholes; avoid unlit mountain roads at night.\n\n## Money\n- USD. Cards widely; cash for kioskos, tips. NHS forts cashless.\n- Tip 15–20%. Bio bay guides ~$10.\n\n## Safety\n- Generally fine for tourists. Usual car rules: nothing visible in car, esp. beach/trailheads.\n- Bio bay: no sunscreen/repellent before kayak (harms organisms); follow guide. Life vest.\n- Flash floods: stay out of rivers when raining upstream (El Yunque).\n\n## Snorkel (Vieques Nov 11–13; Culebra if added)\n- Tour: lunch, drinks, mask/fins incl. Bring own mask if picky. Towel not incl.\n- Tamarindo, Melones, Carlos Rosario = Canal Luis Peña reserve: no fishing, no touching/taking coral, no standing on reef. Keep ~3 m from turtles; no chasing.\n- Reef-safe (mineral, zinc) sunscreen, or better: long-sleeve rash guard + hat. Apply 30m before.\n- Nov = north swell season. North beaches (Flamenco, Carlos Rosario edge) can break; west/south (Tamarindo, Melones, Culebrita lee) calmer. Captain decides. Seasick-prone: pill before boarding.\n- Water shoes: rocky, urchin entries at Tamarindo/Carlos Rosario.\n- Water ~28°C: no wetsuit needed.\n- Vieques: Playa Esperanza (seagrass, turtles, by the pier + in front of Trade Winds), Mosquito Pier (stay on calm side; morning). Strong current off points; never alone.\n\n## Vieques\n- **Ferry:** Ceiba (Roosevelt Roads) → Isabel II, passenger boat ~45–75m (reports 30m–1h30). $2/leg non-resident until Dec 31, 2026; $11.25/leg after. puertoricoferry.com: ~20% seats online, rest at window from 1h before. Residents first when full. Schedules shift; delays common.\n- **Fly:** Plan flies back VQS→SJU Nov 13 on Cape Air (~25m, from ~$99). Vieques Air Link / Air Flamenco from Ceiba (NRR) ~10m. Weight limits; small planes: soft bags, pack light.\n- **Getting around:** jeep (~$55–85/day) best: refuge roads rough. Golf carts ~$90–120/day, slow on hills. Públicos at ferry dock, few at night. Book ahead.\n- **Bio bay:** Mosquito Bay, no swimming. No repellent/sunscreen before. Tours cancel in heavy rain; Nov 12 backup.\n- **Refuge:** ex-Navy land; stay on open roads/beaches, don't enter fenced areas (unexploded ordnance). Gates close ~sunset. Horses: don't feed, give space; slow driving at night (horses on road).\n- Gas stations few (Isabel II/Esperanza area); fill jeep early. Shops close early; Nov 11 holiday.\n\n## Weather\n- Highs ~29°C/84°F, lows ~22–24°C. Short showers, often afternoon. El Yunque wet any day.\n- Hurricane season ends Nov 30: low but real risk. Watch NHC; free-cancel bookings.\n- Rain/clouds dim bio bays. Bays close in storms. Ferry cancels in big swell.\n\n## Packing\n- Rain shell, quick-dry clothes, trail shoes with grip (slick), sandals, swimsuit, headlamp (red light for coquí), binoculars, repellent (mosquitoes + no-see-ums at dusk, esp. Vieques/Fajardo), reef-safe sunscreen, dry bag.\n\n## Food\n- Mofongo, lechón, alcapurrias, bacalaítos. Kiosk lunch $10–15; dinner $25–40 pp. Tap water OK in metro; bottled in rural spots after storms.\n\n## Hotel deals\n- Quotes above: room rate + tax, for 2. Room tax: 9% hotels, 11% casino hotels, 7% paradores + Airbnb. Resorts add resort fee ($20–40/night); small inns usually none.\n- Book direct or with member rate (Marriott Bonvoy, Hilton Honors free sign-up; AAA) often 5–15% off + free cancel. Compare to Expedia/Booking total-with-tax.\n- Hotels.com/Expedia may add a property service fee (~6%) at check-in; read the fine print.\n- Discover Puerto Rico posts fall partner offers (Aug–Cyber Monday); check discoverpuertorico.com before Nov.\n- Old San Juan: no hotel parking; Doña Fela garage ~$10/day (6'2\" clearance). Plan has no car there.\n- Vieques: small guesthouses; strict cancel windows; Esperanza = food + tours walkable.\n- Airbnb: 7% tax + cleaning fee; for 1–3 nights rarely beats a small inn.\n- Nov 13: Isla Verde (Villa del Sol) chosen: 5m from SJU, where the Vieques flight lands. OSJ again = osj-last-night option.\n",
   "open_questions": [
     "Confirm budget is per person, party of 2 (assumed).",
-    "Ferry seats Nov 11 (Veterans Day) + Nov 13: got online tickets? If not: queue early or fly NRR→VQS (+~$135 pp).",
+    "Ferry seats Nov 11 (Veterans Day): got online tickets? If not: queue early or fly NRR→VQS (+~$65 pp).",
     "Ferry fare rise to $11.25/leg: postponed to Dec 31, 2026 (May report). Confirm still $2 in Nov.",
-    "Keep car idle at Ceiba 2 nights (simpler, chosen) or drop at Avis Ceiba Nov 11 + taxi Nov 13? Ask rental re one-way + Ceiba lot.",
+    "Avis Ceiba one-way drop Nov 11: fee? If not allowed, park at Ceiba lot and ferry back Nov 13.",
+    "Cape Air bag limits OK for your luggage? If not, ferry back (ferry-back option).",
     "Mosquito Bay: clear kayak (~$70–80, ~2h) or electric boat (~$75–100, ~1h, easiest)?",
-    "Laguna Grande too on Nov 9 (+$85)? Plan says no: one bright bay is enough.",
+    "Want Culebra back (+~$200 pp, one more full day out)? Feedback was unsure.",
     "Want a paid bird guide (+~$120 pp) for parrot / elfin-woods warbler, or self-guided?",
-    "El Yunque: which trails open in Nov (La Mina closed for construction); USFS proposed new day fees in 2026, not final.",
-    "Culebra: catamaran tour (~$185, easy) or DIY ferry+cart (~$75, sell-out risk, long day)? Or keep slow Luquillo day?"
+    "El Yunque: which trails open in Nov (La Mina closed for construction); USFS proposed new day fees in 2026, not final."
   ],
   "sources": [
     "https://theskylive.com/new-moon-november-2026",
@@ -848,13 +853,6 @@
       "kind": "nature",
       "country": "Puerto Rico"
     },
-    "CUB": {
-      "name": "Culebrita (cay, tide pools)",
-      "lat": 18.3155,
-      "lng": -65.229,
-      "kind": "nature",
-      "country": "Puerto Rico"
-    },
     "NRR": {
       "name": "Ceiba airport (NRR/RVR)",
       "lat": 18.2453,
@@ -924,20 +922,6 @@
       "lng": -66.0185,
       "kind": "city",
       "country": "Puerto Rico"
-    },
-    "CRO": {
-      "name": "Carlos Rosario reef, Culebra",
-      "lat": 18.3235,
-      "lng": -65.3285,
-      "kind": "nature",
-      "country": "Puerto Rico"
-    },
-    "FLA": {
-      "name": "Flamenco Beach, Culebra",
-      "lat": 18.3295,
-      "lng": -65.3185,
-      "kind": "nature",
-      "country": "Puerto Rico"
     }
   },
   "legs": [
@@ -958,32 +942,32 @@
       "detail": "Taxi (~$25–30/car + bags)."
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "from": "OSJ",
       "to": "LUQ",
       "mode": "road",
       "duration": "~1h15",
-      "detail": "Taxi to SJU (20m), car pickup, ~50m east PR-26/PR-3.",
+      "detail": "Taxi to SJU (20m), car pickup ~09:00, ~50m east PR-26/PR-3.",
       "choice": {
         "alt_id": "skip-car",
         "chosen": {
-          "label": "Rental car from Nov 8",
+          "label": "Rental car Nov 9–11, one-way to Ceiba",
           "mode": "road",
           "door_to_door": "~1h15",
-          "cost_pp": 203,
-          "note": "Car + tolls + gas + Ceiba parking, 5 days. El Yunque at 08:00, marina 07:45, Ceiba ferry on own clock."
+          "cost_pp": 101,
+          "note": "2 days + tolls + gas. El Yunque at 08:00 on own clock. Drop at Avis Ceiba Nov 11 (one-way: confirm)."
         },
         "other": {
-          "label": "No car: taxis + tours",
+          "label": "No car: taxis + El Yunque tour",
           "mode": "road",
-          "door_to_door": "Taxis + tour pickups",
-          "cost_pp": 245,
-          "note": "Taxi OSJ→Luquillo, El Yunque tour, catamaran pickup, taxis Luquillo→Ceiba, Ceiba→SJU. Uber thin outside metro."
+          "door_to_door": "Taxis + tour pickup",
+          "cost_pp": 165,
+          "note": "Taxi OSJ→Luquillo (~$90/car), El Yunque half-day tour with pickup (~$80–100 pp), taxi Luquillo→Ceiba (~$50/car). Uber thin outside metro."
         }
       }
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "from": "LUQ",
       "to": "EY",
       "mode": "road",
@@ -991,69 +975,12 @@
       "detail": "PR-3 → PR-191 gate 08:00. Free; closes when full."
     },
     {
-      "date": "2026-11-10",
-      "from": "LUQ",
-      "to": "PDR",
-      "mode": "road",
-      "duration": "~35m",
-      "detail": "PR-3 south to Puerto del Rey marina. Free parking at marina."
-    },
-    {
-      "date": "2026-11-10",
-      "from": "PDR",
-      "to": "TAM",
-      "mode": "road",
-      "duration": "~45–50m",
-      "detail": "Boat: power catamaran to Culebra reefs (Tamarindo/Carlos Rosario or Culebrita/Flamenco, captain's call by swell). 2 stops, lunch, back ~15:00.",
-      "choice": {
-        "alt_id": "culebra-ferry-diy",
-        "chosen": {
-          "label": "Catamaran day tour from Fajardo",
-          "mode": "road",
-          "door_to_door": "~6h tour + 35m drive each way",
-          "cost_pp": 185,
-          "note": "~$155–185 + tip. Lunch, drinks, gear incl. No ferry sell-out risk; captain picks calm reef. Min 12 pax or moved."
-        },
-        "other": {
-          "label": "DIY: Ceiba ferry + golf cart",
-          "mode": "road",
-          "door_to_door": "~40m drive + 1h early check-in + 45–90m ferry each way; ~11h day",
-          "cost_pp": 75,
-          "note": "Ferry $2.25/leg + $2 Culebra env. fee; cart ~$70–85/day shared; Flamenco $2; gear rental. Online seats sell out ~month ahead, residents first. Non-resident fare rise to $11.25/leg delayed to ~Jan 2027. Or fly Ceiba→Culebra 15m, ~$100–110 RT."
-        }
-      }
-    },
-    {
-      "date": "2026-11-10",
-      "from": "TAM",
-      "to": "CUB",
-      "mode": "road",
-      "duration": "~20m",
-      "detail": "Boat: 2nd stop, often Culebrita or Flamenco reef (calm-side choice)."
-    },
-    {
-      "date": "2026-11-10",
-      "from": "CUB",
-      "to": "PDR",
-      "mode": "road",
-      "duration": "~50m",
-      "detail": "Boat back to marina."
-    },
-    {
-      "date": "2026-11-10",
-      "from": "PDR",
-      "to": "LUQ",
-      "mode": "road",
-      "duration": "~35m",
-      "detail": "PR-3 north to base."
-    },
-    {
       "date": "2026-11-11",
       "from": "LUQ",
       "to": "CBA",
       "mode": "road",
       "duration": "~35m",
-      "detail": "PR-3 south to Ceiba terminal. Park in terminal lot (~$8–11/day)."
+      "detail": "PR-3 south to Ceiba. Return car at Avis Ceiba (opens 08:00), short hop to ferry terminal."
     },
     {
       "date": "2026-11-11",
@@ -1063,7 +990,7 @@
       "duration": "~45–75m",
       "detail": "Boat: passenger ferry to Isabel II. $2/leg. Book puertoricoferry.com; window opens 1h before.",
       "choice": {
-        "alt_id": "vieques-fly",
+        "alt_id": "fly-both-ways",
         "chosen": {
           "label": "Ceiba passenger ferry",
           "mode": "road",
@@ -1072,11 +999,11 @@
           "note": "$2/leg until Dec 31, 2026 + Ceiba parking share. Bags no issue. Only ~20% of seats online; window sells rest 1h before. Nov 11 = holiday: busy. Weather/breakdown delays happen."
         },
         "other": {
-          "label": "Fly Ceiba (NRR) or SJU → Vieques (VQS)",
+          "label": "Fly Ceiba (NRR) → Vieques (VQS)",
           "mode": "flight",
-          "door_to_door": "~10m (NRR) / ~25m (SJU) flight + ~1h early",
-          "cost_pp": 150,
-          "note": "Vieques Air Link / Air Flamenco from Ceiba ~$45–80 each way; Cape Air SJU–VQS from ~$99. Bags tight (VAL ~25–30 lb incl. carry-on, $/lb over; Cape Air 1 small free bag). Lands by Esperanza road."
+          "door_to_door": "~10m flight + ~1h early",
+          "cost_pp": 80,
+          "note": "Vieques Air Link / Air Flamenco ~$45–80 one way. Bags tight (VAL ~25–30 lb incl. carry-on, $/lb over). No holiday ferry queue."
         }
       }
     },
@@ -1117,7 +1044,7 @@
           "mode": "road",
           "door_to_door": "~25m from Luquillo",
           "cost_pp": 85,
-          "note": "Moon <1%: darkest night. Mangrove channel paddle, 2nd-brightest. Second bay = repeat; adds late night before Culebra boat."
+          "note": "Moon <1%: darkest night. Mangrove channel paddle, 2nd-brightest. Second bay = repeat; late night before the 08:00 forest gate."
         }
       }
     },
@@ -1164,26 +1091,35 @@
     {
       "date": "2026-11-13",
       "from": "VQE",
-      "to": "VFT",
+      "to": "VQS",
       "mode": "road",
-      "duration": "~20m",
-      "detail": "Jeep back at dock."
+      "duration": "~15m",
+      "detail": "Jeep to Vieques airport; most rentals take it back there."
     },
     {
       "date": "2026-11-13",
-      "from": "VFT",
-      "to": "CBA",
-      "mode": "road",
-      "duration": "~45–75m",
-      "detail": "Boat: ferry back to Ceiba. Pick up car from lot."
-    },
-    {
-      "date": "2026-11-13",
-      "from": "CBA",
+      "from": "VQS",
       "to": "SJU",
-      "mode": "road",
-      "duration": "~1h",
-      "detail": "PR-53 → PR-3/PR-66 (tolls). Return car."
+      "mode": "flight",
+      "duration": "~25m",
+      "detail": "Cape Air (or Vieques Air Link) small plane. Bags by weight: pack light.",
+      "choice": {
+        "alt_id": "ferry-back",
+        "chosen": {
+          "label": "Fly Vieques → SJU",
+          "mode": "flight",
+          "door_to_door": "~15m jeep + ~45m early + 25m flight + 5m taxi",
+          "cost_pp": 110,
+          "note": "Cape Air SJU–VQS from ~$99 each way. Lands next to Isla Verde. Small bags only (1 small free bag; extra by weight)."
+        },
+        "other": {
+          "label": "Ferry to Ceiba + taxi",
+          "mode": "road",
+          "door_to_door": "~20m + ferry 45–75m (+45m wait) + ~1h taxi",
+          "cost_pp": 55,
+          "note": "$2 ferry + taxi Ceiba → Isla Verde ~$90–120/car (unverified). Longer, the day the feedback flagged."
+        }
+      }
     },
     {
       "date": "2026-11-13",
@@ -1191,7 +1127,7 @@
       "to": "IVE",
       "mode": "road",
       "duration": "~5m",
-      "detail": "Taxi/hotel hop."
+      "detail": "Taxi."
     },
     {
       "date": "2026-11-14",
@@ -1214,14 +1150,14 @@
     {
       "place": "OSJ",
       "from": "2026-11-07",
-      "nights": 1,
+      "nights": 2,
       "label": "Old San Juan"
     },
     {
       "place": "LUQ",
-      "from": "2026-11-08",
-      "nights": 3,
-      "label": "El Yunque · Fajardo"
+      "from": "2026-11-09",
+      "nights": 2,
+      "label": "El Yunque · Luquillo"
     },
     {
       "place": "VQE",
@@ -1236,116 +1172,21 @@
       "label": "Isla Verde (SJU)"
     }
   ],
-  "fatigue_check": "Door-to-door travel per day:\n- Nov 7 | 1-stop flight ~9h30 + 20m taxi | long-haul (daytime; sleep early)\n- Nov 8 | 20m taxi + ~50m drive | light\n- Nov 9 | 25m + 25m (El Yunque) | light; early night\n- Nov 10 | 35m drive + ~6h boat day (2× ~50m crossings) + 35m | medium; seated boat, lunch served, back ~15:30\n- Nov 11 | 35m drive + ferry ~45–75m (+45m wait) + 20m jeep; 2h kayak at night | medium (~2h30 travel); siesta\n- Nov 12 | jeep hops 5–25m, ~1h total | light; slow day\n- Nov 13 | 20m jeep + ferry ~45–75m + ~1h drive + 5m | medium (~2h30)\n- Nov 14 | 5m + ~10h flight | long-haul home, same day\n\nRules:\n- **Max ~3h driving/day:** met easily. Longest drive ~1h (Ceiba → SJU).\n- **No back-to-back medium days:** BROKEN once (Nov 10 boat → Nov 11 ferry). Mitigated: Nov 9 easy + early night, Nov 10 back ~15:30, Nov 11 travel done by ~11:00, siesta before kayak.\n- **Slow day mid-trip:** Nov 12 Vieques (short hops, siesta). Want more: keep-luquillo-slow.\n- **Swim stops:** Culebra Nov 10; Esperanza Nov 11; Mosquito Pier + beaches Nov 12.\n- 2 bases + 1-night bookends.\n- Late nights: bio bay Nov 11 only (back ~21:30, slow Nov 12).\n",
+  "fatigue_check": "Door-to-door travel per day:\n- Nov 7 | 1-stop flight ~9h30 + 20m taxi | long-haul (daytime; sleep in next day)\n- Nov 8 | none (walking in Old San Juan) | rest\n- Nov 9 | 20m taxi + car pickup + ~50m drive | light\n- Nov 10 | 25m + 25m (El Yunque) | light\n- Nov 11 | 35m drive + car drop + ferry ~45–75m (+45m wait) + 20m jeep; 2h kayak at night | medium (~2h30 travel); siesta\n- Nov 12 | jeep hops 5–25m, ~1h total | light; slow day\n- Nov 13 | 15m jeep + ~45m early + 25m flight + 5m taxi | light (~1h30)\n- Nov 14 | 5m + ~10h flight | long-haul home, same day\n\nRules:\n- **Max ~3h driving/day:** met easily. Longest drive ~50m.\n- **No back-to-back medium days:** met. Only medium day is Nov 11.\n- **Rest after the flight:** Nov 8, no transport.\n- **Slow day mid-trip:** Nov 12 Vieques.\n- 3 moves in 7 nights (was 4 + a boat day).\n- Late nights: bio bay Nov 11 only (back ~21:30, slow Nov 12).\n",
   "hero_photo": "El_Yunque_National_Forest",
-  "photos": {
-    "OSJ": {
-      "name": "Old San Juan",
-      "wiki": [
-        "Old_San_Juan",
-        "Castillo_San_Felipe_del_Morro",
-        "Castillo_San_Cristóbal_(San_Juan)"
-      ]
-    },
-    "EY": {
-      "name": "El Yunque",
-      "wiki": [
-        "El_Yunque_National_Forest",
-        "Luquillo_Mountains",
-        "Common_coquí",
-        "Puerto_Rican_amazon"
-      ]
-    },
-    "LUQ": {
-      "name": "Luquillo",
-      "wiki": [
-        "Luquillo,_Puerto_Rico",
-        "Río_Grande,_Puerto_Rico"
-      ]
-    },
-    "LGF": {
-      "name": "Laguna Grande bio bay",
-      "wiki": [
-        "Fajardo,_Puerto_Rico",
-        "Pyrodinium_bahamense",
-        "Bioluminescence"
-      ]
-    },
-    "MOS": {
-      "name": "Mosquito Bay",
-      "wiki": [
-        "Puerto_Mosquito",
-        "Pyrodinium_bahamense",
-        "Bioluminescence"
-      ]
-    },
-    "SJU": {
-      "name": "San Juan airport",
-      "wiki": [
-        "Luis_Muñoz_Marín_International_Airport"
-      ]
-    },
-    "TAM": {
-      "name": "Culebra reefs",
-      "wiki": [
-        "Culebra,_Puerto_Rico",
-        "Green_sea_turtle",
-        "Hawksbill_sea_turtle"
-      ]
-    },
-    "CUB": {
-      "name": "Culebrita",
-      "wiki": [
-        "Culebrita",
-        "Green_sea_turtle"
-      ]
-    },
-    "VQE": {
-      "name": "Vieques",
-      "wiki": [
-        "Vieques,_Puerto_Rico",
-        "Puerto_Mosquito",
-        "Blue_Beach_(Vieques)",
-        "Caracas_Beach_(Vieques)"
-      ]
-    },
-    "VNR": {
-      "name": "Vieques refuge",
-      "wiki": [
-        "Caracas_Beach_(Vieques)",
-        "Caribbean_Islands_National_Wildlife_Refuge_Complex",
-        "Blue_Beach_(Vieques)"
-      ]
-    },
-    "FCM": {
-      "name": "Fortín Conde de Mirasol",
-      "wiki": [
-        "Fuerte_de_Vieques",
-        "Vieques,_Puerto_Rico"
-      ]
-    },
-    "IVE": {
-      "name": "Isla Verde",
-      "wiki": [
-        "Carolina,_Puerto_Rico",
-        "Luis_Muñoz_Marín_International_Airport"
-      ]
-    },
-    "CRO": {
-      "name": "Carlos Rosario reef",
-      "wiki": [
-        "Culebra,_Puerto_Rico",
-        "Coral_reef_fish"
-      ]
-    },
-    "FLA": {
-      "name": "Flamenco Beach",
-      "wiki": [
-        "Flamenco_Beach",
-        "Culebra,_Puerto_Rico"
-      ]
-    }
-  },
+  "photos": [
+    "OSJ",
+    "EY",
+    "LUQ",
+    "LGF",
+    "MOS",
+    "SJU",
+    "TAM",
+    "VQE",
+    "VNR",
+    "FCM",
+    "IVE"
+  ],
   "wildlife": [
     {
       "name": "Common coquí",
@@ -1404,25 +1245,25 @@
     {
       "name": "Green sea turtle",
       "wiki": "Green_sea_turtle",
-      "where": "Culebra: Tamarindo, Melones; Vieques: Mosquito Pier, Playa Esperanza seagrass",
-      "odds": "Likely (several chances)"
+      "where": "Vieques: Mosquito Pier, Playa Esperanza seagrass",
+      "odds": "Likely (2–3 chances)"
     },
     {
       "name": "Hawksbill sea turtle",
       "wiki": "Hawksbill_sea_turtle",
-      "where": "Culebra reefs; Vieques reefs",
+      "where": "Vieques reefs; Culebra if added",
       "odds": "Possible"
     },
     {
       "name": "Southern stingray / spotted eagle ray",
       "wiki": "Spotted_eagle_ray",
-      "where": "Culebra sand; Mosquito Pier, Esperanza",
+      "where": "Mosquito Pier, Esperanza",
       "odds": "Possible"
     },
     {
       "name": "Reef fish (parrotfish, blue tang, sergeant majors)",
       "wiki": "Coral_reef_fish",
-      "where": "Culebra reefs; Mosquito Pier",
+      "where": "Mosquito Pier, Playa Esperanza",
       "odds": "Certain"
     },
     {
@@ -1440,7 +1281,7 @@
     {
       "name": "Brown pelican / magnificent frigatebird",
       "wiki": "Magnificent_frigatebird",
-      "where": "Ferry crossing, Esperanza, Culebra",
+      "where": "Ferry crossing, Esperanza",
       "odds": "Very likely"
     }
   ],
