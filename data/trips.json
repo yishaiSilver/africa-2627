@@ -85,6 +85,12 @@
       "file": "data/trips/no-crew-lean.json"
     },
     {
+      "id": "no-crew-slow",
+      "label": "No-crew, fewer moves · Jan 15",
+      "summary": "The lean no-crew loop without Kakamega: 6 Kenya bases instead of 9, ~22h on the road instead of ~32h, 18 nights on the ground. ~$5,596 pp.",
+      "file": "data/trips/no-crew-slow.json"
+    },
+    {
       "id": "tanzania",
       "label": "Istanbul + Tanzania · Jan 12",
       "summary": "Istanbul 3n, then a 6-day northern camping safari (Tarangire, Serengeti ×3, crater) and a 4-day Mikumi + Udzungwa trip from Dar. ~$5,455 pp.",
