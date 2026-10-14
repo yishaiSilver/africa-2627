@@ -301,7 +301,7 @@
       "per_person_usd": 75,
       "low_usd": 0,
       "high_usd": 100,
-      "notes": "$0 if you bring your own BCD/regulator; bring your own mask and computer regardless."
+      "notes": "Renting BCD and regulator at Arborek. Bring your own mask and dive computer."
     },
     {
       "category": "Activities",
@@ -433,12 +433,6 @@
       "cost_delta_per_person_usd": 195
     },
     {
-      "id": "own-gear",
-      "name": "Bring your own dive gear",
-      "description": "Removes the rental line.",
-      "cost_delta_per_person_usd": -75
-    },
-    {
       "id": "arfak",
       "name": "Arfak Mountains instead of 4 Waigeo nights",
       "description": "Montane rainforest above Manokwari: western parotia, Vogelkop bowerbird, magnificent bird-of-paradise from village hides. Adds a Sorong → Manokwari flight and 4WD road. Rough estimate — local rates unconfirmed.",
@@ -485,8 +479,7 @@
   ],
   "practical": "## Entry\n- **Indonesia:** e-Visa on Arrival, IDR 500k (~$32), 30 days. Official site only: evisa.imigrasi.go.id. Passport 6+ months, 2 blank pages.\n- **Raja Ampat:** marine park tag (IDR 700k) + visitor levy (IDR 1M) ≈ IDR 1.7M, cash at Waisai. Carry the tag.\n\n## Money\n- **Cash is everything.** Homestays, dive shops, boats and guides want IDR cash. Withdraw in Sorong; Waisai's ATMs are unreliable and the islands have none.\n\n## Packing\n- **No camping gear needed.** Homestays are simple huts with a mattress and mosquito net, shared bathrooms (often a bucket 'mandi'), generator power in the evening.\n- Your own mask, snorkel, fins and dive computer; a rash guard; reef-safe sunscreen; a dry bag.\n- Binoculars for the birds-of-paradise; a headtorch for night walks; light long sleeves and trousers against mosquitoes; trail shoes that can get wet.\n- Domestic flights allow ~20 kg checked; keep dive gear light.\n\n## Health and safety\n- **Malaria:** CDC lists all of West Papua (incl. Raja Ampat) as a risk area — take prophylaxis (atovaquone-proguanil). Dengue too: DEET or picaridin day and night.\n- **Diving:** strong currents in the Dampier Strait; dive with the local guides and a surface marker. Get dive accident cover — the nearest recompression chamber may be hours away.\n- Medical care on the islands is minimal; evacuation cover is essential.\n- Re-check the State Department's Indonesia advisory (it flags parts of the Papuan highlands, not Raja Ampat) before booking.\n\n## Season\n- Raja Ampat's diving season is roughly October–April; December–January brings showers and some northwest wind, but the Dampier Strait stays diveable.",
   "open_questions": [
-    "Arfak Mountains (more remote montane rainforest) instead of part of Waigeo, for ~$400 more?",
-    "Bring your own BCD and regulator (−$75 rental), or rent at Arborek?"
+    "Arfak Mountains (more remote montane rainforest) instead of part of Waigeo, for ~$400 more?"
   ],
   "sources": [
     "https://flights.ana.co.jp/en-us/flights-from-los-angeles-to-jakarta",

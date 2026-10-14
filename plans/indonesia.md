@@ -160,7 +160,7 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 | Lodging | Saporkren homestay, 6n, full board | $240 | $180–$360 |  |
 | Park fees | Raja Ampat marine park tag + visitor levy | $105 | $60–$110 | IDR 700k tag (valid 1 year) + IDR 1M levy per visit since Jan 2026 ≈ IDR 1.7M. Cash at Waisai. |
 | Diving | 10-dive package, Arborek Dive Shop | $315 | $300–$520 | IDR 5.5M for 10 dives (~$31/dive) on a 2026 price list; single dives IDR 600k. |
-| Diving | Gear rental, 5 days | $75 | $0–$100 | $0 if you bring your own BCD/regulator; bring your own mask and computer regardless. |
+| Diving | Gear rental, 5 days | $75 | $0–$100 | Renting BCD and regulator at Arborek. Bring your own mask and dive computer. |
 | Activities | Piaynemo shared boat day trip | $60 | $40–$100 | Shared with other homestay guests; private boats cost far more. |
 | Activities | Waigeo bird-of-paradise packages, 2 days (red + Wilson's) | $140 | $100–$190 | Local birding packages ~IDR 1–1.5M pp/day incl. guide, transport and landowner payments. |
 | Activities | Village-guided forest treks, Kali Biru, 2 night walks | $80 | $50–$120 | Village guide ~IDR 300–500k per group per day; Kali Biru entry/transport small. |
@@ -181,7 +181,6 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 ## Options & swaps
 
 - **6 more dives** (+$195 pp): Swap the Piaynemo day and an afternoon for dives (~IDR 3.45M package).
-- **Bring your own dive gear** (−$75 pp): Removes the rental line.
 - **Arfak Mountains instead of 4 Waigeo nights** (+$400 pp): Montane rainforest above Manokwari: western parotia, Vogelkop bowerbird, magnificent bird-of-paradise from village hides. Adds a Sorong → Manokwari flight and 4WD road. Rough estimate — local rates unconfirmed.
 - **Add 3 days of orangutans in Tanjung Puting (Borneo)** (+$650 pp): Klotok houseboat from Pangkalan Bun (~$395 pp for two) plus two domestic flights and a Jakarta night. Trip 3 days longer.
 - **Skip the Piaynemo day** (−$60 pp): Snorkel and rest at Arborek instead.
@@ -222,7 +221,6 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 ## Open questions
 
 1. Arfak Mountains (more remote montane rainforest) instead of part of Waigeo, for ~$400 more?
-2. Bring your own BCD and regulator (−$75 rental), or rent at Arborek?
 
 ## Sources
 
