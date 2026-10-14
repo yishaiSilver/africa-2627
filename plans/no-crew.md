@@ -278,6 +278,7 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 - Türkiye is visa-free for US tourists.
 
 ## Packing
+- **No camping gear needed.** Every night is a room, a guesthouse, a banda (cabin) or a permanent tented camp with real beds and a bathroom.
 - **One bag each you can carry and lift onto a roof rack.** About eight matatu legs, and Safarilink's ~15 kg soft-bag limit on the Mara flight; no wheeled cases.
 - Ventilated low hikers plus **short gaiters**. In persistent wet, drainage beats waterproofing — a soaked membrane boot takes days to dry and there's no way to force-dry anything at Kakamega. The gaiters matter more than the boots: forest mud, and grass seeds in the Mara.
 - **Headtorch and two power banks.** Power at Blue Shouldered is a generator, roughly 19:00–22:30 only.
