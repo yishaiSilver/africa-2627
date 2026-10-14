@@ -11,7 +11,7 @@
 - **Route:** Jakarta 1n → Sorong 1n → **Arborek 7n** (10 dives, mantas, Piaynemo) → **Waigeo 6n** (birds-of-paradise, interior treks, night walks, Kali Biru) → Jakarta 1n.
 - **Why Raja Ampat:** the Dampier Strait has the highest reef-fish and coral diversity recorded anywhere; Waigeo's interior is unlogged lowland rainforest with two birds-of-paradise found nowhere else. Few visitors, village homestays, no resorts needed.
 - **Season:** October–April is the good diving season here. Expect warm showers and some wind; diving runs year-round in the strait.
-- **Assumes you're a certified diver.** An Open Water course is an option (+~$500).
+- **Diving:** you're Advanced Open Water, so the Dampier Strait's current sites and deeper pinnacles (to 30 m) are open to you.
 - **Budget: ~$3,460 pp**, under the $3.5k target, including ~5% contingency.
 
 ## Travel legs
@@ -180,7 +180,6 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 
 ## Options & swaps
 
-- **PADI Open Water course in Raja Ampat** (+$500 pp): ~€580 for the course, replacing the first 4 fun dives. Do it on Dec 30–Jan 1.
 - **6 more dives** (+$195 pp): Swap the Piaynemo day and an afternoon for dives (~IDR 3.45M package).
 - **Bring your own dive gear** (−$75 pp): Removes the rental line.
 - **Arfak Mountains instead of 4 Waigeo nights** (+$400 pp): Montane rainforest above Manokwari: western parotia, Vogelkop bowerbird, magnificent bird-of-paradise from village hides. Adds a Sorong → Manokwari flight and 4WD road. Rough estimate — local rates unconfirmed.
@@ -222,9 +221,8 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 
 ## Open questions
 
-1. Are you both certified divers? If not, the Open Water course option adds ~$500.
-2. Arfak Mountains (more remote montane rainforest) instead of part of Waigeo, for ~$400 more?
-3. Are the dates fixed to Dec 26, or could this run earlier in December?
+1. Arfak Mountains (more remote montane rainforest) instead of part of Waigeo, for ~$400 more?
+2. Bring your own BCD and regulator (−$75 rental), or rent at Arborek?
 
 ## Sources
 

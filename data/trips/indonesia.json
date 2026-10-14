@@ -3,7 +3,7 @@
   "label": "Indonesia: reefs + rainforest · Jan 12",
   "title": "Raja Ampat, West Papua: a week diving the world's richest reefs, a week in Waigeo's rainforest",
   "summary": "7 nights diving and snorkelling from a village homestay on Arborek, then 6 nights in Waigeo's primary rainforest (birds-of-paradise, night walks, the blue river). ~$3,460 pp.",
-  "overview": "- **What this is:** a cheaper, wilder alternative to the Africa trips, split evenly between reef and rainforest in Raja Ampat, West Papua.\n- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 16 nights on the ground (plus 1 on a plane).\n- **Route:** Jakarta 1n → Sorong 1n → **Arborek 7n** (10 dives, mantas, Piaynemo) → **Waigeo 6n** (birds-of-paradise, interior treks, night walks, Kali Biru) → Jakarta 1n.\n- **Why Raja Ampat:** the Dampier Strait has the highest reef-fish and coral diversity recorded anywhere; Waigeo's interior is unlogged lowland rainforest with two birds-of-paradise found nowhere else. Few visitors, village homestays, no resorts needed.\n- **Season:** October–April is the good diving season here. Expect warm showers and some wind; diving runs year-round in the strait.\n- **Assumes you're a certified diver.** An Open Water course is an option (+~$500).\n- **Budget: ~$3,460 pp**, under the $3.5k target, including ~5% contingency.",
+  "overview": "- **What this is:** a cheaper, wilder alternative to the Africa trips, split evenly between reef and rainforest in Raja Ampat, West Papua.\n- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 16 nights on the ground (plus 1 on a plane).\n- **Route:** Jakarta 1n → Sorong 1n → **Arborek 7n** (10 dives, mantas, Piaynemo) → **Waigeo 6n** (birds-of-paradise, interior treks, night walks, Kali Biru) → Jakarta 1n.\n- **Why Raja Ampat:** the Dampier Strait has the highest reef-fish and coral diversity recorded anywhere; Waigeo's interior is unlogged lowland rainforest with two birds-of-paradise found nowhere else. Few visitors, village homestays, no resorts needed.\n- **Season:** October–April is the good diving season here. Expect warm showers and some wind; diving runs year-round in the strait.\n- **Diving:** you're Advanced Open Water, so the Dampier Strait's current sites and deeper pinnacles (to 30 m) are open to you.\n- **Budget: ~$3,460 pp**, under the $3.5k target, including ~5% contingency.",
   "dates": {
     "depart": "2026-12-26",
     "return": "2027-01-12"
@@ -427,12 +427,6 @@
   "budget_total_per_person_usd": 3460,
   "alternatives": [
     {
-      "id": "open-water",
-      "name": "PADI Open Water course in Raja Ampat",
-      "description": "~€580 for the course, replacing the first 4 fun dives. Do it on Dec 30–Jan 1.",
-      "cost_delta_per_person_usd": 500
-    },
-    {
       "id": "more-dives",
       "name": "6 more dives",
       "description": "Swap the Piaynemo day and an afternoon for dives (~IDR 3.45M package).",
@@ -491,9 +485,8 @@
   ],
   "practical": "## Entry\n- **Indonesia:** e-Visa on Arrival, IDR 500k (~$32), 30 days. Official site only: evisa.imigrasi.go.id. Passport 6+ months, 2 blank pages.\n- **Raja Ampat:** marine park tag (IDR 700k) + visitor levy (IDR 1M) ≈ IDR 1.7M, cash at Waisai. Carry the tag.\n\n## Money\n- **Cash is everything.** Homestays, dive shops, boats and guides want IDR cash. Withdraw in Sorong; Waisai's ATMs are unreliable and the islands have none.\n\n## Packing\n- **No camping gear needed.** Homestays are simple huts with a mattress and mosquito net, shared bathrooms (often a bucket 'mandi'), generator power in the evening.\n- Your own mask, snorkel, fins and dive computer; a rash guard; reef-safe sunscreen; a dry bag.\n- Binoculars for the birds-of-paradise; a headtorch for night walks; light long sleeves and trousers against mosquitoes; trail shoes that can get wet.\n- Domestic flights allow ~20 kg checked; keep dive gear light.\n\n## Health and safety\n- **Malaria:** CDC lists all of West Papua (incl. Raja Ampat) as a risk area — take prophylaxis (atovaquone-proguanil). Dengue too: DEET or picaridin day and night.\n- **Diving:** strong currents in the Dampier Strait; dive with the local guides and a surface marker. Get dive accident cover — the nearest recompression chamber may be hours away.\n- Medical care on the islands is minimal; evacuation cover is essential.\n- Re-check the State Department's Indonesia advisory (it flags parts of the Papuan highlands, not Raja Ampat) before booking.\n\n## Season\n- Raja Ampat's diving season is roughly October–April; December–January brings showers and some northwest wind, but the Dampier Strait stays diveable.",
   "open_questions": [
-    "Are you both certified divers? If not, the Open Water course option adds ~$500.",
     "Arfak Mountains (more remote montane rainforest) instead of part of Waigeo, for ~$400 more?",
-    "Are the dates fixed to Dec 26, or could this run earlier in December?"
+    "Bring your own BCD and regulator (−$75 rental), or rent at Arborek?"
   ],
   "sources": [
     "https://flights.ana.co.jp/en-us/flights-from-los-angeles-to-jakarta",
