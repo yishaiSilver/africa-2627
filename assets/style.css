@@ -305,8 +305,12 @@ main section { padding: 40px 0 8px; }
 .tabs a.tab-compare { border-style: dashed; flex: none; }
 .tabs { align-items: center; flex: 1; min-width: 0; gap: 10px; }
 .trip-select { font: inherit; font-size: .9rem; font-weight: 600; color: #2a1d13; background: #f3e6d6; border: 0; border-radius: 999px; padding: 6px 12px; max-width: 100%; flex: none; cursor: pointer; }
-.trip-sum { font-size: .8rem; opacity: .75; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; flex: 1; }
-@media (max-width: 640px) { .trip-sum, .tabs-label { display: none; } .trip-select { flex: 1 1 0; width: 0; min-width: 0; } }
+.tabs a.tab-compare { margin-left: auto; }
+/* The open list is drawn by the OS; force a light scheme so its highlight contrasts with the text. */
+.trip-select { color-scheme: light; }
+.trip-select option { background: #fff; color: #1b140e; font-weight: 500; }
+.trip-select option:checked { background: #2a1d13; color: #fff; }
+@media (max-width: 640px) { .tabs-label { display: none; } .trip-select { flex: 1 1 0; width: 0; min-width: 0; } }
 body.compare-mode main > section:not(#compare), body.compare-mode .toc, body.compare-mode #stats { display: none; }
 .compare { padding-top: 24px; }
 .cmp-pick { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
