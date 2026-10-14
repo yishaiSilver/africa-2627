@@ -1,10 +1,10 @@
 # Counter-review: the fact-check of the $5.5k no-crew loop
 
-What this checks: the fact-check (`no-crew-fixed`, $6,136 pp) of Andrew's no-crew loop (`no-crew` as first priced, $5,447 pp),
-and the merged plan now in `no-crew` ($5,845 pp). Questions asked: which of the fact-check's added costs aren't needed,
+What this checks: the fact-check ($6,136 pp; its trip file was removed, see git history at `df3e715`) of Andrew's no-crew loop (as first priced, $5,447 pp),
+and the merged plan that followed ($5,845 pp). Questions asked: which of the fact-check's added costs aren't needed,
 and what else can be cut without changing the route, the Naboisho camp or the parks.
 
-Result: the lean version is in [`no-crew-lean`](../plans/no-crew-lean.md) at **$5,579 pp** (−$266 vs `no-crew`).
+Result: the cuts below are now the [`no-crew`](../plans/no-crew.md) plan, at **$5,579 pp** (−$266 vs the $5,845 merged plan).
 Taking the one-night Ol Pejeta option brings it to about **$5,440**.
 
 ## The fact-check's additions, line by line
@@ -26,7 +26,7 @@ Taking the one-night Ol Pejeta option brings it to about **$5,440**.
 
 So most of the extra $689 is real. Almost all of it is the Mara ($460), and that number is correct.
 
-## Additional cuts (applied in `no-crew-lean`)
+## Additional cuts (applied in `no-crew`)
 
 1. **Insurance: medical + evacuation plan instead of comprehensive (−$150).** Most of a comprehensive premium pays for
    trip-cancellation cover. Ordinary cancellation cover doesn't pay out if you cancel out of fear of Ebola; only
