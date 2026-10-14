@@ -2,17 +2,17 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=indonesia
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-16 · **Planned cost:** $4,423 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-16 · **Planned cost:** $4,370 per person
 
 ## Overview
 
 - **Built around reptiles, amphibians, mammals and fish** (birds are a bonus): apes and monkeys in Borneo, primates and marsupials in Sulawesi, critters and big reef fish underwater, night walks for cuscus, frogs and snakes on Waigeo.
 - **Dates:** LAX Sat Dec 26 → LAX Sat Jan 16. 20 nights on the ground (plus 1 on a plane).
-- **Route:** Jakarta 1n → **Tanjung Puting 2n** (houseboat) → Jakarta 1n → **Tangkoko 2n** → **Lembeh Strait 3n** (6 muck dives) → ✈ direct to Sorong 1n → **Arborek 6n** (10 dives, mantas) → **Waigeo 3n** (treks, two night walks, Kali Biru) → Jakarta 1n.
-- **Borneo:** three days on a private klotok up the Sekonyer River: orangutans at Camp Leakey, proboscis monkeys roosting along the river at dusk, gibbons calling, crocodiles by spotlight.
-- **Two kinds of diving:** Lembeh is the world capital of muck diving (frogfish, mimic octopus, flamboyant cuttlefish, mandarinfish). The Dampier Strait has the highest reef-fish and coral diversity recorded anywhere (mantas, sharks, big schools). You're Advanced Open Water, so the current sites and deeper pinnacles are open to you.
-- **To fit Jan 16,** the Piaynemo viewpoint day was dropped rather than any dives (16 dives in total).
-- **Budget: ~$4,423 pp**, including ~5% contingency.
+- **Route:** Jakarta 1n → **Tanjung Puting 3n** (houseboat) → Jakarta 1n → **Tangkoko 3n** → **Lembeh 1n** (3 muck dives) → ✈ direct to Sorong 1n → **Arborek 6n** (10 dives, mantas) → **Waigeo 3n** (treks, two night walks, Kali Biru) → Jakarta 1n.
+- **Borneo:** four days on a private klotok up the Sekonyer River: orangutans at Camp Leakey, a full day trekking deeper into the forest, proboscis monkeys roosting along the river at dusk, gibbons calling, crocodiles by spotlight.
+- **Two kinds of diving:** One day at Lembeh, the world capital of muck diving: frogfish, mimic octopus, flamboyant cuttlefish, mandarinfish. The Dampier Strait has the highest reef-fish and coral diversity recorded anywhere (mantas, sharks, big schools). You're Advanced Open Water, so the current sites and deeper pinnacles are open to you.
+- **To fit Jan 16,** the Piaynemo viewpoint day was dropped, and Lembeh trimmed to one dive day (13 dives in total). The freed days went to Borneo and a third Tangkoko night.
+- **Budget: ~$4,370 pp**, including ~5% contingency.
 
 ## Travel legs
 
@@ -21,11 +21,11 @@
 | 2026-12-26 | Los Angeles (LAX) → Jakarta (CGK) | flight | ~22–24h | One stop (Tokyo, Taipei or Seoul); lands Dec 27 evening |
 | 2026-12-28 | Jakarta (CGK) → Pangkalan Bun / Kumai | flight | ~1h20 | Early flight |
 | 2026-12-28 | Pangkalan Bun / Kumai → Tanjung Puting NP (Camp Leakey) | boat | ~3h | Klotok up the Sekonyer River from Kumai, game-viewing on the way |
-| 2026-12-30 | Tanjung Puting NP (Camp Leakey) → Pangkalan Bun / Kumai | boat | ~3h | Downriver to Kumai |
-| 2026-12-30 | Pangkalan Bun / Kumai → Jakarta (CGK) | flight | ~1h20 | Afternoon flight |
-| 2026-12-31 | Jakarta (CGK) → Manado | flight | ~3.5h | Morning flight; Manado is UTC+8 |
-| 2026-12-31 | Manado → Tangkoko Nature Reserve | road | ~2h | Car to Batuputih |
-| 2027-01-02 | Tangkoko Nature Reserve → Lembeh Strait | road | ~1.5h | Car to Bitung, short boat to the resort |
+| 2026-12-31 | Tanjung Puting NP (Camp Leakey) → Pangkalan Bun / Kumai | boat | ~3h | Downriver to Kumai |
+| 2026-12-31 | Pangkalan Bun / Kumai → Jakarta (CGK) | flight | ~1h20 | Afternoon flight |
+| 2027-01-01 | Jakarta (CGK) → Manado | flight | ~3.5h | Morning flight; Manado is UTC+8 |
+| 2027-01-01 | Manado → Tangkoko Nature Reserve | road | ~2h | Car to Batuputih |
+| 2027-01-04 | Tangkoko Nature Reserve → Lembeh Strait | road | ~1.5h | Car to Bitung, short boat to the resort |
 | 2027-01-05 | Lembeh Strait → Manado | road | ~1.5h | Car to Manado airport |
 | 2027-01-05 | Manado → Sorong | flight | ~1h25 | Direct; Sorong is UTC+9 |
 | 2027-01-06 | Sorong → Waisai | boat | ~2h | 09:00 fast ferry |
@@ -62,45 +62,45 @@ Morning at Pondok Tanggui, then upriver to Camp Leakey, the research camp Birut�
 
 *Overnight:* Klotok houseboat, Tanjung Puting · *Meals:* B, L, D on board
 
-### Wed Dec 30 — Last forest walk, back to Jakarta (Tanjung Puting → Pangkalan Bun → Jakarta)
+### Wed Dec 30 — A full day deeper in the forest (Tanjung Puting National Park)
 
-Dawn on the river: proboscis monkeys and hornbills. A short jungle walk, then downriver to Kumai by midday. Afternoon flight Pangkalan Bun → Jakarta. Airport hotel.
+Zero transfer. A longer guided trek from Camp Leakey into the peat-swamp and heath forest, where you're more likely to meet wild (not just feeding-station) orangutans, gibbons and pig-tailed macaques. Back on the river at dusk for proboscis monkeys. Ask your operator about a guided night walk; some boats stop at the Pondok Ambung research station for one (frogs, spiders, sleeping birds; tarsiers and slow lorises are rare).
+
+*Overnight:* Klotok houseboat, Tanjung Puting · *Meals:* B, L, D on board
+
+### Thu Dec 31 — Last forest walk, back to Jakarta (Tanjung Puting → Pangkalan Bun → Jakarta)
+
+Dawn on the river: proboscis monkeys and hornbills. A short jungle walk, then downriver to Kumai by midday. Afternoon flight Pangkalan Bun → Jakarta. Airport hotel. New Year's Eve at the airport hotel.
 
 *Overnight:* Jakarta airport hotel · *Meals:* B, L on board; D own
 
-### Thu Dec 31 — To North Sulawesi; tarsiers at dusk (Jakarta → Manado → Tangkoko)
+### Fri Jan 01 — To North Sulawesi; tarsiers at dusk (Jakarta → Manado → Tangkoko)
 
-Morning flight CGK → Manado (~3.5h; Manado is 1h ahead). Car to Batuputih at the edge of Tangkoko reserve (~2h). At dusk, a ranger takes you to a strangler fig where a family of spectral tarsiers — fist-sized primates with enormous eyes — wake up and leap off to hunt insects. New Year's Eve in Batuputih.
+Morning flight CGK → Manado (~3.5h; Manado is 1h ahead). Car to Batuputih at the edge of Tangkoko reserve (~2h). At dusk, a ranger takes you to a strangler fig where a family of spectral tarsiers — fist-sized primates with enormous eyes — wake up and leap off to hunt insects.
 
 *Overnight:* Batuputih homestay, Tangkoko (full board) · *Meals:* D homestay
 
-### Fri Jan 01 — Macaques, cuscus and a night walk (Tangkoko Nature Reserve)
+### Sat Jan 02 — Macaques, cuscus and a night walk (Tangkoko Nature Reserve)
 
 Dawn walk with a ranger: troops of crested black macaques (critically endangered, unafraid of people) foraging on the forest floor, bear cuscus and Sulawesi dwarf cuscus in the canopy, flying lizards gliding between trunks. Rest through midday. Night walk: hunting tarsiers, Sulawesi pit vipers, frogs, sleeping birds and civets if lucky.
 
 *Overnight:* Batuputih homestay, Tangkoko (full board) · *Meals:* B, L, D homestay
 
-### Sat Jan 02 — Second dawn walk, then into the muck (Tangkoko → Lembeh Strait)
+### Sun Jan 03 — Third Tangkoko day: second chances (Tangkoko Nature Reserve)
 
-Second dawn walk for anything missed. Car to Bitung (~1.5h) and boat to a Lembeh dive resort. One afternoon dive to settle in on black volcanic sand.
+Dawn walk with the ranger for whatever you missed, often the dwarf cuscus or the bear cuscus in better light. Late afternoon along the Batuputih shore and mangroves for monitor lizards, kingfishers and hornbills. Third night walk on a different trail: pit vipers, frogs, hunting tarsiers.
 
-*Overnight:* Budget dive resort, Lembeh Strait (full board) · *Meals:* B; L, D resort
+*Overnight:* Batuputih homestay, Tangkoko (full board) · *Meals:* B, L, D homestay
 
-### Sun Jan 03 — Muck diving: three dives (Lembeh Strait (diving))
+### Mon Jan 04 — One day of muck diving (Tangkoko → Lembeh Strait)
 
-Two day dives on Lembeh's black sand and rubble — frogfish, mimic and wonderpus octopus, flamboyant cuttlefish, ghost pipefish, pygmy seahorses, nudibranchs by the dozen — and a dusk dive for mating mandarinfish.
+Car to Bitung (~1.5h) after breakfast and boat to a Lembeh dive resort by late morning. Two afternoon muck dives on black volcanic sand (frogfish, mimic and wonderpus octopus, flamboyant cuttlefish, ghost pipefish, pygmy seahorses), then the dusk dive for mating mandarinfish.
 
-*Overnight:* Budget dive resort, Lembeh Strait (full board) · *Meals:* B, L, D resort
-
-### Mon Jan 04 — Two last muck dives (Lembeh Strait (diving))
-
-Two morning dives, then out of the water by midday to leave ~22h before tomorrow's flight. Afternoon off.
-
-*Overnight:* Budget dive resort, Lembeh Strait (full board) · *Meals:* B, L, D resort
+*Overnight:* Budget dive resort, Lembeh Strait (full board) · *Meals:* L, D resort
 
 ### Tue Jan 05 — Fly to West Papua (Lembeh → Manado → Sorong)
 
-Car to Manado airport (~1.5h). Direct flight Manado → Sorong (~1h25; Sorong is 1h ahead again). Buy all the cash (IDR) you'll need in Raja Ampat here — the islands have no reliable ATMs.
+Slow morning, no diving: you need ~18h between the dusk dive and the flight. Car to Manado airport (~1.5h). Afternoon direct flight Manado → Sorong (~1h25; Sorong is 1h ahead). Book one leaving after ~13:00. Buy all the cash (IDR) you'll need in Raja Ampat in Sorong; the islands have no reliable ATMs.
 
 *Overnight:* Sorong hotel · *Meals:* B resort; L, D own
 
@@ -174,10 +174,10 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Airport hotel, Jakarta (CGK) | Jakarta | 3 | $30 | ~$60/room. Dec 27, Dec 30 and Jan 15. |
-| Private klotok houseboat, Tanjung Puting | Sekonyer River, Central Kalimantan | 2 | $0 | Covered by the klotok trip price (budget line): boat, crew, guide, cook, meals, park fees. Mattresses on deck under mosquito nets. |
-| Batuputih homestay, Tangkoko | Batuputih, North Sulawesi | 2 | $30 | Simple rooms a short walk from the reserve gate; meals included. |
-| Budget dive resort, Lembeh Strait (e.g. Two Fish Lembeh) | Lembeh Strait, Bitung | 3 | $40 | ~IDR 630k pp/night full board (undated budget listing). Boat to the dive sites from the jetty. |
+| Airport hotel, Jakarta (CGK) | Jakarta | 3 | $30 | ~$60/room. Dec 27, Dec 31 and Jan 15. |
+| Private klotok houseboat, Tanjung Puting | Sekonyer River, Central Kalimantan | 3 | $0 | Covered by the klotok trip price (budget line): boat, crew, guide, cook, meals, park fees. Mattresses on deck under mosquito nets. |
+| Batuputih homestay, Tangkoko | Batuputih, North Sulawesi | 3 | $30 | Simple rooms a short walk from the reserve gate; meals included. |
+| Budget dive resort, Lembeh Strait (e.g. Two Fish Lembeh) | Lembeh Strait, Bitung | 1 | $40 | ~IDR 630k pp/night full board (undated budget listing). Boat to the dive sites from the jetty. |
 | Budget hotel, Sorong | Sorong, Southwest Papua | 1 | $25 | ~$50/room. Jan 5. |
 | Arborek village homestay | Arborek, Dampier Strait | 6 | $40 | ~IDR 600–700k pp/night with three meals. Simple hut on the water, mosquito net, shared bathroom, generator power in the evening. |
 | Saporkren homestay, Waigeo | Saporkren, Waigeo | 3 | $40 | ~IDR 600–700k pp/night with three meals; basic. |
@@ -192,20 +192,20 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 | Domestic flights | Manado → Sorong (direct) | $80 | $60–$130 | ~1h25, Lion group / TransNusa; aggregators list from ~$60–80. |
 | Domestic flights | Sorong → Jakarta | $130 | $90–$200 | ~4h. |
 | Lodging | Jakarta airport hotel, 3n | $90 | $60–$150 |  |
-| Lodging | Tanjung Puting klotok, 3 days / 2 nights, private for two | $395 | $395–$840 | Ocean Earth Travels lists $395 pp for two (standard klotok; boat, crew, guide, cook, meals). Confirm park fees and the Kumai transfers are included. |
-| Lodging | Tangkoko (Batuputih) homestay, 2n, full board | $60 | $40–$100 |  |
-| Lodging | Lembeh budget dive resort, 3n, full board | $120 | $110–$450 | High end is Lembeh Resort. |
+| Lodging | Tanjung Puting klotok, 4 days / 3 nights, private for two | $510 | $500–$1,000 | Ocean Earth Travels lists ~$510 pp for two on a standard klotok (boat, crew, guide, cook, meals); deluxe boats ~$805+. Confirm park fees and Kumai transfers are included. |
+| Lodging | Tangkoko (Batuputih) homestay, 3n, full board | $90 | $60–$150 |  |
+| Lodging | Lembeh budget dive resort, 1n, full board | $40 | $35–$150 | High end is Lembeh Resort. |
 | Lodging | Sorong hotel, 1n | $25 | $20–$50 |  |
 | Lodging | Arborek homestay, 6n, full board | $240 | $180–$360 | Stay Raja Ampat lists twin share from ~IDR 590–650k pp/night with meals. |
 | Lodging | Saporkren homestay, 3n, full board | $120 | $90–$180 |  |
 | Park fees | Raja Ampat marine park tag + visitor levy | $105 | $60–$110 | IDR 700k tag (valid 1 year) + IDR 1M levy per visit since Jan 2026 ≈ IDR 1.7M. Cash at Waisai. |
-| Park fees | Tangkoko entry + ranger-guided walks (dusk, dawn ×2, night) | $45 | $35–$80 | Entry ~IDR 100k pp per day; guides ~IDR 100–200k pp per walk (Wikivoyage). |
+| Park fees | Tangkoko entry + ranger-guided walks (dusk, dawn ×3, night ×3) | $70 | $50–$110 | Entry ~IDR 100k pp per day; guides ~IDR 100–200k pp per walk (Wikivoyage). |
 | Park fees | Lembeh park entry | $7 | $4–$10 | ~IDR 100k cash on site. |
 | Park fees | Tanjung Puting park fees | $0 | $0–$30 | Usually included in klotok packages; confirm. |
 | Diving | Raja Ampat: 10-dive package, Arborek Dive Shop | $315 | $300–$520 | IDR 5.5M for 10 dives (~$31/dive) on a 2026 price list. |
 | Diving | Raja Ampat: gear rental (BCD + reg), 5 days | $75 | $50–$100 | Bring your own mask and dive computer. |
-| Diving | Lembeh: 6 dives incl. a dusk mandarinfish dive | $240 | $190–$360 | Budget operators ~$35–45 per dive; upscale Lembeh Resort lists €57 (€77 night/mandarin). |
-| Diving | Lembeh: gear rental, 3 days | $45 | $30–$60 |  |
+| Diving | Lembeh: 3 dives (2 muck + dusk mandarinfish) | $125 | $95–$185 | Budget operators ~$35–45 per dive; upscale Lembeh Resort lists €57 (€77 night/mandarin). |
+| Diving | Lembeh: gear rental, 1 day | $15 | $10–$20 |  |
 | Activities | Waigeo: village-guided treks, Kali Biru, 2 night walks | $70 | $45–$110 | Village guide ~IDR 300–500k per group per day. |
 | Transport | Cars: Manado airport → Tangkoko → Bitung/Lembeh → Manado airport | $70 | $50–$100 | ~$40–50 per car per leg, split two ways. |
 | Transport | Sorong ⇄ Waisai fast ferry | $35 | $25–$45 |  |
@@ -213,19 +213,19 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 | Transport | Airport taxis, Jakarta and Sorong | $30 | $20–$50 |  |
 | Meals | Food outside full board (travel days) | $90 | $60–$140 |  |
 | Tips | Dive guides and boat crews (Lembeh, Arborek); rangers and village guides | $70 | $45–$110 | Cash IDR. |
-| Tips | Klotok crew, guide and cook | $25 | $15–$40 |  |
+| Tips | Klotok crew, guide and cook | $30 | $15–$40 |  |
 | Health and insurance | Travel medical + evacuation plan | $90 | $60–$250 | Remote islands: make sure evacuation is covered (≥$250k). |
 | Health and insurance | Dive accident cover (e.g. DAN) | $50 | $40–$110 | Most travel plans exclude or cap scuba; the nearest recompression chamber may be hours away — confirm before going. |
 | Health and insurance | Malaria prophylaxis and travel clinic | $60 | $45–$200 | CDC: all of West Papua has malaria; rural Kalimantan and Sulawesi are risk areas too. Atovaquone-proguanil. |
 | Admin | Indonesia e-Visa on Arrival | $35 | $32–$40 | IDR 500k, 30 days. Official site only: evisa.imigrasi.go.id; free All Indonesia arrival card. |
 | Admin | eSIM / Telkomsel SIM | $15 | $8–$25 | Telkomsel has the best coverage in Papua. |
 | Admin | Laundry, sundries | $50 | $25–$150 |  |
-| Contingency | ~5%, held until bookings are confirmed | $211 | $169–$422 | Fuel-price boat surcharges, fee changes, FX. |
-| **Total** | | **$4,423** | | ≈ $8,846 for two |
+| Contingency | ~5%, held until bookings are confirmed | $208 | $166–$416 | Fuel-price boat surcharges, fee changes, FX. |
+| **Total** | | **$4,370** | | ≈ $8,740 for two |
 
 ## Options & swaps
 
-- **3 more Lembeh dives** (+$170 pp): Add a fourth Lembeh night with a full dive day (incl. a night dive for bobtail squid and octopus).
+- **Second Lembeh dive day** (+$165 pp): 3 more muck dives and a night (needs a day from Tangkoko or Waigeo to stay within Jan 16).
 - **6 more Raja Ampat dives** (+$195 pp): Swap the Piaynemo day and an afternoon for dives (~IDR 3.45M package).
 - **Dawn red bird-of-paradise on Waigeo** (+$70 pp): The steep ~40-min climb to the display tree with a local birding guide.
 - **Piaynemo instead of the last Raja Ampat dive day** (+$0 pp): The karst viewpoint and lagoon snorkel in place of 2 dives (about cost-neutral).
@@ -234,8 +234,8 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 ## Booking timeline
 
 - **Now (Oct 13–20):** Price LAX ⇄ CGK for Dec 26 / Jan 16 (ANA, EVA, Korean, Starlux), plus CGK ⇄ Pangkalan Bun, CGK → Manado, Manado → Sorong and Sorong → CGK. Book domestic flights on the airline sites or Traveloka.
-- **By Oct 31:** Book a private 3D2N klotok for Dec 28–30 (Ocean Earth Travels or similar): confirm park fees, Kumai transfers and that the Dec 28 flight arrival works with the boat's start.
-- **By Nov 1:** Book a Lembeh budget dive resort for Jan 2–4 with 6 dives incl. a dusk mandarinfish dive; ask them to arrange the Tangkoko homestay (Dec 31–Jan 1), rangers and the cars from Manado.
+- **By Oct 31:** Book a private 4D3N klotok for Dec 28–31 (Ocean Earth Travels or similar): confirm park fees, Kumai transfers and that the Dec 28 flight arrival works with the boat's start.
+- **By Nov 1:** Book a Lembeh budget dive resort for Jan 4 with 3 dives (2 muck + dusk mandarinfish); ask them to arrange the Tangkoko homestay (Jan 1–3), rangers and the cars from Manado. Book an afternoon Manado → Sorong flight on Jan 5.
 - **By Nov 1:** WhatsApp Arborek Dive Shop and an Arborek homestay for Jan 6–12; confirm the 10-dive package, gear sizes and boat pickup from Waisai.
 - **By Nov 1:** Book a Saporkren homestay for Jan 12–15; ask for a guide who does night walks and the Kali Biru trek.
 - **By Nov 15:** Buy travel medical insurance with evacuation, and dive accident cover (e.g. DAN). Travel clinic: malaria prophylaxis, routine vaccines (Hep A, typhoid).
@@ -267,7 +267,7 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 ## Season
 - Raja Ampat's diving season is roughly October–April; December–January brings showers and some northwest wind, but the Dampier Strait stays diveable.
 - North Sulawesi is in its wet season (Dec–Jan): expect rain at Tangkoko; Lembeh diving runs year-round.
-- Flying after diving: the plan leaves ~22h after the last Lembeh dive (Jan 4) and 4 days after the last Raja Ampat dive (Jan 11).
+- Flying after diving: the dusk dive on Jan 4 ends ~18:30, so the Jan 5 Manado → Sorong flight should leave after ~13:00 (18h+). If only a morning flight runs, skip the dusk dive. The last Raja Ampat dive (Jan 11) is 4 days before flying.
 - Central Kalimantan is wet in Dec–Jan too; the klotok has a roof, and the river trips run year-round.
 
 ## Open questions
@@ -297,3 +297,4 @@ CGK → LAX with one stop; the date line gives the day back, so you land the sam
 - https://www.mammalwatching.com/wp-content/uploads/JR-West-Papua-Mammal-Trip-Report-2022.pdf
 - https://www.vacationindonesiatours.com/wp-content/uploads/2023/04/trip-report-16-21-april-2023-janet-bair-vit.pdf
 - https://www.skyscanner.com/routes/cgki/pkn/jakarta-to-pangkalanbuun.html
+- https://www.oceanearthtravels.com/tour-packages/orangutan-tour-in-tanjung-puting-borneo/
