@@ -69,14 +69,14 @@
     {
       "id": "no-crew",
       "label": "Independent loop · Jan 16",
-      "summary": "Istanbul 3n, then a Kenya loop on public transport with Naboisho conservancy 2n. Fact-checked. ~$5,845 pp.",
+      "summary": "Istanbul 3n, then a Kenya loop on public transport with Naboisho conservancy 2n. Fact-checked, then counter-reviewed (reviews/no-crew-counter-review.md). ~$5,579 pp.",
       "file": "data/trips/no-crew.json"
     },
     {
-      "id": "no-crew-fixed",
-      "label": "No-crew, fact-checked · Jan 16",
-      "summary": "Andrew's no-crew loop with the fact-check fixes: Naboisho conservancy camp at real rates, Narok pickup night, private car on the worst matatu day, CDC/Ebola notes. ~$6,136 pp.",
-      "file": "data/trips/no-crew-fixed.json"
+      "id": "kenya-minus-kakamega",
+      "label": "Kenya minus Kakamega · Jan 15",
+      "summary": "The no-crew loop without Kakamega: 6 Kenya bases instead of 9, ~22h on the road instead of ~32h, 18 nights on the ground. ~$5,764 pp.",
+      "file": "data/trips/kenya-minus-kakamega.json"
     },
     {
       "id": "tanzania",

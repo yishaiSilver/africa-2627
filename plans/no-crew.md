@@ -2,18 +2,16 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=no-crew
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-16 · **Planned cost:** $5,845 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-16 · **Planned cost:** $5,579 per person
 
 ## Overview
 
-- **Dates:** LAX Sat Dec 26 → LAX Sat Jan 16. 19 nights: 3 Istanbul, 16 Kenya, 2 on planes.
-- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → Nakuru 2n → Kakamega 3n → Kericho 1n → Narok 1n → **Naboisho conservancy 2n** → Naivasha 3n → airport hotel 1n.
-- **No private crew.** Matatus and coaches between parks, vehicles hired by the day, one conservancy camp in the Mara.
-- **Mara: Naboisho, ~$630 pppn** (Basecamp Wilderness, full board + conservation fee). Walks, night drives and off-road driving, with a vehicle cap.
-- **Fact-checked:** eTA at etakenya.go.ke, yellow fever CDC-recommended for this route, camps collect at Narok (Narok night added), Istanbul sights, guide fares and the longer AMREF tier at 2026 prices.
-- **Savings kept:** one 8h vehicle day at Ol Pejeta instead of two 4h hires, matatus on Jan 3 (private car +$67 as an alternative), shopped insurance and generic malaria pills.
-- **Safety and health:** the US State Department advises against matatus (crash risk); yellow fever is CDC-recommended here; check Ebola news before booking non-refundable.
-- **Budget: ~$5,845 pp**, everything in, including ~5% contingency.
+- **What this is:** Andrew's no-crew loop with the fact-check fixes, after a counter-review of that fact-check (reviews/no-crew-counter-review.md). Route, Naboisho camp, parks and guides as fact-checked.
+- **Verdict on the fact-check:** most of its added costs hold up. The Mara repricing (+$460) is real: Basecamp Wilderness is $500 pppn from Jan 3 plus a ~$130 Naboisho fee, and no conservancy camp I could find is $400 all-in for January. Hell's Gate's $10 cycling fee and the Istanbul ticket prices also check out.
+- **Where it overshot:** the AMREF tier (Bronze's 15 days covers every day outside Nairobi), the Enkorok price (January Mara Reserve fee is $100, not $100–200), and paying a private vehicle both ways to the Mara.
+- **Cuts applied (−$266 pp):** medical+evacuation insurance instead of comprehensive (−$150), Bronze AMREF (−$14), matatu to Talek on the way in (−$65), Topkapı without the Harem (−$25), contingency rescaled.
+- **Corrected:** the 'shared vehicle at Ol Pejeta' option (−$110) is doubtful — OPC's tariff offers shared vehicles only for night drives and lion tracking.
+- **Budget: ~$5,579 pp.** Still ~$79 over $5.5k. One night at Ol Pejeta instead of two (Option, −$140) gets it under.
 
 ## Travel legs
 
@@ -32,7 +30,7 @@
 | 2027-01-08 | Kisumu → Kericho | road | ~1.5–2h | Matatu through the tea estates |
 | 2027-01-09 | Kericho → Bomet | road | ~1.5h | Matatu, after the tea-estate morning |
 | 2027-01-09 | Bomet → Narok | road | ~1.5–2h | Matatu Bomet → Narok (leg missing from the original plan) |
-| 2027-01-10 | Narok → Mara Naboisho Conservancy | road | ~2.5h | Camp transfer from Narok (camps collect at Narok, not Bomet) |
+| 2027-01-10 | Narok → Mara Naboisho Conservancy | road | ~3–3.5h | Matatu Narok → Talek, then camp pickup from Talek (confirm with the camp) |
 | 2027-01-12 | Mara Naboisho Conservancy → Narok | road | ~2h | Camp transfer to Narok |
 | 2027-01-12 | Narok → Lake Naivasha | road | ~2.5–3h | Matatu via Mai Mahiu; may change at Mai Mahiu. Heavy trucks on the escarpment. |
 | 2027-01-15 | Lake Naivasha → Airport-area hotel, Mombasa Rd | road | ~3–3.5h | Shuttle or private car via Nairobi; allow for traffic |
@@ -131,9 +129,9 @@ Tea-estate walk and factory visit 08:00–11:00. Matatu Kericho → Bomet (~1.5h
 
 *Overnight:* Budget hotel, Narok · *Meals:* B; L, D own
 
-### Sun Jan 10 — Into the Mara conservancy (Narok → Naboisho)
+### Sun Jan 10 — Into the Mara conservancy via Talek (Narok → Naboisho)
 
-Camp transfer Narok → Naboisho, ~2.5h, morning. Lunch in camp, afternoon drive; ask for the night drive tonight so tomorrow is free for the full day.
+Matatu Narok → Talek, ~2.5–3h, early morning (KSh ~1,000). The camp collects you in Talek (~30–45m). Lunch in camp, afternoon drive; ask for the night drive tonight so tomorrow is free for the full day.
 
 *Overnight:* Basecamp Wilderness, Naboisho · *Meals:* L, D camp
 
@@ -197,7 +195,7 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 **Mara Naboisho Conservancy, Greater Mara** (2n)
 - Plan: [Basecamp Wilderness, Naboisho](https://www.chaloafrica.com/accommodation/basecamp-wilderness-naboisho-conservancy-kenya/) $630 pp/night (plan). Cheapest real conservancy camp found.
 - Value: [Encounter Mara, Naboisho](https://www.chaloafrica.com/accommodation/encounter-mara-mara-naboisho-conservancy-kenya/) $660 pp/night (+$60 pp). Small camp, strong guiding.
-- Cheaper: [Enkorok Mara Camp (Siana area)](https://monkey.travel/en/accommodation/enkorok-mara) $345 pp/night (−$570 pp). Half the price; walks and night drives depend on whether drives stay in the conservancy.
+- Cheaper: [Enkorok Mara Camp (Siana area)](https://monkey.travel/en/accommodation/enkorok-mara) $320 pp/night (−$620 pp). Half the price; walks and night drives depend on whether drives stay in the conservancy.
 - Splurge: [Naboisho Camp (Asilia)](https://www.safari.com/naboisho) $690 pp/night (+$120 pp). Flagship camp, best guiding.
 
 ## Budget (per person, USD)
@@ -207,7 +205,7 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 | International flights | TK round trip LAX–IST–NBO, 3-night Istanbul stop outbound | $1,500 | $1,350–$1,800 | Out Dec 26 TK10 + TK607; home Jan 16 TK608 + TK9 same day. Price on TK now. |
 | Istanbul | Hotel — 2 nights free via TK Stopover, 1 paid | $60 | $0–$240 | Free nights: US-origin economy, once per ticket, 4-star hotel assigned by TK. Apply ≥72h before the flight. N and R fare classes excluded. |
 | Istanbul | Food, 3 days | $120 | $90–$200 | ~$40 pp/day. |
-| Istanbul | Sights — Hagia Sophia, Basilica Cistern, Topkapı | $130 | $110–$160 | Hagia Sophia ~€25, Topkapı + Harem ~€55–70, Cistern ~₺1,300. Fact-check: $90 was too low. |
+| Istanbul | Sights — Hagia Sophia, Basilica Cistern, Topkapı (palace only) | $105 | $90–$160 | Fact-check's $130 is right for Topkapı + Harem; skipping the Harem (~₺1,000) saves ~$25. Harem is an option. |
 | Istanbul | Airport transfers ×2 and Istanbulkart | $30 | $20–$60 | Airport metro is a fraction of a taxi. |
 | Lodging | Nairobi guesthouse, 2 room-nights (Dec 30 held + Dec 31) | $60 | $50–$120 | Room ready at 04:00 plus a full rest day. |
 | Lodging | The Stables, Ol Pejeta, 2n, full board | $140 | $60–$300 | $140/double FB. Meals now included. |
@@ -232,7 +230,7 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 | Activities | Naivasha boat and Crescent Island walk | $50 | $45–$60 | Crescent Island $33 + boat ~$20 pp shared. |
 | Transport | Matatus and buses across the loop | $103 | $82–$130 | 2026 fuel-driven fare rises (+~50%). Includes Nanyuki → Nyahururu → Nakuru on Jan 3, Bomet → Narok, and Nakuru → Kakamega by direct coach. |
 | Transport | Airport and gate transfers | $45 | $35–$80 | JKIA taxi, Nanyuki → Ol Pejeta, hotel shuttle. |
-| Transport | Mara camp transfers, Narok both ways | $150 | $120–$250 | Private camp vehicle ~$150/vehicle each way, split two ways. |
+| Transport | Mara transfers: matatu to Talek in, camp vehicle to Narok out | $85 | $85–$150 | In: matatu Narok → Talek (~KSh 1,000), camp collects from Talek; Basecamp's rate includes 'return airstrip transfers' — confirm a Talek pickup in writing. Out: private camp vehicle to Narok (~$75 pp) so Jan 12 stays at the 5h cap. |
 | Transport | Bodas and local hops | $15 | $10–$30 | Shinyalu, the forest station, town stages. |
 | Meals | Food outside the full-board legs, 12 days | $185 | $140–$280 | Ol Pejeta (Stables FB) and Mara are included. |
 | Meals | Travel-day food and water | $25 | $20–$45 |  |
@@ -240,32 +238,36 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 | Tips | Kakamega forest guides | $25 | $20–$45 | Cash only. |
 | Tips | Ol Pejeta guides and walk leader | $25 | $20–$40 |  |
 | Tips | Nakuru driver, porters, hotel staff | $30 | $20–$50 |  |
-| Health and insurance | Comprehensive travel insurance, ≥$250k evacuation | $240 | $200–$400 | Shop it: quotes for a 3-week trip vary widely. Must cover public-transport travel, remote areas and evacuation home. |
+| Health and insurance | Travel medical + evacuation plan (no trip cancellation) | $90 | $60–$300 | A single-trip medical plan (e.g. GeoBlue Voyager, IMG Patriot) with ≥$250k evacuation home. Get a quote for your ages. Confirm matatu and boda passenger injuries are covered. Comprehensive with cancellation is an option. |
 | Health and insurance | Yellow fever vaccine | $200 | $0–$350 | Not required for US arrivals, but CDC-recommended for this whole route (Laikipia, Nakuru, Kakamega, Mara). $0 only if already vaccinated. |
 | Health and insurance | Malaria prophylaxis and travel clinic | $60 | $45–$200 | Generic atovaquone-proguanil with a discount coupon is ~$40–60 for this trip length; the clinic visit is often covered by insurance. Istanbul is not a malaria area. |
-| Health and insurance | AMREF Maisha Kenya air evacuation | $24 | $10–$30 | Maisha Tourist Bronze $10 covers 15 days only; this trip needs the longer tier. Evacuates to Nairobi, not home. |
+| Health and insurance | AMREF Maisha Kenya air evacuation | $10 | $0–$24 | Bronze ($10) is 15 days, Kenya only. Start it Jan 1: it then runs to Jan 15, covering every day outside Nairobi. The Silver tier ($24) buys Tanzania cover you don't need. |
 | Admin | Kenya eTA | $30 | $30–$35 | Official site: etakenya.go.ke. etas.gov.ke is not it; lookalike sites overcharge. |
 | Admin | eSIM or Safaricom SIM | $15 | $8–$25 | Set up M-Pesa on arrival. |
 | Admin | Laundry, sundries, souvenirs | $50 | $30–$250 |  |
-| Contingency | ~5%, held until bookings are confirmed | $278 | $234–$526 | Ebola/advisory changes, KWS ruling, festive uplift, FX. |
-| **Total** | | **$5,845** | | ≈ $11,690 for two |
+| Contingency | ~5%, held until bookings are confirmed | $266 | $234–$526 | Ebola/advisory changes, KWS ruling, festive uplift, FX. |
+| **Total** | | **$5,579** | | ≈ $11,158 for two |
 
 ## Options & swaps
 
 - **Private car Ol Pejeta → Nakuru via Thomson's Falls** (+$67 pp): Replaces three matatu connections on the most awkward day (~3.5h with the falls stop). The US State Department advises against matatus because of crash risk.
 - **Two separate 4h drives at Ol Pejeta** (+$110 pp): An afternoon drive on arrival plus a morning drive, instead of one 8h day. Same total time, two vehicle hires.
 - **Already have yellow fever shot** (−$200 pp): Kenya does not require yellow fever for arrivals from the US. Check your records before paying for it.
-- **Shared game-drive vehicle at Ol Pejeta** (−$110 pp): KSh 28,000 for four hours is the private rate. Ask your accommodation whether they can put you in a shared vehicle — the single biggest saving left on the itinerary.
+- **Shared game-drive vehicle at Ol Pejeta** (−$110 pp): Doubtful: OPC's tariff lists shared vehicles only for night game drives and lion tracking. Ask The Stables, but don't count on it.
 - **One night at Rondo Retreat, two at Blue Shouldered** (+$108 pp): A 1948 colonial house with gardens, a library and full board, in the middle of the forest leg.
 - **All three Kakamega nights at Rondo Retreat** (+$341 pp): Full board throughout, which also removes the self-catering food line.
 - **Second day in Lake Nakuru** (+$145 pp): A second 24h ticket plus another day of hired vehicle.
 - **Third Naboisho night instead of a third Naivasha night** (+$580 pp): Another full conservancy day at ~$630 pppn, less a Naivasha banda night and a day of food.
+- **One night at Ol Pejeta instead of two** (−$140 pp): Arrive Jan 1 by midday, 4h afternoon drive, 06:30 bush walk Jan 2, out within 24h: one $110 entry and one Stables night saved; the spare night moves to Nakuru. Less rhino time.
+- **Comprehensive insurance with trip cancellation** (+$150 pp): Back to the fact-check's policy. Worth it mainly for the prepaid Naboisho camp; ordinary cancellation cover does not pay out for fear of Ebola.
+- **Add the Topkapı Harem** (+$25 pp): 
+- **Private camp vehicle from Narok on the way in too** (+$65 pp): If the camp won't collect from Talek.
 
 ## Booking timeline
 
 - **Now (Oct 13–20):** Price the TK multi-city (out Dec 26 with a 3-night Istanbul stop, home Jan 16). Avoid N and R fare classes (no free stopover hotel). Buy refundable-friendly insurance that names matatu/boda cover.
 - **≥72h before the flight:** Apply for the TK Stopover hotel (2 free nights, US-origin economy). Hotel is assigned by TK; the third night is your own.
-- **By Oct 31:** Email Basecamp Wilderness (and Encounter Mara as backup) for Jan 10–11: confirm the conservation fee, walking safari and night drive are included, and Narok pickup times and price.
+- **By Oct 31:** Email Basecamp Wilderness (and Encounter Mara as backup) for Jan 10–11: confirm the conservation fee, walking safari and night drive are included, and Narok pickup times and price. Ask for a pickup in Talek town instead of Narok.
 - **By Oct 31:** Book The Stables (full board) and an OPC vehicle with driver for an 8h day on Jan 2; pre-book the 06:30 bush walk (max 6).
 - **By Nov 15:** Book Blue Shouldered Guest House for Jan 5–7. Published numbers differ: +254 722 888833 / +254 722 886833 (WhatsApp) / +254 726 951 764; blueshouldered@gmail.com. Book the Narok and Kericho hotels.
 - **Mid-to-late Nov:** Travel clinic: yellow fever (CDC-recommended here), malaria prophylaxis.
@@ -307,14 +309,14 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 - **Ebola:** Kenya confirmed an imported Bundibugyo case on Oct 6 2026 (patient from DRC via Kampala, died in Nairobi). Kakamega, Nakuru and Kericho were named high-risk preparedness counties. Re-check the advisory before paying deposits; prefer refundable bookings.
 - **Mpox:** active in Busia (next to Kakamega), Nakuru and Nairobi.
 - Malaria prophylaxis from before arrival through 7 days after. Kakamega and Kisumu are high-transmission. DEET.
-- AMREF Maisha $10 tier covers only 15 days; buy the longer tier.
+- AMREF Maisha Bronze ($10) covers 15 days: start it Jan 1 so it runs through Jan 15.
 
 ## Open questions
 
-1. Is ~$5,845 pp OK? The Mara is the big lever: Enkorok in the hotel picker saves ~$570 pp, but confirm whether its drives stay in the conservancy.
-2. Are you already vaccinated for yellow fever? It is CDC-recommended for this route.
-3. Comfortable with the remaining matatu legs (about eight), or buy private cars for more of them?
-4. Ebola: book refundable until the picture is clearer in December?
+1. ~$5,579 pp: take the one-night Ol Pejeta cut to get under $5.5k, or keep two nights?
+2. Insurance: medical + evacuation only, or pay ~$150 more for cancellation cover on the prepaid camp?
+3. Will Basecamp Wilderness collect from Talek? (Ask when booking.)
+4. Are you already vaccinated for yellow fever? It is CDC-recommended for this route.
 
 ## Sources
 
@@ -340,3 +342,10 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 - https://www.crescentisland.co/entry-fees
 - https://insideflyer.com/2025/05/12/turkish-airlines-expands-free-stopover-program-in-istanbul/
 - https://lostin.istanbul/articles/transportation/from-istanbul-airport-to-sultanahmet
+- https://www.chaloafrica.com/accommodation/basecamp-wilderness-naboisho-conservancy-kenya/
+- https://africanspicesafaris.com/website/wilderness-camp-naboisho-conservancy.html
+- https://flydoc.org/maisha-plan/maisha-plan-short-time/
+- https://kws.go.ke/node/422
+- https://www.olpejetaconservancy.org/wp-content/uploads/2025/02/OPC-Tariff-Guide-2025.pdf
+- https://istanbul.com/blog/museums/istanbul-museum-pass
+- https://www.beyondtheplainssafaris.com/blogs/masai-mara-park-fees-2026-27
