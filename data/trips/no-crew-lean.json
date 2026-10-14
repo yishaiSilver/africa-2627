@@ -1,0 +1,1471 @@
+{
+  "id": "no-crew-lean",
+  "label": "No-crew, lean · Jan 16",
+  "title": "Kenya Independent Loop, lean: the fact-checked plan with the padding taken out",
+  "summary": "Your no-crew loop after a review of the fact-check: same route, camp and parks; leaner insurance, AMREF tier, Mara transfer and Istanbul tickets. ~$5,579 pp.",
+  "overview": "- **What this is:** the current No-crew plan ($5,845) after an adversarial pass over the fact-check. Same route, same Naboisho camp, same parks and guides.\n- **Verdict on the fact-check:** most of its added costs hold up. The Mara repricing (+$460) is real: Basecamp Wilderness is $500 pppn from Jan 3 plus a ~$130 Naboisho fee, and no conservancy camp I could find is $400 all-in for January. Hell's Gate's $10 cycling fee and the Istanbul ticket prices also check out.\n- **Where it overshot:** the AMREF tier (Bronze's 15 days covers every day outside Nairobi), the Enkorok price (January Mara Reserve fee is $100, not $100–200), and paying a private vehicle both ways to the Mara.\n- **Cuts applied (−$266 pp):** medical+evacuation insurance instead of comprehensive (−$150), Bronze AMREF (−$14), matatu to Talek on the way in (−$65), Topkapı without the Harem (−$25), contingency rescaled.\n- **Corrected:** the 'shared vehicle at Ol Pejeta' option (−$110) is doubtful — OPC's tariff offers shared vehicles only for night drives and lion tracking.\n- **Budget: ~$5,579 pp.** Still ~$79 over $5.5k. One night at Ol Pejeta instead of two (Option, −$140) gets it under.",
+  "dates": {
+    "depart": "2026-12-26",
+    "return": "2027-01-16"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-26",
+      "day_label": "Day 1 – Sat",
+      "location": "Los Angeles → in flight",
+      "title": "Fly toward Istanbul",
+      "details": "TK10 LAX 19:45 → IST 19:00 next day (~13h). Start shifting to Istanbul time on board.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-27",
+      "day_label": "Day 2 – Sun",
+      "location": "Istanbul",
+      "title": "Land Istanbul, metro into the city",
+      "details": "Land 19:00. Metro M11 → M2 → T1 to Sultanahmet, ~1.5h door to door, ~₺80–150. Buy an Istanbulkart at the station. Easy dinner, early night.",
+      "overnight": "Istanbul hotel",
+      "meals": "In-flight; D own"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 3 – Mon",
+      "location": "Istanbul",
+      "title": "Sultanahmet on foot",
+      "details": "Hagia Sophia, the Blue Mosque, the Basilica Cistern — all within ten minutes of each other. Zero travel.",
+      "overnight": "Istanbul hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 4 – Tue",
+      "location": "Istanbul",
+      "title": "Topkapı, Grand Bazaar, Bosphorus",
+      "details": "Topkapı in the morning, Grand Bazaar after lunch, then a public ferry to Kadıköy on the Asian side for dinner. The ferry is the best view in the city and costs almost nothing.",
+      "overnight": "Istanbul hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 5 – Wed",
+      "location": "Istanbul → in flight",
+      "title": "Free morning, fly to Nairobi",
+      "details": "Spice Bazaar, Süleymaniye or the Archaeological Museum. Bags at the hotel. Leave for the airport by 17:00. TK607 20:30 → NBO 03:05.",
+      "overnight": "Plane",
+      "meals": "B; in-flight"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 6 – Thu",
+      "location": "Nairobi",
+      "title": "Land 03:05, full rest day",
+      "details": "Pre-booked taxi to the guesthouse, ~45m. Room held from Dec 30 so it's ready at 04:00. Sleep to ~11:00, then stay in daylight and no naps after 15:00. Buy a Safaricom SIM. Quiet New Year's Eve.",
+      "overnight": "Nairobi guesthouse",
+      "meals": "Own"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 7 – Fri",
+      "location": "Nairobi → Ol Pejeta",
+      "title": "Matatu north to Laikipia",
+      "details": "Matatu Nairobi → Nanyuki via Thika and Karatina, ~3.5–4.5h with filling time, KSh 700–1,000. Prefer a registered shuttle company over a street matatu. Transfer to the conservancy ~45m. Afternoon at The Stables; the hired vehicle is booked for tomorrow. Public holiday: start early, fewer vehicles run.",
+      "overnight": "The Stables, Ol Pejeta (full board)",
+      "meals": "L, D Stables"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 8 – Sat",
+      "location": "Ol Pejeta Conservancy",
+      "title": "Bush walk at 06:30, then a full day of rhino",
+      "details": "Zero travel. Guided bush walk 06:30 ($70, max 6). Then a full 8h day in the hired OPC vehicle (The Stables has no vehicles): black and white rhino, Sweetwaters chimps, lion, Grevy's zebra. The last two northern white rhinos (Najin and Fatu) are a separately booked visit, not a drive-by.",
+      "overnight": "The Stables, Ol Pejeta (full board)",
+      "meals": "B, L, D Stables"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 9 – Sun",
+      "location": "Ol Pejeta → Lake Nakuru",
+      "title": "Matatu to Nakuru via Thomson's Falls",
+      "details": "Transfer to Nanyuki, matatu Nanyuki → Nyahururu (~1.5–2h), a short stop at Thomson's Falls, then Nyahururu → Nakuru (~1.5h). Three connections with bags, the trip's most awkward day. A private car (~$75 pp) replaces all three if the day looks grim: see Alternatives. Arrange tomorrow's park vehicle on arrival.",
+      "overnight": "Nakuru town hotel",
+      "meals": "Own"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 10 – Mon",
+      "location": "Lake Nakuru NP",
+      "title": "Full day in the park",
+      "details": "Zero travel. Dawn start in a hired vehicle with driver (no walking access except Baboon Cliff and picnic sites). White rhino near-certain, black rhino a good chance, Rothschild's giraffe, flamingos if the lake allows. Tree-climbing lions are occasional, not reliable. Entry $90 on eCitizen (cashless).",
+      "overnight": "Nakuru town hotel",
+      "meals": "Own"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 11 – Tue",
+      "location": "Nakuru → Kakamega Forest",
+      "title": "West to the rainforest",
+      "details": "Direct coach Nakuru → Kakamega town (Easy Coach or similar, ~4h, ~KSh 1,150), avoiding the Eldoret change. Buy groceries in town; nothing at the forest station. Matatu to Shinyalu, then boda ~6 km to Isecheno (~1h). ~5h door to door: the trip's longest day. Dusk colobus walk.",
+      "overnight": "Blue Shouldered Guest House",
+      "meals": "Own / cooked on request"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 12 – Wed",
+      "location": "Kakamega Forest",
+      "title": "Primates, turacos, first night walk",
+      "details": "Zero travel. Long guided walk for colobus, blue and red-tailed monkeys (De Brazza's mainly at Kisere, the northern block). Great blue turaco and Turner's eremomela: in Kenya, essentially only the Kakamega–Nandi forests. First night walk (~KSh 1,500–2,000) for potto, frogs and whatever moves.",
+      "overnight": "Blue Shouldered Guest House",
+      "meals": "Cooked on request"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 13 – Thu",
+      "location": "Kakamega Forest",
+      "title": "Lirhanda sunrise, second night walk",
+      "details": "Zero travel. Lirhanda Hill at sunrise over the canopy. Second night walk — guides track where the pottos are moving and the second night is usually the productive one. Ask whether any guide specialises in reptiles and amphibians rather than birds.",
+      "overnight": "Blue Shouldered Guest House",
+      "meals": "Cooked on request"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 14 – Fri",
+      "location": "Kakamega → Kericho",
+      "title": "Tea country",
+      "details": "Boda/matatu back via Shinyalu to Kakamega, then Kisumu (~2–3h), then Kisumu → Kericho (~1.5–2h). ~4–4.5h total. Afternoon off after three forest days.",
+      "overnight": "Kericho budget hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 15 – Sat",
+      "location": "Kericho → Narok",
+      "title": "Tea-estate morning, then to Narok",
+      "details": "Tea-estate walk and factory visit 08:00–11:00. Matatu Kericho → Bomet (~1.5h) → Narok (~1.5–2h), ~3.5h. Overnight in Narok so the camp can collect next morning: camps pick up at Narok, not Bomet.",
+      "overnight": "Budget hotel, Narok",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-10",
+      "day_label": "Day 16 – Sun",
+      "location": "Narok → Naboisho",
+      "title": "Into the Mara conservancy via Talek",
+      "details": "Matatu Narok → Talek, ~2.5–3h, early morning (KSh ~1,000). The camp collects you in Talek (~30–45m). Lunch in camp, afternoon drive; ask for the night drive tonight so tomorrow is free for the full day.",
+      "overnight": "Basecamp Wilderness, Naboisho",
+      "meals": "L, D camp"
+    },
+    {
+      "date": "2027-01-11",
+      "day_label": "Day 17 – Mon",
+      "location": "Mara conservancy",
+      "title": "Walking safari, full day out, night drive",
+      "details": "Zero travel. Guided walking safari at dawn (allowed in conservancies, banned in the National Reserve), then out all day with a packed lunch: big cats, topi, plains game, off-road with a vehicle cap. Night drive for serval, genet, porcupine if not done last night. Confirm walk and night drive are included in writing.",
+      "overnight": "Basecamp Wilderness, Naboisho",
+      "meals": "B, L, D"
+    },
+    {
+      "date": "2027-01-12",
+      "day_label": "Day 18 – Tue",
+      "location": "Mara → Naivasha",
+      "title": "Rift Valley lakes",
+      "details": "Last dawn drive, breakfast, camp transfer to Narok (~2h), then matatu via Mai Mahiu to Naivasha (~2.5–3h, maybe a change at Mai Mahiu). ~5h door to door: at the cap. Lakeshore camp by late afternoon.",
+      "overnight": "Naivasha lakeshore banda",
+      "meals": "B camp; L, D own"
+    },
+    {
+      "date": "2027-01-13",
+      "day_label": "Day 19 – Wed",
+      "location": "Naivasha / Hell's Gate",
+      "title": "Hell's Gate by bike",
+      "details": "Zero transfer. Hire a bike at Elsa Gate and ride the gorge road. Entry $50 + cycling fee ~$10. A licensed guide is mandatory for the Lower Gorge walk (since 2024). Slow afternoon by the lake.",
+      "overnight": "Naivasha lakeshore banda",
+      "meals": "Own"
+    },
+    {
+      "date": "2027-01-14",
+      "day_label": "Day 20 – Thu",
+      "location": "Lake Naivasha",
+      "title": "Crescent Island and a rest day",
+      "details": "Zero transfer. Morning boat on the lake and the Crescent Island walk, where you walk freely among zebra, giraffe and waterbuck. Afternoon off — laundry and rest before the 25h journey home.",
+      "overnight": "Naivasha lakeshore banda",
+      "meals": "Own"
+    },
+    {
+      "date": "2027-01-15",
+      "day_label": "Day 21 – Fri",
+      "location": "Naivasha → Nairobi",
+      "title": "Back to the airport",
+      "details": "Shuttle or private car Naivasha → Nairobi → airport-area hotel, ~3–3.5h (Nairobi traffic). Not a matatu for the leg before a flight. Free JKIA shuttle tomorrow. Shower, laundry, repack.",
+      "overnight": "Hotel near JKIA",
+      "meals": "Own"
+    },
+    {
+      "date": "2027-01-16",
+      "day_label": "Day 22 – Sat",
+      "location": "Nairobi → Los Angeles",
+      "title": "Fly home",
+      "details": "Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arriving ~18:15 the same day. About 25h door to door.",
+      "overnight": "Home",
+      "meals": "In-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Istanbul hotel (TK Stopover, 2 nights free)",
+      "place": "IST",
+      "location": "Istanbul, Türkiye",
+      "nights": 3,
+      "pppn_usd": 20,
+      "style": "Hotel",
+      "includes": "Room and breakfast. Turkish Airlines gives US-origin economy passengers two free nights, once per ticket — only the third is paid.",
+      "why": "Breaks the 1.5h Istanbul connection risk and splits the +11h time shift into two moves.",
+      "alternatives": "Pay for all three nights and choose your own hotel and neighbourhood, about +$180 pp.",
+      "url": "https://www.turkishairlines.com/en-us/flights/stopover/"
+    },
+    {
+      "name": "Budget guesthouse, Karen or Langata",
+      "place": "KAR",
+      "location": "Nairobi",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Guesthouse",
+      "includes": "~$60/room. Hold the room from Dec 30 so it's ready at 04:00.",
+      "why": "A 03:05 landing needs a bed already paid for, not a check-in queue.",
+      "alternatives": "Airport-area hotel if you'd rather not cross the city at 04:00.",
+      "url": "https://www.booking.com/city/ke/nairobi.html"
+    },
+    {
+      "name": "The Stables, Ol Pejeta",
+      "place": "OPC",
+      "location": "Ol Pejeta Conservancy, Laikipia",
+      "nights": 2,
+      "pppn_usd": 70,
+      "style": "Budget rooms, full board",
+      "includes": "Full board ($140/double). No game-drive vehicles: hire an OPC vehicle with driver. Entry $110 per 24h separate.",
+      "why": "Cheapest bed inside OPC, and meals included.",
+      "alternatives": "",
+      "url": "https://www.olpejetaconservancy.org/accommodation/",
+      "options": [
+        {
+          "id": "stables",
+          "tag": "Plan",
+          "name": "The Stables, Ol Pejeta",
+          "pppn_usd": 70,
+          "room_usd": 140,
+          "rating": "",
+          "style": "Budget rooms, FB",
+          "includes": "Full board",
+          "why": "Cheapest bed inside OPC; meals included.",
+          "url": "https://www.olpejetaconservancy.org/accommodation/",
+          "notes": "No vehicles; hire OPC car with driver."
+        },
+        {
+          "id": "pelican",
+          "tag": "Value",
+          "name": "Pelican House (self-catering)",
+          "pppn_usd": 115,
+          "room_usd": null,
+          "rating": "",
+          "style": "Self-catering house",
+          "includes": "Kitchen; bring food (+~$15 pp/day vs Stables FB, netted in)",
+          "why": "Lake view, more space; cook yourselves.",
+          "url": "https://www.olpejetaconservancy.org/pelican-house/",
+          "notes": "$100 pp for 2–4 guests self-catering; catered $130–150."
+        }
+      ]
+    },
+    {
+      "name": "Budget hotel, Nakuru town",
+      "place": "NAK",
+      "location": "Nakuru",
+      "nights": 2,
+      "pppn_usd": 25,
+      "style": "Hotel",
+      "includes": "Room only. Both Main and Lanet gates are minutes away.",
+      "why": "Staying in town rather than the KWS campsite means one park day instead of two, saves $90, and needs no camping gear.",
+      "alternatives": "KWS public campsite inside the park at $30 pppn, if you carry a tent.",
+      "url": "https://www.booking.com/city/ke/nakuru.html"
+    },
+    {
+      "name": "Isecheno Blue Shouldered Guest House",
+      "place": "KAK",
+      "location": "Isecheno, Kakamega Forest",
+      "nights": 3,
+      "pppn_usd": 10,
+      "style": "Community guesthouse",
+      "includes": "Bed only, ~KSh 700–1,000. Hot shower, flush toilet, kitchen for ~KSh 200/day. Meals cooked on request — order ahead.",
+      "why": "Community-owned, a few strides from the forest edge, and managed by Smith, one of the best-regarded bird guides in Kakamega. Power is a generator, roughly 19:00–22:30 only.",
+      "alternatives": "Rondo Retreat, a 1948 colonial house with gardens and full board, about $130 pppn. One night there and two here lands at +$108 pp.",
+      "url": "https://www.kakamegaforest.org"
+    },
+    {
+      "name": "Budget hotel, Kericho",
+      "place": "KER",
+      "location": "Kericho",
+      "nights": 1,
+      "pppn_usd": 30,
+      "style": "Hotel",
+      "includes": "~$60/room B&B. One night as a bridge; tea-estate visit next morning.",
+      "why": "Breaks Kakamega → Mara into two days.",
+      "alternatives": "",
+      "url": "https://www.booking.com/city/ke/kericho.html"
+    },
+    {
+      "name": "Budget hotel, Narok",
+      "place": "NRK",
+      "location": "Narok town",
+      "nights": 1,
+      "pppn_usd": 25,
+      "style": "Hotel",
+      "includes": "~$50/room B&B.",
+      "why": "Camps collect at Narok; sleeping here keeps both days under 5h.",
+      "alternatives": "",
+      "url": "https://www.booking.com/city/ke/narok.html"
+    },
+    {
+      "name": "Basecamp Wilderness, Naboisho",
+      "place": "MARA",
+      "location": "Mara Naboisho Conservancy, Greater Mara",
+      "nights": 2,
+      "pppn_usd": 630,
+      "style": "Tented camp, full board",
+      "includes": "Full board ~$500 + Naboisho conservation fee ~$130 pppn. Shared drives, guided walks and night drives are conservancy activities; confirm each is in the rate.",
+      "why": "A real conservancy stay: walks, night drives and off-road with a vehicle cap, and better wildlife density than Siana.",
+      "alternatives": "",
+      "url": "https://www.chaloafrica.com/accommodation/basecamp-wilderness-naboisho-conservancy-kenya/",
+      "options": [
+        {
+          "id": "basecamp-wild",
+          "tag": "Plan",
+          "name": "Basecamp Wilderness, Naboisho",
+          "pppn_usd": 630,
+          "room_usd": null,
+          "rating": "",
+          "style": "Tented camp, FB",
+          "includes": "FB + conservation fee; drives, walks, night drives (confirm)",
+          "why": "Cheapest real conservancy camp found.",
+          "url": "https://www.chaloafrica.com/accommodation/basecamp-wilderness-naboisho-conservancy-kenya/",
+          "notes": "Jan 2026 agent rate; confirm Jan 2027 in writing."
+        },
+        {
+          "id": "encounter",
+          "tag": "Value",
+          "name": "Encounter Mara, Naboisho",
+          "pppn_usd": 660,
+          "room_usd": null,
+          "rating": "",
+          "style": "Tented camp, all-inclusive",
+          "includes": "All-inclusive incl. activities (agent rate)",
+          "why": "Small camp, strong guiding.",
+          "url": "https://www.chaloafrica.com/accommodation/encounter-mara-mara-naboisho-conservancy-kenya/",
+          "notes": "6 Jan–31 Mar 2026 rate."
+        },
+        {
+          "id": "enkorok",
+          "tag": "Cheaper",
+          "name": "Enkorok Mara Camp (Siana area)",
+          "pppn_usd": 320,
+          "room_usd": null,
+          "rating": "",
+          "style": "Budget tented camp",
+          "includes": "FB ~$145 + Mara Reserve fee $100/day (Jan–Jun rate) + shared reserve drives ~$75",
+          "why": "Half the price; walks and night drives depend on whether drives stay in the conservancy.",
+          "url": "https://monkey.travel/en/accommodation/enkorok-mara",
+          "notes": "Sources conflict: some place it inside Siana Conservancy, others just outside the reserve. Ask whether drives stay in the conservancy or go into the National Reserve, where walks and night drives are banned."
+        },
+        {
+          "id": "naboisho-camp",
+          "tag": "Splurge",
+          "name": "Naboisho Camp (Asilia)",
+          "pppn_usd": 690,
+          "room_usd": null,
+          "rating": "",
+          "style": "Luxury tented camp",
+          "includes": "All-inclusive, low-season rate",
+          "why": "Flagship camp, best guiding.",
+          "url": "https://www.safari.com/naboisho",
+          "notes": "Low-season ~$660–690; peak far higher."
+        }
+      ]
+    },
+    {
+      "name": "Camp Carnelley's or Fisherman's Camp",
+      "place": "NAI",
+      "location": "Lake Naivasha, south shore",
+      "nights": 3,
+      "pppn_usd": 35,
+      "style": "Banda",
+      "includes": "Banda with a restaurant and bar on site, so no cooking.",
+      "why": "Hippos graze the lawns after dark, and Hell's Gate needs no vehicle.",
+      "alternatives": "Campsite pitch is cheaper if you carry a tent.",
+      "url": "https://www.campcarnelleys.com"
+    },
+    {
+      "name": "Budget hotel near JKIA (free shuttle)",
+      "place": "JKIA",
+      "location": "Mombasa Road, Nairobi",
+      "nights": 1,
+      "pppn_usd": 40,
+      "style": "Hotel",
+      "includes": "~$80/room B&B, free airport shuttle, 10–20 minutes from the terminal.",
+      "why": "A 04:50 departure means no 01:30 cross-city pickup.",
+      "alternatives": "Ole Sereni or Four Points for more comfort, roughly +$50 pp.",
+      "url": "https://www.booking.com/city/ke/nairobi.html"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "TK round trip LAX–IST–NBO, 3-night Istanbul stop outbound",
+      "per_person_usd": 1500,
+      "low_usd": 1350,
+      "high_usd": 1800,
+      "notes": "Out Dec 26 TK10 + TK607; home Jan 16 TK608 + TK9 same day. Price on TK now."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Hotel — 2 nights free via TK Stopover, 1 paid",
+      "per_person_usd": 60,
+      "low_usd": 0,
+      "high_usd": 240,
+      "notes": "Free nights: US-origin economy, once per ticket, 4-star hotel assigned by TK. Apply ≥72h before the flight. N and R fare classes excluded."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Food, 3 days",
+      "per_person_usd": 120,
+      "low_usd": 90,
+      "high_usd": 200,
+      "notes": "~$40 pp/day."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Sights — Hagia Sophia, Basilica Cistern, Topkapı (palace only)",
+      "per_person_usd": 105,
+      "low_usd": 90,
+      "high_usd": 160,
+      "notes": "Fact-check's $130 is right for Topkapı + Harem; skipping the Harem (~₺1,000) saves ~$25. Harem is an option."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Airport transfers ×2 and Istanbulkart",
+      "per_person_usd": 30,
+      "low_usd": 20,
+      "high_usd": 60,
+      "notes": "Airport metro is a fraction of a taxi."
+    },
+    {
+      "category": "Lodging",
+      "item": "Nairobi guesthouse, 2 room-nights (Dec 30 held + Dec 31)",
+      "per_person_usd": 60,
+      "low_usd": 50,
+      "high_usd": 120,
+      "notes": "Room ready at 04:00 plus a full rest day."
+    },
+    {
+      "category": "Lodging",
+      "item": "The Stables, Ol Pejeta, 2n, full board",
+      "per_person_usd": 140,
+      "low_usd": 60,
+      "high_usd": 300,
+      "notes": "$140/double FB. Meals now included."
+    },
+    {
+      "category": "Lodging",
+      "item": "Nakuru town hotel, 2n",
+      "per_person_usd": 50,
+      "low_usd": 40,
+      "high_usd": 90,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Blue Shouldered Guest House, Kakamega, 3n",
+      "per_person_usd": 30,
+      "low_usd": 24,
+      "high_usd": 420,
+      "notes": "High end is three nights at Rondo Retreat, full board."
+    },
+    {
+      "category": "Lodging",
+      "item": "Kericho budget hotel, 1n",
+      "per_person_usd": 30,
+      "low_usd": 25,
+      "high_usd": 60,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Basecamp Wilderness, Naboisho, 2n",
+      "per_person_usd": 1260,
+      "low_usd": 690,
+      "high_usd": 1400,
+      "notes": "~$500 FB + ~$130 conservation fee pppn (agent rates for early January). Confirm the conservation fee, walks and night drives in writing."
+    },
+    {
+      "category": "Lodging",
+      "item": "Narok budget hotel, 1n (camp pickup)",
+      "per_person_usd": 25,
+      "low_usd": 20,
+      "high_usd": 50,
+      "notes": "Added: camps collect at Narok, not Bomet."
+    },
+    {
+      "category": "Lodging",
+      "item": "Naivasha lakeshore banda, 3n",
+      "per_person_usd": 105,
+      "low_usd": 45,
+      "high_usd": 180,
+      "notes": "Low end is a campsite pitch."
+    },
+    {
+      "category": "Lodging",
+      "item": "Hotel near JKIA, 1n",
+      "per_person_usd": 40,
+      "low_usd": 35,
+      "high_usd": 135,
+      "notes": "High end is Ole Sereni or Four Points."
+    },
+    {
+      "category": "Park fees",
+      "item": "Ol Pejeta entry, 2 × 24h",
+      "per_person_usd": 220,
+      "low_usd": 220,
+      "high_usd": 260,
+      "notes": "$110/24h on the 2026 tariff; 2027 may be ~$120. Overnight guests get the full 24h."
+    },
+    {
+      "category": "Park fees",
+      "item": "Lake Nakuru NP, 1 × 24h",
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 90,
+      "notes": "KWS new rate $90; $60 if the October 2025 increase is struck down."
+    },
+    {
+      "category": "Park fees",
+      "item": "Kakamega Forest entry, 3 days",
+      "per_person_usd": 15,
+      "low_usd": 12,
+      "high_usd": 150,
+      "notes": "Isecheno is Kenya Forest Service at ~KSh 600/day. KWS charges $20–50 at Buyangu in the north — the two get conflated constantly."
+    },
+    {
+      "category": "Park fees",
+      "item": "Naboisho conservation fee, 2n",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 0,
+      "notes": "Included in the $630 camp line above."
+    },
+    {
+      "category": "Park fees",
+      "item": "Hell's Gate NP, 1 day",
+      "per_person_usd": 50,
+      "low_usd": 26,
+      "high_usd": 50,
+      "notes": "KWS new $50; $26 if the old rate stands."
+    },
+    {
+      "category": "Guides and vehicles",
+      "item": "Ol Pejeta — hired vehicle with driver, one 8h day",
+      "per_person_usd": 105,
+      "low_usd": 90,
+      "high_usd": 135,
+      "notes": "The Stables has no vehicles. ~$200 per vehicle for 8h, split two ways, + KSh 1,000 vehicle entry. Same driving time as two 4h drives."
+    },
+    {
+      "category": "Guides and vehicles",
+      "item": "Ol Pejeta — guided bush walk",
+      "per_person_usd": 70,
+      "low_usd": 70,
+      "high_usd": 70,
+      "notes": "06:30–08:30, capped at six people. The best wildlife hour of the trip."
+    },
+    {
+      "category": "Guides and vehicles",
+      "item": "Lake Nakuru — hired vehicle and driver, 1 day",
+      "per_person_usd": 55,
+      "low_usd": 40,
+      "high_usd": 60,
+      "notes": "$80–120 per vehicle, split two ways. Arrange the evening before."
+    },
+    {
+      "category": "Guides and vehicles",
+      "item": "Kakamega — 2 night walks, 1 sunrise, 2 long walks",
+      "per_person_usd": 60,
+      "low_usd": 40,
+      "high_usd": 80,
+      "notes": "2026 guides: night walk KSh 1,500–2,000, half-day KSh 800–1,500."
+    },
+    {
+      "category": "Guides and vehicles",
+      "item": "Mara — drives, guide, night drive, walking safari",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 60,
+      "notes": "Walks and night drives are conservancy activities; confirm they are in the camp rate."
+    },
+    {
+      "category": "Activities",
+      "item": "Hell's Gate bike hire + cycling fee",
+      "per_person_usd": 20,
+      "low_usd": 15,
+      "high_usd": 30,
+      "notes": "Bike KES 1,000–2,000 at Elsa Gate + ~$10 cycling fee. Lower Gorge needs a licensed guide."
+    },
+    {
+      "category": "Activities",
+      "item": "Naivasha boat and Crescent Island walk",
+      "per_person_usd": 50,
+      "low_usd": 45,
+      "high_usd": 60,
+      "notes": "Crescent Island $33 + boat ~$20 pp shared."
+    },
+    {
+      "category": "Transport",
+      "item": "Matatus and buses across the loop",
+      "per_person_usd": 103,
+      "low_usd": 82,
+      "high_usd": 130,
+      "notes": "2026 fuel-driven fare rises (+~50%). Includes Nanyuki → Nyahururu → Nakuru on Jan 3, Bomet → Narok, and Nakuru → Kakamega by direct coach."
+    },
+    {
+      "category": "Transport",
+      "item": "Airport and gate transfers",
+      "per_person_usd": 45,
+      "low_usd": 35,
+      "high_usd": 80,
+      "notes": "JKIA taxi, Nanyuki → Ol Pejeta, hotel shuttle."
+    },
+    {
+      "category": "Transport",
+      "item": "Mara transfers: matatu to Talek in, camp vehicle to Narok out",
+      "per_person_usd": 85,
+      "low_usd": 85,
+      "high_usd": 150,
+      "notes": "In: matatu Narok → Talek (~KSh 1,000), camp collects from Talek; Basecamp's rate includes 'return airstrip transfers' — confirm a Talek pickup in writing. Out: private camp vehicle to Narok (~$75 pp) so Jan 12 stays at the 5h cap."
+    },
+    {
+      "category": "Transport",
+      "item": "Bodas and local hops",
+      "per_person_usd": 15,
+      "low_usd": 10,
+      "high_usd": 30,
+      "notes": "Shinyalu, the forest station, town stages."
+    },
+    {
+      "category": "Meals",
+      "item": "Food outside the full-board legs, 12 days",
+      "per_person_usd": 185,
+      "low_usd": 140,
+      "high_usd": 280,
+      "notes": "Ol Pejeta (Stables FB) and Mara are included."
+    },
+    {
+      "category": "Meals",
+      "item": "Travel-day food and water",
+      "per_person_usd": 25,
+      "low_usd": 20,
+      "high_usd": 45,
+      "notes": ""
+    },
+    {
+      "category": "Tips",
+      "item": "Mara camp guide, spotter and staff, 2 nights",
+      "per_person_usd": 30,
+      "low_usd": 20,
+      "high_usd": 50,
+      "notes": "Crisp post-2013 USD bills."
+    },
+    {
+      "category": "Tips",
+      "item": "Kakamega forest guides",
+      "per_person_usd": 25,
+      "low_usd": 20,
+      "high_usd": 45,
+      "notes": "Cash only."
+    },
+    {
+      "category": "Tips",
+      "item": "Ol Pejeta guides and walk leader",
+      "per_person_usd": 25,
+      "low_usd": 20,
+      "high_usd": 40,
+      "notes": ""
+    },
+    {
+      "category": "Tips",
+      "item": "Nakuru driver, porters, hotel staff",
+      "per_person_usd": 30,
+      "low_usd": 20,
+      "high_usd": 50,
+      "notes": ""
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Travel medical + evacuation plan (no trip cancellation)",
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 300,
+      "notes": "A single-trip medical plan (e.g. GeoBlue Voyager, IMG Patriot) with ≥$250k evacuation home. Get a quote for your ages. Confirm matatu and boda passenger injuries are covered. Comprehensive with cancellation is an option."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Yellow fever vaccine",
+      "per_person_usd": 200,
+      "low_usd": 0,
+      "high_usd": 350,
+      "notes": "Not required for US arrivals, but CDC-recommended for this whole route (Laikipia, Nakuru, Kakamega, Mara). $0 only if already vaccinated."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Malaria prophylaxis and travel clinic",
+      "per_person_usd": 60,
+      "low_usd": 45,
+      "high_usd": 200,
+      "notes": "Generic atovaquone-proguanil with a discount coupon is ~$40–60 for this trip length; the clinic visit is often covered by insurance. Istanbul is not a malaria area."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "AMREF Maisha Kenya air evacuation",
+      "per_person_usd": 10,
+      "low_usd": 0,
+      "high_usd": 24,
+      "notes": "Bronze ($10) is 15 days, Kenya only. Start it Jan 1: it then runs to Jan 15, covering every day outside Nairobi. The Silver tier ($24) buys Tanzania cover you don't need."
+    },
+    {
+      "category": "Admin",
+      "item": "Kenya eTA",
+      "per_person_usd": 30,
+      "low_usd": 30,
+      "high_usd": 35,
+      "notes": "Official site: etakenya.go.ke. etas.gov.ke is not it; lookalike sites overcharge."
+    },
+    {
+      "category": "Admin",
+      "item": "eSIM or Safaricom SIM",
+      "per_person_usd": 15,
+      "low_usd": 8,
+      "high_usd": 25,
+      "notes": "Set up M-Pesa on arrival."
+    },
+    {
+      "category": "Admin",
+      "item": "Laundry, sundries, souvenirs",
+      "per_person_usd": 50,
+      "low_usd": 30,
+      "high_usd": 250,
+      "notes": ""
+    },
+    {
+      "category": "Contingency",
+      "item": "~5%, held until bookings are confirmed",
+      "per_person_usd": 266,
+      "low_usd": 234,
+      "high_usd": 526,
+      "notes": "Ebola/advisory changes, KWS ruling, festive uplift, FX."
+    }
+  ],
+  "budget_total_per_person_usd": 5579,
+  "alternatives": [
+    {
+      "id": "private-car-jan3",
+      "name": "Private car Ol Pejeta → Nakuru via Thomson's Falls",
+      "description": "Replaces three matatu connections on the most awkward day (~3.5h with the falls stop). The US State Department advises against matatus because of crash risk.",
+      "cost_delta_per_person_usd": 67
+    },
+    {
+      "id": "opc-two-drives",
+      "name": "Two separate 4h drives at Ol Pejeta",
+      "description": "An afternoon drive on arrival plus a morning drive, instead of one 8h day. Same total time, two vehicle hires.",
+      "cost_delta_per_person_usd": 110
+    },
+    {
+      "id": "yf-done",
+      "name": "Already have yellow fever shot",
+      "description": "Kenya does not require yellow fever for arrivals from the US. Check your records before paying for it.",
+      "cost_delta_per_person_usd": -200
+    },
+    {
+      "id": "opc-shared",
+      "name": "Shared game-drive vehicle at Ol Pejeta",
+      "description": "Doubtful: OPC's tariff lists shared vehicles only for night game drives and lion tracking. Ask The Stables, but don't count on it.",
+      "cost_delta_per_person_usd": -110
+    },
+    {
+      "id": "rondo-one",
+      "name": "One night at Rondo Retreat, two at Blue Shouldered",
+      "description": "A 1948 colonial house with gardens, a library and full board, in the middle of the forest leg.",
+      "cost_delta_per_person_usd": 108
+    },
+    {
+      "id": "rondo-all",
+      "name": "All three Kakamega nights at Rondo Retreat",
+      "description": "Full board throughout, which also removes the self-catering food line.",
+      "cost_delta_per_person_usd": 341
+    },
+    {
+      "id": "nakuru-two",
+      "name": "Second day in Lake Nakuru",
+      "description": "A second 24h ticket plus another day of hired vehicle.",
+      "cost_delta_per_person_usd": 145
+    },
+    {
+      "id": "mara-3n",
+      "name": "Third Naboisho night instead of a third Naivasha night",
+      "description": "Another full conservancy day at ~$630 pppn, less a Naivasha banda night and a day of food.",
+      "cost_delta_per_person_usd": 580
+    },
+    {
+      "id": "opc-1n",
+      "name": "One night at Ol Pejeta instead of two",
+      "description": "Arrive Jan 1 by midday, 4h afternoon drive, 06:30 bush walk Jan 2, out within 24h: one $110 entry and one Stables night saved; the spare night moves to Nakuru. Less rhino time.",
+      "cost_delta_per_person_usd": -140
+    },
+    {
+      "id": "ins-comp",
+      "name": "Comprehensive insurance with trip cancellation",
+      "description": "Back to the fact-check's policy. Worth it mainly for the prepaid Naboisho camp; ordinary cancellation cover does not pay out for fear of Ebola.",
+      "cost_delta_per_person_usd": 150
+    },
+    {
+      "id": "harem",
+      "name": "Add the Topkapı Harem",
+      "description": "",
+      "cost_delta_per_person_usd": 25
+    },
+    {
+      "id": "mara-private-in",
+      "name": "Private camp vehicle from Narok on the way in too",
+      "description": "If the camp won't collect from Talek.",
+      "cost_delta_per_person_usd": 65
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 13–20)",
+      "task": "Price the TK multi-city (out Dec 26 with a 3-night Istanbul stop, home Jan 16). Avoid N and R fare classes (no free stopover hotel). Buy refundable-friendly insurance that names matatu/boda cover."
+    },
+    {
+      "when": "≥72h before the flight",
+      "task": "Apply for the TK Stopover hotel (2 free nights, US-origin economy). Hotel is assigned by TK; the third night is your own."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Email Basecamp Wilderness (and Encounter Mara as backup) for Jan 10–11: confirm the conservation fee, walking safari and night drive are included, and Narok pickup times and price. Ask for a pickup in Talek town instead of Narok."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Book The Stables (full board) and an OPC vehicle with driver for an 8h day on Jan 2; pre-book the 06:30 bush walk (max 6)."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book Blue Shouldered Guest House for Jan 5–7. Published numbers differ: +254 722 888833 / +254 722 886833 (WhatsApp) / +254 726 951 764; blueshouldered@gmail.com. Book the Narok and Kericho hotels."
+    },
+    {
+      "when": "Mid-to-late Nov",
+      "task": "Travel clinic: yellow fever (CDC-recommended here), malaria prophylaxis."
+    },
+    {
+      "when": "Dec 1–5",
+      "task": "Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru and Hell's Gate (cashless)."
+    },
+    {
+      "when": "Dec 20–24",
+      "task": "Re-check the Kenya advisory and Ebola news. Reconfirm the Narok pickup and the JKIA shuttle."
+    }
+  ],
+  "practical": "## Entry\n- Kenya eTA $30, **etakenya.go.ke only** (not etas.gov.ke); lookalike sites overcharge. Passport 6+ months, 2 blank pages.\n- Türkiye is visa-free for US tourists.\n\n## Packing\n- **One bag each you can carry and lift onto a roof rack.** About a dozen matatu legs; no wheeled cases.\n- Ventilated low hikers plus **short gaiters**. In persistent wet, drainage beats waterproofing — a soaked membrane boot takes days to dry and there's no way to force-dry anything at Kakamega. The gaiters matter more than the boots: forest mud, and grass seeds in the Mara.\n- **Headtorch and two power banks.** Power at Blue Shouldered is a generator, roughly 19:00–22:30 only.\n- A fleece. Laikipia and Nakuru nights run 8–12°C and dawn drives are genuinely cold. Istanbul is 4–9°C and wet.\n- **No camouflage or military-style clothing**: wearing anything resembling police/military uniform is illegal and police enforce it. Plastic bags are banned, including ones brought in (duty-free bags get confiscated).\n\n## Money\n- ~130 KES to the dollar. **Carry both cash and cards.** All KWS payments are cashless through eCitizen; matatus, bodas, forest guides, bike hire and tips are cash only.\n- Safaricom SIM at the airport with your passport, then set up M-Pesa.\n- Crisp post-2013 USD bills for tips.\n\n## Fees\n- The October 2025 KWS increase is still in court, but **the new rates are being charged**: Nakuru $90, Hell's Gate $50 (+~$10 cycling), Kakamega KWS (Buyangu) $50. Isecheno is KFS, cheaper.\n- Ol Pejeta and the Mara conservancies are not KWS and run separate, cashless systems.\n- Ol Pejeta entry covers 24h for overnight guests, but day visitors pay again on re-entry.\n\n## Road reality\n- **Nothing moves after dark.** Rural matatus stop in the late afternoon. Every leg is built for a morning start.\n- Longest days are ~5h (Jan 5, Jan 12). Nine days involve no travel.\n- Jan 1 is a public holiday — matatus run fuller and less often.\n\n## Health and safety\n- Kenya is **Level 2** (reissued Jul 2026). No Do-Not-Travel areas on this route.\n- **Matatus:** the State Dept tells travelers to avoid matatus and boda-bodas, and US government staff may not use them. The main risk is **crashes**, not just theft. Prefer registered coach/shuttle companies, daylight only, and get your insurer to confirm in writing that matatu and boda travel is covered.\n- **Yellow fever:** not required for US arrivals, but **CDC-recommended** for this route (everything outside Nairobi city and the coast).\n- **Ebola:** Kenya confirmed an imported Bundibugyo case on Oct 6 2026 (patient from DRC via Kampala, died in Nairobi). Kakamega, Nakuru and Kericho were named high-risk preparedness counties. Re-check the advisory before paying deposits; prefer refundable bookings.\n- **Mpox:** active in Busia (next to Kakamega), Nakuru and Nairobi.\n- Malaria prophylaxis from before arrival through 7 days after. Kakamega and Kisumu are high-transmission. DEET.\n- AMREF Maisha Bronze ($10) covers 15 days: start it Jan 1 so it runs through Jan 15.",
+  "open_questions": [
+    "~$5,579 pp: take the one-night Ol Pejeta cut to get under $5.5k, or keep two nights?",
+    "Insurance: medical + evacuation only, or pay ~$150 more for cancellation cover on the prepaid camp?",
+    "Will Basecamp Wilderness collect from Talek? (Ask when booking.)",
+    "Are you already vaccinated for yellow fever? It is CDC-recommended for this route."
+  ],
+  "sources": [
+    "https://www.turkishairlines.com/en-us/flights/stopover/",
+    "https://www.olpejetaconservancy.org/wp-content/uploads/2025/11/OPC-Tariff-Guide-2026.pdf",
+    "https://www.kws.go.ke/content/conservation-fees",
+    "https://kwspay.ecitizen.go.ke",
+    "https://hapakenya.com/2025/09/30/kws-announces-new-park-fees-effective-october-1-2025",
+    "https://www.kenyans.co.ke/news/116749-court-temporarily-stops-new-kws-park-entry-fees",
+    "https://cheetahsafaris.com/national-park/kakamega-forest-national-reserve",
+    "https://www.maasaimara.com/conservancies/siana-conservancy",
+    "https://www.campcarnelleys.com",
+    "https://etas.gov.ke",
+    "https://www.olpejetaconservancy.org/pelican-house/",
+    "https://old-website.olpejetaconservancy.org/ol-pejeta-escapes/study-and-budget/the-stables/",
+    "https://www.chaloafrica.com/accommodation/basecamp-wilderness-naboisho-conservancy-kenya/",
+    "https://www.chaloafrica.com/accommodation/encounter-mara-mara-naboisho-conservancy-kenya/",
+    "https://monkey.travel/en/accommodation/enkorok-mara",
+    "https://www.nathab.com/blog/kenyas-mara-siana-conservancy-from-goats-to-lions",
+    "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kenya-travel-advisory.html",
+    "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi",
+    "https://datazone.birdlife.org/site/factsheet/south-nandi-forest-iba-kenya/summary",
+    "https://www.crescentisland.co/entry-fees",
+    "https://insideflyer.com/2025/05/12/turkish-airlines-expands-free-stopover-program-in-istanbul/",
+    "https://lostin.istanbul/articles/transportation/from-istanbul-airport-to-sultanahmet",
+    "https://www.chaloafrica.com/accommodation/basecamp-wilderness-naboisho-conservancy-kenya/",
+    "https://africanspicesafaris.com/website/wilderness-camp-naboisho-conservancy.html",
+    "https://flydoc.org/maisha-plan/maisha-plan-short-time/",
+    "https://kws.go.ke/node/422",
+    "https://www.olpejetaconservancy.org/wp-content/uploads/2025/02/OPC-Tariff-Guide-2025.pdf",
+    "https://istanbul.com/blog/museums/istanbul-museum-pass",
+    "https://www.beyondtheplainssafaris.com/blogs/masai-mara-park-fees-2026-27"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "IST": {
+      "name": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "kind": "city",
+      "country": "Türkiye"
+    },
+    "NBO": {
+      "name": "Nairobi (JKIA)",
+      "lat": -1.3192,
+      "lng": 36.9278,
+      "kind": "transit",
+      "country": "Kenya"
+    },
+    "KAR": {
+      "name": "Nairobi (Karen/Langata)",
+      "lat": -1.3333,
+      "lng": 36.7167,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "NYK": {
+      "name": "Nanyuki",
+      "lat": 0.0167,
+      "lng": 37.0667,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "lat": 0.0,
+      "lng": 36.9167,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NYA": {
+      "name": "Nyahururu (Thomson's Falls)",
+      "lat": 0.0333,
+      "lng": 36.3667,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "NAK": {
+      "name": "Lake Nakuru NP",
+      "lat": -0.3667,
+      "lng": 36.0833,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "ELD": {
+      "name": "Eldoret",
+      "lat": 0.5143,
+      "lng": 35.2698,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "KAK": {
+      "name": "Kakamega Forest (Isecheno)",
+      "lat": 0.2333,
+      "lng": 34.8667,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "KSM": {
+      "name": "Kisumu",
+      "lat": -0.0917,
+      "lng": 34.768,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "KER": {
+      "name": "Kericho",
+      "lat": -0.3692,
+      "lng": 35.2831,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "BMT": {
+      "name": "Bomet",
+      "lat": -0.7833,
+      "lng": 35.3333,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "MARA": {
+      "name": "Mara Naboisho Conservancy",
+      "lat": -1.37,
+      "lng": 35.3,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "NRK": {
+      "name": "Narok",
+      "lat": -1.0833,
+      "lng": 35.8667,
+      "kind": "city",
+      "country": "Kenya"
+    },
+    "NAI": {
+      "name": "Lake Naivasha",
+      "lat": -0.7667,
+      "lng": 36.35,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "JKIA": {
+      "name": "Airport-area hotel, Mombasa Rd",
+      "lat": -1.33,
+      "lng": 36.89,
+      "kind": "city",
+      "country": "Kenya"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-26",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "TK10 19:45 → IST 19:00 next day"
+    },
+    {
+      "date": "2026-12-27",
+      "from": "IST",
+      "to": "IST",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Metro M11 → M2 → T1 to Sultanahmet. Istanbulkart at the station."
+    },
+    {
+      "date": "2026-12-30",
+      "from": "IST",
+      "to": "NBO",
+      "mode": "flight",
+      "duration": "~7h",
+      "detail": "TK607 20:30 → NBO 03:05"
+    },
+    {
+      "date": "2026-12-31",
+      "from": "NBO",
+      "to": "KAR",
+      "mode": "road",
+      "duration": "~45m",
+      "detail": "Pre-booked taxi at 04:00; room held from Dec 30"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "KAR",
+      "to": "NYK",
+      "mode": "road",
+      "duration": "~3.5–4.5h",
+      "detail": "Matatu/shuttle via Thika and Karatina, KSh 700–1,000, incl. filling time"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "NYK",
+      "to": "OPC",
+      "mode": "road",
+      "duration": "~45m",
+      "detail": "Transfer to the conservancy gate, ~$25/car"
+    },
+    {
+      "date": "2027-01-03",
+      "from": "OPC",
+      "to": "NYA",
+      "mode": "road",
+      "duration": "~2h",
+      "detail": "Gate transfer to Nanyuki, then matatu to Nyahururu; Thomson's Falls stop"
+    },
+    {
+      "date": "2027-01-03",
+      "from": "NYA",
+      "to": "NAK",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Matatu Nyahururu → Nakuru town"
+    },
+    {
+      "date": "2027-01-05",
+      "from": "NAK",
+      "to": "KAK",
+      "mode": "road",
+      "duration": "~5h",
+      "detail": "Direct coach to Kakamega town (~4h), matatu to Shinyalu, boda ~6 km to Isecheno"
+    },
+    {
+      "date": "2027-01-08",
+      "from": "KAK",
+      "to": "KSM",
+      "mode": "road",
+      "duration": "~2–3h",
+      "detail": "Boda to Shinyalu, matatu via Kakamega town to Kisumu"
+    },
+    {
+      "date": "2027-01-08",
+      "from": "KSM",
+      "to": "KER",
+      "mode": "road",
+      "duration": "~1.5–2h",
+      "detail": "Matatu through the tea estates"
+    },
+    {
+      "date": "2027-01-09",
+      "from": "KER",
+      "to": "BMT",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Matatu, after the tea-estate morning"
+    },
+    {
+      "date": "2027-01-09",
+      "from": "BMT",
+      "to": "NRK",
+      "mode": "road",
+      "duration": "~1.5–2h",
+      "detail": "Matatu Bomet → Narok (leg missing from the original plan)"
+    },
+    {
+      "date": "2027-01-10",
+      "from": "NRK",
+      "to": "MARA",
+      "mode": "road",
+      "duration": "~3–3.5h",
+      "detail": "Matatu Narok → Talek, then camp pickup from Talek (confirm with the camp)"
+    },
+    {
+      "date": "2027-01-12",
+      "from": "MARA",
+      "to": "NRK",
+      "mode": "road",
+      "duration": "~2h",
+      "detail": "Camp transfer to Narok"
+    },
+    {
+      "date": "2027-01-12",
+      "from": "NRK",
+      "to": "NAI",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "Matatu via Mai Mahiu; may change at Mai Mahiu. Heavy trucks on the escarpment."
+    },
+    {
+      "date": "2027-01-15",
+      "from": "NAI",
+      "to": "JKIA",
+      "mode": "road",
+      "duration": "~3–3.5h",
+      "detail": "Shuttle or private car via Nairobi; allow for traffic"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "JKIA",
+      "to": "NBO",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Hotel shuttle at 03:00"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "NBO",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~21h",
+      "detail": "TK608 04:50 → IST, then TK9 → LAX ~18:15 same day"
+    }
+  ],
+  "stays": [
+    {
+      "place": "IST",
+      "from": "2026-12-27",
+      "nights": 3,
+      "label": "Istanbul"
+    },
+    {
+      "place": "KAR",
+      "from": "2026-12-31",
+      "nights": 1,
+      "label": "Nairobi rest"
+    },
+    {
+      "place": "OPC",
+      "from": "2027-01-01",
+      "nights": 2,
+      "label": "Ol Pejeta"
+    },
+    {
+      "place": "NAK",
+      "from": "2027-01-03",
+      "nights": 2,
+      "label": "Lake Nakuru"
+    },
+    {
+      "place": "KAK",
+      "from": "2027-01-05",
+      "nights": 3,
+      "label": "Kakamega rainforest"
+    },
+    {
+      "place": "KER",
+      "from": "2027-01-08",
+      "nights": 1,
+      "label": "Kericho"
+    },
+    {
+      "place": "NRK",
+      "from": "2027-01-09",
+      "nights": 1,
+      "label": "Narok (pickup night)"
+    },
+    {
+      "place": "MARA",
+      "from": "2027-01-10",
+      "nights": 2,
+      "label": "Naboisho conservancy"
+    },
+    {
+      "place": "NAI",
+      "from": "2027-01-12",
+      "nights": 3,
+      "label": "Naivasha / Hell's Gate"
+    },
+    {
+      "place": "JKIA",
+      "from": "2027-01-15",
+      "nights": 1,
+      "label": "Airport hotel"
+    }
+  ],
+  "fatigue_check": "Longest days ~5h, at the cap: Jan 5 (Nakuru → Kakamega by direct coach + boda) and Jan 12 (Mara → Narok → Naivasha).\nJan 3 is three matatu connections (~3.5–4h with the Thomson's Falls stop); a private car is the alternative.\nKericho → Mara is split at Narok (3.5h + 2.5h) instead of a 5–6h day via Bomet.\nZero-travel days: Dec 28, Dec 29, Jan 2, Jan 4, Jan 6, Jan 7, Jan 11, Jan 13, Jan 14 (nine).",
+  "hero_photo": "Kakamega_Forest",
+  "photos": {
+    "IST": {
+      "name": "Istanbul",
+      "wiki": [
+        "Istanbul",
+        "Hagia_Sophia",
+        "Basilica_Cistern",
+        "Bosphorus"
+      ]
+    },
+    "KAR": {
+      "name": "Nairobi",
+      "wiki": [
+        "Nairobi",
+        "Nairobi_National_Park"
+      ]
+    },
+    "OPC": {
+      "name": "Ol Pejeta Conservancy",
+      "wiki": [
+        "Ol_Pejeta_Conservancy",
+        "Black_rhinoceros",
+        "Northern_white_rhinoceros",
+        "Chimpanzee"
+      ]
+    },
+    "NAK": {
+      "name": "Lake Nakuru",
+      "wiki": [
+        "Lake_Nakuru",
+        "Rothschild's_giraffe",
+        "White_rhinoceros",
+        "Lesser_flamingo"
+      ]
+    },
+    "KAK": {
+      "name": "Kakamega Forest",
+      "wiki": [
+        "Kakamega_Forest",
+        "De_Brazza's_monkey",
+        "Great_blue_turaco",
+        "Mantled_guereza"
+      ]
+    },
+    "KER": {
+      "name": "Kericho",
+      "wiki": [
+        "Kericho",
+        "Tea_production_in_Kenya"
+      ]
+    },
+    "MARA": {
+      "name": "Mara Naboisho Conservancy",
+      "wiki": [
+        "Maasai_Mara",
+        "Lion",
+        "Cheetah",
+        "Maasai_people"
+      ]
+    },
+    "NAI": {
+      "name": "Lake Naivasha",
+      "wiki": [
+        "Lake_Naivasha",
+        "Hell's_Gate_National_Park",
+        "Hippopotamus",
+        "Crescent_Island_Game_Sanctuary"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "De Brazza's monkey",
+      "wiki": "De_Brazza's_monkey",
+      "where": "Kakamega (mainly Kisere, the northern block)",
+      "odds": "Possible"
+    },
+    {
+      "name": "Mantled guereza (black-and-white colobus)",
+      "wiki": "Mantled_guereza",
+      "where": "Kakamega",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Blue monkey",
+      "wiki": "Blue_monkey",
+      "where": "Kakamega",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Red-tailed monkey",
+      "wiki": "Red-tailed_monkey",
+      "where": "Kakamega",
+      "odds": "Likely"
+    },
+    {
+      "name": "Potto",
+      "wiki": "Potto",
+      "where": "Kakamega, night walks",
+      "odds": "Possible — a very good night"
+    },
+    {
+      "name": "Great blue turaco",
+      "wiki": "Great_blue_turaco",
+      "where": "Kakamega (in Kenya, essentially only the Kakamega–Nandi forests)",
+      "odds": "Likely"
+    },
+    {
+      "name": "Turner's eremomela",
+      "wiki": "Turner's_eremomela",
+      "where": "Kakamega; also South Nandi Forest",
+      "odds": "Possible"
+    },
+    {
+      "name": "Hammer-headed bat",
+      "wiki": "Hammer-headed_bat",
+      "where": "Kakamega at dusk",
+      "odds": "Heard, rarely seen"
+    },
+    {
+      "name": "Gaboon viper",
+      "wiki": "Gaboon_viper",
+      "where": "Kakamega",
+      "odds": "Unlikely — snakes here are hard to find"
+    },
+    {
+      "name": "Black rhinoceros",
+      "wiki": "Black_rhinoceros",
+      "where": "Ol Pejeta, Lake Nakuru",
+      "odds": "Good chance"
+    },
+    {
+      "name": "White rhinoceros",
+      "wiki": "White_rhinoceros",
+      "where": "Ol Pejeta, Lake Nakuru",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Northern white rhinoceros",
+      "wiki": "Northern_white_rhinoceros",
+      "where": "Ol Pejeta: Najin and Fatu, separately booked visit",
+      "odds": "Certain, with the add-on"
+    },
+    {
+      "name": "Chimpanzee",
+      "wiki": "Chimpanzee",
+      "where": "Sweetwaters sanctuary, Ol Pejeta",
+      "odds": "Certain"
+    },
+    {
+      "name": "Grevy's zebra",
+      "wiki": "Grevy's_zebra",
+      "where": "Ol Pejeta",
+      "odds": "Likely"
+    },
+    {
+      "name": "Rothschild's giraffe",
+      "wiki": "Rothschild's_giraffe",
+      "where": "Lake Nakuru",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Lion",
+      "wiki": "Lion",
+      "where": "Naboisho, Ol Pejeta, Nakuru",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Cheetah",
+      "wiki": "Cheetah",
+      "where": "Naboisho",
+      "odds": "Good chance"
+    },
+    {
+      "name": "Leopard",
+      "wiki": "Leopard",
+      "where": "Naboisho, Nakuru",
+      "odds": "Possible"
+    },
+    {
+      "name": "Serval",
+      "wiki": "Serval",
+      "where": "Naboisho night drive",
+      "odds": "Good chance"
+    },
+    {
+      "name": "Common genet",
+      "wiki": "Common_genet",
+      "where": "Naboisho night drive",
+      "odds": "Likely"
+    },
+    {
+      "name": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "where": "Naivasha — grazing the lawns after dark",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Plains zebra",
+      "wiki": "Plains_zebra",
+      "where": "Crescent Island, on foot",
+      "odds": "Certain"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Kenya & Istanbul",
+      "country": "Kenya"
+    },
+    "budget_target": {
+      "low": 5000,
+      "high": 6000
+    },
+    "currency": "USD"
+  }
+}

@@ -949,11 +949,18 @@
   function tripUrl(id) { return '?trip=' + encodeURIComponent(id); }
   function renderTabs(activeId) {
     var bar = $('#trip-tabs'); if (!bar || !MANIFEST) return;
-    var links = MANIFEST.trips.map(function (t) {
-      return '<a role="tab" href="' + tripUrl(t.id) + '"' + (t.id === activeId ? ' class="on" aria-selected="true"' : '') + ' title="' + esc(t.summary || '') + '">' + esc(t.label) + '</a>';
+    // A dropdown instead of a row of pills: the list outgrew a horizontal scroll.
+    var opts = MANIFEST.trips.map(function (t) {
+      return '<option value="' + esc(tripUrl(t.id)) + '"' + (t.id === activeId ? ' selected' : '') + ' title="' + esc(t.summary || '') + '">' + esc(t.label) + '</option>';
     });
-    if (MANIFEST.trips.length > 1) links.push('<a role="tab" href="?view=compare" class="tab-compare' + (activeId === 'compare' ? ' on' : '') + '">⇆ Compare</a>');
-    bar.querySelector('.tabs').innerHTML = links.join('');
+    if (activeId === 'compare') opts.unshift('<option value="" selected disabled>Choose a trip…</option>');
+    var html = '<select class="trip-select" aria-label="Choose a trip">' + opts.join('') + '</select>';
+    var cur = MANIFEST.trips.filter(function (t) { return t.id === activeId; })[0];
+    if (cur && cur.summary) html += '<span class="trip-sum">' + esc(cur.summary) + '</span>';
+    if (MANIFEST.trips.length > 1) html += '<a href="?view=compare" class="tab-compare' + (activeId === 'compare' ? ' on' : '') + '">⇆ Compare</a>';
+    var box = bar.querySelector('.tabs');
+    box.innerHTML = html;
+    box.querySelector('select').addEventListener('change', function (e) { if (e.target.value) location.href = e.target.value; });
   }
 
   // Numbers that can be lined up across trips. Everything is derived from the trip file.

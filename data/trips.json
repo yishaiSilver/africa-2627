@@ -79,6 +79,12 @@
       "file": "data/trips/no-crew-fixed.json"
     },
     {
+      "id": "no-crew-lean",
+      "label": "No-crew, lean · Jan 16",
+      "summary": "Your no-crew loop after a review of the fact-check: same route, camp and parks; leaner insurance, AMREF tier, Mara transfer and Istanbul tickets. ~$5,579 pp.",
+      "file": "data/trips/no-crew-lean.json"
+    },
+    {
       "id": "tanzania",
       "label": "Istanbul + Tanzania · Jan 12",
       "summary": "Istanbul 3n, then a 6-day northern camping safari (Tarangire, Serengeti ×3, crater) and a 4-day Mikumi + Udzungwa trip from Dar. ~$5,455 pp.",
