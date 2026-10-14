@@ -2,8 +2,8 @@
   "id": "kenya-minus-kakamega",
   "label": "Kenya minus Kakamega · Jan 15",
   "title": "Kenya minus Kakamega: Istanbul, Ol Pejeta, Lake Baringo, Nakuru, Masai Mara (Naboisho) and Naivasha",
-  "summary": "Istanbul 3n, then Ol Pejeta, Lake Baringo & Bogoria, Nakuru, Masai Mara (Naboisho conservancy), Naivasha and Nairobi NP, without Kakamega. Something planned every day; 18 nights on the ground. ~$6,248 pp.",
-  "overview": "- **What this is:** the no-crew loop with Kakamega dropped (and with it the Kericho and Narok stopover nights). Every day has a plan; only Dec 31, after the 03:05 landing, is a recovery day.\n- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 18 nights on the ground: 3 Istanbul, 15 Kenya (plus 2 on planes).\n- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Lake Baringo 3n** → Nakuru 1n → **Masai Mara** (Naboisho conservancy) 2n → Naivasha 4n → Nairobi (Karen) 2n.\n- **After dark and on foot:** night drives at Ol Pejeta and in the Mara; walks at Ol Pejeta, the Mara, Ruko (giraffe), Crescent Island, Hell's Gate gorge, Longonot and the Ngong Hills; a horseback ride among giraffe at Naivasha.\n- **Lake Baringo** sits on the way from Ol Pejeta to Nakuru: dawn boats among crocodiles, hippos and fish eagles; Lake Bogoria's geysers and flamingos; Rothschild's giraffe at Ruko.\n- **No empty travel days:** Jan 6 reaches Nakuru by 10:00 for a full park day; Jan 13 is the Sheldrick orphanage and a Nairobi National Park drive on the way in.\n- **Budget: ~$6,248 pp** (was $5,764): filling every day means paying for activities. Biggest items: the private car to Baringo ($110), the horseback ride ($80) and the Ol Pejeta night drive ($70).",
+  "summary": "Istanbul 3n, then Ol Pejeta, Lake Baringo & Bogoria, Nakuru, Masai Mara (Naboisho conservancy), Naivasha and Nairobi NP, without Kakamega. Something planned every day; 18 nights on the ground. ~$6,274 pp.",
+  "overview": "- **What this is:** the no-crew loop with Kakamega dropped (and with it the Kericho and Narok stopover nights). Every day has a plan; only Dec 31, after the 03:05 landing, is a recovery day.\n- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 18 nights on the ground: 3 Istanbul, 15 Kenya (plus 2 on planes).\n- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Lake Baringo 3n** → Nakuru 1n → **Masai Mara** (Naboisho conservancy) 2n → Naivasha 4n (Hell's Gate + Crescent Island, Longonot, Suswa) → Nairobi (Karen) 2n.\n- **After dark and on foot:** night drives at Ol Pejeta and in the Mara; walks at Ol Pejeta, the Mara, Ruko (giraffe), Crescent Island, Hell's Gate gorge, Longonot, the Mount Suswa caves and the Ngong Hills.\n- **Lake Baringo** sits on the way from Ol Pejeta to Nakuru: dawn boats among crocodiles, hippos and fish eagles; Lake Bogoria's geysers and flamingos; Rothschild's giraffe at Ruko.\n- **No empty travel days:** Jan 6 reaches Nakuru by 10:00 for a full park day; Jan 13 is the Sheldrick orphanage and a Nairobi National Park drive on the way in.\n- **Budget: ~$6,274 pp** (was $5,764): filling every day means paying for activities. Biggest items: the private car to Baringo ($110), the Suswa 4x4 day ($105) and the Ol Pejeta night drive ($70).",
   "dates": {
     "depart": "2026-12-26",
     "return": "2027-01-15"
@@ -147,9 +147,9 @@
     {
       "date": "2027-01-10",
       "day_label": "Day 16 – Sun",
-      "location": "Lake Naivasha",
-      "title": "Crescent Island on foot, then on horseback",
-      "details": "Morning boat on the lake (hippos, fish eagles) to Crescent Island: walk freely among zebra, giraffe, waterbuck and wildebeest. Afternoon: 2h horseback ride at Sanctuary Farm next door, riding up to giraffe and zebra.",
+      "location": "Hell's Gate NP / Crescent Island",
+      "title": "Hell's Gate at dawn, Crescent Island in the afternoon",
+      "details": "At Elsa Gate for the 06:00 opening, when zebra, buffalo, eland and giraffe are out on the road. Cycle ~7 km past Fischer's Tower to Ol Njorowa gorge, then the Lower Gorge with a licensed guide: a scramble down a narrow red canyon past hot springs and steam vents. Out by ~12:00. Afternoon boat on the lake (hippos, fish eagles) to Crescent Island: walk freely among zebra, giraffe, waterbuck and wildebeest.",
       "overnight": "Naivasha lakeshore banda",
       "meals": "Own"
     },
@@ -165,11 +165,11 @@
     {
       "date": "2027-01-12",
       "day_label": "Day 18 – Tue",
-      "location": "Hell's Gate NP",
-      "title": "Hell's Gate: bike in at dawn, scramble the gorge",
-      "details": "At Elsa Gate for the 06:00 opening, when the zebra, buffalo, eland and giraffe are out on the road. Cycle ~7 km past Fischer's Tower to Ol Njorowa gorge, then the Lower Gorge with a licensed guide: a scramble down a narrow red canyon past hot springs and steam vents. Out by early afternoon; laundry and repack before Nairobi.",
+      "location": "Mount Suswa",
+      "title": "Mount Suswa: crater rim and lava-tube caves",
+      "details": "Hired 4x4 with driver from Naivasha at 06:30, via Mai Mahiu and a rough track up the volcano (~2–2.5h). Hike to the outer crater rim with a community guide (~2.5h round trip), then a guided walk into the lava-tube caves (~1.5h; bats, collapsed skylights; bring a headtorch). Back at Naivasha by dusk.",
       "overnight": "Naivasha lakeshore banda",
-      "meals": "Own"
+      "meals": "Packed lunch"
     },
     {
       "date": "2027-01-13",
@@ -613,20 +613,20 @@
       "notes": "Crescent Island $33 + boat ~$20 pp shared."
     },
     {
-      "category": "Activities",
-      "item": "Sanctuary Farm horseback ride, 2h",
-      "per_person_usd": 80,
-      "low_usd": 50,
-      "high_usd": 90,
-      "notes": "Operator-listed $80 pp for 2h; confirm with the farm."
-    },
-    {
       "category": "Park fees",
       "item": "Mount Longonot NP, 1 day + transport",
       "per_person_usd": 60,
       "low_usd": 55,
       "high_usd": 75,
       "notes": "KWS non-resident $50 since Oct 2025; matatu and boda to the gate ~$5; ranger optional, $15–25 per group."
+    },
+    {
+      "category": "Activities",
+      "item": "Mount Suswa: hired 4x4 + driver, entry, rim and cave guides",
+      "per_person_usd": 105,
+      "low_usd": 80,
+      "high_usd": 140,
+      "notes": "Entry ~KSh 3,000 (foreign adult, 2023 schedule), guides ~KSh 1,000 pp + cave guide ~KSh 500; 4x4 with driver ~$130–150/day, split two ways. Packaged day trips list ~$78 pp from Nairobi."
     },
     {
       "category": "Park fees",
@@ -799,13 +799,13 @@
     {
       "category": "Contingency",
       "item": "~5%, held until bookings are confirmed",
-      "per_person_usd": 298,
+      "per_person_usd": 299,
       "low_usd": 234,
       "high_usd": 526,
       "notes": "Ebola/advisory changes, KWS ruling, festive uplift, FX."
     }
   ],
-  "budget_total_per_person_usd": 6248,
+  "budget_total_per_person_usd": 6274,
   "alternatives": [
     {
       "id": "opc-two-drives",
@@ -827,9 +827,9 @@
     },
     {
       "id": "mara-3n",
-      "name": "Third Masai Mara night instead of the Hell's Gate day",
-      "description": "Another full conservancy day at ~$630 pppn, less a Naivasha night, Hell's Gate fees and a day of food.",
-      "cost_delta_per_person_usd": 520
+      "name": "Third Masai Mara night instead of the Suswa day",
+      "description": "Another full conservancy day at ~$630 pppn, less a Naivasha night, the Suswa trip and a day of food.",
+      "cost_delta_per_person_usd": 475
     },
     {
       "id": "ins-comp",
@@ -854,12 +854,6 @@
       "name": "Matatus to Baringo instead of the private car",
       "description": "Three or four changes via Nyahururu and Nakuru, 6h+ — over the 5h cap.",
       "cost_delta_per_person_usd": -95
-    },
-    {
-      "id": "no-horses",
-      "name": "Skip the horseback ride",
-      "description": "Crescent Island and the boat only on Jan 10.",
-      "cost_delta_per_person_usd": -80
     }
   ],
   "booking_timeline": [
@@ -881,7 +875,7 @@
     },
     {
       "when": "By Nov 15",
-      "task": "Book the Baringo banda (Jan 3–5), the Jan 3 private car, Nakuru (Jan 6), Naivasha (Jan 9–12), Karen (Jan 13–14), the Jan 10 Sanctuary Farm ride, and the 02:45 Jan 15 taxi. Email Sheldrick for Jan 13 at 11:00."
+      "task": "Book the Baringo banda (Jan 3–5), the Jan 3 private car, Nakuru (Jan 6), Naivasha (Jan 9–12), Karen (Jan 13–14), a 4x4 with driver for Suswa on Jan 12, and the 02:45 Jan 15 taxi. Email Sheldrick for Jan 13 at 11:00."
     },
     {
       "when": "Mid-to-late Nov",
@@ -898,7 +892,7 @@
   ],
   "practical": "## Entry\n- Kenya eTA $30, **etakenya.go.ke only** (not etas.gov.ke); lookalike sites overcharge. Passport 6+ months, 2 blank pages.\n- Türkiye is visa-free for US tourists.\n\n## Packing\n- **No camping gear needed.** Every night is a room, a banda (cabin) or the Mara's permanent tented camp, which has real beds and an en-suite bathroom.\n- **One bag each you can carry and lift onto a roof rack.** About seven matatu legs; no wheeled cases.\n- Ventilated low hikers plus **short gaiters** for grass seeds on the Ol Pejeta and Mara walks.\n- Headtorch and a power bank.\n- A fleece. Laikipia and Nakuru nights run 8–12°C and dawn drives are genuinely cold. Istanbul is 4–9°C and wet.\n- **No camouflage or military-style clothing**: wearing anything resembling police/military uniform is illegal and police enforce it. Plastic bags are banned, including ones brought in (duty-free bags get confiscated).\n\n## Money\n- ~130 KES to the dollar. **Carry both cash and cards.** All KWS payments are cashless through eCitizen; matatus, bodas, bike hire and tips are cash only.\n- Safaricom SIM at the airport with your passport, then set up M-Pesa.\n- Crisp post-2013 USD bills for tips.\n\n## Fees\n- The October 2025 KWS increase is still in court, but **the new rates are being charged**: Nakuru $90, Hell's Gate and Longonot $50 (+~$10 cycling at Hell's Gate). Lake Bogoria is a county reserve ($50), not KWS.\n- Ol Pejeta and the Mara conservancies are not KWS and run separate, cashless systems.\n- Ol Pejeta entry covers 24h for overnight guests, but day visitors pay again on re-entry.\n\n## Road reality\n- **Nothing moves after dark.** Rural matatus stop in the late afternoon. Every leg is built for a morning start.\n- Longest days are ~5h (Jan 7, Jan 9). Baringo is hot (30–35°C at midday): boats at dawn, walks early or late.\n- Jan 1 is a public holiday — matatus run fuller and less often.\n\n## Health and safety\n- Kenya is **Level 2** (reissued Jul 2026). No Do-Not-Travel areas on this route.\n- **Matatus:** the State Dept tells travelers to avoid matatus and boda-bodas, and US government staff may not use them. The main risk is **crashes**, not just theft. Prefer registered coach/shuttle companies, daylight only, and get your insurer to confirm in writing that matatu and boda travel is covered.\n- **Yellow fever:** not required for US arrivals, but **CDC-recommended** for this route (everything outside Nairobi city and the coast).\n- **Ebola:** Kenya confirmed an imported Bundibugyo case on Oct 6 2026 (patient from DRC via Kampala, died in Nairobi). Nakuru was named a high-risk preparedness county. Re-check the advisory before paying deposits; prefer refundable bookings.\n- **Mpox:** active in Nakuru and Nairobi.\n- Malaria prophylaxis from before arrival through 7 days after. DEET.\n- AMREF Maisha Bronze ($10) covers 15 days: start it Dec 31 so it runs through Jan 14.",
   "open_questions": [
-    "~$6,248 pp: OK, or drop the horseback ride (−$80) or take matatus to Baringo (−$95, but a 6h+ day)?",
+    "~$6,248 pp: OK, or take matatus to Baringo (−$95, but a 6h+ day)?",
     "Insurance: medical + evacuation only, or pay ~$150 more for cancellation cover on the prepaid camp?",
     "Are you already vaccinated for yellow fever? It is CDC-recommended for this route."
   ],
@@ -936,7 +930,9 @@
     "https://lakebaringo.org/",
     "https://ajkenyasafaris.com/things-todo/lake-baringo/",
     "https://africanspicesafaris.com/tour/samatian-island-lodge-lake-baringo/",
-    "https://en.wikipedia.org/wiki/Ngong_Hills"
+    "https://en.wikipedia.org/wiki/Ngong_Hills",
+    "https://showcaves.com/english/ke/caves/MountSuswa.html",
+    "https://standardmedia.co.ke/business/amp/travel/article/2001497695/a-sh3000-day-trip-to-suswa"
   ],
   "places": {
     "LAX": {
@@ -1226,7 +1222,7 @@
       "label": "Nairobi NP & Ngong Hills"
     }
   ],
-  "fatigue_check": "Longest days ~5h: Jan 7 (Nakuru → Narok → Masai Mara) and Jan 9 (Masai Mara → Narok → Naivasha).\nJan 3 is ~4.5h in a private car with the Thomson's Falls stop; Jan 6 is 2.5h by matatu before a full park day.\nBusy stretch: Jan 1–2 (night drive, then a 06:30 walk and 8h drive) and Jan 10–14 (horses, Longonot, the gorge, Nairobi NP, Ngong Hills). Dec 31 is the only recovery day.",
+  "fatigue_check": "Longest days ~5h: Jan 7 (Nakuru → Narok → Masai Mara) and Jan 9 (Masai Mara → Narok → Naivasha).\nJan 3 is ~4.5h in a private car with the Thomson's Falls stop; Jan 6 is 2.5h by matatu before a full park day.\nBusy stretch: Jan 1–2 (night drive, then a 06:30 walk and 8h drive) and Jan 10–14 (Hell's Gate + Crescent, Longonot, Suswa, Nairobi NP, Ngong Hills). Dec 31 is the only recovery day.",
   "hero_photo": "Lake_Baringo",
   "photos": {
     "IST": {
@@ -1278,7 +1274,8 @@
         "Lake_Naivasha",
         "Hell's_Gate_National_Park",
         "Mount_Longonot",
-        "Crescent_Island_Game_Sanctuary"
+        "Crescent_Island_Game_Sanctuary",
+        "Mount_Suswa"
       ]
     },
     "KRN": {
