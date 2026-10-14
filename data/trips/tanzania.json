@@ -2,8 +2,8 @@
   "id": "tanzania",
   "label": "Istanbul + Tanzania · Jan 12",
   "title": "Istanbul & Tanzania: Serengeti, Ngorongoro, Mikumi and the Udzungwa rainforest",
-  "summary": "Istanbul 3n, then a 6-day northern camping safari (Tarangire, Serengeti ×3, crater) and a 4-day Mikumi + Udzungwa trip from Dar. ~$5,455 pp.",
-  "overview": "- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 17 nights: 3 Istanbul, 13 Tanzania, 1 on a plane.\n- **Route:** Istanbul 3n → Arusha 1n → **6-day northern camping safari** (Tarangire, Serengeti 3n, Ngorongoro rim, crater) → Arusha 1n → fly to Dar → **4-day Mikumi + Udzungwa** → home from Dar.\n- **Why Istanbul Dec 30, not Dec 31:** one fewer paid hotel night and day of food (~$95 pp), and the trip ends a day sooner. Istanbul is on Tanzania time, so the jet lag is handled there; the Dec 31 Arusha day only has to absorb the 01:40 landing.\n- **Why Udzungwa and Mikumi:** Udzungwa is real Eastern Arc rainforest with 12 primate species, two of them found nowhere else (Udzungwa red colobus, Sanje mangabey). Mikumi is the savanna next door: a second, quiet big-game park.\n- **Big 5:** lion, elephant, buffalo near-certain; leopard gets three Serengeti days plus Mikumi; rhino rests on the Ngorongoro crater.\n- **Budget: ~$5,455 pp,** just under the $5.5k ceiling, with **no contingency**. To fit, the northern safari is 6 days (Lake Manyara cut) and Istanbul ends Dec 30. Manyara is one toggle away in Options.",
+  "summary": "Istanbul 3n, then a private 6-day northern camping safari (Tarangire walk + night drive, Serengeti ×3, crater) and a 4-day Mikumi + Udzungwa trip from Dar. ~$5,820 pp.",
+  "overview": "- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 17 nights: 3 Istanbul, 13 Tanzania, 1 on a plane.\n- **Route:** Istanbul 3n → Arusha 1n → **6-day northern camping safari** (Tarangire, Serengeti 3n, Ngorongoro rim, crater) → Arusha 1n → fly to Dar → **4-day Mikumi + Udzungwa** → home from Dar.\n- **Why Istanbul Dec 30, not Dec 31:** one fewer paid hotel night and day of food (~$95 pp), and the trip ends a day sooner. Istanbul is on Tanzania time, so the jet lag is handled there; the Dec 31 Arusha day only has to absorb the 01:40 landing.\n- **Why Udzungwa and Mikumi:** Udzungwa is real Eastern Arc rainforest with 12 primate species, two of them found nowhere else (Udzungwa red colobus, Sanje mangabey). Mikumi is the savanna next door: a second, quiet big-game park.\n- **Big 5:** lion, elephant, buffalo near-certain; leopard gets three Serengeti days plus Mikumi; rhino rests on the Ngorongoro crater.\n- **On foot and after dark:** the northern safari is private, so day 1 in Tarangire adds a ranger-led walking safari and a night drive. Most Tanzanian parks (Serengeti, Ngorongoro) ban night drives; Tarangire is one of the few that allow them. Udzungwa is a full day on foot, and a Mikumi walk + night drive is an option.\n- **Budget: ~$5,820 pp**, ~$365 more than the shared-group version, with **no contingency**. The private safari and the Tarangire walk + night drive add ~$475; switching insurance to medical + evacuation takes back $110. The northern safari is 6 days (Lake Manyara cut) and Istanbul ends Dec 30.",
   "dates": {
     "depart": "2026-12-26",
     "return": "2027-01-12"
@@ -67,9 +67,9 @@
       "date": "2027-01-01",
       "day_label": "Day 7 – Fri",
       "location": "Arusha → Tarangire",
-      "title": "Safari day 1: Tarangire elephants",
-      "details": "Pickup ~08:00, ~2.5h to Tarangire. Full afternoon drive: big elephant herds, baobabs, lion. Camp near Mto wa Mbu or Karatu.",
-      "overnight": "Safari camp (in package)",
+      "title": "Safari day 1: Tarangire on foot and after dark",
+      "details": "Pickup ~07:00, ~2.5h to Tarangire. Late-morning drive: big elephant herds, baobabs, lion. Mid-afternoon, a 2–3h walking safari with an armed TANAPA ranger, on foot among elephant, giraffe and zebra. After dinner, a night drive (TANAPA window 19:00–23:00) with a spotlight: bushbaby, genet, civet, porcupine, and a chance of leopard or lion hunting. Camp at the Tarangire public campsite.",
+      "overnight": "Tarangire public campsite",
       "meals": "B, L, D safari"
     },
     {
@@ -140,7 +140,7 @@
       "day_label": "Day 15 – Sat",
       "location": "Mikumi NP",
       "title": "South trip day 2: full day in Mikumi",
-      "details": "Zero transfer. Full-day drive on the Mkata floodplain; leopard is possible in the wooded hills. Few vehicles compared with the north.",
+      "details": "Zero transfer. Full-day drive on the Mkata floodplain; leopard is possible in the wooded hills. Few vehicles compared with the north. Option: a ranger-led morning walk and a night drive here too.",
       "overnight": "Lodge/camp near Mikumi (in package)",
       "meals": "B, L, D tour"
     },
@@ -200,7 +200,7 @@
     {
       "name": "Northern safari campsites (in package)",
       "place": "SER",
-      "location": "Tarangire area, Seronera, Ngorongoro rim",
+      "location": "Tarangire, Seronera, Ngorongoro rim",
       "nights": 5,
       "pppn_usd": 0,
       "style": "Budget camping safari",
@@ -277,11 +277,27 @@
     },
     {
       "category": "Safaris",
-      "item": "6-day northern camping safari (shared group)",
-      "per_person_usd": 1850,
-      "low_usd": 1650,
-      "high_usd": 2500,
-      "notes": "Tarangire, Serengeti ×3, Ngorongoro crater. Includes park fees, crater fee, campsites, meals, guide and vehicle. 7-day budget camping listings run ~$2,190+; the 6-day cut drops Lake Manyara. Estimate — get two quotes."
+      "item": "6-day northern camping safari (private vehicle, 2 people)",
+      "per_person_usd": 2200,
+      "low_usd": 1950,
+      "high_usd": 2600,
+      "notes": "Tarangire, Serengeti ×3, Ngorongoro crater. Includes park fees, crater fee, campsites, meals, guide and vehicle. Private, so the day can bend for walks, night drives and leopard. A shared group runs ~$1,850 but can't add either. Estimate — get two quotes."
+    },
+    {
+      "category": "Safaris",
+      "item": "Tarangire walking safari with armed ranger (2–3h)",
+      "per_person_usd": 40,
+      "low_usd": 35,
+      "high_usd": 60,
+      "notes": "TANAPA walking fee ~$24 pp + ranger fee ~$24 per group (secondary-source rates; confirm)."
+    },
+    {
+      "category": "Safaris",
+      "item": "Tarangire night game drive",
+      "per_person_usd": 70,
+      "low_usd": 60,
+      "high_usd": 100,
+      "notes": "TANAPA night-drive fee ~$59 pp (Tarangire is one of six parks that allow them) + guide/ranger time. Confirm your operator holds the night-drive permission."
     },
     {
       "category": "Safaris",
@@ -293,10 +309,10 @@
     },
     {
       "category": "Tips",
-      "item": "Safari guides, cooks, Udzungwa rangers",
-      "per_person_usd": 170,
-      "low_usd": 130,
-      "high_usd": 250,
+      "item": "Safari guides, cooks, rangers",
+      "per_person_usd": 185,
+      "low_usd": 140,
+      "high_usd": 260,
       "notes": "~$15 pp/day for guide + cook on the north trip; Udzungwa hiking guide separate. Crisp USD."
     },
     {
@@ -341,11 +357,11 @@
     },
     {
       "category": "Health and insurance",
-      "item": "Travel insurance, ≥$250k evacuation",
-      "per_person_usd": 200,
-      "low_usd": 180,
-      "high_usd": 350,
-      "notes": ""
+      "item": "Travel medical + evacuation plan (no trip cancellation)",
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 250,
+      "notes": "Same choice as the Kenya plan: single-trip medical with ≥$250k evacuation home. Comprehensive with cancellation is an option (+$110)."
     },
     {
       "category": "Health and insurance",
@@ -380,7 +396,7 @@
       "notes": ""
     }
   ],
-  "budget_total_per_person_usd": 5455,
+  "budget_total_per_person_usd": 5820,
   "alternatives": [
     {
       "id": "manyara",
@@ -417,6 +433,24 @@
       "name": "Skip the Topkapı Harem ticket",
       "description": "",
       "cost_delta_per_person_usd": -25
+    },
+    {
+      "id": "mikumi-walk-night",
+      "name": "Mikumi walking safari + night drive (Jan 9)",
+      "description": "Ranger-led morning walk (~$20–25 + ranger) and a night drive (~$50–59 TANAPA fee + guide time). Mikumi is on TANAPA's night-drive list; ask the tour operator.",
+      "cost_delta_per_person_usd": 105
+    },
+    {
+      "id": "shared-group",
+      "name": "Shared group safari instead of private",
+      "description": "Back to the cheaper fixed-route group safari. Drops the Tarangire walk and night drive, which a shared group can't add.",
+      "cost_delta_per_person_usd": -475
+    },
+    {
+      "id": "ins-comp",
+      "name": "Comprehensive insurance with trip cancellation",
+      "description": "Instead of medical + evacuation only.",
+      "cost_delta_per_person_usd": 110
     }
   ],
   "booking_timeline": [
@@ -426,7 +460,7 @@
     },
     {
       "when": "By Oct 31",
-      "task": "Get two quotes for a 6-day shared camping safari starting Jan 1 (Tarangire, Serengeti ×3 at Seronera, Simba rim, crater). Confirm Jan 1 departures run, the crater fee is included, and pickup from your Arusha hotel."
+      "task": "Get two quotes for a private 6-day camping safari for 2 starting Jan 1 (Tarangire, Serengeti ×3 at Seronera, Simba rim, crater). Ask for a Jan 1 ranger-led walk and night drive in Tarangire, camping at the Tarangire public campsite, and confirm the operator holds TANAPA night-drive permission. Confirm the crater fee is included."
     },
     {
       "when": "By Oct 31",
@@ -451,8 +485,8 @@
   ],
   "practical": "## Entry\n- **Tanzania:** US citizens need the $100 multiple-entry visa. Apply only at visa.immigration.go.tz; lookalike sites overcharge. Passport 6+ months, 2 blank pages.\n- **Yellow fever:** not required arriving from Istanbul. Tanzania asks for it only after >12h transit in a risk country (Kenya counts — don't route via Nairobi).\n- Türkiye is visa-free for US tourists.\n\n## Packing\n- One soft bag each; the Arusha → Dar flight has tight bag limits.\n- **Warm layers for the crater rim** (2,300 m, near freezing at night) and dawn drives. Istanbul is 4–9°C and wet.\n- Hiking shoes with grip for the Sanje Falls trail; it's steep and muddy in places. Headtorch for camping.\n- Neutral colours; tsetse flies in Tarangire and parts of the Serengeti go for dark blue and black.\n- Plastic bags are banned in Tanzania, including in luggage.\n\n## Money\n- Park fees are cashless and paid by the operator. Carry crisp post-2013 USD for tips and the visa backup; TZS for meals and taxis.\n\n## Season\n- Early January is the short dry spell between rains. Wildebeest herds are on the southern Serengeti / Ndutu plains, with calving from late January.\n\n## Health\n- Malaria prophylaxis from before arrival through 7 days after (atovaquone-proguanil). DEET or picaridin.\n- Re-check the State Dept Tanzania advisory before paying deposits.",
   "open_questions": [
-    "~$5,455 pp has no contingency. OK to run that tight, or add Manyara back and accept ~$5,700?",
-    "Shared group safari (cheaper, set route) or private vehicle (+~$400–600 pp, your own pace for leopard)?",
+    "~$5,820 pp has no contingency. OK to run that tight?",
+    "Add the Mikumi walk + night drive too (+$105)?",
     "Is the Jan 11 Udzungwa → Dar → 03:25 flight stretch OK, or buy the Dar buffer day (+$55)?"
   ],
   "sources": [
@@ -464,6 +498,8 @@
     "https://www.safaribookings.com/rates/t85273",
     "https://safarifind.com/blog/tanzania-safari-cost-in-2026-7-day-prices-by-budget",
     "https://www.tourradar.com/t/162609",
+    "https://roadtripafrica.com/en/wp-json/wp/v2/guide/326",
+    "https://www.jaynevytours.com/night-game-drives-on-6-day-tanzania-safari.html",
     "https://www.trip.com/flights/arusha-to-dar-es-salaam/airfares-ark-dar/",
     "https://safarifind.com/blog/tanzania-visa-for-american-citizens-2026-requirements"
   ],
@@ -816,8 +852,32 @@
     {
       "name": "Spotted hyena",
       "wiki": "Spotted_hyena",
-      "where": "Crater, Serengeti",
+      "where": "Crater, Serengeti, Tarangire night drive",
       "odds": "Near-certain"
+    },
+    {
+      "name": "Bushbaby (galago)",
+      "wiki": "Galago",
+      "where": "Tarangire night drive",
+      "odds": "Likely"
+    },
+    {
+      "name": "Common genet",
+      "wiki": "Common_genet",
+      "where": "Tarangire night drive",
+      "odds": "Likely"
+    },
+    {
+      "name": "African civet",
+      "wiki": "African_civet",
+      "where": "Tarangire night drive",
+      "odds": "Possible"
+    },
+    {
+      "name": "Crested porcupine",
+      "wiki": "Crested_porcupine",
+      "where": "Tarangire night drive",
+      "odds": "Possible"
     },
     {
       "name": "Blue wildebeest",
