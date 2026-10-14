@@ -83,6 +83,12 @@
       "label": "Istanbul + Tanzania · Jan 12",
       "summary": "Istanbul 3n, then a private 6-day northern camping safari (Tarangire walk + night drive, Serengeti ×3, crater) and a 4-day Mikumi + Udzungwa trip from Dar. ~$5,820 pp.",
       "file": "data/trips/tanzania.json"
+    },
+    {
+      "id": "indonesia",
+      "label": "Indonesia: reefs + rainforest · Jan 12",
+      "summary": "7 nights diving and snorkelling from a village homestay on Arborek, then 6 nights in Waigeo's primary rainforest (birds-of-paradise, night walks, the blue river). ~$3,460 pp.",
+      "file": "data/trips/indonesia.json"
     }
   ]
 }
