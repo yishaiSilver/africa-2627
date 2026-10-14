@@ -1,4 +1,4 @@
-# Kenya Independent Loop: Istanbul, Rainforest & Naboisho
+# Kenya Independent Loop: Istanbul, Rainforest & Masai Mara (Naboisho)
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=no-crew
 
@@ -30,8 +30,8 @@
 | 2027-01-08 | Kisumu → Kericho | road | ~1.5–2h | Matatu through the tea estates |
 | 2027-01-09 | Kericho → Bomet | road | ~1.5h | Matatu, after the tea-estate morning |
 | 2027-01-09 | Bomet → Narok | road | ~1.5–2h | Matatu Bomet → Narok (leg missing from the original plan) |
-| 2027-01-10 | Narok → Mara Naboisho Conservancy | road | ~3–3.5h | Matatu Narok → Talek, then camp pickup from Talek (confirm with the camp) |
-| 2027-01-12 | Mara Naboisho Conservancy → Narok | road | ~2h | Camp transfer to Narok |
+| 2027-01-10 | Narok → Masai Mara — Naboisho Conservancy | road | ~3–3.5h | Matatu Narok → Talek, then camp pickup from Talek (confirm with the camp) |
+| 2027-01-12 | Masai Mara — Naboisho Conservancy → Narok | road | ~2h | Camp transfer to Narok |
 | 2027-01-12 | Narok → Lake Naivasha | road | ~2.5–3h | Matatu via Mai Mahiu; may change at Mai Mahiu. Heavy trucks on the escarpment. |
 | 2027-01-15 | Lake Naivasha → Airport-area hotel, Mombasa Rd | road | ~3–3.5h | Shuttle or private car via Nairobi; allow for traffic |
 | 2027-01-16 | Airport-area hotel, Mombasa Rd → Nairobi (JKIA) | road | ~20m | Hotel shuttle at 03:00 |
@@ -129,19 +129,19 @@ Tea-estate walk and factory visit 08:00–11:00. Matatu Kericho → Bomet (~1.5h
 
 *Overnight:* Budget hotel, Narok · *Meals:* B; L, D own
 
-### Sun Jan 10 — Into the Mara conservancy via Talek (Narok → Naboisho)
+### Sun Jan 10 — Into the Masai Mara via Talek (Narok → Masai Mara)
 
 Matatu Narok → Talek, ~2.5–3h, early morning (KSh ~1,000). The camp collects you in Talek (~30–45m). Lunch in camp, afternoon drive; ask for the night drive tonight so tomorrow is free for the full day.
 
-*Overnight:* Basecamp Wilderness, Naboisho · *Meals:* L, D camp
+*Overnight:* Basecamp Wilderness, Naboisho (Masai Mara) · *Meals:* L, D camp
 
-### Mon Jan 11 — Walking safari, full day out, night drive (Mara conservancy)
+### Mon Jan 11 — Walking safari, full day out, night drive (Masai Mara (Naboisho conservancy))
 
 Zero travel. Guided walking safari at dawn (allowed in conservancies, banned in the National Reserve), then out all day with a packed lunch: big cats, topi, plains game, off-road with a vehicle cap. Night drive for serval, genet, porcupine if not done last night. Confirm walk and night drive are included in writing.
 
-*Overnight:* Basecamp Wilderness, Naboisho · *Meals:* B, L, D
+*Overnight:* Basecamp Wilderness, Naboisho (Masai Mara) · *Meals:* B, L, D
 
-### Tue Jan 12 — Rift Valley lakes (Mara → Naivasha)
+### Tue Jan 12 — Rift Valley lakes (Masai Mara → Naivasha)
 
 Last dawn drive, breakfast, camp transfer to Narok (~2h), then matatu via Mai Mahiu to Naivasha (~2.5–3h, maybe a change at Mai Mahiu). ~5h door to door: at the cap. Lakeshore camp by late afternoon.
 
@@ -182,7 +182,7 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 | Isecheno Blue Shouldered Guest House | Isecheno, Kakamega Forest | 3 | $10 | Bed only, ~KSh 700–1,000. Hot shower, flush toilet, kitchen for ~KSh 200/day. Meals cooked on request — order ahead. |
 | Budget hotel, Kericho | Kericho | 1 | $30 | ~$60/room B&B. One night as a bridge; tea-estate visit next morning. |
 | Budget hotel, Narok | Narok town | 1 | $25 | ~$50/room B&B. |
-| Basecamp Wilderness, Naboisho | Mara Naboisho Conservancy, Greater Mara | 2 | $630 | Full board ~$500 + Naboisho conservation fee ~$130 pppn. Shared drives, guided walks and night drives are conservancy activities; confirm each is in the rate. |
+| Basecamp Wilderness, Naboisho (Masai Mara) | Naboisho Conservancy, Masai Mara | 2 | $630 | Full board ~$500 + Naboisho conservation fee ~$130 pppn. Shared drives, guided walks and night drives are conservancy activities; confirm each is in the rate. |
 | Camp Carnelley's or Fisherman's Camp | Lake Naivasha, south shore | 3 | $35 | Banda with a restaurant and bar on site, so no cooking. |
 | Budget hotel near JKIA (free shuttle) | Mombasa Road, Nairobi | 1 | $40 | ~$80/room B&B, free airport shuttle, 10–20 minutes from the terminal. |
 
@@ -192,8 +192,8 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 - Plan: [The Stables, Ol Pejeta](https://www.olpejetaconservancy.org/accommodation/) $70 pp/night (plan). Cheapest bed inside OPC; meals included.
 - Value: [Pelican House (self-catering)](https://www.olpejetaconservancy.org/pelican-house/) $115 pp/night (+$90 pp). Lake view, more space; cook yourselves.
 
-**Mara Naboisho Conservancy, Greater Mara** (2n)
-- Plan: [Basecamp Wilderness, Naboisho](https://www.chaloafrica.com/accommodation/basecamp-wilderness-naboisho-conservancy-kenya/) $630 pp/night (plan). Cheapest real conservancy camp found.
+**Naboisho Conservancy, Masai Mara** (2n)
+- Plan: [Basecamp Wilderness, Naboisho (Masai Mara)](https://www.chaloafrica.com/accommodation/basecamp-wilderness-naboisho-conservancy-kenya/) $630 pp/night (plan). Cheapest real conservancy camp found.
 - Value: [Encounter Mara, Naboisho](https://www.chaloafrica.com/accommodation/encounter-mara-mara-naboisho-conservancy-kenya/) $660 pp/night (+$60 pp). Small camp, strong guiding.
 - Cheaper: [Enkorok Mara Camp (Siana area)](https://monkey.travel/en/accommodation/enkorok-mara) $320 pp/night (−$620 pp). Half the price; walks and night drives depend on whether drives stay in the conservancy.
 - Splurge: [Naboisho Camp (Asilia)](https://www.safari.com/naboisho) $690 pp/night (+$120 pp). Flagship camp, best guiding.
@@ -212,14 +212,14 @@ Wake ~02:45, hotel shuttle 03:00. TK608 NBO 04:50 → IST, then TK9 → LAX, arr
 | Lodging | Nakuru town hotel, 2n | $50 | $40–$90 |  |
 | Lodging | Blue Shouldered Guest House, Kakamega, 3n | $30 | $24–$420 | High end is three nights at Rondo Retreat, full board. |
 | Lodging | Kericho budget hotel, 1n | $30 | $25–$60 |  |
-| Lodging | Basecamp Wilderness, Naboisho, 2n | $1,260 | $690–$1,400 | ~$500 FB + ~$130 conservation fee pppn (agent rates for early January). Confirm the conservation fee, walks and night drives in writing. |
+| Lodging | Basecamp Wilderness, Naboisho (Masai Mara), 2n | $1,260 | $690–$1,400 | ~$500 FB + ~$130 conservation fee pppn (agent rates for early January). Confirm the conservation fee, walks and night drives in writing. |
 | Lodging | Narok budget hotel, 1n (camp pickup) | $25 | $20–$50 | Added: camps collect at Narok, not Bomet. |
 | Lodging | Naivasha lakeshore banda, 3n | $105 | $45–$180 | Low end is a campsite pitch. |
 | Lodging | Hotel near JKIA, 1n | $40 | $35–$135 | High end is Ole Sereni or Four Points. |
 | Park fees | Ol Pejeta entry, 2 × 24h | $220 | $220–$260 | $110/24h on the 2026 tariff; 2027 may be ~$120. Overnight guests get the full 24h. |
 | Park fees | Lake Nakuru NP, 1 × 24h | $90 | $60–$90 | KWS new rate $90; $60 if the October 2025 increase is struck down. |
 | Park fees | Kakamega Forest entry, 3 days | $15 | $12–$150 | Isecheno is Kenya Forest Service at ~KSh 600/day. KWS charges $20–50 at Buyangu in the north — the two get conflated constantly. |
-| Park fees | Naboisho conservation fee, 2n | $0 | $0–$0 | Included in the $630 camp line above. |
+| Park fees | Naboisho (Masai Mara) conservation fee, 2n | $0 | $0–$0 | Included in the $630 camp line above. |
 | Park fees | Hell's Gate NP, 1 day | $50 | $26–$50 | KWS new $50; $26 if the old rate stands. |
 | Guides and vehicles | Ol Pejeta — hired vehicle with driver, one 8h day | $105 | $90–$135 | The Stables has no vehicles. ~$200 per vehicle for 8h, split two ways, + KSh 1,000 vehicle entry. Same driving time as two 4h drives. |
 | Guides and vehicles | Ol Pejeta — guided bush walk | $70 | $70–$70 | 06:30–08:30, capped at six people. The best wildlife hour of the trip. |

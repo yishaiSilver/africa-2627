@@ -1,8 +1,8 @@
 {
   "id": "no-crew",
   "label": "Independent loop · Jan 16",
-  "title": "Kenya Independent Loop: Istanbul, Rainforest & Naboisho",
-  "summary": "Istanbul 3n, then a Kenya loop on public transport with Naboisho conservancy 2n. Fact-checked, then counter-reviewed (reviews/no-crew-counter-review.md). ~$5,579 pp.",
+  "title": "Kenya Independent Loop: Istanbul, Rainforest & Masai Mara (Naboisho)",
+  "summary": "Istanbul 3n, then a Kenya loop on public transport with Masai Mara (Naboisho conservancy) 2n. Fact-checked, then counter-reviewed (reviews/no-crew-counter-review.md). ~$5,579 pp.",
   "overview": "- **What this is:** Andrew's no-crew loop with the fact-check fixes, after a counter-review of that fact-check (reviews/no-crew-counter-review.md). Route, Naboisho camp, parks and guides as fact-checked.\n- **Verdict on the fact-check:** most of its added costs hold up. The Mara repricing (+$460) is real: Basecamp Wilderness is $500 pppn from Jan 3 plus a ~$130 Naboisho fee, and no conservancy camp I could find is $400 all-in for January. Hell's Gate's $10 cycling fee and the Istanbul ticket prices also check out.\n- **Where it overshot:** the AMREF tier (Bronze's 15 days covers every day outside Nairobi), the Enkorok price (January Mara Reserve fee is $100, not $100–200), and paying a private vehicle both ways to the Mara.\n- **Cuts applied (−$266 pp):** medical+evacuation insurance instead of comprehensive (−$150), Bronze AMREF (−$14), matatu to Talek on the way in (−$65), Topkapı without the Harem (−$25), contingency rescaled.\n- **Corrected:** the 'shared vehicle at Ol Pejeta' option (−$110) is doubtful — OPC's tariff offers shared vehicles only for night drives and lion tracking.\n- **Budget: ~$5,579 pp.** Still ~$79 over $5.5k. One night at Ol Pejeta instead of two (Option, −$140) gets it under.",
   "dates": {
     "depart": "2026-12-26",
@@ -147,25 +147,25 @@
     {
       "date": "2027-01-10",
       "day_label": "Day 16 – Sun",
-      "location": "Narok → Naboisho",
-      "title": "Into the Mara conservancy via Talek",
+      "location": "Narok → Masai Mara",
+      "title": "Into the Masai Mara via Talek",
       "details": "Matatu Narok → Talek, ~2.5–3h, early morning (KSh ~1,000). The camp collects you in Talek (~30–45m). Lunch in camp, afternoon drive; ask for the night drive tonight so tomorrow is free for the full day.",
-      "overnight": "Basecamp Wilderness, Naboisho",
+      "overnight": "Basecamp Wilderness, Naboisho (Masai Mara)",
       "meals": "L, D camp"
     },
     {
       "date": "2027-01-11",
       "day_label": "Day 17 – Mon",
-      "location": "Mara conservancy",
+      "location": "Masai Mara (Naboisho conservancy)",
       "title": "Walking safari, full day out, night drive",
       "details": "Zero travel. Guided walking safari at dawn (allowed in conservancies, banned in the National Reserve), then out all day with a packed lunch: big cats, topi, plains game, off-road with a vehicle cap. Night drive for serval, genet, porcupine if not done last night. Confirm walk and night drive are included in writing.",
-      "overnight": "Basecamp Wilderness, Naboisho",
+      "overnight": "Basecamp Wilderness, Naboisho (Masai Mara)",
       "meals": "B, L, D"
     },
     {
       "date": "2027-01-12",
       "day_label": "Day 18 – Tue",
-      "location": "Mara → Naivasha",
+      "location": "Masai Mara → Naivasha",
       "title": "Rift Valley lakes",
       "details": "Last dawn drive, breakfast, camp transfer to Narok (~2h), then matatu via Mai Mahiu to Naivasha (~2.5–3h, maybe a change at Mai Mahiu). ~5h door to door: at the cap. Lakeshore camp by late afternoon.",
       "overnight": "Naivasha lakeshore banda",
@@ -322,9 +322,9 @@
       "url": "https://www.booking.com/city/ke/narok.html"
     },
     {
-      "name": "Basecamp Wilderness, Naboisho",
+      "name": "Basecamp Wilderness, Naboisho (Masai Mara)",
       "place": "MARA",
-      "location": "Mara Naboisho Conservancy, Greater Mara",
+      "location": "Naboisho Conservancy, Masai Mara",
       "nights": 2,
       "pppn_usd": 630,
       "style": "Tented camp, full board",
@@ -336,7 +336,7 @@
         {
           "id": "basecamp-wild",
           "tag": "Plan",
-          "name": "Basecamp Wilderness, Naboisho",
+          "name": "Basecamp Wilderness, Naboisho (Masai Mara)",
           "pppn_usd": 630,
           "room_usd": null,
           "rating": "",
@@ -495,7 +495,7 @@
     },
     {
       "category": "Lodging",
-      "item": "Basecamp Wilderness, Naboisho, 2n",
+      "item": "Basecamp Wilderness, Naboisho (Masai Mara), 2n",
       "per_person_usd": 1260,
       "low_usd": 690,
       "high_usd": 1400,
@@ -551,7 +551,7 @@
     },
     {
       "category": "Park fees",
-      "item": "Naboisho conservation fee, 2n",
+      "item": "Naboisho (Masai Mara) conservation fee, 2n",
       "per_person_usd": 0,
       "low_usd": 0,
       "high_usd": 0,
@@ -1006,7 +1006,7 @@
       "country": "Kenya"
     },
     "MARA": {
-      "name": "Mara Naboisho Conservancy",
+      "name": "Masai Mara — Naboisho Conservancy",
       "lat": -1.37,
       "lng": 35.3,
       "kind": "nature",
@@ -1235,7 +1235,7 @@
       "place": "MARA",
       "from": "2027-01-10",
       "nights": 2,
-      "label": "Naboisho conservancy"
+      "label": "Masai Mara (Naboisho conservancy)"
     },
     {
       "place": "NAI",
@@ -1304,7 +1304,7 @@
       ]
     },
     "MARA": {
-      "name": "Mara Naboisho Conservancy",
+      "name": "Masai Mara — Naboisho Conservancy",
       "wiki": [
         "Maasai_Mara",
         "Lion",
