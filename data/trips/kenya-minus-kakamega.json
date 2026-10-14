@@ -1,9 +1,9 @@
 {
   "id": "kenya-minus-kakamega",
   "label": "Kenya minus Kakamega · Jan 15",
-  "title": "Kenya minus Kakamega: Istanbul, Ol Pejeta, Nakuru, Naboisho and a long Naivasha stay",
-  "summary": "The no-crew loop without Kakamega: 6 Kenya bases instead of 9, ~22h on the road instead of ~32h, 18 nights on the ground. ~$5,764 pp.",
-  "overview": "- **What this is:** the no-crew loop with Kakamega dropped, so the Kericho and Narok stopover nights go too. Ol Pejeta, Nakuru, Naboisho and Naivasha all stay.\n- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 18 nights on the ground: 3 Istanbul, 15 Kenya (plus 2 on planes).\n- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Nakuru 3n** → Naboisho 2n → **Naivasha 5n** → Nairobi (Karen) 2n.\n- **Less moving:** in Kenya, 6 bases instead of 9 and 6 travel days instead of 8; about 22 road hours instead of 32. Every stay is now 2+ nights.\n- **Where the freed nights went:** Nakuru +1 (a rest day), Naivasha +2 (a Mount Longonot volcano climb and a free day), and Karen for the last two nights instead of an airport hotel, with a dawn Nairobi National Park drive and the Sheldrick elephant orphanage on the last day. Home a day earlier (Jan 15).\n- **Budget: ~$5,764 pp** vs $5,579 for the no-crew loop. Kakamega was the cheapest part of the trip per night, so the swap doesn't save much.",
+  "title": "Kenya minus Kakamega: Istanbul, Ol Pejeta, Nakuru, Masai Mara (Naboisho) and a long Naivasha stay",
+  "summary": "Istanbul 3n, then Ol Pejeta, Nakuru, Masai Mara (Naboisho conservancy) and Naivasha, without Kakamega: 6 Kenya bases, ~22h on the road, 18 nights on the ground. ~$5,764 pp.",
+  "overview": "- **What this is:** the no-crew loop with Kakamega dropped, so the Kericho and Narok stopover nights go too. Ol Pejeta, Nakuru, Naboisho and Naivasha all stay.\n- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 18 nights on the ground: 3 Istanbul, 15 Kenya (plus 2 on planes).\n- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Nakuru 3n** → **Masai Mara** (Naboisho conservancy) 2n → **Naivasha 5n** → Nairobi (Karen) 2n.\n- **Less moving:** in Kenya, 6 bases instead of 9 and 6 travel days instead of 8; about 22 road hours instead of 32. Every stay is now 2+ nights.\n- **Where the freed nights went:** Nakuru +1 (a rest day), Naivasha +2 (a Mount Longonot volcano climb and a free day), and Karen for the last two nights instead of an airport hotel, with a dawn Nairobi National Park drive and the Sheldrick elephant orphanage on the last day. Home a day earlier (Jan 15).\n- **Budget: ~$5,764 pp** vs $5,579 for the no-crew loop. Kakamega was the cheapest part of the trip per night, so the swap doesn't save much.",
   "dates": {
     "depart": "2026-12-26",
     "return": "2027-01-15"
@@ -111,25 +111,25 @@
     {
       "date": "2027-01-06",
       "day_label": "Day 12 – Wed",
-      "location": "Nakuru → Narok → Naboisho",
-      "title": "Over the Mau to the Mara",
+      "location": "Nakuru → Narok → Masai Mara",
+      "title": "Over the Mau to the Masai Mara",
       "details": "Early matatu Nakuru → Narok (~2.5h). The camp collects you at Narok around midday (~2.5h). Lunch in camp, afternoon drive; ask for the night drive tonight so tomorrow is free for the full day.",
-      "overnight": "Basecamp Wilderness, Naboisho",
+      "overnight": "Basecamp Wilderness, Naboisho (Masai Mara)",
       "meals": "L, D camp"
     },
     {
       "date": "2027-01-07",
       "day_label": "Day 13 – Thu",
-      "location": "Mara conservancy",
+      "location": "Masai Mara (Naboisho conservancy)",
       "title": "Walking safari, full day out, night drive",
       "details": "Zero travel. Guided walking safari at dawn (allowed in conservancies, banned in the National Reserve), then out all day with a packed lunch: big cats, topi, plains game, off-road with a vehicle cap. Night drive for serval, genet, porcupine if not done last night. Confirm walk and night drive are included in writing.",
-      "overnight": "Basecamp Wilderness, Naboisho",
+      "overnight": "Basecamp Wilderness, Naboisho (Masai Mara)",
       "meals": "B, L, D"
     },
     {
       "date": "2027-01-08",
       "day_label": "Day 14 – Fri",
-      "location": "Mara → Naivasha",
+      "location": "Masai Mara → Naivasha",
       "title": "Rift Valley lakes",
       "details": "Last dawn drive, breakfast, camp transfer to Narok (~2h), then matatu via Mai Mahiu to Naivasha (~2.5–3h, maybe a change at Mai Mahiu). ~5h door to door: at the cap. Lakeshore camp by late afternoon.",
       "overnight": "Naivasha lakeshore banda",
@@ -277,9 +277,9 @@
       "url": "https://www.booking.com/city/ke/nakuru.html"
     },
     {
-      "name": "Basecamp Wilderness, Naboisho",
+      "name": "Basecamp Wilderness, Naboisho (Masai Mara)",
       "place": "MARA",
-      "location": "Mara Naboisho Conservancy, Greater Mara",
+      "location": "Naboisho Conservancy, Masai Mara",
       "nights": 2,
       "pppn_usd": 630,
       "style": "Tented camp, full board",
@@ -291,7 +291,7 @@
         {
           "id": "basecamp-wild",
           "tag": "Plan",
-          "name": "Basecamp Wilderness, Naboisho",
+          "name": "Basecamp Wilderness, Naboisho (Masai Mara)",
           "pppn_usd": 630,
           "room_usd": null,
           "rating": "",
@@ -434,7 +434,7 @@
     },
     {
       "category": "Lodging",
-      "item": "Basecamp Wilderness, Naboisho, 2n",
+      "item": "Basecamp Wilderness, Naboisho (Masai Mara), 2n",
       "per_person_usd": 1260,
       "low_usd": 690,
       "high_usd": 1400,
@@ -474,7 +474,7 @@
     },
     {
       "category": "Park fees",
-      "item": "Naboisho conservation fee, 2n",
+      "item": "Naboisho (Masai Mara) conservation fee, 2n",
       "per_person_usd": 0,
       "low_usd": 0,
       "high_usd": 0,
@@ -897,7 +897,7 @@
       "country": "Kenya"
     },
     "MARA": {
-      "name": "Mara Naboisho Conservancy",
+      "name": "Masai Mara — Naboisho Conservancy",
       "lat": -1.37,
       "lng": 35.3,
       "kind": "nature",
@@ -1069,7 +1069,7 @@
       "place": "MARA",
       "from": "2027-01-06",
       "nights": 2,
-      "label": "Naboisho conservancy"
+      "label": "Masai Mara (Naboisho conservancy)"
     },
     {
       "place": "NAI",
@@ -1122,7 +1122,7 @@
       ]
     },
     "MARA": {
-      "name": "Mara Naboisho Conservancy",
+      "name": "Masai Mara — Naboisho Conservancy",
       "wiki": [
         "Maasai_Mara",
         "Lion",
