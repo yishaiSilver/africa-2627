@@ -2,7 +2,7 @@
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=no-crew-slow
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-15 · **Planned cost:** $5,596 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-15 · **Planned cost:** $5,722 per person
 
 ## Overview
 
@@ -10,8 +10,8 @@
 - **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 18 nights on the ground: 3 Istanbul, 15 Kenya (plus 2 on planes).
 - **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Nakuru 3n** → Naboisho 2n → **Naivasha 5n** → Nairobi (Karen) 2n.
 - **Less moving:** in Kenya, 6 bases instead of 9 and 6 travel days instead of 8; about 22 road hours instead of 32. Every stay is now 2+ nights.
-- **Where the freed nights went:** Nakuru +1 (Menengai Crater, rest), Naivasha +2 (Elsamere colobus, a free day or Mount Longonot), and Karen for the last two nights instead of an airport hotel. Home a day earlier (Jan 15).
-- **Budget: ~$5,596 pp** vs $5,579 for the lean loop. Kakamega was the cheapest part of the trip per night, so the swap doesn't save much.
+- **Where the freed nights went:** Nakuru +1 (a rest day), Naivasha +2 (Elsamere colobus, a free day or Mount Longonot), and Karen for the last two nights instead of an airport hotel, with a dawn Nairobi National Park drive and the Sheldrick elephant orphanage on the last day. Home a day earlier (Jan 15).
+- **Budget: ~$5,722 pp** vs $5,579 for the lean loop. Kakamega was the cheapest part of the trip per night, so the swap doesn't save much.
 
 ## Travel legs
 
@@ -95,9 +95,9 @@ Zero travel. Dawn start in a hired vehicle with driver (no walking access except
 
 *Overnight:* Nakuru town hotel · *Meals:* Own
 
-### Tue Jan 05 — Menengai Crater and a slow day (Nakuru)
+### Tue Jan 05 — Rest day (Nakuru)
 
-Zero transfer. Morning taxi or matatu up to the Menengai Crater rim (~8 km from town), one of the largest calderas in the world. Afternoon off: laundry, rest, a long lunch.
+Zero transfer. Laundry, sleep, a long lunch after five straight days of early starts. Option: a second Lake Nakuru park day instead.
 
 *Overnight:* Nakuru town hotel · *Meals:* Own
 
@@ -145,13 +145,13 @@ Zero transfer. Rest, read, watch hippos on the lawn. Or climb Mount Longonot (Op
 
 ### Wed Jan 13 — Back to Nairobi (Naivasha → Nairobi (Karen))
 
-Shuttle or private car to Karen, ~2.5–3h. Not a matatu for the leg before a flight day. Afternoon at the Giraffe Centre (until 17:00).
+Shuttle or private car to Karen, ~2.5–3h. Not a matatu for the leg before a flight day. Afternoon free; early night for the dawn drive.
 
 *Overnight:* Karen guesthouse · *Meals:* Own
 
-### Thu Jan 14 — Last day in Nairobi (Nairobi (Karen))
+### Thu Jan 14 — Nairobi National Park at dawn, then the elephant orphanage (Nairobi (Karen))
 
-Zero transfer. Karen Blixen Museum in the morning, lunch in Karen, repack. Option: Sheldrick elephant orphanage at 11:00 (book by email) with a Nairobi National Park drive. Early night; taxi booked for 02:45.
+Zero transfer. Hired vehicle with driver at the Langata gate for 06:00: black and white rhino, lion, cheetah, buffalo and giraffe with the city skyline behind them. The Sheldrick elephant orphanage is inside the park: the 11:00–12:00 public visit (book by email; $20 cash on the day) is covered by the same park ticket. Afternoon repack. Early night; taxi booked for 02:45.
 
 *Overnight:* Karen guesthouse · *Meals:* Own
 
@@ -210,8 +210,9 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 | Guides and vehicles | Mara — drives, guide, night drive, walking safari | $0 | $0–$60 | Walks and night drives are conservancy activities; confirm they are in the camp rate. |
 | Activities | Hell's Gate bike hire + cycling fee | $20 | $15–$30 | Bike KES 1,000–2,000 at Elsa Gate + ~$10 cycling fee. Lower Gorge needs a licensed guide. |
 | Activities | Naivasha boat and Crescent Island walk | $50 | $45–$60 | Crescent Island $33 + boat ~$20 pp shared. |
-| Activities | Menengai Crater taxi; Elsamere and Lake Oloiden | $30 | $20–$45 | Elsamere entry/tea fee unconfirmed; ask on arrival. |
-| Activities | Giraffe Centre and Karen Blixen Museum | $30 | $20–$40 | Both a few minutes from Karen guesthouses; prices unconfirmed for 2027. |
+| Activities | Elsamere and Lake Oloiden | $20 | $10–$35 | Elsamere entry/tea fee unconfirmed; ask on arrival. |
+| Park fees | Nairobi NP, 1 day | $80 | $60–$80 | KWS non-resident rate since Oct 2025 (KSh ~10,360). Also covers the Sheldrick visit, which is inside the park. |
+| Guides and vehicles | Nairobi NP — hired vehicle and driver, half day + Sheldrick | $80 | $65–$100 | ~$120 per vehicle for the morning, split two ways, + Sheldrick $20 minimum donation (cash). |
 | Transport | Matatus and buses across the loop | $70 | $55–$95 | Nairobi → Nanyuki, Jan 3 via Nyahururu, Nakuru → Narok, Narok → Naivasha, Naivasha → Karen shuttle (~$15). 2026 fuel-driven fares. |
 | Transport | Airport and gate transfers | $55 | $40–$80 | JKIA taxi in, Nanyuki → Ol Pejeta, Karen → JKIA taxi at 02:45 (~$30/car). |
 | Transport | Mara camp transfers, Narok both ways | $150 | $120–$250 | Private camp vehicle ~$150/vehicle each way, split two ways. Arriving from Nakuru, Talek by matatu would make Jan 6 a 6h day. |
@@ -228,8 +229,8 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 | Admin | Kenya eTA | $30 | $30–$35 | Official site: etakenya.go.ke. etas.gov.ke is not it; lookalike sites overcharge. |
 | Admin | eSIM or Safaricom SIM | $15 | $8–$25 | Set up M-Pesa on arrival. |
 | Admin | Laundry, sundries, souvenirs | $50 | $30–$250 |  |
-| Contingency | ~5%, held until bookings are confirmed | $266 | $234–$526 | Ebola/advisory changes, KWS ruling, festive uplift, FX. |
-| **Total** | | **$5,596** | | ≈ $11,192 for two |
+| Contingency | ~5%, held until bookings are confirmed | $272 | $234–$526 | Ebola/advisory changes, KWS ruling, festive uplift, FX. |
+| **Total** | | **$5,722** | | ≈ $11,444 for two |
 
 ## Options & swaps
 
@@ -237,13 +238,12 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 - **Two separate 4h drives at Ol Pejeta** (+$110 pp): An afternoon drive on arrival plus a morning drive, instead of one 8h day. Same total time, two vehicle hires.
 - **Already have yellow fever shot** (−$200 pp): Kenya does not require yellow fever for arrivals from the US. Check your records before paying for it.
 - **Shared game-drive vehicle at Ol Pejeta** (−$110 pp): Doubtful: OPC's tariff lists shared vehicles only for night game drives and lion tracking. Ask The Stables, but don't count on it.
-- **Second park day at Nakuru instead of Menengai** (+$135 pp): A second 24h ticket plus another day of hired vehicle, on Jan 5.
+- **Second park day at Nakuru instead of the rest day** (+$145 pp): A second 24h ticket plus another day of hired vehicle, on Jan 5.
 - **Third Naboisho night instead of a third Naivasha night** (+$580 pp): Another full conservancy day at ~$630 pppn, less a Naivasha banda night and a day of food.
 - **Comprehensive insurance with trip cancellation** (+$150 pp): Back to the fact-check's policy. Worth it mainly for the prepaid Naboisho camp; ordinary cancellation cover does not pay out for fear of Ebola.
 - **Add the Topkapı Harem** (+$25 pp): 
 - **Third night at Ol Pejeta instead of the third Nakuru night** (+$200 pp): Another 24h entry and Stables night, plus a 4h vehicle hire: time for the northern white rhino visit and lion tracking.
 - **Climb Mount Longonot (Jan 12)** (+$60 pp): Crater-rim hike, ~4–5h. KWS $50 + matatu/taxi to the gate.
-- **Sheldrick orphanage + Nairobi National Park drive (Jan 14)** (+$160 pp): Sheldrick $20 minimum donation (11:00, book by email; cash on the day). It sits inside Nairobi NP, so KWS now charges the park gate fee too — pair it with a morning drive in a hired vehicle.
 
 ## Booking timeline
 
@@ -251,9 +251,9 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 - **≥72h before the flight:** Apply for the TK Stopover hotel (2 free nights, US-origin economy).
 - **By Oct 31:** Email Basecamp Wilderness (Encounter Mara as backup) for Jan 6–7: confirm the conservation fee, walks and night drive, and the Narok pickup time and price.
 - **By Oct 31:** Book The Stables (full board) and an OPC vehicle with driver for an 8h day on Jan 2; pre-book the 06:30 bush walk (max 6).
-- **By Nov 15:** Book Nakuru (Jan 3–5), Naivasha (Jan 8–12) and Karen (Jan 13–14), and the 02:45 Jan 15 taxi.
+- **By Nov 15:** Book Nakuru (Jan 3–5), Naivasha (Jan 8–12) and Karen (Jan 13–14), the Jan 14 Nairobi NP vehicle and the 02:45 Jan 15 taxi. Email Sheldrick for the Jan 14 11:00 visit (they reply within ~2 business days).
 - **Mid-to-late Nov:** Travel clinic: yellow fever (CDC-recommended here), malaria prophylaxis.
-- **Dec 1–5:** Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru, Hell's Gate (and Longonot / Nairobi NP if taking them).
+- **Dec 1–5:** Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru, Hell's Gate and Nairobi NP (and Longonot if taking it).
 - **Dec 20–24:** Re-check the Kenya advisory and Ebola news. Reconfirm the Narok pickup and the airport taxi.
 
 ## Practical
@@ -295,7 +295,7 @@ Taxi 02:45 to JKIA (~40m at that hour). TK608 NBO 04:50 → IST, then TK9 → LA
 
 ## Open questions
 
-1. ~$5,596 pp: OK, or trade a Naivasha night for something?
+1. ~$5,722 pp: OK, or trade a Naivasha night for something?
 2. Insurance: medical + evacuation only, or pay ~$150 more for cancellation cover on the prepaid camp?
 3. Five Naivasha nights: restful, or too many? The third Naboisho night is the obvious swap if budget allows.
 4. Are you already vaccinated for yellow fever? It is CDC-recommended for this route.
