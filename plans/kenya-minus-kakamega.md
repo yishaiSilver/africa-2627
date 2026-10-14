@@ -12,7 +12,7 @@
 - **After dark and on foot:** night drives at Ol Pejeta and in the Mara; walks at Ol Pejeta, the Mara, Crescent Island, Hell's Gate gorge, Longonot and the Mount Suswa caves.
 - **Lake Baringo** sits on the way from Ol Pejeta to Nakuru: dawn boats among crocodiles, hippos and fish eagles; Lake Bogoria's geysers and flamingos.
 - **No empty travel days:** Jan 5 reaches Nakuru by 10:00 for a full park day; Jan 12 is the Sheldrick orphanage and a Nairobi National Park drive on the way in.
-- **Budget: ~$6,116 pp** (was $5,764): filling every day means paying for activities. Biggest items: the private car to Baringo ($110), the Suswa 4x4 day ($105) and the Ol Pejeta night drive ($70).
+- **Budget: ~$6,116 pp**: filling every day means paying for activities. Biggest items: the private car to Baringo ($110), the Suswa 4x4 day ($105) and the Ol Pejeta night drive ($70).
 
 ## Travel legs
 
