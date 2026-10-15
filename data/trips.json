@@ -67,6 +67,13 @@
       "compare": false
     },
     {
+      "id": "pr-stjohn",
+      "label": "PR + St. John · Nov 7–14",
+      "summary": "2 nights Old San Juan, then fly to St. Thomas and ferry to St. John: 5 nights by Virgin Islands National Park. ~$2,107 pp.",
+      "file": "data/trips/pr-stjohn.json",
+      "compare": false
+    },
+    {
       "id": "no-crew",
       "label": "Independent loop · Jan 15",
       "summary": "Istanbul 3n, then a Kenya loop on public transport with Kakamega rainforest, two flights into the Masai Mara (Naboisho conservancy 2n + a guided National Reserve day) and Naivasha. ~$6,190 pp.",
