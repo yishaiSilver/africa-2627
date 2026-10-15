@@ -1,0 +1,936 @@
+{
+  "id": "madagascar",
+  "label": "Madagascar: lemurs, herps + diving · Jan 12",
+  "title": "Madagascar: Amber Mountain, Ankarana, Nosy Be diving and Andasibe",
+  "summary": "Northern and eastern Madagascar for lemurs, chameleons and leaf-tailed geckos with night walks at every forest stop, plus 6 dives off Nosy Be. ~$4,960 pp.",
+  "overview": "- **What this is:** northern and eastern Madagascar for **mammals and herps**, with three days of diving on Nosy Be. Every forest stop has night walks, which is where most chameleons, leaf-tailed geckos and mouse lemurs are found.\n- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 15 nights on the ground, 2 on planes.\n- **Route:** Tana 1n → ✈ Diego Suarez → **Montagne d'Ambre 2n** → **Ankarana 2n** → boat to **Nosy Be 5n** (6 dives + Lokobe) → ✈ Tana 1n → **Andasibe 4n** (Analamazaotra, Mitsinjo, Mantadia, Vohimana) → home.\n- **Season:** the start of the rains. That is the **best time for herps** (frogs breeding, chameleons active) and for lemurs with young; the cost is afternoon rain, muddy tracks, and some cyclone risk from January. Diving is done in late December/early January, before most Nosy Be centres slow down.\n- **Mammals:** about 15 lemur species likely (indri, diademed sifaka, crowned, Sanford's, black, sportive and mouse lemurs), plus tenrecs. **No fossa** on this route; the Kirindy option adds the best odds for one.\n- **Getting around:** a private driver for both road sections, two domestic flights, and a buffer night after each flight because domestic schedules shift.\n- **Budget: ~$4,960 pp**, including ~$150 contingency. International flights are the swing item: $1,600–2,400 at Christmas.\n",
+  "dates": {
+    "depart": "2026-12-26",
+    "return": "2027-01-12"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-26",
+      "day_label": "Day 1 – Sat",
+      "location": "Los Angeles → in flight",
+      "title": "Fly toward Madagascar",
+      "details": "Air France via Paris or Turkish via Istanbul, ~30–34h with the connection. Price both; Turkish flies to Antananarivo only on some days of the week. Avoid routings with a 12h+ layover in Addis Ababa or Nairobi, which would trigger a yellow fever certificate check.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-27",
+      "day_label": "Day 2 – Sun",
+      "location": "in flight → Antananarivo",
+      "title": "Land in Antananarivo",
+      "details": "Land in the evening. Visa check at Ivato (e-visa printed), change cash at the airport bureau, buy a Telma or Orange SIM. Hotel shuttle to a guesthouse near the airport, not into the city. Antananarivo (Tana) is UTC+3.",
+      "overnight": "Guesthouse near Ivato airport",
+      "meals": "In-flight; D hotel"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 3 – Mon",
+      "location": "Antananarivo → Diego Suarez → Montagne d'Ambre",
+      "title": "North to Amber Mountain, first night walk",
+      "details": "Morning domestic flight Tana → Diego Suarez (~2h). The driver meets you at the airport; ~1h up to Joffreville at ~1,000 m, where it's cooler and wet. After dark, a guided night walk along the park boundary road: leaf-tailed geckos (Uroplatus finiavana) on trunks, sleeping chameleons on twig tips, frogs calling.",
+      "overnight": "Lodge in Joffreville",
+      "meals": "B hotel; L, D lodge"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 4 – Tue",
+      "location": "Montagne d'Ambre NP",
+      "title": "Amber Mountain: Brookesia, chameleons, lemurs",
+      "details": "Zero travel. Full day in the montane rainforest with a park guide: the Amber Mountain chameleon (Calumma ambreense), Brookesia leaf chameleons in the leaf litter, crowned and Sanford's brown lemurs, the Cascade Sacrée and Grande Cascade waterfalls. Back in after dinner for a second night walk inside the park (mouse lemurs, northern rufous mouse lemur, more geckos and frogs). Rain is likely in the afternoon: rain jacket and leech-proof socks.",
+      "overnight": "Lodge in Joffreville",
+      "meals": "B, L (packed), D lodge"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 5 – Wed",
+      "location": "Montagne d'Ambre → Ankarana",
+      "title": "South to the tsingy",
+      "details": "~2h on the paved RN6 to Mahamasina at Ankarana's east gate. Late-afternoon walk on the short circuits for crowned lemurs and Ankarana sportive lemurs peering out of tree holes, then a night walk: Uroplatus henkeli, Furcifer chameleons, mouse lemurs, snakes on the move after rain.",
+      "overnight": "Bungalow at Mahamasina, Ankarana east gate",
+      "meals": "B lodge; L, D own"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 6 – Thu",
+      "location": "Ankarana Special Reserve",
+      "title": "Ankarana: tsingy, caves and crowned lemurs",
+      "details": "Zero travel. Long guided day: the Petit Tsingy limestone pinnacles and hanging bridge, the bat cave, the Perte des Rivières sinkhole, dry forest for lemurs, chameleons and Madagascar ground boas. The western side is closed in the rains; the east-gate circuits stay open. Quiet New Year's Eve at the bungalows.",
+      "overnight": "Bungalow at Mahamasina, Ankarana east gate",
+      "meals": "B, L (packed), D lodge"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 7 – Fri",
+      "location": "Ankarana → Ankify → Nosy Be",
+      "title": "Down to the coast and across to Nosy Be",
+      "details": "Early morning walk if the night was quiet, then ~3.5–4h with the driver to Ankify via Ambanja. Speedboat to Nosy Be (~45m). Transfer to a small hotel at Ambondrona or Ambatoloaka, near the dive centre. Public holiday: confirm the boat and the hotel pickup in advance.",
+      "overnight": "Beach hotel, Ambondrona (Nosy Be)",
+      "meals": "B lodge; L, D own"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 8 – Sat",
+      "location": "Nosy Be",
+      "title": "Dive day 1",
+      "details": "Two boat dives with Scuba Nosy Be: reefs and pinnacles off the west coast, with turtles, reef sharks, frogfish and nudibranchs. Bring your Advanced Open Water card and logbook. Afternoon off.",
+      "overnight": "Beach hotel, Ambondrona (Nosy Be)",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 9 – Sun",
+      "location": "Lokobe (Nosy Be)",
+      "title": "Lokobe: black lemurs and tiny chameleons",
+      "details": "Zero diving. Half-day guided trip by road to Ampasipohy and pirogue into Lokobe, Nosy Be's last primary forest: black lemurs (males black, females russet), the Nosy Be sportive lemur, panther chameleons, Brookesia stumpffi on the forest floor, Uroplatus ebenaui and boas. Back for an evening walk around the hotel for panther chameleons in the bushes.",
+      "overnight": "Beach hotel, Ambondrona (Nosy Be)",
+      "meals": "B hotel; L tour; D own"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 10 – Mon",
+      "location": "Nosy Be",
+      "title": "Dive day 2: Nosy Tanikely",
+      "details": "Two dives around the Nosy Tanikely marine reserve: turtles on almost every dive, big schools, healthy hard coral. Late December is the end of the whale shark season; ask the dive centre to watch for them on the boat ride.",
+      "overnight": "Beach hotel, Ambondrona (Nosy Be)",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 11 – Tue",
+      "location": "Nosy Be",
+      "title": "Dive day 3",
+      "details": "Two last dives, chosen with the dive centre for conditions (offshore banks if calm). Afternoon off; dry the gear and repack. 24h no-fly gap before tomorrow's flight: finish the second dive by ~12:00.",
+      "overnight": "Beach hotel, Ambondrona (Nosy Be)",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 12 – Wed",
+      "location": "Nosy Be → Antananarivo",
+      "title": "Fly back to Tana",
+      "details": "Afternoon flight Nosy Be → Tana (~1.5h), more than 24h after the last dive. Night near Ivato. This night is also the buffer: domestic flights in Madagascar are often rescheduled, and you still have five days before the flight home.",
+      "overnight": "Guesthouse near Ivato airport",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 13 – Thu",
+      "location": "Antananarivo → Andasibe",
+      "title": "East to the rainforest",
+      "details": "Driver at 07:00; ~3.5–4h east on the RN2 to Andasibe. Afternoon in the Mitsinjo community reserve (indri groups habituated by local guides). First Andasibe night walk along the road edge: mouse lemurs, Parson's and short-horned chameleons, Boophis tree frogs, and leaf-tailed geckos.",
+      "overnight": "Lodge in Andasibe",
+      "meals": "B hotel; L, D lodge"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 14 – Fri",
+      "location": "Analamazaotra (Andasibe)",
+      "title": "Indri morning",
+      "details": "Zero travel. 07:00 in Analamazaotra for the indri song at its loudest, plus common brown lemurs, eastern lesser bamboo lemurs, giraffe weevils. Afternoon rest; rain is likely. Night walk in Mitsinjo or Vohimana with a herp-focused guide: ask for Uroplatus phantasticus and sikorae, Brookesia, and mantella frogs.",
+      "overnight": "Lodge in Andasibe",
+      "meals": "B, D lodge; L own"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 15 – Sat",
+      "location": "Mantadia NP",
+      "title": "Mantadia: diademed sifaka and deep forest",
+      "details": "Zero transfer. Full day in Mantadia (~45 min up a rough track): diademed sifaka, black-and-white ruffed lemur, rainforest birds, streams with mantella frogs and Madagascar tree boas. Packed lunch. The track can be slippery in January: keep the 4x4.",
+      "overnight": "Lodge in Andasibe",
+      "meals": "B, L (packed), D lodge"
+    },
+    {
+      "date": "2027-01-10",
+      "day_label": "Day 16 – Sun",
+      "location": "Vohimana (Andasibe)",
+      "title": "Vohimana: herps all day",
+      "details": "Zero transfer. Morning and late afternoon in the Vohimana reserve (~15 min east), one of the best herp sites in the east: mantella frogs, Calumma chameleons, lowland streaked tenrecs, leaf-tailed geckos. Last night walk.",
+      "overnight": "Lodge in Andasibe",
+      "meals": "B, D lodge; L own"
+    },
+    {
+      "date": "2027-01-11",
+      "day_label": "Day 17 – Mon",
+      "location": "Andasibe → Antananarivo → in flight",
+      "title": "Back to Tana, fly home",
+      "details": "Morning walk if wanted, then ~3.5–4h back to Ivato with a margin for Tana traffic. Day room near the airport to shower and repack. Late-evening flight to Paris or Istanbul.",
+      "overnight": "Plane",
+      "meals": "B lodge; L, D own"
+    },
+    {
+      "date": "2027-01-12",
+      "day_label": "Day 18 – Tue",
+      "location": "in flight → Los Angeles",
+      "title": "Arrive home",
+      "details": "Connect in Paris or Istanbul; arrive LAX the same day (~30h door to door).",
+      "overnight": "Home",
+      "meals": "In-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Guesthouse near Ivato airport",
+      "place": "TNR",
+      "location": "Ivato, Antananarivo",
+      "nights": 2,
+      "pppn_usd": 30,
+      "style": "Guesthouse",
+      "includes": "~$60/room B&B with airport shuttle. Dec 27 after landing and Jan 6 after Nosy Be.",
+      "why": "Tana traffic is bad; staying by the airport keeps the arrival and the domestic flights short.",
+      "alternatives": "",
+      "url": "https://www.booking.com/city/mg/ivato.html"
+    },
+    {
+      "name": "Lodge in Joffreville (e.g. Nature Lodge)",
+      "place": "JOF",
+      "location": "Joffreville, Montagne d'Ambre",
+      "nights": 2,
+      "pppn_usd": 55,
+      "style": "Lodge, half board",
+      "includes": "~$110/room for a bungalow, plus dinner. Walkable to the park gate.",
+      "why": "The park is the trip's best Brookesia and Uroplatus site; sleeping at the gate makes night walks easy.",
+      "alternatives": "Cheaper guesthouses in Joffreville; or sleep in Diego Suarez (~$35/room) and drive up each day.",
+      "url": "https://www.travelocity.com/Joffreville-Hotels.d553248635940398195.Travel-Guide-Hotels",
+      "options": [
+        {
+          "id": "jof-plan",
+          "tag": "Plan",
+          "name": "Lodge in Joffreville (e.g. Nature Lodge)",
+          "pppn_usd": 55,
+          "room_usd": 110,
+          "rating": "",
+          "style": "Lodge, half board",
+          "includes": "Bungalow; dinner on site",
+          "why": "At the park gate for night walks.",
+          "url": "https://www.travelocity.com/Joffreville-Hotels.d553248635940398195.Travel-Guide-Hotels",
+          "notes": "Aggregator rates ~$111–116/night."
+        },
+        {
+          "id": "jof-diego",
+          "tag": "Cheaper",
+          "name": "Hotel in Diego Suarez, drive up daily",
+          "pppn_usd": 20,
+          "room_usd": 40,
+          "rating": "",
+          "style": "City hotel",
+          "includes": "Room only",
+          "why": "Half the price, but ~1h each way and night walks end with a dark drive.",
+          "url": "https://www.travelocity.com/Joffreville-Hotels.d553248635940398195.Travel-Guide-Hotels",
+          "notes": "E.g. Régina Lodge ~$33–35 with taxes."
+        }
+      ]
+    },
+    {
+      "name": "Bungalow at Mahamasina, Ankarana east gate",
+      "place": "ANK",
+      "location": "Mahamasina, Ankarana",
+      "nights": 2,
+      "pppn_usd": 25,
+      "style": "Budget bungalow",
+      "includes": "~$40–60/room; simple bungalows along the RN6 opposite the park office. Meals at the camp restaurant.",
+      "why": "Steps from the east gate, so dawn and night walks need no driving.",
+      "alternatives": "Ankarana Lodge, ~$120 pp/night, more comfort but a drive from the gate.",
+      "url": "https://safarifind.com/blog/best-lodges-near-ankarana-special-reserve-2027-rates",
+      "options": [
+        {
+          "id": "ank-plan",
+          "tag": "Plan",
+          "name": "Bungalow at Mahamasina, Ankarana east gate",
+          "pppn_usd": 25,
+          "room_usd": 50,
+          "rating": "",
+          "style": "Budget bungalow",
+          "includes": "Room; restaurant on site",
+          "why": "At the gate.",
+          "url": "https://safarifind.com/blog/best-lodges-near-ankarana-special-reserve-2027-rates",
+          "notes": "Estimate — confirm a named camp with the driver."
+        },
+        {
+          "id": "ank-lodge",
+          "tag": "Splurge",
+          "name": "Ankarana Lodge",
+          "pppn_usd": 120,
+          "room_usd": null,
+          "rating": "",
+          "style": "Lodge",
+          "includes": "Room; meals extra",
+          "why": "Air-conditioned bungalows and a pool; a drive from the gate.",
+          "url": "https://www.timbuktutravel.com/hotel/ankarana-lodge",
+          "notes": "From $120 pp/night listed; one 2023 review paid €100."
+        }
+      ]
+    },
+    {
+      "name": "Beach hotel, Ambondrona (Nosy Be)",
+      "place": "NOS",
+      "location": "Ambondrona / Ambatoloaka, Nosy Be",
+      "nights": 5,
+      "pppn_usd": 35,
+      "style": "Small beach hotel",
+      "includes": "~$70/room B&B, near Scuba Nosy Be's base on Ambondrona beach.",
+      "why": "Walking distance to the dive boat; restaurants along the beach.",
+      "alternatives": "",
+      "url": "https://www.booking.com/region/mg/nosy-be.html"
+    },
+    {
+      "name": "Lodge in Andasibe (e.g. Andasibe Sifaka Lodge)",
+      "place": "AND",
+      "location": "Andasibe",
+      "nights": 4,
+      "pppn_usd": 30,
+      "style": "Budget lodge",
+      "includes": "~$45–60/room with breakfast; dinner on site. Minutes from Analamazaotra and Mitsinjo.",
+      "why": "Night walks start from the door; the 4x4 handles the Mantadia track.",
+      "alternatives": "Andasibe Cyperus (~$86/room) or Mantadia Lodge (~$99–159).",
+      "url": "https://safarifind.com/blog/andasibe-mantadia-lodges-2027-budget-to-luxury-rates-compared"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "LAX → Antananarivo round trip, out Dec 26, back Jan 11",
+      "per_person_usd": 1900,
+      "low_usd": 1600,
+      "high_usd": 2400,
+      "notes": "Air France via Paris or Turkish via Istanbul. Aggregators show $1,380–1,900 for other dates; Christmas departures run high. Price now."
+    },
+    {
+      "category": "Domestic flights",
+      "item": "Tana → Diego Suarez (Dec 28) and Nosy Be → Tana (Jan 6)",
+      "per_person_usd": 450,
+      "low_usd": 350,
+      "high_usd": 600,
+      "notes": "Madagascar Airlines / Tsaradia; ~$160–300 one way for foreigners. Schedules change often — the Jan 6 flight has five days of slack."
+    },
+    {
+      "category": "Lodging",
+      "item": "Ivato guesthouse, 2 nights",
+      "per_person_usd": 60,
+      "low_usd": 50,
+      "high_usd": 120,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Joffreville lodge, 2 nights",
+      "per_person_usd": 110,
+      "low_usd": 40,
+      "high_usd": 160,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Ankarana east-gate bungalow, 2 nights",
+      "per_person_usd": 50,
+      "low_usd": 40,
+      "high_usd": 240,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Nosy Be beach hotel, 5 nights",
+      "per_person_usd": 175,
+      "low_usd": 125,
+      "high_usd": 300,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Andasibe lodge, 4 nights",
+      "per_person_usd": 120,
+      "low_usd": 90,
+      "high_usd": 240,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Day room near Ivato, Jan 11",
+      "per_person_usd": 30,
+      "low_usd": 0,
+      "high_usd": 50,
+      "notes": ""
+    },
+    {
+      "category": "Ground transport",
+      "item": "North: 4x4 with driver Dec 28 – Jan 1 (Diego → Amber Mountain → Ankarana → Ankify)",
+      "per_person_usd": 275,
+      "low_usd": 200,
+      "high_usd": 375,
+      "notes": "~$110/day for 5 days with fuel, split two ways. Driver-guide alone is ~€30/day (€40 from Jan 2027); the vehicle and fuel are the rest."
+    },
+    {
+      "category": "Ground transport",
+      "item": "Andasibe: car with driver for the transfers and the Mantadia day; taxi to Vohimana",
+      "per_person_usd": 140,
+      "low_usd": 110,
+      "high_usd": 200,
+      "notes": "Tana → Andasibe ~$100, Mantadia day ~$60 (a 4x4 is safer on the track in January), Andasibe → Tana ~$100, local taxis ~$20; split two ways. Analamazaotra and Mitsinjo are walkable from the lodge."
+    },
+    {
+      "category": "Ground transport",
+      "item": "Ankify speedboat, Nosy Be taxis, Tana airport transfers",
+      "per_person_usd": 70,
+      "low_usd": 50,
+      "high_usd": 110,
+      "notes": ""
+    },
+    {
+      "category": "Park fees",
+      "item": "Madagascar National Parks: Amber Mountain 2, Ankarana 2, Analamazaotra 1, Mantadia 1 days",
+      "per_person_usd": 120,
+      "low_usd": 60,
+      "high_usd": 140,
+      "notes": "Assumes 90,000 Ar (~$20) per park-day, the 2027 tariff on one park's official sheet from Oct 2026 (45,000 Ar before). Cash in ariary only."
+    },
+    {
+      "category": "Park fees",
+      "item": "Private reserves: Mitsinjo and Vohimana",
+      "per_person_usd": 50,
+      "low_usd": 30,
+      "high_usd": 80,
+      "notes": ""
+    },
+    {
+      "category": "Guides",
+      "item": "Park guides and night walks (~12 guided walks)",
+      "per_person_usd": 120,
+      "low_usd": 80,
+      "high_usd": 180,
+      "notes": "MNP guide fees ~25,000–70,000 Ar per circuit per group; ask for a herp-focused guide and agree the night-walk price first."
+    },
+    {
+      "category": "Activities",
+      "item": "Lokobe half-day trip (road, pirogue, guide, fee)",
+      "per_person_usd": 70,
+      "low_usd": 50,
+      "high_usd": 110,
+      "notes": "€40–60 for a basic half day; ~€100 for a full day with lunch."
+    },
+    {
+      "category": "Diving",
+      "item": "6 boat dives with Scuba Nosy Be, gear rental, Tanikely marine-park fee",
+      "per_person_usd": 320,
+      "low_usd": 280,
+      "high_usd": 450,
+      "notes": "6-dive package €200 (2025 rate) + rental ~€10/dive + Tanikely fee. Confirm the centre is open Jan 2–5 — some Nosy Be centres close in January."
+    },
+    {
+      "category": "Meals",
+      "item": "Food outside included meals, 15 days",
+      "per_person_usd": 375,
+      "low_usd": 300,
+      "high_usd": 500,
+      "notes": "~$25 pp/day; lodge dinners in Joffreville and Andasibe run ~$12–20."
+    },
+    {
+      "category": "Tips",
+      "item": "Drivers, guides, boat crews",
+      "per_person_usd": 100,
+      "low_usd": 70,
+      "high_usd": 150,
+      "notes": "Driver €5–10/day is customary; guides ~$5 per walk."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Travel medical + evacuation plan (no trip cancellation)",
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 250,
+      "notes": "Evacuation matters more here than in Kenya or Tanzania: serious care means a flight to Réunion or Johannesburg."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Malaria prophylaxis and travel clinic",
+      "per_person_usd": 90,
+      "low_usd": 50,
+      "high_usd": 200,
+      "notes": "Atovaquone-proguanil; malaria is everywhere on this route except the Tana highlands."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Yellow fever vaccine",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 350,
+      "notes": "Not required flying from the US via Paris or Istanbul. Required only after 12h+ transit in a risk country (Ethiopia, Kenya)."
+    },
+    {
+      "category": "Admin",
+      "item": "Madagascar e-visa (16–30 days)",
+      "per_person_usd": 45,
+      "low_usd": 41,
+      "high_usd": 50,
+      "notes": "€35 at evisamada-mg.com (the 15-day visa rose to €30 in Feb 2026; ours is 16 days)."
+    },
+    {
+      "category": "Admin",
+      "item": "Local SIM, sundries, laundry",
+      "per_person_usd": 50,
+      "low_usd": 30,
+      "high_usd": 100,
+      "notes": ""
+    },
+    {
+      "category": "Contingency",
+      "item": "~3%, held until bookings are confirmed",
+      "per_person_usd": 150,
+      "low_usd": 0,
+      "high_usd": 300,
+      "notes": "Domestic-flight changes, fee increases, FX."
+    }
+  ],
+  "budget_total_per_person_usd": 4960,
+  "alternatives": [
+    {
+      "id": "kirindy",
+      "name": "Kirindy for fossa (swap 2 Nosy Be days)",
+      "description": "Fly Tana → Morondava and spend 2 nights at Kirindy: fossa (best odds in Madagascar), giant jumping rat, Verreaux's sifaka, the Avenue of the Baobabs. Costs two dives and the Tanikely day. The dirt road can close after heavy rain.",
+      "cost_delta_per_person_usd": 350
+    },
+    {
+      "id": "more-dives",
+      "name": "4 more dives (10-dive package)",
+      "description": "€300 for 10 instead of €200 for 6, plus rental. Fits on the Lokobe day and the Jan 1 afternoon.",
+      "cost_delta_per_person_usd": 150
+    },
+    {
+      "id": "whale-shark",
+      "name": "Whale shark snorkel trip",
+      "description": "Blue Wave Diving runs these Oct–Dec at ~€55; late December is the tail of the season, so ask first.",
+      "cost_delta_per_person_usd": 65
+    },
+    {
+      "id": "ankarana-lodge",
+      "name": "Ankarana Lodge instead of the gate bungalows",
+      "description": "Pool and air-conditioning; a drive from the gate for night walks.",
+      "cost_delta_per_person_usd": 190
+    },
+    {
+      "id": "herp-guide",
+      "name": "Specialist herp guide in Andasibe, 2 nights",
+      "description": "A guide who knows where the Uroplatus phantasticus and Brookesia roost; ~$30 per night per group on top of the normal guide.",
+      "cost_delta_per_person_usd": 60
+    },
+    {
+      "id": "ins-comp",
+      "name": "Comprehensive insurance with trip cancellation",
+      "description": "Instead of medical + evacuation only.",
+      "cost_delta_per_person_usd": 110
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 14–20)",
+      "task": "Price LAX → Antananarivo out Dec 26, back Jan 11 on Air France (via Paris) and Turkish (via Istanbul; check its weekly days). No 12h+ layover in Addis Ababa or Nairobi."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Book the domestic flights: Tana → Diego Suarez Dec 28 (morning) and Nosy Be → Tana Jan 6 (afternoon). Madagascar Airlines or Tsaradia."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Email Scuba Nosy Be: 6-dive package Jan 2, 4 and 5 with rental gear, confirm they're running in early January, and ask about the Tanikely fee."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book a driver with a 4x4 for Dec 28 – Jan 1 (Diego airport → Joffreville → Ankarana → Ankify) and the Ankify → Nosy Be boat; a car with driver for Tana → Andasibe on Jan 7, the Mantadia day on Jan 9 and Andasibe → Ivato on Jan 11. Ask both for herp-minded guide contacts."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book lodges: Ivato (Dec 27, Jan 6), Joffreville (Dec 28–29), Mahamasina (Dec 30–31), Nosy Be (Jan 1–5), Andasibe (Jan 7–10), and a Jan 11 day room."
+    },
+    {
+      "when": "Mid-to-late Nov",
+      "task": "Travel clinic: malaria prophylaxis, routine vaccines, typhoid and hepatitis A."
+    },
+    {
+      "when": "Early Dec",
+      "task": "E-visa at evisamada-mg.com (€35, 16–30 days). Print it."
+    },
+    {
+      "when": "Dec 20–24",
+      "task": "Re-check the State Dept advisory and the cyclone outlook; reconfirm both domestic flights and the drivers."
+    }
+  ],
+  "practical": "## Entry\n- **Madagascar e-visa:** €35 for 16–30 days at evisamada-mg.com; print the approval. Passport 6+ months with 2 blank pages.\n- **Yellow fever:** not required flying from the US via Paris or Istanbul. A 12h+ transit in Ethiopia or Kenya would require it.\n\n## Packing\n- **Rain gear**: a real rain jacket, quick-dry clothes, leech socks for Amber Mountain and Andasibe, and dry bags for cameras.\n- **Headtorch each, plus a spare.** Night walks are most of the herp list; a red-light setting helps.\n- Boots with grip for muddy trails and the sharp tsingy at Ankarana.\n- Dive: your certification card and logbook; rental gear is available. A 3mm wetsuit is plenty (water ~28°C).\n- One soft bag each; domestic flights have tight limits and speedboats have no dry hold.\n\n## Money\n- **Cash in ariary** for park fees, guides and tips (no cards at park gates). Change euros or dollars at the airport; ATMs in Tana, Diego and Hell-Ville.\n- Euros are the easiest foreign currency for dive centres and lodges.\n\n## Season\n- Late December to March is the wet season: heavy afternoon showers, warm nights, the best herp activity of the year. Cyclones are possible from January; watch forecasts before the Nosy Be legs.\n- Leeches in the eastern and montane rainforests; harmless but persistent.\n\n## Health and safety\n- US advisory **Level 2** (Exercise Increased Caution) since Dec 2025, after a Level 3 period during the late-2025 unrest. Crime is the main risk, especially after dark in towns; protests happen in Tana.\n- Don't travel by road at night between towns; every drive here is in daylight.\n- Malaria prophylaxis from before arrival through 7 days after. Bubonic plague occurs seasonally in rural highland areas; the risk to travellers on this route is very low.\n- Medical care outside Tana is basic. Evacuation cover is essential.\n",
+  "open_questions": [
+    "~$4,960 pp sits right under $5k only if the flights come in near $1,900. OK, or trim (Diego hotel instead of Joffreville, −$70)?",
+    "Swap two Nosy Be days for Kirindy to have a real chance at a fossa (+$350)?",
+    "Are 6 dives enough, or take the 10-dive package (+$150)?"
+  ],
+  "sources": [
+    "https://travel.state.gov/en/international-travel/travel-advisories/madagascar.html",
+    "https://www.forbes.com/sites/emesemaczko/2026/05/26/madagascar-is-back-on-the-radar-what-experts-say-travelers-should-know/",
+    "https://www.momondo.com/flights/los-angeles/antananarivo",
+    "https://www.google.com/travel/flights/flights-from-los-angeles-to-antananarivo.html?gl=US&hl=en-US",
+    "https://www.booking.com/flights/route/city-to-city/us-los-angeles-to-mg-antananarivo.html",
+    "https://info.flightmapper.net/route/YY_TNR_IST",
+    "https://www.farecompare.com/flights/Antananarivo-TNR/Nossi-Be-NOS/market.html",
+    "https://www.bluewaterdivetravel.com/dive-operator/scuba-nosy-be",
+    "https://www.bluewaterdivetravel.com/dive-operator/blue-wave-diving",
+    "https://marojejy.com/wp-content/uploads/2026/08/TarifsMarojejy2026-27En.pdf",
+    "https://safarifind.com/blog/madagascar-national-park-fees-availability-2026",
+    "https://www.roadtripafrica.com/madagascar/practical-info/car-rental-with-driver",
+    "https://visasnews.com/en/madagascar-triples-its-15-day-e-visa-fee/",
+    "https://www.timbuktutravel.com/hotel/ankarana-lodge",
+    "https://safarifind.com/blog/andasibe-mantadia-lodges-2027-budget-to-luxury-rates-compared",
+    "https://safarifind.com/destinations/lokobe-nature-special-reserve",
+    "https://www.naturalhighsafaris.com/africa/madagascar/month-by-month-guide-to-visiting-madagascar/",
+    "https://www.steppestravel.com/us/best-time-to-visit/madagascar/"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "TNR": {
+      "name": "Antananarivo (Ivato)",
+      "lat": -18.7969,
+      "lng": 47.4788,
+      "kind": "city",
+      "country": "Madagascar"
+    },
+    "DIE": {
+      "name": "Diego Suarez (Antsiranana)",
+      "lat": -12.3494,
+      "lng": 49.2917,
+      "kind": "transit",
+      "country": "Madagascar"
+    },
+    "JOF": {
+      "name": "Montagne d'Ambre (Joffreville)",
+      "lat": -12.5167,
+      "lng": 49.1833,
+      "kind": "nature",
+      "country": "Madagascar"
+    },
+    "ANK": {
+      "name": "Ankarana (Mahamasina)",
+      "lat": -12.96,
+      "lng": 49.13,
+      "kind": "nature",
+      "country": "Madagascar"
+    },
+    "AFY": {
+      "name": "Ankify",
+      "lat": -13.5333,
+      "lng": 48.3333,
+      "kind": "transit",
+      "country": "Madagascar"
+    },
+    "NOS": {
+      "name": "Nosy Be",
+      "lat": -13.3667,
+      "lng": 48.2167,
+      "kind": "nature",
+      "country": "Madagascar"
+    },
+    "AND": {
+      "name": "Andasibe",
+      "lat": -18.9333,
+      "lng": 48.4167,
+      "kind": "nature",
+      "country": "Madagascar"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-26",
+      "from": "LAX",
+      "to": "TNR",
+      "mode": "flight",
+      "duration": "~30–34h",
+      "detail": "Air France via Paris or Turkish via Istanbul; lands Dec 27 evening"
+    },
+    {
+      "date": "2026-12-28",
+      "from": "TNR",
+      "to": "DIE",
+      "mode": "flight",
+      "duration": "~2h",
+      "detail": "Madagascar Airlines / Tsaradia, morning"
+    },
+    {
+      "date": "2026-12-28",
+      "from": "DIE",
+      "to": "JOF",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "Driver from the airport"
+    },
+    {
+      "date": "2026-12-30",
+      "from": "JOF",
+      "to": "ANK",
+      "mode": "road",
+      "duration": "~2h",
+      "detail": "Same driver, paved RN6"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "ANK",
+      "to": "AFY",
+      "mode": "road",
+      "duration": "~3.5–4h",
+      "detail": "Same driver, via Ambanja"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "AFY",
+      "to": "NOS",
+      "mode": "boat",
+      "duration": "~45m",
+      "detail": "Speedboat to Nosy Be"
+    },
+    {
+      "date": "2027-01-06",
+      "from": "NOS",
+      "to": "TNR",
+      "mode": "flight",
+      "duration": "~1.5h",
+      "detail": "Afternoon, 24h+ after the last dive"
+    },
+    {
+      "date": "2027-01-07",
+      "from": "TNR",
+      "to": "AND",
+      "mode": "road",
+      "duration": "~3.5–4h",
+      "detail": "Car with driver on the RN2"
+    },
+    {
+      "date": "2027-01-11",
+      "from": "AND",
+      "to": "TNR",
+      "mode": "road",
+      "duration": "~3.5–4h",
+      "detail": "Back to Ivato with a traffic margin"
+    },
+    {
+      "date": "2027-01-11",
+      "from": "TNR",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~30h",
+      "detail": "Late-evening departure via Paris or Istanbul; lands Jan 12"
+    }
+  ],
+  "stays": [
+    {
+      "place": "TNR",
+      "from": "2026-12-27",
+      "nights": 1,
+      "label": "Tana (Ivato)"
+    },
+    {
+      "place": "JOF",
+      "from": "2026-12-28",
+      "nights": 2,
+      "label": "Montagne d'Ambre"
+    },
+    {
+      "place": "ANK",
+      "from": "2026-12-30",
+      "nights": 2,
+      "label": "Ankarana"
+    },
+    {
+      "place": "NOS",
+      "from": "2027-01-01",
+      "nights": 5,
+      "label": "Nosy Be"
+    },
+    {
+      "place": "TNR",
+      "from": "2027-01-06",
+      "nights": 1,
+      "label": "Tana (Ivato)"
+    },
+    {
+      "place": "AND",
+      "from": "2027-01-07",
+      "nights": 4,
+      "label": "Andasibe"
+    }
+  ],
+  "fatigue_check": "Hardest stretch: the outbound, ~30–34h, landing Dec 27 evening; Dec 28 is a 05:00 start for the Diego flight, so sleep on the plane.\nJan 1: ~4h by road plus the speedboat on a public holiday.\nJan 11: ~4h Andasibe → Tana, then a late-night flight and ~30h home; the day room helps.\nZero-transfer days: Dec 29, Dec 31, Jan 2–5, Jan 8–10.",
+  "hero_photo": "Andasibe-Mantadia_National_Park",
+  "photos": {
+    "JOF": {
+      "name": "Montagne d'Ambre",
+      "wiki": [
+        "Amber_Mountain_National_Park",
+        "Brookesia",
+        "Uroplatus"
+      ]
+    },
+    "ANK": {
+      "name": "Ankarana",
+      "wiki": [
+        "Ankarana_Reserve",
+        "Crowned_lemur",
+        "Tsingy"
+      ]
+    },
+    "NOS": {
+      "name": "Nosy Be",
+      "wiki": [
+        "Nosy_Be",
+        "Black_lemur",
+        "Panther_chameleon",
+        "Green_sea_turtle"
+      ]
+    },
+    "AND": {
+      "name": "Andasibe-Mantadia",
+      "wiki": [
+        "Andasibe-Mantadia_National_Park",
+        "Indri",
+        "Diademed_sifaka",
+        "Mantella"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Indri",
+      "wiki": "Indri",
+      "where": "Analamazaotra, Mitsinjo",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Diademed sifaka",
+      "wiki": "Diademed_sifaka",
+      "where": "Mantadia",
+      "odds": "Likely"
+    },
+    {
+      "name": "Black-and-white ruffed lemur",
+      "wiki": "Black-and-white_ruffed_lemur",
+      "where": "Mantadia",
+      "odds": "Possible"
+    },
+    {
+      "name": "Crowned lemur",
+      "wiki": "Crowned_lemur",
+      "where": "Ankarana, Montagne d'Ambre",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Sanford's brown lemur",
+      "wiki": "Sanford's_brown_lemur",
+      "where": "Montagne d'Ambre, Ankarana",
+      "odds": "Likely"
+    },
+    {
+      "name": "Black lemur",
+      "wiki": "Black_lemur",
+      "where": "Lokobe (Nosy Be)",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Sportive lemurs",
+      "wiki": "Sportive_lemur",
+      "where": "Ankarana, Lokobe (day roosts in tree holes)",
+      "odds": "Likely"
+    },
+    {
+      "name": "Mouse lemurs",
+      "wiki": "Mouse_lemur",
+      "where": "Night walks everywhere",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Lowland streaked tenrec",
+      "wiki": "Lowland_streaked_tenrec",
+      "where": "Andasibe, Vohimana",
+      "odds": "Possible"
+    },
+    {
+      "name": "Fossa",
+      "wiki": "Fossa_(animal)",
+      "where": "Ankarana (rare); Kirindy option",
+      "odds": "Unlikely without Kirindy"
+    },
+    {
+      "name": "Panther chameleon",
+      "wiki": "Panther_chameleon",
+      "where": "Nosy Be, Ankarana",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Parson's chameleon",
+      "wiki": "Parson's_chameleon",
+      "where": "Andasibe",
+      "odds": "Likely"
+    },
+    {
+      "name": "Amber Mountain chameleon",
+      "wiki": "Calumma_ambreense",
+      "where": "Montagne d'Ambre",
+      "odds": "Likely"
+    },
+    {
+      "name": "Brookesia leaf chameleons",
+      "wiki": "Brookesia",
+      "where": "Montagne d'Ambre, Lokobe, Andasibe",
+      "odds": "Likely on night walks"
+    },
+    {
+      "name": "Leaf-tailed geckos",
+      "wiki": "Uroplatus",
+      "where": "Montagne d'Ambre, Ankarana, Andasibe",
+      "odds": "Likely on night walks"
+    },
+    {
+      "name": "Madagascar tree boa",
+      "wiki": "Sanzinia",
+      "where": "Andasibe, Lokobe",
+      "odds": "Possible"
+    },
+    {
+      "name": "Mantella frogs",
+      "wiki": "Mantella",
+      "where": "Vohimana, Mantadia",
+      "odds": "Likely in the rains"
+    },
+    {
+      "name": "Giraffe weevil",
+      "wiki": "Giraffe_weevil",
+      "where": "Andasibe",
+      "odds": "Likely"
+    },
+    {
+      "name": "Green and hawksbill turtles",
+      "wiki": "Green_sea_turtle",
+      "where": "Nosy Tanikely dives",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Whale shark",
+      "wiki": "Whale_shark",
+      "where": "Off Nosy Be (end of season)",
+      "odds": "Possible"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Madagascar",
+      "country": "Madagascar"
+    },
+    "budget_target": {
+      "low": 4500,
+      "high": 5000
+    },
+    "currency": "USD"
+  }
+}

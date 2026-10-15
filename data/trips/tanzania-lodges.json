@@ -1,0 +1,1008 @@
+{
+  "id": "tanzania-lodges",
+  "label": "Tanzania, no camping · Jan 12",
+  "title": "Istanbul & Tanzania without camping: Serengeti tented camp, Karatu, Mikumi and the Udzungwa rainforest",
+  "summary": "The Tanzania trip with every camping night swapped for a bed: Mto wa Mbu lodge, a Serengeti tented camp ×3, a Karatu lodge instead of the rim. Night drive moves to Mikumi. ~$6,290 pp.",
+  "overview": "- **What this is:** the Tanzania trip ($5,820) with **no camping**. Every night has a real bed and an en-suite bathroom. Same dates, same parks, same Mikumi + Udzungwa tour.\n- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 17 nights: 3 Istanbul, 13 Tanzania, 1 on a plane.\n- **Route:** Istanbul 3n → Arusha 1n → **6-day private lodge safari** (Tarangire → Mto wa Mbu lodge 1n, Serengeti tented camp 3n, Karatu lodge 1n, crater) → Arusha 1n → fly to Dar → **4-day Mikumi + Udzungwa** → home from Dar.\n- **No rim night:** Simba campsite (2,300 m, near freezing) becomes a lodge in Karatu, ~45 min below the crater gate at ~1,500 m. You still descend into the crater at opening; the start is 05:30 instead of 06:00.\n- **Serengeti:** a budget permanent tented camp (e.g. Embalakai or Tukaone): canvas walls, but real beds, en-suite bathroom, full board. Nothing cheaper sits inside the park, and staying outside means 1h+ each way.\n- **Night drive moves to Mikumi:** Tarangire's night drive needs you inside the park after dark, and the only in-park lodge is ~$300 pp. Mikumi is also on TANAPA's night-drive list, so it goes there (Jan 9). The Tarangire ranger walk stays.\n- **Budget: ~$6,290 pp, +$470 vs the camping version**, still with **no contingency**. The safari line is the whole difference (+$500, camps at ~$185–260 pppn plus the $71 Serengeti concession fee vs ~$35 campsites); no cook means ~$30 less in tips. The quote range runs to $3,000, which would put the trip ~$300 over the +$500 line.\n",
+  "dates": {
+    "depart": "2026-12-26",
+    "return": "2027-01-12"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-26",
+      "day_label": "Day 1 – Sat",
+      "location": "Los Angeles → in flight",
+      "title": "Fly toward Istanbul",
+      "details": "TK10 LAX 19:45 → IST 19:00 next day (~13h). Istanbul is on Tanzania time (UTC+3), so the jet-lag shift is done once, here.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-27",
+      "day_label": "Day 2 – Sun",
+      "location": "Istanbul",
+      "title": "Land Istanbul, metro into the city",
+      "details": "Land 19:00. Metro M11 → M2 → T1 to Sultanahmet, ~1.5h door to door. Buy an Istanbulkart at the station. Easy dinner, early night.",
+      "overnight": "Istanbul hotel",
+      "meals": "In-flight; D own"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 3 – Mon",
+      "location": "Istanbul",
+      "title": "Sultanahmet on foot",
+      "details": "Hagia Sophia, the Blue Mosque, the Basilica Cistern — all within ten minutes of each other. Zero travel.",
+      "overnight": "Istanbul hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 4 – Tue",
+      "location": "Istanbul",
+      "title": "Topkapı, Grand Bazaar, Bosphorus",
+      "details": "Topkapı in the morning, Grand Bazaar after lunch, then a public ferry to Kadıköy on the Asian side for dinner.",
+      "overnight": "Istanbul hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 5 – Wed",
+      "location": "Istanbul → in flight",
+      "title": "Free morning, fly to Kilimanjaro",
+      "details": "Spice Bazaar or Süleymaniye. Bags at the hotel. Leave for the airport by 15:00. TK Istanbul 18:30 → Kilimanjaro 01:40 (summer 2026 timing; confirm the Dec schedule).",
+      "overnight": "Plane",
+      "meals": "B; in-flight"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 6 – Thu",
+      "location": "Kilimanjaro → Arusha",
+      "title": "Land 01:40, rest day in Arusha",
+      "details": "Visa check at JRO, pre-booked taxi to Arusha (~1h). Room held from Dec 30 so it's ready at 03:00. Sleep in, then a slow day: Tanzanian SIM, cash, meet the safari operator for the briefing. Quiet New Year's Eve.",
+      "overnight": "Arusha budget hotel",
+      "meals": "Own"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 7 – Fri",
+      "location": "Arusha → Tarangire → Mto wa Mbu",
+      "title": "Safari day 1: Tarangire on foot",
+      "details": "Pickup ~07:00, ~2.5h to Tarangire. Late-morning drive: big elephant herds, baobabs, lion. Mid-afternoon, a 2–3h walking safari with an armed TANAPA ranger, on foot among elephant, giraffe and zebra. Last drive until the 18:00 close, then ~1h to a lodge in Mto wa Mbu, on the way to the Serengeti.",
+      "overnight": "Budget lodge, Mto wa Mbu (in package)",
+      "meals": "B, L, D safari"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 8 – Sat",
+      "location": "Ngorongoro highlands → Serengeti",
+      "title": "Safari day 2: into the Serengeti",
+      "details": "Up the Rift escarpment and over the Ngorongoro highlands (rim forest views), down through the conservation area to Naabi Hill gate, game drive to camp. ~5–6h with driving and drives, an hour shorter than from Tarangire. In January the herds are on the southern short-grass plains, so you may cross them on the way in.",
+      "overnight": "Budget tented camp, central Serengeti (in package)",
+      "meals": "B, L, D safari"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 9 – Sun",
+      "location": "Serengeti (Seronera)",
+      "title": "Safari day 3: leopard day",
+      "details": "Zero transfer. Dawn to dusk in the Seronera valley: the sausage trees and kopjes are the best leopard country on the circuit. Lion and cheetah are routine here. Camps like Embalakai and Tukaone are 40–60 min from Seronera, so leave at first light.",
+      "overnight": "Budget tented camp, central Serengeti (in package)",
+      "meals": "B, L (packed), D safari"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 10 – Mon",
+      "location": "Serengeti",
+      "title": "Safari day 4: the herds or more cats",
+      "details": "Zero transfer. Ask the guide on day 2 whether a run toward the southern plains / Ndutu edge is worth it this year; otherwise a second full Seronera day for leopard.",
+      "overnight": "Budget tented camp, central Serengeti (in package)",
+      "meals": "B, L (packed), D safari"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 11 – Tue",
+      "location": "Serengeti → Karatu",
+      "title": "Safari day 5: last drive, down to Karatu",
+      "details": "Morning drive, then out via Naabi Hill gate in the early afternoon and across the conservation area to a lodge in Karatu (~4h). Time the Ngorongoro entry: the 24h permit starts when you enter at Naabi and must still be valid when you leave the crater tomorrow, so don't enter before ~13:00. Karatu sits at ~1,500 m: cool, not freezing. Hot shower, real bed.",
+      "overnight": "Budget lodge, Karatu (in package)",
+      "meals": "B, L, D safari"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 12 – Wed",
+      "location": "Ngorongoro Crater → Arusha",
+      "title": "Safari day 6: crater floor for rhino",
+      "details": "Leave Karatu 05:30, ~45 min up to Lodoare gate and the descent road at opening. Full 6h crater allowance: black rhino (the best chance on the trip), lion, hyena, flamingo. Out of the conservation area by ~13:00 (inside the 24h permit), ~3h back to Arusha.",
+      "overnight": "Arusha budget hotel",
+      "meals": "B, L safari; D own"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 13 – Thu",
+      "location": "Arusha → Dar es Salaam",
+      "title": "Fly south to Dar",
+      "details": "Precision Air or Air Tanzania, Arusha (ARK) or Kilimanjaro (JRO) → Dar, ~1h15 direct. Afternoon off; laundry. Meet the Mikumi–Udzungwa operator.",
+      "overnight": "Dar es Salaam budget hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 14 – Fri",
+      "location": "Dar → Mikumi",
+      "title": "South trip day 1: Mikumi",
+      "details": "Operator pickup. SGR train to Morogoro (~1.5h) then road to Mikumi, or ~5h by road. Afternoon game drive: elephant, giraffe, buffalo, hippo pools, lion.",
+      "overnight": "Lodge/camp near Mikumi (in package)",
+      "meals": "L, D tour"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 15 – Sat",
+      "location": "Mikumi NP",
+      "title": "South trip day 2: full day in Mikumi, night drive",
+      "details": "Zero transfer. Full-day drive on the Mkata floodplain; leopard is possible in the wooded hills. Few vehicles compared with the north. After dinner, a night drive with a spotlight: bushbaby, genet, civet, porcupine, hyena. Option: a ranger-led morning walk too.",
+      "overnight": "Lodge/camp near Mikumi (in package)",
+      "meals": "B, L, D tour"
+    },
+    {
+      "date": "2027-01-10",
+      "day_label": "Day 16 – Sun",
+      "location": "Udzungwa Mountains NP",
+      "title": "South trip day 3: rainforest on foot",
+      "details": "~1.5h to Mang'ula. Full day hiking with a park guide: Sanje Falls trail (170 m falls, ~5–6h), with a primate-focused walk for the Udzungwa (Iringa) red colobus and Sanje crested mangabey. Chameleons, forest birds. Udzungwa is walking-only — no vehicles inside.",
+      "overnight": "Guesthouse/camp at Mang'ula (in package)",
+      "meals": "B, L, D tour"
+    },
+    {
+      "date": "2027-01-11",
+      "day_label": "Day 17 – Mon",
+      "location": "Udzungwa → Dar es Salaam",
+      "title": "Back to Dar",
+      "details": "Early start, road to Morogoro (~3h) and SGR or road back to Dar. Hotel near the airport with the room until midnight; shower, repack, sleep a few hours.",
+      "overnight": "Dar hotel near the airport (until ~midnight)",
+      "meals": "B tour; L, D own"
+    },
+    {
+      "date": "2027-01-12",
+      "day_label": "Day 18 – Tue",
+      "location": "Dar es Salaam → Los Angeles",
+      "title": "Fly home",
+      "details": "Leave the hotel ~00:30. TK604 DAR ~03:25 → IST ~11:05, then TK9 → LAX, arriving the same evening. About 27h door to door.",
+      "overnight": "Home",
+      "meals": "In-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Istanbul hotel (TK Stopover, 2 nights free)",
+      "place": "IST",
+      "location": "Istanbul, Türkiye",
+      "nights": 3,
+      "pppn_usd": 20,
+      "style": "Hotel",
+      "includes": "Room and breakfast. Turkish Airlines gives US-origin economy passengers two free nights, once per ticket — only the third is paid.",
+      "why": "Gets the 11h time shift done before Africa; Istanbul is on Tanzania time.",
+      "alternatives": "Pay for all three nights and choose your own hotel, about +$180 pp.",
+      "url": "https://www.turkishairlines.com/en-us/flights/stopover/"
+    },
+    {
+      "name": "Budget hotel, Arusha",
+      "place": "ARU",
+      "location": "Arusha",
+      "nights": 2,
+      "pppn_usd": 25,
+      "style": "Hotel",
+      "includes": "~$50/room B&B. Night of Dec 31 (room held from Dec 30 for the 01:40 landing) and Jan 6 after the crater.",
+      "why": "Most safari operators pick up from Arusha town hotels.",
+      "alternatives": "Ask the safari operator; many include a pre- and post-safari Arusha night.",
+      "url": "https://www.booking.com/city/tz/arusha.html"
+    },
+    {
+      "name": "Budget lodge, Mto wa Mbu (in package)",
+      "place": "MTO",
+      "location": "Mto wa Mbu, between Tarangire and the Ngorongoro highlands",
+      "nights": 1,
+      "pppn_usd": 0,
+      "style": "Budget lodge",
+      "includes": "Room with bathroom, dinner and breakfast; in the safari price. The operator picks the lodge.",
+      "why": "On the road to the Serengeti, so day 2 is an hour shorter. Lodges at the Tarangire gate (e.g. Burunge Tented Lodge, ~$161 pp FB + $29.50 WMA fee) cost more and still can't run a park night drive.",
+      "alternatives": "Burunge Tented Lodge near the gate; Tarangire Safari Lodge inside the park (~$256 pp + $47 concession) if you want the Tarangire night drive back.",
+      "url": "https://www.chaloafrica.com/accommodation/lake-burunge-tented-camp-tarangire-tanzania/"
+    },
+    {
+      "name": "Budget tented camp, central Serengeti (in package)",
+      "place": "SER",
+      "location": "Central Serengeti, 40–60 min from Seronera",
+      "nights": 3,
+      "pppn_usd": 0,
+      "style": "Permanent tented camp",
+      "includes": "Walk-in tent with beds and en-suite bathroom, full board; in the safari price along with the $70.80 pppn Serengeti concession fee. E.g. Embalakai Authentic Camp (~$184–274 pp FB listed) or Tukaone Camp (~$247–262).",
+      "why": "The cheapest real beds inside the park. Camps at Seronera itself (e.g. Tanzania Bush Camps, ~$287) cost more; Ikoma-gate lodges are cheaper but 1h+ from the Seronera valley each way.",
+      "alternatives": "A Seronera camp for shorter dawn drives (+~$100–300 pp for 3 nights).",
+      "url": "https://monkey.travel/en/accommodation/embalakai-camp"
+    },
+    {
+      "name": "Budget lodge, Karatu (in package)",
+      "place": "KAR",
+      "location": "Karatu, ~45 min below the crater gate",
+      "nights": 1,
+      "pppn_usd": 0,
+      "style": "Budget lodge",
+      "includes": "Room with bathroom, full board; in the safari price. E.g. Karatu Tented Lodge (~$116 pp FB listed).",
+      "why": "Replaces Simba campsite on the rim: ~1,500 m instead of 2,300 m, and a hot shower.",
+      "alternatives": "A lodge on the rim itself costs several hundred dollars more per person.",
+      "url": "https://monkey.travel/en/accommodation/karatu-tented-lodge"
+    },
+    {
+      "name": "Budget hotel, Dar es Salaam",
+      "place": "DAR",
+      "location": "Dar es Salaam",
+      "nights": 2,
+      "pppn_usd": 30,
+      "style": "Hotel",
+      "includes": "~$60/room. Jan 7 in town; Jan 11 near the airport with the room until midnight.",
+      "why": "Bracket the southern tour; the operator collects from Dar.",
+      "alternatives": "",
+      "url": "https://www.booking.com/city/tz/dar-es-salaam.html"
+    },
+    {
+      "name": "Mikumi and Udzungwa lodges (in package)",
+      "place": "MIK",
+      "location": "Mikumi and Mang'ula",
+      "nights": 3,
+      "pppn_usd": 0,
+      "style": "Budget lodge/camp",
+      "includes": "Covered by the 4-day tour.",
+      "why": "",
+      "alternatives": "",
+      "url": "https://see-adventures.com/tanzania/tours/mikumi-and-udzungwa-budget-tour/"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "TK multi-city LAX–IST–JRO, DAR–IST–LAX, 3-night Istanbul stop outbound",
+      "per_person_usd": 1500,
+      "low_usd": 1350,
+      "high_usd": 1900,
+      "notes": "Into Kilimanjaro, out of Dar (open jaw). Price the open jaw against a JRO round trip before committing. Avoid N and R fare classes (no free stopover hotel)."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Hotel — 2 nights free via TK Stopover, 1 paid",
+      "per_person_usd": 60,
+      "low_usd": 0,
+      "high_usd": 240,
+      "notes": "Apply ≥72h before the flight; hotel assigned by TK."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Food, 3 days",
+      "per_person_usd": 105,
+      "low_usd": 90,
+      "high_usd": 200,
+      "notes": "~$35 pp/day."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Sights — Hagia Sophia, Basilica Cistern, Topkapı",
+      "per_person_usd": 120,
+      "low_usd": 90,
+      "high_usd": 160,
+      "notes": "Skip the Harem ticket to land at the low end."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Airport transfers ×2 and Istanbulkart",
+      "per_person_usd": 30,
+      "low_usd": 20,
+      "high_usd": 60,
+      "notes": ""
+    },
+    {
+      "category": "Safaris",
+      "item": "6-day northern lodge safari (private vehicle, 2 people)",
+      "per_person_usd": 2700,
+      "low_usd": 2450,
+      "high_usd": 3000,
+      "notes": "Tarangire, Serengeti ×3, Ngorongoro crater; Mto wa Mbu lodge, a central Serengeti tented camp ×3, a Karatu lodge. Includes park, concession and crater fees, lodges, meals, guide and vehicle. Built as the $2,200 camping estimate + ~$500: camps at ~$185–260 pppn FB plus the $70.80 Serengeti concession fee replace ~$35 campsites and the cook, at operator rates below the listed ones. Published private budget-lodge 6-day tours list ~$1,960–2,700 pp. Estimate — get two quotes."
+    },
+    {
+      "category": "Safaris",
+      "item": "Tarangire walking safari with armed ranger (2–3h)",
+      "per_person_usd": 40,
+      "low_usd": 35,
+      "high_usd": 60,
+      "notes": "TANAPA walking fee ~$24 pp + ranger fee ~$24 per group (secondary-source rates; confirm)."
+    },
+    {
+      "category": "Safaris",
+      "item": "Mikumi night game drive (Jan 9)",
+      "per_person_usd": 70,
+      "low_usd": 60,
+      "high_usd": 120,
+      "notes": "TANAPA night-drive fee ~$59 pp (Mikumi is on the night-drive list) + guide time. Moved from Tarangire, where it needs an in-park lodge. Ask the operator to use a lodge that can run it."
+    },
+    {
+      "category": "Safaris",
+      "item": "4-day Mikumi and Udzungwa tour from Dar",
+      "per_person_usd": 850,
+      "low_usd": 810,
+      "high_usd": 1200,
+      "notes": "Published budget tours from ~$810 pp exclude fee increases; ~$1,030 at a mid-range operator."
+    },
+    {
+      "category": "Tips",
+      "item": "Safari guides and rangers",
+      "per_person_usd": 155,
+      "low_usd": 120,
+      "high_usd": 230,
+      "notes": "~$10 pp/day for the north-trip guide (no cook on a lodge safari), plus lodge staff boxes; Udzungwa hiking guide separate. Crisp USD."
+    },
+    {
+      "category": "Transport",
+      "item": "Arusha/JRO → Dar flight",
+      "per_person_usd": 100,
+      "low_usd": 55,
+      "high_usd": 150,
+      "notes": "Precision Air / Air Tanzania, ~1h15. Checked bag limits are tight (15–20 kg)."
+    },
+    {
+      "category": "Transport",
+      "item": "Airport and town transfers",
+      "per_person_usd": 60,
+      "low_usd": 40,
+      "high_usd": 90,
+      "notes": "JRO → Arusha at 02:00 (~$50/car), Arusha → airport, Dar airport both ways."
+    },
+    {
+      "category": "Lodging",
+      "item": "Arusha budget hotel, 3 room-nights (Dec 30 held, Dec 31, Jan 6)",
+      "per_person_usd": 75,
+      "low_usd": 60,
+      "high_usd": 150,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Dar budget hotel, 2 nights",
+      "per_person_usd": 60,
+      "low_usd": 45,
+      "high_usd": 120,
+      "notes": ""
+    },
+    {
+      "category": "Meals",
+      "item": "Food outside the safaris (Dec 31, Jan 6–7, Jan 11)",
+      "per_person_usd": 70,
+      "low_usd": 50,
+      "high_usd": 120,
+      "notes": ""
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Travel medical + evacuation plan (no trip cancellation)",
+      "per_person_usd": 90,
+      "low_usd": 60,
+      "high_usd": 250,
+      "notes": "Same choice as the Kenya plan: single-trip medical with ≥$250k evacuation home. Comprehensive with cancellation is an option (+$110)."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Malaria prophylaxis and travel clinic",
+      "per_person_usd": 90,
+      "low_usd": 50,
+      "high_usd": 200,
+      "notes": "Atovaquone-proguanil. All of mainland Tanzania on this route is malarial; Istanbul is not."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Yellow fever vaccine",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 350,
+      "notes": "Not required: flying from the US via Istanbul (not a yellow-fever country). Tanzania asks for it only after >12h transit in a risk country."
+    },
+    {
+      "category": "Admin",
+      "item": "Tanzania visa (US multiple-entry)",
+      "per_person_usd": 100,
+      "low_usd": 100,
+      "high_usd": 100,
+      "notes": "US citizens: $100, 12-month multiple entry. Official portal only: visa.immigration.go.tz."
+    },
+    {
+      "category": "Admin",
+      "item": "eSIM or local SIM",
+      "per_person_usd": 15,
+      "low_usd": 8,
+      "high_usd": 25,
+      "notes": ""
+    }
+  ],
+  "budget_total_per_person_usd": 6290,
+  "alternatives": [
+    {
+      "id": "tarangire-camp",
+      "name": "Camp one night in Tarangire for its night drive",
+      "description": "The one camping night that isn't cold: Tarangire is at ~1,100 m. Public campsite instead of Mto wa Mbu, and the Tarangire night drive on top of Mikumi's. Day 2 goes back to ~6–7h.",
+      "cost_delta_per_person_usd": 60
+    },
+    {
+      "id": "manyara",
+      "name": "7-day safari: add a Lake Manyara day",
+      "description": "Groundwater forest with blue monkeys, baboons and elephants on the way back, plus another lodge night. Puts the trip well past +$500.",
+      "cost_delta_per_person_usd": 300
+    },
+    {
+      "id": "ist-31",
+      "name": "Stay in Istanbul until Dec 31",
+      "description": "A fourth night (paid) and another day of food. Fare difference unknown until you price it; flying on Dec 31 is sometimes cheaper.",
+      "cost_delta_per_person_usd": 95
+    },
+    {
+      "id": "udz-2",
+      "name": "Second Udzungwa day",
+      "description": "The red colobus and mangabey trails are different from the Sanje Falls route. One more lodge night, guide and park fee.",
+      "cost_delta_per_person_usd": 200
+    },
+    {
+      "id": "arusha-np",
+      "name": "Arusha National Park day",
+      "description": "Forest with black-and-white colobus, buffalo, giraffe, and walking safaris with an armed ranger. Fits on Dec 31 only if you skip the rest day.",
+      "cost_delta_per_person_usd": 180
+    },
+    {
+      "id": "dar-buffer",
+      "name": "Buffer day in Dar before the flight",
+      "description": "Avoids the Udzungwa → Dar → 03:25 flight in one stretch. Home Jan 13.",
+      "cost_delta_per_person_usd": 55
+    },
+    {
+      "id": "no-harem",
+      "name": "Skip the Topkapı Harem ticket",
+      "description": "",
+      "cost_delta_per_person_usd": -25
+    },
+    {
+      "id": "mikumi-walk",
+      "name": "Mikumi ranger-led morning walk (Jan 9)",
+      "description": "~$20–25 walking fee + ranger, ask the tour operator. The night drive is already in the plan.",
+      "cost_delta_per_person_usd": 35
+    },
+    {
+      "id": "shared-group",
+      "name": "Shared group lodge safari instead of private",
+      "description": "A fixed-route group lodge safari. Drops the Tarangire walk, which a shared group can't add; the Mikumi night drive is unaffected.",
+      "cost_delta_per_person_usd": -450
+    },
+    {
+      "id": "ins-comp",
+      "name": "Comprehensive insurance with trip cancellation",
+      "description": "Instead of medical + evacuation only.",
+      "cost_delta_per_person_usd": 110
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 13–20)",
+      "task": "Price TK multi-city: LAX → IST (stop Dec 27–30) → JRO, and DAR → IST → LAX on Jan 12. Compare against a plain JRO round trip. Confirm the Dec IST → JRO times (summer schedule was 18:30 → 01:40)."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Get two quotes for a private 6-day budget lodge safari for 2 starting Jan 1: Tarangire with a ranger-led walk, a Mto wa Mbu lodge, 3 nights at a central Serengeti tented camp (Embalakai, Tukaone or similar, en-suite), a Karatu lodge, and the crater on Jan 6. Ask how they'll time the Ngorongoro permit so one 24h entry covers Jan 5–6. Confirm concession and crater fees are included."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Book the Mikumi–Udzungwa 4-day for Jan 8–11 with a Jan 9 night drive; confirm their Mikumi lodge can run one. Ask for the Sanje Falls trail plus a primate walk, and whether they use the SGR to Morogoro."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book Arusha (Dec 30–31, Jan 6) and Dar (Jan 7, Jan 11) hotels and the Jan 7 Arusha → Dar flight. Book the 02:00 JRO taxi."
+    },
+    {
+      "when": "Mid-to-late Nov",
+      "task": "Travel clinic: malaria prophylaxis. Yellow fever not required on this routing."
+    },
+    {
+      "when": "≥72h before the flight",
+      "task": "Apply for the TK Stopover hotel (2 free nights)."
+    },
+    {
+      "when": "Early Dec",
+      "task": "Tanzania visa at visa.immigration.go.tz ($100, multiple-entry for US citizens). Processing times vary; apply 3–4 weeks ahead."
+    }
+  ],
+  "practical": "## Entry\n- **Tanzania:** US citizens need the $100 multiple-entry visa. Apply only at visa.immigration.go.tz; lookalike sites overcharge. Passport 6+ months, 2 blank pages.\n- **Yellow fever:** not required arriving from Istanbul. Tanzania asks for it only after >12h transit in a risk country (Kenya counts — don't route via Nairobi).\n- Türkiye is visa-free for US tourists.\n\n## Packing\n- One soft bag each; the Arusha → Dar flight has tight bag limits.\n- **No camping gear needed.** Every night is a room or a permanent tent with a bed and bathroom.\n- **Warm layers for dawn drives** and the 06:00 crater descent (the rim road is at 2,300 m). No cold nights: Karatu is ~1,500 m. Istanbul is 4–9°C and wet.\n- Hiking shoes with grip for the Sanje Falls trail; it's steep and muddy in places. Headtorch for the night drive and lodge paths.\n- Neutral colours; tsetse flies in Tarangire and parts of the Serengeti go for dark blue and black.\n- Plastic bags are banned in Tanzania, including in luggage.\n\n## Money\n- Park fees are cashless and paid by the operator. Carry crisp post-2013 USD for tips and the visa backup; TZS for meals and taxis.\n\n## Season\n- Early January is the short dry spell between rains. Wildebeest herds are on the southern Serengeti / Ndutu plains, with calving from late January.\n\n## Health\n- Malaria prophylaxis from before arrival through 7 days after (atovaquone-proguanil). DEET or picaridin.\n- Re-check the State Dept Tanzania advisory before paying deposits.",
+  "open_questions": [
+    "~$6,290 pp (+$470 vs camping) has no contingency, and a quote at the top of the range ($3,000) puts it ~$300 more. OK, or camp the one warm Tarangire night if quotes come in high?",
+    "Is a Serengeti camp 40–60 min from Seronera OK, or pay ~$100–300 more for one at Seronera?",
+    "Is the Jan 11 Udzungwa → Dar → 03:25 flight stretch OK, or buy the Dar buffer day (+$55)?"
+  ],
+  "sources": [
+    "https://www.turkishairlines.com/en-us/flights/stopover/",
+    "https://www.aeroroutes.com/eng/260428-tkjun26jroznz",
+    "https://www.avionio.com/en/flight/tk-567",
+    "https://www.flightradar24.com/data/flights/tk604",
+    "https://see-adventures.com/tanzania/tours/mikumi-and-udzungwa-budget-tour/",
+    "https://www.safaribookings.com/rates/t85273",
+    "https://safarifind.com/blog/tanzania-safari-cost-in-2026-7-day-prices-by-budget",
+    "https://www.tourradar.com/t/162609",
+    "https://roadtripafrica.com/en/wp-json/wp/v2/guide/326",
+    "https://www.jaynevytours.com/night-game-drives-on-6-day-tanzania-safari.html",
+    "https://www.trip.com/flights/arusha-to-dar-es-salaam/airfares-ark-dar/",
+    "https://safarifind.com/blog/tanzania-visa-for-american-citizens-2026-requirements",
+    "https://monkey.travel/en/accommodation/embalakai-camp",
+    "https://monkey.travel/en/accommodation/tukaone-camp/",
+    "https://monkey.travel/en/usd/accommodation/tanzaniabushcamp-seronera",
+    "https://monkey.travel/en/accommodation/karatu-tented-lodge",
+    "https://www.chaloafrica.com/accommodation/lake-burunge-tented-camp-tarangire-tanzania/",
+    "https://monkey.travel/en/stay/tarangire-safari-lodge",
+    "https://safarifind.com/blog/serengeti-lodge-vs-camp-2027-prices-for-every-budget",
+    "https://safarifind.com/blog/tanzania-national-park-fees-availability-2026",
+    "https://africanoverlandtours.com/blog/how-to-do-an-ngorongoro-crater-safari-on-a-budget/",
+    "https://www.safaribookings.com/tours/tanzania/6-day",
+    "https://www.safariroam.com/6-day-tanzania-lodge-safari-itinerary"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "IST": {
+      "name": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "kind": "city",
+      "country": "Türkiye"
+    },
+    "JRO": {
+      "name": "Kilimanjaro Airport (JRO)",
+      "lat": -3.4294,
+      "lng": 37.0745,
+      "kind": "transit",
+      "country": "Tanzania"
+    },
+    "ARU": {
+      "name": "Arusha",
+      "lat": -3.3869,
+      "lng": 36.683,
+      "kind": "city",
+      "country": "Tanzania"
+    },
+    "TAR": {
+      "name": "Tarangire NP",
+      "lat": -3.8333,
+      "lng": 36.0,
+      "kind": "nature",
+      "country": "Tanzania"
+    },
+    "SER": {
+      "name": "Serengeti (Seronera)",
+      "lat": -2.45,
+      "lng": 34.8333,
+      "kind": "nature",
+      "country": "Tanzania"
+    },
+    "NGO": {
+      "name": "Ngorongoro Crater",
+      "lat": -3.18,
+      "lng": 35.58,
+      "kind": "nature",
+      "country": "Tanzania"
+    },
+    "DAR": {
+      "name": "Dar es Salaam",
+      "lat": -6.7924,
+      "lng": 39.2083,
+      "kind": "city",
+      "country": "Tanzania"
+    },
+    "MOR": {
+      "name": "Morogoro",
+      "lat": -6.821,
+      "lng": 37.6612,
+      "kind": "transit",
+      "country": "Tanzania"
+    },
+    "MIK": {
+      "name": "Mikumi NP",
+      "lat": -7.35,
+      "lng": 37.1,
+      "kind": "nature",
+      "country": "Tanzania"
+    },
+    "UDZ": {
+      "name": "Udzungwa Mountains NP (Mang'ula)",
+      "lat": -7.85,
+      "lng": 36.8833,
+      "kind": "nature",
+      "country": "Tanzania"
+    },
+    "MTO": {
+      "name": "Mto wa Mbu",
+      "lat": -3.3667,
+      "lng": 35.85,
+      "kind": "transit",
+      "country": "Tanzania"
+    },
+    "KAR": {
+      "name": "Karatu",
+      "lat": -3.3394,
+      "lng": 35.6717,
+      "kind": "transit",
+      "country": "Tanzania"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-26",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "TK10 19:45 → IST 19:00 next day"
+    },
+    {
+      "date": "2026-12-30",
+      "from": "IST",
+      "to": "JRO",
+      "mode": "flight",
+      "duration": "~7h",
+      "detail": "TK 18:30 → JRO 01:40 (confirm Dec schedule)"
+    },
+    {
+      "date": "2026-12-31",
+      "from": "JRO",
+      "to": "ARU",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "Pre-booked taxi at ~02:30"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "ARU",
+      "to": "TAR",
+      "mode": "road",
+      "duration": "~2.5h",
+      "detail": "Safari vehicle"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "TAR",
+      "to": "MTO",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "After the last drive, to the lodge"
+    },
+    {
+      "date": "2027-01-02",
+      "from": "MTO",
+      "to": "SER",
+      "mode": "road",
+      "duration": "~5–6h",
+      "detail": "Via the Ngorongoro highlands and Naabi Hill gate, game-driving in"
+    },
+    {
+      "date": "2027-01-05",
+      "from": "SER",
+      "to": "KAR",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Enter the conservation area at Naabi after ~13:00 so the 24h permit covers the crater"
+    },
+    {
+      "date": "2027-01-06",
+      "from": "KAR",
+      "to": "NGO",
+      "mode": "road",
+      "duration": "~45m",
+      "detail": "05:30 start for the crater at opening"
+    },
+    {
+      "date": "2027-01-06",
+      "from": "NGO",
+      "to": "ARU",
+      "mode": "road",
+      "duration": "~3h",
+      "detail": "Out of the conservation area by ~13:00"
+    },
+    {
+      "date": "2027-01-07",
+      "from": "ARU",
+      "to": "DAR",
+      "mode": "flight",
+      "duration": "~1h15",
+      "detail": "Precision Air / Air Tanzania"
+    },
+    {
+      "date": "2027-01-08",
+      "from": "DAR",
+      "to": "MOR",
+      "mode": "train",
+      "duration": "~1.5h",
+      "detail": "SGR train (or ~5h by road all the way)"
+    },
+    {
+      "date": "2027-01-08",
+      "from": "MOR",
+      "to": "MIK",
+      "mode": "road",
+      "duration": "~2h",
+      "detail": "Tour vehicle"
+    },
+    {
+      "date": "2027-01-10",
+      "from": "MIK",
+      "to": "UDZ",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "To Mang'ula park HQ"
+    },
+    {
+      "date": "2027-01-11",
+      "from": "UDZ",
+      "to": "MOR",
+      "mode": "road",
+      "duration": "~3h",
+      "detail": "Tour vehicle"
+    },
+    {
+      "date": "2027-01-11",
+      "from": "MOR",
+      "to": "DAR",
+      "mode": "train",
+      "duration": "~1.5h",
+      "detail": "SGR back to Dar"
+    },
+    {
+      "date": "2027-01-12",
+      "from": "DAR",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~26h",
+      "detail": "TK604 ~03:25 → IST ~11:05, then TK9 → LAX same evening"
+    }
+  ],
+  "stays": [
+    {
+      "place": "IST",
+      "from": "2026-12-27",
+      "nights": 3,
+      "label": "Istanbul"
+    },
+    {
+      "place": "ARU",
+      "from": "2026-12-31",
+      "nights": 1,
+      "label": "Arusha rest"
+    },
+    {
+      "place": "MTO",
+      "from": "2027-01-01",
+      "nights": 1,
+      "label": "Mto wa Mbu"
+    },
+    {
+      "place": "SER",
+      "from": "2027-01-02",
+      "nights": 3,
+      "label": "Serengeti"
+    },
+    {
+      "place": "KAR",
+      "from": "2027-01-05",
+      "nights": 1,
+      "label": "Karatu"
+    },
+    {
+      "place": "ARU",
+      "from": "2027-01-06",
+      "nights": 1,
+      "label": "Arusha"
+    },
+    {
+      "place": "DAR",
+      "from": "2027-01-07",
+      "nights": 1,
+      "label": "Dar es Salaam"
+    },
+    {
+      "place": "MIK",
+      "from": "2027-01-08",
+      "nights": 2,
+      "label": "Mikumi"
+    },
+    {
+      "place": "UDZ",
+      "from": "2027-01-10",
+      "nights": 1,
+      "label": "Udzungwa"
+    },
+    {
+      "place": "DAR",
+      "from": "2027-01-11",
+      "nights": 1,
+      "label": "Dar (until midnight)"
+    }
+  ],
+  "fatigue_check": "Hardest stretch: Jan 11 — Udzungwa → Morogoro → SGR to Dar (~5h), then a 00:30 airport run for the 03:25 flight. The Dar buffer day option fixes it.\nDec 30–31: 18:30 flight landing 01:40; Dec 31 is a full rest day to recover.\nJan 2 (Mto wa Mbu → Serengeti) is ~5–6h in the vehicle, most of it game drive. Jan 6 starts at 05:30 from Karatu.\nZero-transfer days: Dec 28, Dec 29, Dec 31, Jan 3, Jan 4, Jan 9.",
+  "hero_photo": "Serengeti_National_Park",
+  "photos": {
+    "IST": {
+      "name": "Istanbul",
+      "wiki": [
+        "Istanbul",
+        "Hagia_Sophia",
+        "Basilica_Cistern",
+        "Bosphorus"
+      ]
+    },
+    "TAR": {
+      "name": "Tarangire",
+      "wiki": [
+        "Tarangire_National_Park",
+        "African_bush_elephant",
+        "Adansonia_digitata"
+      ]
+    },
+    "SER": {
+      "name": "Serengeti",
+      "wiki": [
+        "Serengeti_National_Park",
+        "Leopard",
+        "Lion",
+        "Blue_wildebeest"
+      ]
+    },
+    "NGO": {
+      "name": "Ngorongoro Crater",
+      "wiki": [
+        "Ngorongoro_Conservation_Area",
+        "Black_rhinoceros",
+        "Spotted_hyena"
+      ]
+    },
+    "MIK": {
+      "name": "Mikumi",
+      "wiki": [
+        "Mikumi_National_Park",
+        "Masai_giraffe",
+        "Hippopotamus"
+      ]
+    },
+    "UDZ": {
+      "name": "Udzungwa Mountains",
+      "wiki": [
+        "Udzungwa_Mountains_National_Park",
+        "Udzungwa_red_colobus",
+        "Sanje_mangabey"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Lion",
+      "wiki": "Lion",
+      "where": "Serengeti, crater, Tarangire, Mikumi",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "African bush elephant",
+      "wiki": "African_bush_elephant",
+      "where": "Tarangire (big herds), Mikumi",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "African buffalo",
+      "wiki": "African_buffalo",
+      "where": "Crater, Serengeti, Mikumi",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Leopard",
+      "wiki": "Leopard",
+      "where": "Seronera valley (3 days), Mikumi",
+      "odds": "Good chance"
+    },
+    {
+      "name": "Black rhinoceros",
+      "wiki": "Black_rhinoceros",
+      "where": "Ngorongoro crater floor only",
+      "odds": "Good chance"
+    },
+    {
+      "name": "Cheetah",
+      "wiki": "Cheetah",
+      "where": "Serengeti plains",
+      "odds": "Likely"
+    },
+    {
+      "name": "Spotted hyena",
+      "wiki": "Spotted_hyena",
+      "where": "Crater, Serengeti, Mikumi night drive",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Bushbaby (galago)",
+      "wiki": "Galago",
+      "where": "Mikumi night drive",
+      "odds": "Likely"
+    },
+    {
+      "name": "Common genet",
+      "wiki": "Common_genet",
+      "where": "Mikumi night drive",
+      "odds": "Likely"
+    },
+    {
+      "name": "African civet",
+      "wiki": "African_civet",
+      "where": "Mikumi night drive",
+      "odds": "Possible"
+    },
+    {
+      "name": "Crested porcupine",
+      "wiki": "Crested_porcupine",
+      "where": "Mikumi night drive",
+      "odds": "Possible"
+    },
+    {
+      "name": "Blue wildebeest",
+      "wiki": "Blue_wildebeest",
+      "where": "Southern Serengeti / Ndutu herds; crater residents",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Masai giraffe",
+      "wiki": "Masai_giraffe",
+      "where": "Tarangire, Serengeti, Mikumi",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "where": "Mikumi hippo pools, Serengeti",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Udzungwa red colobus",
+      "wiki": "Udzungwa_red_colobus",
+      "where": "Udzungwa (endemic)",
+      "odds": "Likely"
+    },
+    {
+      "name": "Sanje mangabey",
+      "wiki": "Sanje_mangabey",
+      "where": "Udzungwa (endemic)",
+      "odds": "Possible — ask for a mangabey-focused guide"
+    },
+    {
+      "name": "Angolan colobus",
+      "wiki": "Angola_colobus",
+      "where": "Udzungwa",
+      "odds": "Likely"
+    },
+    {
+      "name": "Lesser flamingo",
+      "wiki": "Lesser_flamingo",
+      "where": "Crater soda lake (Magadi)",
+      "odds": "Likely"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Tanzania",
+      "country": "Tanzania"
+    },
+    "budget_target": {
+      "low": 5000,
+      "high": 5500
+    },
+    "currency": "USD"
+  }
+}
