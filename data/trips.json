@@ -85,6 +85,12 @@
       "file": "data/trips/tanzania.json"
     },
     {
+      "id": "tanzania-lodges",
+      "label": "Tanzania, no camping · Jan 12",
+      "summary": "The Tanzania trip with a bed every night: Mto wa Mbu lodge, a Serengeti tented camp ×3, a Karatu lodge instead of the freezing rim campsite; the night drive moves to Mikumi. ~$6,290 pp.",
+      "file": "data/trips/tanzania-lodges.json"
+    },
+    {
       "id": "indonesia",
       "label": "Indonesia + Borneo: reefs + rainforest · Jan 14",
       "summary": "Tangkoko (tarsiers, macaques, cuscus), a day of Lembeh muck diving, Raja Ampat (10 dives, mantas), then 4 nights on Borneo's Kinabatangan River for wild orangutans, proboscis monkeys, elephants and the Gomantong bat exodus. ~$4,281 pp.",
