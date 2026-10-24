@@ -2,8 +2,8 @@
   "id": "kenya-minus-kakamega",
   "label": "Kenya minus Kakamega · Jan 12",
   "title": "Kenya minus Kakamega: Istanbul, Ol Pejeta, Lake Baringo, Nakuru, Masai Mara and Naivasha",
-  "summary": "Istanbul 3n, then Ol Pejeta, Lake Baringo & Bogoria, Nakuru, 3 nights in the Masai Mara (2 Naboisho conservancy + a guided National Reserve day), Naivasha and Mount Suswa, without Kakamega. 15 nights on the ground. ~$6,127 pp.",
-  "overview": "- **What this is:** the no-crew loop with Kakamega dropped (and with it the Kericho and Narok stopover nights). Every day has a plan; only Dec 31, after the 03:05 landing, is a recovery day.\n- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 15 nights on the ground: 3 Istanbul, 12 Kenya (plus 2 on planes).\n- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Lake Baringo 2n** → Nakuru 1n → **Masai Mara 3n** (Naboisho conservancy 2n + a reserve-edge camp after a guided National Reserve day) → Naivasha 2n → Mount Suswa on the way to an airport hotel 1n.\n- **Masai Mara, both sides:** the conservancy for the walk, night drive and off-road driving with a vehicle cap; the National Reserve with your own guide for the big open plains and the Mara River.\n- **After dark and on foot:** night drives at Ol Pejeta and in the Mara; walks at Ol Pejeta, the Mara conservancy, Crescent Island, Hell's Gate gorge and the Mount Suswa caves.\n- **No empty travel days:** Jan 5 reaches Nakuru by 10:00 for a full park day; the last day is Mount Suswa on the way to the airport.\n- **Budget: ~$6,127 pp**. Biggest items after the Mara camp: the reserve day (fee, guide, camp ~$360), the private car to Baringo ($110) and the Suswa 4x4 day ($120).",
+  "summary": "Istanbul 3n, then Ol Pejeta, Lake Baringo & Bogoria, Nakuru, 2 nights in a Masai Mara conservancy (Naboisho), Soysambu, Naivasha and Mount Suswa, without Kakamega or the crowded National Reserve day. 15 nights on the ground. ~$5,935 pp.",
+  "overview": "- **What this is:** the no-crew loop with Kakamega dropped (and with it the Kericho and Narok stopover nights). Every day has a plan; only Dec 31, after the 03:05 landing, is a recovery day.\n- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 15 nights on the ground: 3 Istanbul, 12 Kenya (plus 2 on planes).\n- **Route:** Istanbul 3n → Nairobi 1n → Ol Pejeta 2n → **Lake Baringo 2n** → Nakuru 1n → **Masai Mara 2n** (Naboisho conservancy) → Naivasha 3n (with a Soysambu day) → Mount Suswa on the way to an airport hotel 1n.\n- **Masai Mara, conservancy only:** walks, night drives and off-road driving with a vehicle cap at Naboisho. The National Reserve day is gone: in the holiday weeks it's the most crowded game viewing on the trip, with vehicles queuing at cat sightings and no off-road. Its day goes to **Soysambu**, a private conservancy on Lake Elmenteita with giraffe, buffalo and flamingos and almost no other visitors.\n- **After dark and on foot:** night drives at Ol Pejeta and in the Mara; walks at Ol Pejeta, the Mara conservancy, Crescent Island, Hell's Gate gorge and the Mount Suswa caves.\n- **No empty travel days:** Jan 5 reaches Nakuru by 10:00 for a full park day; the last day is Mount Suswa on the way to the airport.\n- **Budget: ~$5,935 pp**, ~$192 less than with the reserve day. Biggest items after the Mara camp: the private car to Baringo ($110), the Suswa 4x4 day ($120) and the Ol Pejeta vehicle day ($105).",
   "dates": {
     "depart": "2026-12-26",
     "return": "2027-01-12"
@@ -129,20 +129,20 @@
     {
       "date": "2027-01-08",
       "day_label": "Day 14 – Fri",
-      "location": "Masai Mara National Reserve",
-      "title": "Masai Mara National Reserve with a private guide",
-      "details": "06:00 pickup at camp by a licensed Mara guide in a pop-top vehicle; ~45m to Talek gate. Full day in the National Reserve with a packed lunch: the open plains for lion and cheetah, the Mara River (hippo pods, big crocodiles, the migration crossing points, empty of herds in January) and the Talek river woodland for leopard. No off-road driving in the reserve, and popular sightings can draw a crowd. The reserve closes at 18:30; the guide drops you at a budget camp near Talek.",
-      "overnight": "Budget tented camp, Talek (reserve edge)",
-      "meals": "B, L (packed), D camp"
+      "location": "Masai Mara → Narok → Naivasha",
+      "title": "Last dawn in Naboisho, up the Rift to Naivasha",
+      "details": "Dawn walk or drive in Naboisho (whichever you didn't get yesterday), breakfast, then the camp vehicle to Narok (~2.5h) and a matatu via Mai Mahiu to Naivasha (~2.5–3h, maybe a change at Mai Mahiu). ~5.5h door to door. Lakeshore camp by late afternoon; hippos on the lawn after dark.",
+      "overnight": "Camp Carnelley's or Fisherman's Camp, Naivasha",
+      "meals": "B camp; L, D own"
     },
     {
       "date": "2027-01-09",
       "day_label": "Day 15 – Sat",
-      "location": "Masai Mara → Naivasha",
-      "title": "Back up the Rift to Naivasha",
-      "details": "Camp vehicle Talek → Narok (~2.5h), then matatu via Mai Mahiu to Naivasha (~2.5–3h, maybe a change at Mai Mahiu). ~5.5h door to door. Lakeshore camp by mid-afternoon; hippos on the lawn after dark.",
-      "overnight": "Naivasha lakeshore banda",
-      "meals": "B camp; L, D own"
+      "location": "Soysambu Conservancy (Lake Elmenteita)",
+      "title": "Soysambu: giraffe, buffalo and flamingos, almost no one else",
+      "details": "Hired car with driver from Naivasha at 07:00, ~45 min north to Lake Elmenteita. Soysambu is a private ranch conservancy on the lake, with very few vehicles: Rothschild's giraffe, zebra, buffalo, eland, gazelles, and often flamingos and pelicans on the soda lake; leopard and hyena are present but shy. Ask at the gate where you can walk with a ranger. Back at Naivasha by early afternoon; slow evening by the lake. Entry ~$47 for non-residents (2025 operator listing); confirm.",
+      "overnight": "Camp Carnelley's or Fisherman's Camp, Naivasha",
+      "meals": "Own"
     },
     {
       "date": "2027-01-10",
@@ -328,26 +328,14 @@
       ]
     },
     {
-      "name": "Budget tented camp near Talek (e.g. Enkorok Mara Camp)",
-      "place": "TLK",
-      "location": "Talek, Masai Mara National Reserve edge",
-      "nights": 1,
-      "pppn_usd": 145,
-      "style": "Budget tented camp, full board",
-      "includes": "Full board ~$145 pp. Permanent tents with beds and bathrooms. Reserve fee and the guided day are separate lines.",
-      "why": "Ends the reserve day at the gate it leaves from, instead of paying another conservancy night.",
-      "alternatives": "A third night back at Basecamp Wilderness is about +$485 pp (conservancy fee included).",
-      "url": "https://monkey.travel/en/accommodation/enkorok-mara"
-    },
-    {
       "name": "Camp Carnelley's or Fisherman's Camp",
       "place": "NAI",
       "location": "Lake Naivasha, south shore",
-      "nights": 2,
+      "nights": 3,
       "pppn_usd": 35,
       "style": "Banda",
-      "includes": "Banda with a restaurant and bar on site, so no cooking.",
-      "why": "Hippos graze the lawns after dark, and Hell's Gate needs no vehicle.",
+      "includes": "Banda with a restaurant and bar on site, so no cooking. Jan 8–10.",
+      "why": "Hippos graze the lawns after dark; Hell's Gate needs no vehicle, and Soysambu is ~45 min away.",
       "alternatives": "Campsite pitch is cheaper if you carry a tent.",
       "url": "https://www.campcarnelleys.com"
     },
@@ -447,18 +435,10 @@
     },
     {
       "category": "Lodging",
-      "item": "Budget tented camp near Talek, 1n, full board",
-      "per_person_usd": 145,
-      "low_usd": 120,
-      "high_usd": 200,
-      "notes": "Enkorok-type reserve-edge camp; confirm the rate."
-    },
-    {
-      "category": "Lodging",
-      "item": "Naivasha lakeshore banda, 2n",
-      "per_person_usd": 70,
-      "low_usd": 30,
-      "high_usd": 120,
+      "item": "Naivasha lakeshore banda, 3n",
+      "per_person_usd": 105,
+      "low_usd": 45,
+      "high_usd": 180,
       "notes": "Low end is a campsite pitch."
     },
     {
@@ -503,19 +483,19 @@
     },
     {
       "category": "Park fees",
-      "item": "Masai Mara National Reserve, 1 × 24h",
-      "per_person_usd": 100,
-      "low_usd": 100,
-      "high_usd": 200,
-      "notes": "Non-resident $100 Jan–Jun ($200 Jul–Dec). Paid by eCitizen/card at the gate; confirm the ticket's validity window."
-    },
-    {
-      "category": "Park fees",
       "item": "Hell's Gate NP, 1 day",
       "per_person_usd": 50,
       "low_usd": 26,
       "high_usd": 50,
       "notes": "KWS new $50; $26 if the old rate stands."
+    },
+    {
+      "category": "Park fees",
+      "item": "Soysambu Conservancy entry, 1 day",
+      "per_person_usd": 47,
+      "low_usd": 40,
+      "high_usd": 60,
+      "notes": "USD 47 non-resident in a 2025 operator listing; private conservancy, not KWS. Confirm the 2027 rate and whether walking is allowed."
     },
     {
       "category": "Guides and vehicles",
@@ -550,6 +530,14 @@
       "notes": "$80–120 per vehicle, split two ways. Arrange the evening before."
     },
     {
+      "category": "Guides and vehicles",
+      "item": "Soysambu — hired car with driver from Naivasha, half day",
+      "per_person_usd": 50,
+      "low_usd": 35,
+      "high_usd": 75,
+      "notes": "~$100 per vehicle, split two ways. A 4x4 is safer on the ranch tracks after rain."
+    },
+    {
       "category": "Activities",
       "item": "Baringo dawn boat trip, ~2h",
       "per_person_usd": 45,
@@ -580,14 +568,6 @@
       "low_usd": 0,
       "high_usd": 60,
       "notes": "Walks and night drives are conservancy activities; confirm they are in the camp rate."
-    },
-    {
-      "category": "Guides and vehicles",
-      "item": "Masai Mara Reserve — private guide and vehicle, full day",
-      "per_person_usd": 100,
-      "low_usd": 75,
-      "high_usd": 150,
-      "notes": "~$180–220 per vehicle with fuel for the day, split two ways. Book a KPSGA-certified guide."
     },
     {
       "category": "Activities",
@@ -647,11 +627,11 @@
     },
     {
       "category": "Transport",
-      "item": "Mara transfers: Narok → Basecamp in, Talek → Narok out",
-      "per_person_usd": 125,
-      "low_usd": 90,
-      "high_usd": 200,
-      "notes": "Basecamp private vehicle from Narok ~$150/vehicle; Talek camp vehicle to Narok ~$100/vehicle; each split two ways."
+      "item": "Mara transfers: Narok → Basecamp in, Basecamp → Narok out",
+      "per_person_usd": 150,
+      "low_usd": 110,
+      "high_usd": 220,
+      "notes": "Basecamp private vehicle ~$150 per vehicle each way, split two ways."
     },
     {
       "category": "Transport",
@@ -663,10 +643,10 @@
     },
     {
       "category": "Meals",
-      "item": "Food outside the full-board legs, 7 days",
-      "per_person_usd": 115,
-      "low_usd": 85,
-      "high_usd": 170,
+      "item": "Food outside the full-board legs, 8 days",
+      "per_person_usd": 130,
+      "low_usd": 95,
+      "high_usd": 190,
       "notes": "Ol Pejeta (Stables FB) and Mara are included. Nairobi days run a little dearer."
     },
     {
@@ -687,14 +667,6 @@
     },
     {
       "category": "Tips",
-      "item": "Mara reserve guide",
-      "per_person_usd": 15,
-      "low_usd": 10,
-      "high_usd": 25,
-      "notes": ""
-    },
-    {
-      "category": "Tips",
       "item": "Ol Pejeta guides, walk and night-drive leaders",
       "per_person_usd": 30,
       "low_usd": 20,
@@ -703,10 +675,10 @@
     },
     {
       "category": "Tips",
-      "item": "Nakuru driver, porters, hotel staff",
-      "per_person_usd": 30,
+      "item": "Nakuru and Soysambu drivers, porters, hotel staff",
+      "per_person_usd": 35,
       "low_usd": 20,
-      "high_usd": 50,
+      "high_usd": 55,
       "notes": ""
     },
     {
@@ -776,13 +748,13 @@
     {
       "category": "Contingency",
       "item": "~5%, held until bookings are confirmed",
-      "per_person_usd": 292,
+      "per_person_usd": 283,
       "low_usd": 234,
       "high_usd": 526,
       "notes": "Ebola/advisory changes, KWS ruling, festive uplift, FX."
     }
   ],
-  "budget_total_per_person_usd": 6127,
+  "budget_total_per_person_usd": 5935,
   "alternatives": [
     {
       "id": "opc-two-drives",
@@ -827,10 +799,16 @@
       "cost_delta_per_person_usd": -95
     },
     {
-      "id": "reserve-from-basecamp",
-      "name": "Third night back at Basecamp instead of the Talek camp",
-      "description": "Same guided reserve day, but you return to the conservancy camp for the night (Naboisho fee included); out via Narok as planned.",
-      "cost_delta_per_person_usd": 485
+      "id": "mara-reserve-day",
+      "name": "Put the Masai Mara National Reserve day back",
+      "description": "A full day in the reserve with a private guide (Mara River, open plains) and a night at a Talek camp, instead of Soysambu and the third Naivasha night. Busiest game viewing of the trip in the holiday weeks.",
+      "cost_delta_per_person_usd": 190
+    },
+    {
+      "id": "crater-lake",
+      "name": "Crater Lake Sanctuary instead of Soysambu",
+      "description": "Walk unguided among giraffe and zebra around a small green crater lake with colobus monkeys, on Naivasha's south shore. ~$33 entry and a short taxi; smaller and tamer than Soysambu.",
+      "cost_delta_per_person_usd": -60
     }
   ],
   "booking_timeline": [
@@ -844,7 +822,7 @@
     },
     {
       "when": "By Oct 31",
-      "task": "Email Basecamp Wilderness (Encounter Mara as backup) for Jan 6–7: confirm the conservation fee, walks and night drive, and the Narok pickup. Ask whether they can arrange the Jan 8 reserve guide and vehicle, or book a KPSGA-certified guide directly."
+      "task": "Email Basecamp Wilderness (Encounter Mara as backup) for Jan 6–7: confirm the conservation fee, walks and night drive, and the Narok pickup. Ask for the Jan 8 transfer back to Narok after the dawn activity."
     },
     {
       "when": "By Oct 31",
@@ -852,7 +830,7 @@
     },
     {
       "when": "By Nov 15",
-      "task": "Book the Baringo banda (Jan 3–4), the Jan 3 private car, Nakuru (Jan 5), the Talek camp (Jan 8) and its Jan 9 transfer to Narok, Naivasha (Jan 9–10), the JKIA hotel (Jan 11), and a 4x4 with driver for Naivasha → Suswa → JKIA on Jan 11."
+      "task": "Book the Baringo banda (Jan 3–4), the Jan 3 private car, Nakuru (Jan 5), Naivasha (Jan 8–10), a car with driver for Soysambu on Jan 9, the JKIA hotel (Jan 11), and a 4x4 with driver for Naivasha → Suswa → JKIA on Jan 11."
     },
     {
       "when": "Mid-to-late Nov",
@@ -860,15 +838,16 @@
     },
     {
       "when": "Dec 1–5",
-      "task": "Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru, Hell's Gate, Bogoria and the Mara Reserve."
+      "task": "Kenya eTA at etakenya.go.ke. eCitizen account for Nakuru, Hell's Gate and Bogoria."
     },
     {
       "when": "Dec 20–24",
-      "task": "Re-check the Kenya advisory and Ebola news. Reconfirm the Narok pickup, the reserve guide, the Jan 3 car and the Suswa 4x4."
+      "task": "Re-check the Kenya advisory and Ebola news. Reconfirm the Narok pickup, the Basecamp → Narok transfer, the Jan 3 car and the Suswa 4x4."
     }
   ],
-  "practical": "## Entry\n- Kenya eTA $30, **etakenya.go.ke only** (not etas.gov.ke); lookalike sites overcharge. Passport 6+ months, 2 blank pages.\n- Türkiye is visa-free for US tourists.\n\n## Packing\n- **No camping gear needed.** Every night is a room, a banda (cabin) or the Mara's permanent tented camp, which has real beds and an en-suite bathroom.\n- **One bag each you can carry and lift onto a roof rack.** About seven matatu legs; no wheeled cases.\n- Ventilated low hikers plus **short gaiters** for grass seeds on the Ol Pejeta and Mara walks.\n- Headtorch and a power bank.\n- A fleece. Laikipia and Nakuru nights run 8–12°C and dawn drives are genuinely cold. Istanbul is 4–9°C and wet.\n- **No camouflage or military-style clothing**: wearing anything resembling police/military uniform is illegal and police enforce it. Plastic bags are banned, including ones brought in (duty-free bags get confiscated).\n\n## Money\n- ~130 KES to the dollar. **Carry both cash and cards.** All KWS payments are cashless through eCitizen; matatus, bodas, bike hire and tips are cash only.\n- Safaricom SIM at the airport with your passport, then set up M-Pesa.\n- Crisp post-2013 USD bills for tips.\n\n## Fees\n- The October 2025 KWS increase is still in court, but **the new rates are being charged**: Nakuru $90, Hell's Gate $50 (+~$10 cycling). Lake Bogoria is a county reserve ($50), not KWS.\n- Ol Pejeta and the Mara conservancies are not KWS and run separate, cashless systems.\n- Ol Pejeta entry covers 24h for overnight guests, but day visitors pay again on re-entry.\n\n## Road reality\n- **Nothing moves after dark.** Rural matatus stop in the late afternoon. Every leg is built for a morning start.\n- Longest days are Jan 9 (~5.5h) and the Suswa day (Jan 11). Baringo is hot (30–35°C at midday): boats at dawn, walks early or late.\n- Jan 1 is a public holiday — matatus run fuller and less often.\n\n## Health and safety\n- Kenya is **Level 2** (reissued Jul 2026). No Do-Not-Travel areas on this route.\n- **Matatus:** the State Dept tells travelers to avoid matatus and boda-bodas, and US government staff may not use them. The main risk is **crashes**, not just theft. Prefer registered coach/shuttle companies, daylight only, and get your insurer to confirm in writing that matatu and boda travel is covered.\n- **Yellow fever:** not required for US arrivals, but **CDC-recommended** for this route (everything outside Nairobi city and the coast).\n- **Ebola:** Kenya confirmed an imported Bundibugyo case on Oct 6 2026 (patient from DRC via Kampala, died in Nairobi). Nakuru was named a high-risk preparedness county. Re-check the advisory before paying deposits; prefer refundable bookings.\n- **Mpox:** active in Nakuru and Nairobi.\n- Malaria prophylaxis from before arrival through 7 days after. DEET.\n- AMREF Maisha Bronze ($10) covers 15 days: start it Dec 31; it covers the whole Kenya stay.",
+  "practical": "## Entry\n- Kenya eTA $30, **etakenya.go.ke only** (not etas.gov.ke); lookalike sites overcharge. Passport 6+ months, 2 blank pages.\n- Türkiye is visa-free for US tourists.\n\n## Packing\n- **No camping gear needed.** Every night is a room, a banda (cabin) or the Mara's permanent tented camp, which has real beds and an en-suite bathroom.\n- **One bag each you can carry and lift onto a roof rack.** About seven matatu legs; no wheeled cases.\n- Ventilated low hikers plus **short gaiters** for grass seeds on the Ol Pejeta and Mara walks.\n- Headtorch and a power bank.\n- A fleece. Laikipia and Nakuru nights run 8–12°C and dawn drives are genuinely cold. Istanbul is 4–9°C and wet.\n- **No camouflage or military-style clothing**: wearing anything resembling police/military uniform is illegal and police enforce it. Plastic bags are banned, including ones brought in (duty-free bags get confiscated).\n\n## Money\n- ~130 KES to the dollar. **Carry both cash and cards.** All KWS payments are cashless through eCitizen; matatus, bodas, bike hire and tips are cash only.\n- Safaricom SIM at the airport with your passport, then set up M-Pesa.\n- Crisp post-2013 USD bills for tips.\n\n## Fees\n- The October 2025 KWS increase is still in court, but **the new rates are being charged**: Nakuru $90, Hell's Gate $50 (+~$10 cycling). Lake Bogoria is a county reserve ($50), not KWS.\n- Ol Pejeta and the Mara conservancies are not KWS and run separate, cashless systems.\n- Ol Pejeta entry covers 24h for overnight guests, but day visitors pay again on re-entry.\n\n## Road reality\n- **Nothing moves after dark.** Rural matatus stop in the late afternoon. Every leg is built for a morning start.\n- Longest days are Jan 8 (~5.5h) and the Suswa day (Jan 11). Baringo is hot (30–35°C at midday): boats at dawn, walks early or late.\n- Jan 1 is a public holiday — matatus run fuller and less often.\n\n## Health and safety\n- Kenya is **Level 2** (reissued Jul 2026). No Do-Not-Travel areas on this route.\n- **Matatus:** the State Dept tells travelers to avoid matatus and boda-bodas, and US government staff may not use them. The main risk is **crashes**, not just theft. Prefer registered coach/shuttle companies, daylight only, and get your insurer to confirm in writing that matatu and boda travel is covered.\n- **Yellow fever:** not required for US arrivals, but **CDC-recommended** for this route (everything outside Nairobi city and the coast).\n- **Ebola:** Kenya confirmed an imported Bundibugyo case on Oct 6 2026 (patient from DRC via Kampala, died in Nairobi). Nakuru was named a high-risk preparedness county. Re-check the advisory before paying deposits; prefer refundable bookings.\n- **Mpox:** active in Nakuru and Nairobi.\n- Malaria prophylaxis from before arrival through 7 days after. DEET.\n- AMREF Maisha Bronze ($10) covers 15 days: start it Dec 31; it covers the whole Kenya stay.",
   "open_questions": [
+    "Reserve day dropped for Soysambu (−$192). Happy without the Mara River and the reserve's open plains, or put it back (+$190)?",
     "~$6,127 pp: OK, or take matatus to Baringo (−$95, but a 6h+ day)?",
     "Insurance: medical + evacuation only, or pay ~$150 more for cancellation cover on the prepaid camp?",
     "Are you already vaccinated for yellow fever? It is CDC-recommended for this route (−$200 if so)."
@@ -1002,13 +981,6 @@
       "kind": "transit",
       "country": "Kenya"
     },
-    "TLK": {
-      "name": "Masai Mara National Reserve (Talek)",
-      "lat": -1.4475,
-      "lng": 35.2147,
-      "kind": "nature",
-      "country": "Kenya"
-    },
     "JKIA": {
       "name": "Airport-area hotel, Mombasa Rd",
       "lat": -1.33,
@@ -1020,6 +992,13 @@
       "name": "Mount Suswa",
       "lat": -1.15,
       "lng": 36.35,
+      "kind": "nature",
+      "country": "Kenya"
+    },
+    "SOY": {
+      "name": "Soysambu Conservancy (Lake Elmenteita)",
+      "lat": -0.46,
+      "lng": 36.24,
       "kind": "nature",
       "country": "Kenya"
     }
@@ -1124,21 +1103,13 @@
     {
       "date": "2027-01-08",
       "from": "MARA",
-      "to": "TLK",
-      "mode": "road",
-      "duration": "~45m",
-      "detail": "With the guide, through Talek gate; full day in the reserve"
-    },
-    {
-      "date": "2027-01-09",
-      "from": "TLK",
       "to": "NRK",
       "mode": "road",
       "duration": "~2.5h",
-      "detail": "Camp vehicle to Narok"
+      "detail": "Basecamp vehicle to Narok after the dawn activity"
     },
     {
-      "date": "2027-01-09",
+      "date": "2027-01-08",
       "from": "NRK",
       "to": "NAI",
       "mode": "road",
@@ -1216,16 +1187,10 @@
       "label": "Masai Mara (Naboisho conservancy)"
     },
     {
-      "place": "TLK",
-      "from": "2027-01-08",
-      "nights": 1,
-      "label": "Masai Mara National Reserve (Talek)"
-    },
-    {
       "place": "NAI",
-      "from": "2027-01-09",
-      "nights": 2,
-      "label": "Naivasha / Hell's Gate"
+      "from": "2027-01-08",
+      "nights": 3,
+      "label": "Naivasha / Soysambu / Hell's Gate"
     },
     {
       "place": "JKIA",
@@ -1234,7 +1199,7 @@
       "label": "Airport hotel"
     }
   ],
-  "fatigue_check": "Longest days: Jan 9 (~5.5h, Talek → Narok → Naivasha) and Jan 11 (Suswa hike and caves between two ~2h drives, ~8h out).\nJan 6 (Nakuru → Narok → Masai Mara) is ~5h; Jan 3 is ~4.5h in a private car with the Thomson's Falls stop.\nBusy stretch: Jan 6–11, with no rest day between the Mara and the flight. Dec 31 is the only recovery day.",
+  "fatigue_check": "Longest days: Jan 8 (~5.5h, Naboisho → Narok → Naivasha) and Jan 11 (Suswa hike and caves between two ~2h drives, ~8h out).\nJan 6 (Nakuru → Narok → Masai Mara) is ~5h; Jan 3 is ~4.5h in a private car with the Thomson's Falls stop.\nJan 9 (Soysambu) is a half day with a free afternoon. Dec 31 is the only full recovery day.",
   "hero_photo": "Lake_Baringo",
   "photos": {
     "IST": {
@@ -1297,6 +1262,14 @@
         "African_fish_eagle",
         "Nile_crocodile"
       ]
+    },
+    "SOY": {
+      "name": "Soysambu",
+      "wiki": [
+        "Lake_Elmenteita",
+        "Rothschild's_giraffe",
+        "African_buffalo"
+      ]
     }
   },
   "wildlife": [
@@ -1333,13 +1306,13 @@
     {
       "name": "Rothschild's giraffe",
       "wiki": "Rothschild's_giraffe",
-      "where": "Lake Nakuru",
+      "where": "Lake Nakuru, Soysambu",
       "odds": "Very likely"
     },
     {
       "name": "Lion",
       "wiki": "Lion",
-      "where": "Naboisho, Ol Pejeta, Nakuru (Ol Pejeta night drive), Masai Mara Reserve",
+      "where": "Naboisho, Ol Pejeta, Nakuru (Ol Pejeta night drive)",
       "odds": "Very likely"
     },
     {
@@ -1369,7 +1342,7 @@
     {
       "name": "Hippopotamus",
       "wiki": "Hippopotamus",
-      "where": "Mara River, Baringo and Naivasha",
+      "where": "Baringo and Naivasha",
       "odds": "Near-certain"
     },
     {
@@ -1387,7 +1360,7 @@
     {
       "name": "Nile crocodile",
       "wiki": "Nile_crocodile",
-      "where": "Lake Baringo, Mara River",
+      "where": "Lake Baringo",
       "odds": "Near-certain"
     },
     {
