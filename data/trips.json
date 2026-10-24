@@ -107,6 +107,18 @@
       "label": "Republic of Congo: Lésio-Louna + Conkouati · Jan 12",
       "summary": "Loango-style trip without Gabon: Lésio-Louna 4n (hippos, free-living gorillas from the boat), Conkouati-Douli 6n (nesting leatherbacks, released chimps, forest elephants), Tchimpounga. No diving. ~$5,860 pp.",
       "file": "data/trips/congo.json"
+    },
+    {
+      "id": "zambia-luangwa",
+      "label": "Zambia: South Luangwa, 13 nights · Jan 12",
+      "summary": "13 nights at Mfuwe in South Luangwa: afternoon drives that run into night drives every day (leopards, lions, hyenas), morning drives on 5 days, hippos and elephants on the Luangwa River. Budget tented camp, drives paid per drive. ~$5,505 pp.",
+      "file": "data/trips/zambia-luangwa.json"
+    },
+    {
+      "id": "botswana-selfdrive",
+      "label": "Botswana self-drive: Kalahari + Moremi · Jan 12",
+      "summary": "Self-drive 4x4 with a rooftop tent from Maun: Nxai Pan's green-season zebra and elephants, Makgadikgadi's Boteti river, 5 nights in the Central Kalahari for lions, cheetah and springbok herds, then Moremi and Khwai for leopards, wild dogs, hippos and elephants. ~$4,940 pp.",
+      "file": "data/trips/botswana-selfdrive.json"
     }
   ]
 }
