@@ -28,6 +28,30 @@
 | 2027-01-10 | Mfuwe airport → Lusaka | flight | ~1h15 | Proflight, afternoon |
 | 2027-01-11 | Lusaka → Los Angeles (LAX) | flight | ~26–30h | Ethiopian via Addis; lands Jan 12 |
 
+## Crowds and wildlife
+
+1–5, for late December and early January. Crowds: 1 = you rarely see another vehicle, 5 = queues of vehicles at sightings (lower is better). Wildlife numbers: how many animals you see. Wildlife diversity: how many different kinds. These are judgments from how each place works in this season, not counts.
+
+| Stop | Nights | Crowds | Numbers | Diversity | Why |
+|---|---|---|---|---|---|
+| Istanbul | 3 | 5/5 | — | — | Sultanahmet in New Year week is packed. Book Hagia Sophia and Topkapı early, go at opening time. |
+| South Luangwa (Mfuwe sector) | 10 | 2/5 | 4/5 | 3/5 | Green season: most camps inside the park are closed, so a sighting rarely has more than one or two other vehicles. Lots of hippos, crocodiles, elephants, puku and impala; resident leopards and lions. No rhinos, no cheetah. |
+| **Whole trip** | | 2/5 | 4/5 | 3/5 | The quietest guided safari of the four, with big animal numbers, but one park and one habitat, so the fewest kinds of animal. |
+
+**Pros**
+
+- Best leopard odds of the four, with a night drive every evening.
+- Quietest of the guided trips; one camp for 10 nights, almost no moving.
+- Huge hippo and crocodile numbers; the rains bring out chameleons, snakes and frogs.
+- Walking safaris where they began (if the camp confirms January walks).
+
+**Cons**
+
+- One park and one habitat: the least variety (no rhinos, no cheetah, few antelope species).
+- Wet season: afternoon storms, thick green bush, the odd cancelled drive or walk.
+- January walks are not yet confirmed at the budget camps.
+- Long journey: Istanbul → Addis → Lusaka → Mfuwe.
+
 ## Itinerary
 
 ### Sat Dec 26 — Fly toward Istanbul (Los Angeles → in flight)

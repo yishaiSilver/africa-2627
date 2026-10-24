@@ -33,6 +33,34 @@
 | 2027-01-11 | Morogoro → Dar es Salaam | train | ~1.5h | SGR back to Dar |
 | 2027-01-12 | Dar es Salaam → Los Angeles (LAX) | flight | ~26h | TK604 ~03:25 → IST ~11:05, then TK9 → LAX same evening |
 
+## Crowds and wildlife
+
+1–5, for late December and early January. Crowds: 1 = you rarely see another vehicle, 5 = queues of vehicles at sightings (lower is better). Wildlife numbers: how many animals you see. Wildlife diversity: how many different kinds. These are judgments from how each place works in this season, not counts.
+
+| Stop | Nights | Crowds | Numbers | Diversity | Why |
+|---|---|---|---|---|---|
+| Istanbul | 3 | 5/5 | — | — | Sultanahmet in New Year week is packed. Book Hagia Sophia and Topkapı early, go at opening time. |
+| Tarangire | 1 | 3/5 | 4/5 | 4/5 | The main loops are busy over the holidays, but the walk and night drive are private. Big elephant herds and baobabs; in January some animals have dispersed with the rains. |
+| Serengeti (Seronera) | 3 | 5/5 | 5/5 | 4/5 | Seronera is the busiest part of the busiest park at New Year: 20+ vehicles at a lion or leopard sighting is normal. Huge numbers; in January the migration calves to the south around Ndutu. |
+| Ngorongoro Crater | 1 | 5/5 | 5/5 | 4/5 | Every northern safari uses the same road down; expect convoys on the crater floor. The densest wildlife anywhere and the best chance of black rhino. |
+| Mikumi | 2 | 2/5 | 3/5 | 3/5 | Quiet; most visitors are short trips from Dar. Elephants, giraffe, buffalo, lions and hippo pools on an open floodplain. |
+| Udzungwa Mountains | 1 | 1/5 | 2/5 | 4/5 | Rainforest hiking with few others. Endemic red colobus and Sanje mangabey, other primates, birds and chameleons; few large animals. |
+| **Whole trip** | | 3.5/5 | 5/5 | 5/5 | The most animals of any trip and great variety (savanna, crater, rainforest primates), but the north is the most crowded safari in Africa at New Year (4.5–5); the south is quiet (1–2). |
+
+**Pros**
+
+- The most animals: the Serengeti and Ngorongoro Crater, with a chance at the migration's calving herds.
+- Black rhino in the crater; the Big Five are realistic.
+- Real variety: savanna, the crater, and Udzungwa's rainforest primates.
+- A private guide and vehicle do the finding and the driving.
+
+**Cons**
+
+- The most crowded by far in the north: convoys in the crater, vehicle jams at Seronera sightings.
+- Long days in the safari vehicle on rough roads, plus a flight to Dar for the south.
+- Cold, basic camping on the Ngorongoro rim in the camping version.
+- Only one night drive (Tarangire); night drives are banned in the Serengeti and the crater.
+
 ## Itinerary
 
 ### Sat Dec 26 — Fly toward Istanbul (Los Angeles → in flight)
