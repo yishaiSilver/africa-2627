@@ -108,6 +108,24 @@
       "label": "Madagascar: lemurs, herps + diving · Jan 12",
       "summary": "Northern and eastern Madagascar for lemurs, chameleons and leaf-tailed geckos with night walks at every forest stop, plus 6 dives off Nosy Be. ~$4,960 pp.",
       "file": "data/trips/madagascar.json"
+    },
+    {
+      "id": "congo",
+      "label": "Republic of Congo: Lésio-Louna + Conkouati · Jan 12",
+      "summary": "Loango-style trip without Gabon: Lésio-Louna 4n (hippos, free-living gorillas from the boat), Conkouati-Douli 6n (nesting leatherbacks, released chimps, forest elephants), Tchimpounga. No diving. ~$5,860 pp.",
+      "file": "data/trips/congo.json"
+    },
+    {
+      "id": "zambia-luangwa",
+      "label": "Istanbul + Zambia: South Luangwa walks + night drives · Jan 12",
+      "summary": "Istanbul 3n, then 10 nights at Mfuwe in South Luangwa: an afternoon drive into a night drive every day (leopards, lions, hyenas), 4 morning walking safaris and 3 morning drives, hippos and elephants on the Luangwa River. Budget camp, activities paid one by one. ~$5,745 pp.",
+      "file": "data/trips/zambia-luangwa.json"
+    },
+    {
+      "id": "botswana-selfdrive",
+      "label": "Botswana self-drive: Kalahari + Moremi · Jan 12",
+      "summary": "Self-drive 4x4 with a rooftop tent from Maun: Nxai Pan's green-season zebra and elephants, Makgadikgadi's Boteti river, 5 nights in the Central Kalahari for lions, cheetah and springbok herds, then Moremi and Khwai for leopards, wild dogs, hippos and elephants. ~$4,940 pp.",
+      "file": "data/trips/botswana-selfdrive.json"
     }
   ]
 }
