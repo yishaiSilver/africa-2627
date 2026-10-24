@@ -391,3 +391,21 @@ table.cmp.screen tbody th { color: var(--ink); font-weight: 600; }
   .hp-price { grid-column: 3; grid-row: 1; }
   .hp-delta { grid-column: 3; grid-row: 2; }
 }
+
+/* crowds + wildlife scores */
+.toc a[hidden], section[hidden] { display: none; }
+.scores-table td { vertical-align: top; }
+.score { letter-spacing: 1px; white-space: nowrap; }
+.score-wild { color: var(--green); }
+.score-crowds { color: var(--accent); }
+.score-n { color: var(--muted); font-size: .8rem; font-variant-numeric: tabular-nums; }
+.score-na { color: var(--muted); }
+.proscons { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 14px; }
+.proscons .pc { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 16px; }
+.proscons h3 { margin: 0 0 4px; font-size: .95rem; }
+.proscons .pc-pro h3 { color: var(--green); }
+.proscons .pc-con h3 { color: var(--accent); }
+.proscons ul, .cmp-list { margin: 0; padding-left: 18px; }
+.proscons li { margin: 4px 0; font-size: .9rem; }
+.cmp-list li { margin: 2px 0; }
+@media (max-width: 640px) { .proscons { grid-template-columns: 1fr; } }

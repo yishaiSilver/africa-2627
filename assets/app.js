@@ -868,6 +868,37 @@
     });
   }
 
+  // ---------- crowds / wildlife scores (1–5) ----------
+  // Dots: ● full, ◐ half, ○ empty. Crowds read lower-is-better, so they get their own colour.
+  function scoreDots(n, kind) {
+    if (n == null) return '<span class="score-na">—</span>';
+    var s = '';
+    for (var i = 1; i <= 5; i++) s += n >= i ? '●' : n >= i - 0.5 ? '◐' : '○';
+    return '<span class="score score-' + kind + '" title="' + n + ' of 5">' + s + '</span> <span class="score-n">' + n + '</span>';
+  }
+  function prosConsHTML(sc) {
+    var list = function (xs) { return '<ul>' + (xs || []).map(function (x) { return '<li>' + mdInline(x) + '</li>'; }).join('') + '</ul>'; };
+    return (sc.pros || []).length || (sc.cons || []).length
+      ? '<div class="pc pc-pro"><h3>Pros</h3>' + list(sc.pros) + '</div><div class="pc pc-con"><h3>Cons</h3>' + list(sc.cons) + '</div>'
+      : '';
+  }
+  function renderScores() {
+    var sc = plan.scores, box = $('#scores');
+    if (!box || !sc || !(sc.sites || []).length) return;
+    box.hidden = false;
+    $('#toc-scores').hidden = false;
+    $('#scores-scale').textContent = sc.scale || '';
+    var rows = sc.sites.map(function (s) {
+      return '<tr><td>' + esc(s.name) + '</td><td class="num">' + esc(s.nights) + '</td><td>' + scoreDots(s.crowds, 'crowds') + '</td><td>' + scoreDots(s.numbers, 'wild') +
+        '</td><td>' + scoreDots(s.diversity, 'wild') + '</td><td class="notes">' + mdInline(s.note || '') + '</td></tr>';
+    }).join('');
+    var o = sc.overall || {};
+    rows += '<tr class="total"><td>Whole trip</td><td></td><td>' + scoreDots(o.crowds, 'crowds') + '</td><td>' + scoreDots(o.numbers, 'wild') + '</td><td>' +
+      scoreDots(o.diversity, 'wild') + '</td><td class="notes">' + mdInline(o.note || '') + '</td></tr>';
+    box.querySelector('tbody').innerHTML = rows;
+    $('#scores-pc').innerHTML = prosConsHTML(sc);
+  }
+
   function decoratePhotos() {
     // hero
     if (plan.hero_photo) wiki(plan.hero_photo).then(function (info) {
@@ -1128,6 +1159,27 @@
         html += row('Stops', cols.map(function (c) { return c.m.stops.map(function (s) { return (s.nature ? '🌿 ' : '') + s.name + ' ' + s.n + 'n'; }).join('<br>'); }), function (v) { return v; }, { noBest: true });
         html += row('Wild places (🌿)', cols.map(function (c) { return c.m.parks; }), String, { hi: true });
         html += row('Wildlife checklist', cols.map(function (c) { return c.m.wildlife || null; }), function (v) { return v + ' species'; }, { noBest: true });
+        if (cols.some(function (c) { return c.plan.scores; })) {
+          var ov = function (c, k) { return ((c.plan.scores || {}).overall || {})[k]; };
+          html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Crowds and wildlife (1–5)</th></tr>';
+          html += row('Crowds (lower is better)', cols.map(function (c) { return ov(c, 'crowds'); }), function (v) { return scoreDots(v, 'crowds'); });
+          html += row('Wildlife numbers', cols.map(function (c) { return ov(c, 'numbers'); }), function (v) { return scoreDots(v, 'wild'); }, { hi: true });
+          html += row('Wildlife diversity', cols.map(function (c) { return ov(c, 'diversity'); }), function (v) { return scoreDots(v, 'wild'); }, { hi: true });
+          html += row('By stop', cols.map(function (c) {
+            var s = (c.plan.scores || {}).sites;
+            return s ? s.filter(function (x) { return x.numbers != null; }).map(function (x) {
+              return esc(x.name) + ' ' + x.nights + 'n: crowds ' + x.crowds + ', numbers ' + x.numbers + ', diversity ' + x.diversity;
+            }).join('<br>') : null;
+          }), function (v) { return v; }, { noBest: true, cls: 'long' });
+          var pcList = function (k) {
+            return cols.map(function (c) {
+              var xs = (c.plan.scores || {})[k];
+              return xs && xs.length ? '<ul class="cmp-list">' + xs.map(function (x) { return '<li>' + mdInline(x) + '</li>'; }).join('') + '</ul>' : null;
+            });
+          };
+          html += row('Pros', pcList('pros'), function (v) { return v; }, { noBest: true, cls: 'long' });
+          html += row('Cons', pcList('cons'), function (v) { return v; }, { noBest: true, cls: 'long' });
+        }
         if (cols.some(function (c) { return c.plan.prelude; })) {
           var pre = function (c) { return c.plan.prelude || null; };
           html += '<tr class="grp"><th colspan="' + (cols.length + 1) + '">Stopover before Kenya</th></tr>';
@@ -1184,7 +1236,7 @@
       if (c.budget_target) { TARGET_LOW = c.budget_target.low; TARGET_HIGH = c.budget_target.high; }
       STORE_KEY = 'trip-feedback:' + REPO + ':' + meta.id;
       initStore(meta.id === MANIFEST['default']);
-      renderHero(); renderProse(); renderPlaces(); renderWildlife(); renderRoute(); renderChoices(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
+      renderHero(); renderProse(); renderPlaces(); renderWildlife(); renderScores(); renderRoute(); renderChoices(); renderItinerary(); renderLodging(); decoratePhotos(); wireLightbox();
       renderAlternatives(); renderBudgetSummary(); renderBudgetTable();
       refreshChoices(); renderBooking(); renderQuestions(); addSectionTools(); wireFeedback(); refreshFeedback();
       if (location.hash) { var t = document.querySelector(location.hash); if (t) t.scrollIntoView(); }

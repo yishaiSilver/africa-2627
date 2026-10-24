@@ -34,6 +34,34 @@
 | 2027-01-11 | Maun → Johannesburg (OR Tambo) | flight | ~1h45 | Airlink, midday |
 | 2027-01-11 | Johannesburg (OR Tambo) → Los Angeles (LAX) | flight | ~24–30h | Overnight via Doha, Dubai or Atlanta; lands Jan 12 |
 
+## Crowds and wildlife
+
+1–5, for late December and early January. Crowds: 1 = you rarely see another vehicle, 5 = queues of vehicles at sightings (lower is better). Wildlife numbers: how many animals you see. Wildlife diversity: how many different kinds. These are judgments from how each place works in this season, not counts.
+
+| Stop | Nights | Crowds | Numbers | Diversity | Why |
+|---|---|---|---|---|---|
+| Nxai Pan | 2 | 1/5 | 4/5 | 3/5 | A handful of vehicles at the main waterhole at most. In the rains zebra, springbok and wildebeest pour onto the grassland, and lions and cheetah follow; elephant bulls at the waterhole. |
+| Makgadikgadi (Khumaga) | 1 | 1/5 | 3/5 | 3/5 | Very quiet. Hippos and elephants on the Boteti; most zebra move out onto the pans in the rains, so fewer herds than in the dry season. |
+| Central Kalahari: Deception Valley | 3 | 1/5 | 4/5 | 3/5 | Often no other vehicle at your pan. Thousands of springbok and gemsbok on the green valleys, with giraffe, lions, cheetah and bat-eared foxes. Desert species only: no hippos, few elephants. |
+| Central Kalahari: Piper Pan | 2 | 1/5 | 3/5 | 3/5 | The remotest nights of the trip. Gemsbok and springbok, lions at the waterhole, brown hyena possible. |
+| Moremi (Xakanaxa) | 1 | 2/5 | 3/5 | 5/5 | Low season, but the Delta's best-known self-drive camp. Wet-season game is spread out, but the habitat mix is the richest on the trip: hippos, crocodiles, lechwe, elephants, lion, leopard, wild dog. |
+| Khwai | 2 | 3/5 | 4/5 | 5/5 | South African school holidays run into mid-January, and Khwai is a favourite of self-drivers and lodge vehicles, which bunch up at leopard and wild dog sightings. Excellent for elephants, hippos and cats. |
+| **Whole trip** | | 1.5/5 | 4/5 | 4/5 | The emptiest of the four by far, and the cheapest. You'll see a smaller share of the cats that are there, because nobody is tracking them for you. |
+
+**Pros**
+
+- Emptiest by far: whole pans to yourselves in the Kalahari.
+- The Kalahari's green season (big springbok and gemsbok herds, lions and cheetah on open ground) happens only now.
+- Cheapest of the four (~$4,940), and you set the pace.
+- Two very different halves: desert pans, then the Okavango's rivers.
+
+**Cons**
+
+- You drive, navigate, camp and cook; long sand and mud days, and the risk of getting stuck alone.
+- No guide: fewer cat sightings (leopards especially), and no night drives except a guided one in Khwai.
+- Basic or no facilities at the Kalahari and Khwai sites; carry all water.
+- Hot (32–38 °C) with thunderstorms.
+
 ## Itinerary
 
 ### Sat Dec 26 — Fly toward Johannesburg (Los Angeles → in flight)

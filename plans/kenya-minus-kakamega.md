@@ -36,6 +36,34 @@
 | 2027-01-12 | Airport-area hotel, Mombasa Rd → Nairobi (JKIA) | road | ~20m | Hotel shuttle at 03:00 |
 | 2027-01-12 | Nairobi (JKIA) → Los Angeles (LAX) | flight | ~21h | TK608 04:50 → IST, then TK9 → LAX ~18:15 same day |
 
+## Crowds and wildlife
+
+1–5, for late December and early January. Crowds: 1 = you rarely see another vehicle, 5 = queues of vehicles at sightings (lower is better). Wildlife numbers: how many animals you see. Wildlife diversity: how many different kinds. These are judgments from how each place works in this season, not counts.
+
+| Stop | Nights | Crowds | Numbers | Diversity | Why |
+|---|---|---|---|---|---|
+| Istanbul | 3 | 5/5 | — | — | Sultanahmet in New Year week is packed. Book Hagia Sophia and Topkapı early, go at opening time. |
+| Ol Pejeta | 3 | 3/5 | 4/5 | 5/5 | Popular with Nairobi visitors over the holidays, and the rhino and chimp spots get busy, but it's large, and the walk, night drive and lion tracking are small groups. Three kinds of rhino, Grevy's zebra, lions, elephants, chimps. |
+| Lake Baringo & Bogoria | 2 | 2/5 | 3/5 | 3/5 | Few foreign visitors. Enormous bird numbers and species list, hippos and big crocodiles; flamingos at Bogoria depend on water levels. Few large mammals. |
+| Lake Nakuru | 1 | 4/5 | 4/5 | 4/5 | Small, close to Nairobi and busy over the holidays; rhinos draw clusters of vehicles. Dense white rhino, buffalo and Rothschild's giraffe. |
+| Masai Mara: Naboisho conservancy | 2 | 2/5 | 5/5 | 4/5 | Vehicle caps and no day visitors keep sightings to a few vehicles. Mara-plains density: resident zebra, wildebeest, topi and gazelles, with lion, cheetah and hyena. The migration herds are in Tanzania in January. |
+| Naivasha, Hell's Gate, Crescent Island | 2 | 4/5 | 3/5 | 3/5 | Nairobi's weekend escape: Hell's Gate fills with cyclists and day-trippers, Crescent Island with boat groups. Plains game on foot and hippos, but no big predators to speak of. |
+| **Whole trip** | | 3/5 | 4/5 | 5/5 | The most variety of the four (rhinos, the Mara plains, Rift Valley lakes and birds), with crowd levels that swing from very quiet (Naboisho, Baringo) to busy (Nakuru, Naivasha). |
+
+**Pros**
+
+- Most variety: rhinos (including the last two northern whites), the Mara plains, Rift Valley lakes, Baringo's birds and crocodiles.
+- Dry season: open plains, easy viewing, little rain.
+- Lots on foot: bush walk, Mara walk, Crescent Island, Hell's Gate; lion tracking and two night drives.
+- Naboisho gives Mara density without the reserve's crowds; cheetah is a good chance.
+
+**Cons**
+
+- The most moving: 7 stops in 12 Kenya nights and several 4.5–5.5h road days, some by matatu.
+- Nakuru and Naivasha are busy in holiday weeks.
+- The priciest of the four (~$6,085), mostly Naboisho at $630 a night.
+- Leopards are only possible, not likely.
+
 ## Itinerary
 
 ### Sat Dec 26 — Fly toward Istanbul (Los Angeles → in flight)

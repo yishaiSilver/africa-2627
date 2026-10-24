@@ -22,6 +22,17 @@ def render(plan):
             out.append(f"| {l['date']} | {pl.get(l['from'], {}).get('name', l['from'])} → {pl.get(l['to'], {}).get('name', l['to'])} | {l['mode']} | {l['duration']} | {l.get('detail', '')} |")
         out.append("")
 
+    if plan.get("scores"):
+        sc = plan["scores"]
+        val = lambda v: "—" if v is None else f"{v}/5"
+        out += ["## Crowds and wildlife", "", sc.get("scale", ""), "",
+                "| Stop | Nights | Crowds | Numbers | Diversity | Why |", "|---|---|---|---|---|---|"]
+        for s in sc["sites"]:
+            out.append(f"| {s['name']} | {s['nights']} | {val(s['crowds'])} | {val(s['numbers'])} | {val(s['diversity'])} | {s.get('note', '')} |")
+        o = sc.get("overall", {})
+        out += [f"| **Whole trip** | | {val(o.get('crowds'))} | {val(o.get('numbers'))} | {val(o.get('diversity'))} | {o.get('note', '')} |", ""]
+        out += ["**Pros**", ""] + [f"- {x}" for x in sc.get("pros", [])] + ["", "**Cons**", ""] + [f"- {x}" for x in sc.get("cons", [])] + [""]
+
     out += ["## Itinerary", ""]
     for day in plan["itinerary"]:
         dt = date.fromisoformat(day["date"]).strftime("%a %b %d")
