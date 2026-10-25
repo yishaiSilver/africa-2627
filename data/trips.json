@@ -1,0 +1,131 @@
+{
+  "repo": "yishaiSilver/africa-2627",
+  "default": "wild-loop",
+  "trips": [
+    {
+      "id": "wild-loop",
+      "label": "Wild loop · Jan 16",
+      "summary": "Samburu, Kakamega rainforest, Mara; no beach, no Istanbul stay. Current plan.",
+      "file": "data/trips/wild-loop.json"
+    },
+    {
+      "id": "pre-turkey",
+      "label": "Türkiye first · Dec 19",
+      "summary": "+$1,260 pp vs Wild loop · Level 2: Increased Caution · Türkiye: Istanbul + Cappadocia",
+      "file": "data/trips/pre-turkey.json"
+    },
+    {
+      "id": "pre-egypt",
+      "label": "Egypt first · Dec 19",
+      "summary": "+$1,425 pp vs Wild loop · Level 2: Increased Caution · Egypt pyramids + Nile",
+      "file": "data/trips/pre-egypt.json"
+    },
+    {
+      "id": "pre-morocco",
+      "label": "Morocco first · Dec 19",
+      "summary": "+$2,055 pp vs Wild loop · Level 2: Increased Caution · Morocco Atlas + Sahara",
+      "file": "data/trips/pre-morocco.json"
+    },
+    {
+      "id": "pre-south-africa",
+      "label": "South Africa first · Dec 19",
+      "summary": "+$2,395 pp vs Wild loop · Level 2: Increased Caution · South Africa: Cape + Kruger",
+      "file": "data/trips/pre-south-africa.json"
+    },
+    {
+      "id": "pre-uganda",
+      "label": "Uganda first · Dec 19",
+      "summary": "+$3,910 pp vs Wild loop · Level 4: Do Not Travel · Uganda gorillas + chimps",
+      "file": "data/trips/pre-uganda.json"
+    },
+    {
+      "id": "diani",
+      "label": "Safari + Diani coast · Jan 16",
+      "summary": "Road safari loop, then 5 beach nights + Shimba Hills, Istanbul hostel 2n.",
+      "file": "data/trips/diani.json",
+      "compare": false
+    },
+    {
+      "id": "budget-istanbul",
+      "label": "Budget loop · Jan 9",
+      "summary": "Cheapest version: road safari loop + Istanbul hostel 2n, home Jan 9.",
+      "file": "data/trips/budget-istanbul.json",
+      "compare": false
+    },
+    {
+      "id": "fly-in",
+      "label": "Fly-in Mara + lakes · Jan 11",
+      "summary": "Earlier draft: bush flights to the Mara + Ol Pejeta, NYE in camp, Istanbul 2n.",
+      "file": "data/trips/fly-in.json",
+      "compare": false
+    },
+    {
+      "id": "puerto-rico",
+      "label": "Puerto Rico · Nov 7–14",
+      "summary": "Slow Sunday in Old San Juan, El Yunque, Vieques: brightest bio bay, horses, reefs; short flight back, ~$1,867 pp.",
+      "file": "data/trips/puerto-rico.json",
+      "compare": false
+    },
+    {
+      "id": "pr-stjohn",
+      "label": "PR + St. John · Nov 7–14",
+      "summary": "2 nights Old San Juan, then fly to St. Thomas and ferry to St. John: 5 nights by Virgin Islands National Park. ~$2,107 pp.",
+      "file": "data/trips/pr-stjohn.json",
+      "compare": false
+    },
+    {
+      "id": "no-crew",
+      "label": "Independent loop · Jan 15",
+      "summary": "Istanbul 3n, then a Kenya loop on public transport with Kakamega rainforest, two flights into the Masai Mara (Naboisho conservancy 2n + a guided National Reserve day) and Naivasha. ~$6,190 pp.",
+      "file": "data/trips/no-crew.json"
+    },
+    {
+      "id": "kenya-minus-kakamega",
+      "label": "Kenya minus Kakamega · Jan 12",
+      "summary": "Istanbul 3n, then 3 nights at Ol Pejeta, Lake Baringo & Bogoria, Nakuru, 2 nights in a Masai Mara conservancy (Naboisho) and Naivasha, without Kakamega, the crowded National Reserve day or Mount Suswa. 15 nights on the ground. ~$6,085 pp.",
+      "file": "data/trips/kenya-minus-kakamega.json"
+    },
+    {
+      "id": "tanzania",
+      "label": "Istanbul + Tanzania · Jan 12",
+      "summary": "Istanbul 3n, then a private 6-day northern camping safari (Tarangire walk + night drive, Serengeti ×3, crater) and a 4-day Mikumi + Udzungwa trip from Dar. ~$5,820 pp.",
+      "file": "data/trips/tanzania.json"
+    },
+    {
+      "id": "tanzania-lodges",
+      "label": "Tanzania, no camping · Jan 12",
+      "summary": "The Tanzania trip with a bed every night: Mto wa Mbu lodge, a Serengeti tented camp ×3, a Karatu lodge instead of the freezing rim campsite; the night drive moves to Mikumi. ~$6,290 pp.",
+      "file": "data/trips/tanzania-lodges.json"
+    },
+    {
+      "id": "indonesia",
+      "label": "Indonesia + Borneo: reefs + rainforest · Jan 14",
+      "summary": "Tangkoko (tarsiers, macaques, cuscus), a day of Lembeh muck diving, Raja Ampat (10 dives, mantas), then 4 nights on Borneo's Kinabatangan River for wild orangutans, proboscis monkeys, elephants and the Gomantong bat exodus. ~$4,281 pp.",
+      "file": "data/trips/indonesia.json"
+    },
+    {
+      "id": "madagascar",
+      "label": "Madagascar: lemurs, herps + diving · Jan 12",
+      "summary": "Northern and eastern Madagascar for lemurs, chameleons and leaf-tailed geckos with night walks at every forest stop, plus 6 dives off Nosy Be. ~$4,960 pp.",
+      "file": "data/trips/madagascar.json"
+    },
+    {
+      "id": "congo",
+      "label": "Republic of Congo: Lésio-Louna + Conkouati · Jan 12",
+      "summary": "Loango-style trip without Gabon: Lésio-Louna 4n (hippos, free-living gorillas from the boat), Conkouati-Douli 6n (nesting leatherbacks, released chimps, forest elephants), Tchimpounga. No diving. ~$5,860 pp.",
+      "file": "data/trips/congo.json"
+    },
+    {
+      "id": "zambia-luangwa",
+      "label": "Istanbul + Zambia: South Luangwa walks + night drives · Jan 12",
+      "summary": "Istanbul 3n, then 10 nights at Mfuwe in South Luangwa: an afternoon drive into a night drive every day (leopards, lions, hyenas), 4 morning walking safaris and 3 morning drives, hippos and elephants on the Luangwa River. Budget camp, activities paid one by one. ~$5,745 pp.",
+      "file": "data/trips/zambia-luangwa.json"
+    },
+    {
+      "id": "botswana-selfdrive",
+      "label": "Botswana self-drive + Istanbul · Jan 15",
+      "summary": "Self-drive 4x4 with a rooftop tent from Maun: Nxai Pan's green-season zebra and elephants, Makgadikgadi's Boteti river, 5 nights in the Central Kalahari for lions, cheetah and springbok herds, then Moremi and Khwai for leopards, wild dogs, hippos and elephants. 3 nights in Istanbul on the way home; a Mossel Bay great white cage dive is an option. ~$5,225 pp.",
+      "file": "data/trips/botswana-selfdrive.json"
+    }
+  ]
+}

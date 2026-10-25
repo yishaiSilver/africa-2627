@@ -1,0 +1,1022 @@
+{
+  "id": "botswana-selfdrive",
+  "label": "Botswana self-drive + Istanbul · Jan 15",
+  "title": "Botswana self-drive: Nxai Pan, the Central Kalahari, Moremi and Khwai, then Istanbul",
+  "summary": "Self-drive 4x4 with a rooftop tent from Maun: Nxai Pan's green-season zebra and elephants, Makgadikgadi's Boteti river, 5 nights in the Central Kalahari for lions, cheetah and springbok herds, then Moremi and Khwai for leopards, wild dogs, hippos and elephants. 3 nights in Istanbul on the way home; a Mossel Bay great white cage dive is an option. ~$5,225 pp.",
+  "overview": "- **What this is:** a camping self-drive through Botswana in the green season, which suits the Kalahari best. The pans and valleys turn green, springbok, gemsbok and zebra gather on them, and the **lions and cheetahs** follow. Then a few nights in **Moremi and Khwai** on the edge of the Okavango for leopards, wild dogs, hippos and elephants, and **3 nights in Istanbul** on the way home.\n- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 17 nights on the ground: 3 Maun, **11 camping in parks**, 3 Istanbul, plus 3 on planes.\n- **Route:** ✈ via Istanbul and Johannesburg to Maun 1n → **Nxai Pan 2n** → **Makgadikgadi (Khumaga) 1n** → **CKGR: Deception Valley 3n, Piper Pan 2n** → Maun 1n (refuel) → **Moremi (Xakanaxa) 1n** → **Khwai 2n** → Maun 1n → ✈ Johannesburg → ✈ **Istanbul 3n** → home.\n- **Cats:** Kalahari black-maned lions and cheetah on the open pans of Deception and Nxai, with brown hyena, caracal, bat-eared fox and honey badger possible. Leopard and wild dog are best in Khwai and Moremi.\n- **Hippos and elephants:** hippo pools at Khwai and Xakanaxa and on the Boteti; elephant bulls at the Nxai Pan waterhole and herds along the Khwai.\n- **Herps:** the rains bring out giant bullfrogs, plus puff adders, leopard tortoises, monitors and Nile crocodiles in the Okavango channels.\n- **Crowds:** almost none. Green season is Botswana's quietest time, and the CKGR may have no other vehicles at your pan.\n- **The catch:** you drive, cook and navigate yourselves, on sand and black-clay mud after rain, with no fuel inside the parks. Self-drive isn't allowed after dark in the parks, so night drives only happen with a Khwai community guide (option). Carry the rental company's satellite communicator.\n- **Istanbul at the end:** one Turkish ticket covers the long-haul, with the Stopover's 2 free hotel nights on the way home. You arrive in Botswana fresh, and the city is a slow wind-down after 11 nights of camping.\n- **Shark dive (option, +$175):** swap the 2 Piper Pan nights for Cape Town and Mossel Bay, with a great white cage dive and a spare morning. January is the weaker great white season.\n- **Budget: ~$5,225 pp** (≈ $10,450 for two). The vehicle is ~$1,225 pp and flights ~$2,130.\n",
+  "dates": {
+    "depart": "2026-12-26",
+    "return": "2027-01-15"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-26",
+      "day_label": "Day 1 – Sat",
+      "location": "Los Angeles → in flight",
+      "title": "Fly toward Johannesburg",
+      "details": "Turkish TK10 LAX 19:45 → Istanbul 19:00 next day (~13h). One Turkish ticket for the whole long-haul: out via Istanbul without stopping, home via Istanbul with 3 nights there.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-27",
+      "day_label": "Day 2 – Sun",
+      "location": "in flight → Istanbul → in flight",
+      "title": "Connect in Istanbul",
+      "details": "Land Istanbul 19:00 and stay airside for Turkish's overnight flight to Johannesburg (older schedules show ~00:50 → 10:40; confirm the December times). Sleep on both flights if you can.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 3 – Mon",
+      "location": "Johannesburg → Maun",
+      "title": "Land in Johannesburg, fly on to Maun, collect the 4x4",
+      "details": "Land Johannesburg mid-morning, clear immigration and check in again for a midday Airlink flight to Maun (~1h45, several daily; leave 3h+ between them). Collect the vehicle in the afternoon: a Hilux or Land Cruiser with rooftop tent, fridge, kitchen box, two spare tyres, a long-range tank or jerry cans, and a satellite communicator. The handover takes ~2h; if it runs late, finish it first thing tomorrow. Shop for 5 days of food and 60+ litres of water. Botswana is UTC+2.",
+      "overnight": "Lodge in Maun",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 4 – Tue",
+      "location": "Maun → Nxai Pan",
+      "title": "East to Nxai Pan",
+      "details": "~140 km of tar to the Nxai Pan turnoff, then ~35 km of deep sand to the gate (~3h total; deflate the tyres to ~1.6 bar). Afternoon at the main waterhole: elephant bulls, springbok, zebra arriving for the rains, lions often nearby. Camp at South Camp; lions and hyenas often walk past at night.",
+      "overnight": "Nxai Pan South Camp",
+      "meals": "B hotel; L, D camp (self-catering)"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 5 – Wed",
+      "location": "Nxai Pan NP",
+      "title": "Nxai Pan's green plains",
+      "details": "Zero transfer. Dawn on the pan for cheetah and lion on the zebra and springbok; the green season is when Nxai Pan is busiest with game. Midday rest. In the afternoon, Baines' Baobabs if the track is dry (it's on a salt pan and can be impassable after rain). Puff adders and bullfrogs on the tracks after a storm.",
+      "overnight": "Nxai Pan South Camp",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 6 – Thu",
+      "location": "Nxai Pan → Makgadikgadi (Khumaga)",
+      "title": "To the Boteti River",
+      "details": "Back to the tar and south to Khumaga on the Boteti River (~2.5–3h). Hippos in the Boteti pools, elephants coming to drink, zebra and wildebeest on the west bank. New Year's Eve at Khumaga camp on the river.",
+      "overnight": "Khumaga Camp, Makgadikgadi",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 7 – Fri",
+      "location": "Makgadikgadi → Central Kalahari (Deception Valley)",
+      "title": "Into the Central Kalahari",
+      "details": "Via Rakops (last fuel: fill up) to the Matswere gate (~2h), then ~1h to Deception Valley. Afternoon drive along the valley: springbok, gemsbok, red hartebeest and wildebeest on the green grass, black-backed jackal, ground squirrels, and the resident lions. In the 1970s this was where Mark and Delia Owens studied brown hyenas and lions.",
+      "overnight": "Deception Valley campsite (CKGR)",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 8 – Sat",
+      "location": "CKGR: Deception Valley",
+      "title": "Deception Valley and Sunday Pan",
+      "details": "Zero transfer. Dawn loop to Sunday Pan and Leopard Pan, the best area for lions and cheetah. Midday in camp under the shade sail. Afternoon back along Deception. Watch for bat-eared foxes, honey badgers, secretary birds, kori bustards.",
+      "overnight": "Deception Valley campsite (CKGR)",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 9 – Sun",
+      "location": "CKGR: Deception Valley",
+      "title": "Kalahari lions",
+      "details": "Zero transfer. Another full day on the Deception–Sunday–Leopard Pan loops, timed around where the lions were the day before. After rain the clay pans are slippery: stay on the tracks.",
+      "overnight": "Deception Valley campsite (CKGR)",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 10 – Mon",
+      "location": "Deception Valley → Piper Pan",
+      "title": "South to Piper Pan",
+      "details": "~2.5–3h south via Letiahau to Piper Pan, driving slowly for cheetah, gemsbok and springbok herds. Piper's waterhole draws lions; camp under the acacias.",
+      "overnight": "Piper Pan campsite (CKGR)",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 11 – Tue",
+      "location": "CKGR: Piper Pan",
+      "title": "Piper and Letiahau",
+      "details": "Zero transfer. Piper Pan and the Letiahau waterhole: lions, gemsbok, possible brown hyena and caracal at dawn and dusk. The remotest night of the trip.",
+      "overnight": "Piper Pan campsite (CKGR)",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 12 – Wed",
+      "location": "Piper Pan → Maun",
+      "title": "Long drive back to Maun",
+      "details": "The long day: north through the reserve to Matswere gate, Rakops, then tar to Maun (~6–7h). Shower, laundry, refuel, restock food and water.",
+      "overnight": "Lodge in Maun",
+      "meals": "Self-catering; D own"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 13 – Thu",
+      "location": "Maun → Moremi (Xakanaxa)",
+      "title": "Into the Okavango side",
+      "details": "~2h to Moremi's South Gate, then ~2h through mopane woodland and floodplain to Xakanaxa. Afternoon drive on the lagoons: hippos, crocodiles, red lechwe, elephants, and lion and leopard in the area. Tracks can be flooded after heavy rain; check at South Gate.",
+      "overnight": "Xakanaxa campsite, Moremi",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 14 – Fri",
+      "location": "Xakanaxa → Khwai",
+      "title": "Dawn drive, then Khwai",
+      "details": "Dawn drive around Xakanaxa and Dombo hippo pools, then ~1.5–2h east to North Gate and over the bridge into the Khwai community area. Afternoon along the Khwai River: elephants, hippos, leopard, wild dog den areas.",
+      "overnight": "Khwai community campsite",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 15 – Sat",
+      "location": "Khwai",
+      "title": "Khwai: leopards and wild dogs",
+      "details": "Zero transfer. Dawn and afternoon along the Khwai River and Hippo Pools. Khwai is a community concession, so off-road driving and night drives are allowed, but only with a Khwai guide: book one for the evening (option).",
+      "overnight": "Khwai community campsite",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-10",
+      "day_label": "Day 16 – Sun",
+      "location": "Khwai → Maun",
+      "title": "Back to Maun",
+      "details": "Last dawn drive on the Khwai, then ~3h back to Maun via Shorobe. Clean out and repack the vehicle; return it tomorrow morning.",
+      "overnight": "Lodge in Maun",
+      "meals": "Self-catering; D own"
+    },
+    {
+      "date": "2027-01-11",
+      "day_label": "Day 17 – Mon",
+      "location": "Maun → Johannesburg → in flight",
+      "title": "Return the 4x4, fly to Istanbul",
+      "details": "Return the vehicle by 09:00. Midday Airlink to Johannesburg (~1h45), then Turkish's evening flight to Istanbul (older schedules show ~19:45 → ~06:00; confirm). Leave 3h+ between the two.",
+      "overnight": "Plane",
+      "meals": "B hotel; in-flight"
+    },
+    {
+      "date": "2027-01-12",
+      "day_label": "Day 18 – Tue",
+      "location": "in flight → Istanbul",
+      "title": "Land in Istanbul, slow first day",
+      "details": "Land early morning. Airport metro (M11 → M2 → T1) to Sultanahmet, ~1.5h, or a taxi. Drop bags, nap, then an easy afternoon: the Blue Mosque and the Hippodrome, dinner nearby.",
+      "overnight": "Istanbul hotel",
+      "meals": "In-flight; L, D own"
+    },
+    {
+      "date": "2027-01-13",
+      "day_label": "Day 19 – Wed",
+      "location": "Istanbul",
+      "title": "Hagia Sophia, the Cistern, Topkapı",
+      "details": "Hagia Sophia and the Basilica Cistern at opening time, then Topkapı Palace. All within ten minutes' walk of each other. Zero travel.",
+      "overnight": "Istanbul hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-14",
+      "day_label": "Day 20 – Thu",
+      "location": "Istanbul",
+      "title": "Grand Bazaar, Bosphorus ferry, Kadıköy",
+      "details": "Grand Bazaar and the Spice Bazaar in the morning, then a public ferry across the Bosphorus to Kadıköy on the Asian side for the food market and dinner. The ferry is the best view in the city and costs almost nothing.",
+      "overnight": "Istanbul hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-15",
+      "day_label": "Day 21 – Fri",
+      "location": "Istanbul → Los Angeles",
+      "title": "Fly home",
+      "details": "Free morning (Süleymaniye Mosque, or coffee by the Galata Bridge). Leave for the airport by ~11:00. TK9 14:30 → LAX 18:15 the same day (~13h45).",
+      "overnight": "Home",
+      "meals": "B; in-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Lodge in Maun",
+      "place": "MUB",
+      "location": "Maun, on the Thamalakane River",
+      "nights": 3,
+      "pppn_usd": 45,
+      "style": "Riverside lodge",
+      "includes": "~$90/room B&B. Dec 28, Jan 6 and Jan 10.",
+      "why": "A shower and laundry between the Kalahari and the Okavango; secure parking for the vehicle.",
+      "alternatives": "Old Bridge Backpackers or Audi Camp have rooms, or camp there for less.",
+      "url": "https://www.booking.com/city/bw/maun.html"
+    },
+    {
+      "name": "Nxai Pan South Camp",
+      "place": "NXP",
+      "location": "Nxai Pan NP",
+      "nights": 2,
+      "pppn_usd": 40,
+      "style": "Campsite",
+      "includes": "Private site with ablution block; Xomae-run.",
+      "why": "Closest site to the main waterhole.",
+      "alternatives": "",
+      "url": "https://www.tawanaselfdrive.com/book-campsites-in-botswana-national-parks-permit/"
+    },
+    {
+      "name": "Khumaga Camp, Makgadikgadi",
+      "place": "KHU",
+      "location": "Boteti River, Makgadikgadi NP",
+      "nights": 1,
+      "pppn_usd": 40,
+      "style": "Campsite",
+      "includes": "Ablution block.",
+      "why": "On the Boteti for hippos and elephants.",
+      "alternatives": "",
+      "url": "https://www.tawanaselfdrive.com/book-campsites-in-botswana-national-parks-permit/"
+    },
+    {
+      "name": "Deception Valley campsite (CKGR)",
+      "place": "DEC",
+      "location": "Deception Valley, Central Kalahari",
+      "nights": 3,
+      "pppn_usd": 10,
+      "style": "Wild campsite",
+      "includes": "DWNP-run; bucket shower and long-drop at best. Bring all water.",
+      "why": "In the middle of the valley; lions often walk through.",
+      "alternatives": "",
+      "url": "https://www.africanreservations.com/CKGR-Campsites"
+    },
+    {
+      "name": "Piper Pan campsite (CKGR)",
+      "place": "PIP",
+      "location": "Piper Pan, Central Kalahari",
+      "nights": 2,
+      "pppn_usd": 26,
+      "style": "Wild campsite",
+      "includes": "Privately managed (Bigfoot); ~P350 pp for internationals.",
+      "why": "Waterhole with lions; very remote.",
+      "alternatives": "",
+      "url": "https://www.africanreservations.com/CKGR-Campsites"
+    },
+    {
+      "name": "Xakanaxa campsite, Moremi",
+      "place": "XAK",
+      "location": "Xakanaxa, Moremi Game Reserve",
+      "nights": 1,
+      "pppn_usd": 47,
+      "style": "Campsite",
+      "includes": "Kwalate-run, ~P571 pp plus the DWNP camping fee P60.",
+      "why": "On the lagoons: hippos, leopard area, boat station nearby.",
+      "alternatives": "Third Bridge (check it reopened after the 2026 floods).",
+      "url": "https://semowi.com/xakanaxa-campsite-booking-guide/"
+    },
+    {
+      "name": "Khwai community campsite",
+      "place": "KHW",
+      "location": "Khwai Development Trust area",
+      "nights": 2,
+      "pppn_usd": 45,
+      "style": "Campsite",
+      "includes": "Unfenced riverside sites.",
+      "why": "Elephants, hippos and leopards along the river; community guides for night drives.",
+      "alternatives": "",
+      "url": "https://www.tawanaselfdrive.com/book-campsites-in-botswana-national-parks-permit/"
+    },
+    {
+      "name": "Istanbul hotel (TK Stopover, 2 nights free)",
+      "place": "IST",
+      "location": "Sultanahmet, Istanbul",
+      "nights": 3,
+      "pppn_usd": 20,
+      "style": "Hotel",
+      "includes": "Room and breakfast. Turkish gives US-origin economy passengers two free hotel nights, once per ticket, when they stop in Istanbul; only the third night is paid.",
+      "why": "Breaks up the journey home and splits the time-zone jump.",
+      "alternatives": "Pay for all three nights and pick your own hotel and neighbourhood, about +$180 pp.",
+      "url": "https://www.turkishairlines.com/en-us/flights/stopover/"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "Turkish LAX → Istanbul → Johannesburg (Dec 26), Johannesburg → Istanbul (Jan 11), Istanbul → LAX (Jan 15)",
+      "per_person_usd": 1700,
+      "low_usd": 1350,
+      "high_usd": 2300,
+      "notes": "One Turkish ticket with a stopover in Istanbul on the way home (estimate; Christmas fares run high). Avoid the N and R fare classes, which don't get the free Stopover hotel."
+    },
+    {
+      "category": "Regional flights",
+      "item": "Airlink Johannesburg ⇄ Maun (Dec 28, Jan 11)",
+      "per_person_usd": 430,
+      "low_usd": 350,
+      "high_usd": 550,
+      "notes": "~$420–450 return. Leave 3h+ after the Turkish arrival on Dec 28 and before the Turkish departure on Jan 11."
+    },
+    {
+      "category": "Vehicle",
+      "item": "Fully equipped 4x4 camper, Maun, Dec 28 – Jan 11 (14 days)",
+      "per_person_usd": 1225,
+      "low_usd": 900,
+      "high_usd": 1600,
+      "notes": "~$175/day average for a Hilux double cab with rooftop tent, fridge, kitchen and recovery kit; Dec 20 – Jan 6 is charged at high season by most firms. Split two ways. Get the zero-excess waiver and the satellite communicator."
+    },
+    {
+      "category": "Fuel",
+      "item": "~2,000 km of diesel",
+      "per_person_usd": 160,
+      "low_usd": 120,
+      "high_usd": 250,
+      "notes": "~13–15 L/100 km in sand; fill up at Maun and Rakops. No fuel in the parks."
+    },
+    {
+      "category": "Park fees",
+      "item": "Nxai Pan, Makgadikgadi, CKGR 8 days; Moremi 2 days; vehicle fees",
+      "per_person_usd": 170,
+      "low_usd": 130,
+      "high_usd": 260,
+      "notes": "P190 (~$14) pp/day at Nxai, Makgadikgadi and CKGR; P270 (~$20) at Moremi. The proposed 2026 increase to P500 was postponed in March 2026; check again before booking."
+    },
+    {
+      "category": "Campsites",
+      "item": "11 nights: Nxai 2, Khumaga 1, Deception 3, Piper 2, Xakanaxa 1, Khwai 2",
+      "per_person_usd": 350,
+      "low_usd": 250,
+      "high_usd": 550,
+      "notes": "Privately run sites ~$40–45 pp, DWNP sites much less. Book all of them before collecting the vehicle; rangers check bookings at the gate."
+    },
+    {
+      "category": "Lodging",
+      "item": "Maun lodge, 3 nights",
+      "per_person_usd": 135,
+      "low_usd": 90,
+      "high_usd": 250,
+      "notes": ""
+    },
+    {
+      "category": "Meals",
+      "item": "Groceries and Maun restaurants, 15 days",
+      "per_person_usd": 300,
+      "low_usd": 220,
+      "high_usd": 400,
+      "notes": "Self-catering in the parks; Maun supermarkets are well stocked."
+    },
+    {
+      "category": "Admin",
+      "item": "Botswana Tourism Development Levy",
+      "per_person_usd": 30,
+      "low_usd": 30,
+      "high_usd": 50,
+      "notes": "$30 online for non-SADC visitors. No visa needed for US citizens."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Travel medical + evacuation plan (no trip cancellation)",
+      "per_person_usd": 100,
+      "low_usd": 60,
+      "high_usd": 250,
+      "notes": "Make sure it covers self-drive and air evacuation from remote areas."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Malaria prophylaxis and travel clinic",
+      "per_person_usd": 100,
+      "low_usd": 50,
+      "high_usd": 200,
+      "notes": "Moremi, Khwai and the Okavango are malarial in the rains; the Kalahari is lower risk."
+    },
+    {
+      "category": "Admin",
+      "item": "SIM, firewood, sundries",
+      "per_person_usd": 60,
+      "low_usd": 30,
+      "high_usd": 100,
+      "notes": ""
+    },
+    {
+      "category": "Istanbul",
+      "item": "Hotel: 2 nights free via TK Stopover, 1 paid",
+      "per_person_usd": 60,
+      "low_usd": 0,
+      "high_usd": 240,
+      "notes": "Apply at least 72h before the flight. US-origin economy, once per ticket."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Food, 3 days",
+      "per_person_usd": 120,
+      "low_usd": 90,
+      "high_usd": 200,
+      "notes": "~$40 pp/day."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Sights: Hagia Sophia, Basilica Cistern, Topkapı (palace only)",
+      "per_person_usd": 105,
+      "low_usd": 90,
+      "high_usd": 160,
+      "notes": ""
+    },
+    {
+      "category": "Istanbul",
+      "item": "Airport transfers ×2 and Istanbulkart",
+      "per_person_usd": 30,
+      "low_usd": 20,
+      "high_usd": 60,
+      "notes": ""
+    },
+    {
+      "category": "Contingency",
+      "item": "Held until the vehicle and campsites are confirmed",
+      "per_person_usd": 150,
+      "low_usd": 0,
+      "high_usd": 300,
+      "notes": "Recovery costs if you get stuck, an extra Maun night if a road floods."
+    }
+  ],
+  "budget_total_per_person_usd": 5225,
+  "alternatives": [
+    {
+      "id": "khwai-night",
+      "name": "Guided night drive in Khwai",
+      "description": "A Khwai community guide in your vehicle or theirs: leopards, genets, servals, owls, and snakes on the move. The only night driving on the trip.",
+      "cost_delta_per_person_usd": 50
+    },
+    {
+      "id": "moremi-boat",
+      "name": "Boat trip from Mboma or Xakanaxa",
+      "description": "2 hours on the Okavango channels: hippos up close, crocodiles, sitatunga, birds.",
+      "cost_delta_per_person_usd": 60
+    },
+    {
+      "id": "scenic-flight",
+      "name": "Okavango scenic flight from Maun",
+      "description": "45–60 min over the Delta in a small plane; elephants, hippos and buffalo from the air.",
+      "cost_delta_per_person_usd": 150
+    },
+    {
+      "id": "guided",
+      "name": "Guided mobile camping safari instead of self-drive",
+      "description": "Same route with a guide, cook and their vehicle. No driving, and night drives in Khwai, but well over budget.",
+      "cost_delta_per_person_usd": 3500
+    },
+    {
+      "id": "shark-dive",
+      "name": "Great white shark cage dive at Mossel Bay (instead of Piper Pan)",
+      "description": "Drop the 2 Piper Pan nights: leave the Kalahari for Maun on Jan 4, Moremi Jan 5, Khwai Jan 6–7, then Airlink Maun → Cape Town on Jan 8 (daily, 13:50 → 16:20), fly to George on Jan 9 and stay 2 nights at Mossel Bay: the cage dive at Seal Island on Jan 10 (~R4,350 with the conservation fee, breath-hold surface cage, no scuba needed) and a spare morning on Jan 11 in case the sea cancels it. Then George → Johannesburg → Istanbul as planned. Mossel Bay rather than Gansbaai because Gansbaai's whites have been sporadic since orcas moved in. January is summer, the weaker season: sightings aren't guaranteed, so ask the operator for its recent record and its repeat-trip policy.",
+      "cost_delta_per_person_usd": 175
+    },
+    {
+      "id": "no-istanbul",
+      "name": "Skip Istanbul, home Jan 12",
+      "description": "Fly Johannesburg → home on the evening of Jan 11 via Doha, Dubai or Atlanta, with a Johannesburg hotel night on the way out instead of the second overnight flight.",
+      "cost_delta_per_person_usd": -285
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 24–31)",
+      "task": "Price one Turkish ticket: LAX → Istanbul → Johannesburg on Dec 26, Johannesburg → Istanbul on Jan 11, Istanbul → LAX on Jan 15 (avoid N and R fares). Then Airlink Johannesburg ⇄ Maun on Dec 28 and Jan 11, with 3h+ on each side. Get quotes from 2–3 Maun 4x4 firms for Dec 28 – Jan 11 with zero-excess cover and a satellite communicator."
+    },
+    {
+      "when": "By Nov 7",
+      "task": "Book every campsite: Nxai Pan South Camp and Khumaga (Xomae), Deception (DWNP), Piper Pan (Bigfoot), Xakanaxa (Kwalate), Khwai (Khwai Development Trust). Christmas–New Year is local holiday season and the sites are small."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book the Maun lodge (Dec 28, Jan 6, Jan 10). Pay the Tourism Development Levy online."
+    },
+    {
+      "when": "≥72h before the flight",
+      "task": "Apply for the Turkish Stopover hotel (2 free nights in Istanbul, Jan 12–13)."
+    },
+    {
+      "when": "Mid-Nov",
+      "task": "Travel clinic: malaria prophylaxis, routine vaccines, typhoid, hepatitis A."
+    },
+    {
+      "when": "Dec 15–22",
+      "task": "Check rainfall reports and road notes for the CKGR, Nxai Pan and Moremi (Tracks4Africa, the rental firm). Download offline maps."
+    }
+  ],
+  "practical": "## Entry\n- **Botswana:** no visa for US citizens (up to 90 days). Pay the $30 Tourism Development Levy online beforehand. Passport valid 6+ months with 2 blank pages.\n- **South Africa (transit):** visa-free for US citizens; you clear immigration at Johannesburg both ways for the Airlink connection.\n- **Türkiye:** visa-free for US citizens (90 days).\n- **Yellow fever:** not required arriving from the US or Istanbul.\n\n## Driving\n- **Left-hand traffic.** Both drivers need a US licence; an International Driving Permit is advisable.\n- Deflate to ~1.6 bar in sand; re-inflate on the tar. Never drive the parks after dark (it's illegal in the national parks, and there are elephants and cattle on the tar at night).\n- **Black-clay mud** on the CKGR pans and around Nxai after rain: stay on the tracks, don't cross a wet pan, and turn back rather than get stuck alone.\n- Carry 20+ litres of water each beyond drinking needs, and the satellite communicator. Tell the rental firm your route.\n- No fuel in any park. Last fuel before the CKGR is Rakops.\n\n## Camping\n- Unfenced sites: lions, hyenas and elephants walk through. Sleep in the rooftop tent, zip up, never walk away from the car after dark, and keep food in the vehicle.\n- Bring firewood from Maun; collecting it in the parks isn't allowed.\n\n## Money\n- Botswana pula. Cards work in Maun; carry cash (pula) for park gates, firewood and tips.\n\n## Season\n- December–March: hot days (~32–38 °C), warm nights, afternoon thunderstorms. The Kalahari is at its greenest and best for game; Moremi's game is more spread out than in the dry season, but there are far fewer vehicles.\n\n## Health and safety\n- Check travel.state.gov for Botswana before booking.\n- Remote: the nearest hospital is in Maun. Evacuation cover is essential.\n\n## Istanbul in January\n- Cold and often wet (~4–9 °C): pack a warm layer and a rain jacket, which you'll want on Kalahari dawn drives anyway.\n",
+  "open_questions": [
+    "Istanbul at the end (home Jan 15): worth the 3 extra days, or fly home from Johannesburg on Jan 11 (−$285)?",
+    "Add the Mossel Bay shark dive in place of Piper Pan (+$175)?",
+    "Comfortable self-driving on sand and mud, in a rooftop tent, for 11 nights? The guided version is ~+$3,500 pp.",
+    "5 nights in the CKGR (lions, cheetah, herds) vs more time at Khwai (leopards, wild dogs, hippos): this split, or shift a night to Khwai?",
+    "Add the Khwai night drive (+$50) and a boat trip (+$60)? Both still fit under $5k."
+  ],
+  "sources": [
+    "https://moremipark.com/entry-fees/",
+    "https://safarifind.com/blog/botswana-national-park-fees-availability-2026",
+    "https://www.venture-to-botswana.com/uploads/1/1/3/2/11320544/dwnp_entrance_and_camping_fees.pdf",
+    "https://www.africanreservations.com/CKGR-Campsites",
+    "https://semowi.com/xakanaxa-campsite-booking-guide/",
+    "https://moremipark.com/lodges/third-bridge-campsite/",
+    "https://www.tawanaselfdrive.com/book-campsites-in-botswana-national-parks-permit/",
+    "https://offroadbotswana.com/4x4-rental-rates/",
+    "https://4x4rental-namibia.com/budget-toyota-hilux-2-4td-4x4-double-cab-automatic-camping-3-5-persons/",
+    "https://www.capmad.com/post/travel-to-botswana-what-a-safari-really-costs-between-4x4-rental-lodges-and-internal-flights",
+    "https://blog.tracks4africa.co.za/a-self-drive-guide-to-nxai-pan-national-park/",
+    "https://discoverafrica.com/blog/a-travellers-guide-to-the-central-kalahari-game-reserve",
+    "https://Safari.com/blog/the-valley-of-deception",
+    "https://www.kayak.com/flight-routes/Johannesburg-OR-Tambo-JNB/Maun-MUB",
+    "https://apexpredators.com/shark-cage-diving-mossel-bay/",
+    "https://www.southafrica-spirit.com/guides/mossel-bay-vs-gansbaai-shark-diving/",
+    "https://opentravelguide.com/south-africa/western-cape/cape-town/adventure/great-white-shark-cage-diving-at-gansbaai/",
+    "https://www.directflights.com/CPT-MUB",
+    "https://flight-status.com/airlink/4z-315",
+    "https://www.momondo.co.za/flights/george",
+    "https://www.aeroroutes.com/eng/260701-tknw26za",
+    "https://www.turkishairlines.com/en-us/flights/stopover/"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "JNB": {
+      "name": "Johannesburg (OR Tambo)",
+      "lat": -26.1367,
+      "lng": 28.2411,
+      "kind": "transit",
+      "country": "South Africa"
+    },
+    "MUB": {
+      "name": "Maun",
+      "lat": -19.9726,
+      "lng": 23.4311,
+      "kind": "city",
+      "country": "Botswana"
+    },
+    "NXP": {
+      "name": "Nxai Pan",
+      "lat": -19.93,
+      "lng": 24.77,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "KHU": {
+      "name": "Khumaga (Makgadikgadi)",
+      "lat": -20.47,
+      "lng": 24.51,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "DEC": {
+      "name": "Deception Valley (CKGR)",
+      "lat": -21.42,
+      "lng": 23.72,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "PIP": {
+      "name": "Piper Pan (CKGR)",
+      "lat": -21.83,
+      "lng": 23.29,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "XAK": {
+      "name": "Xakanaxa (Moremi)",
+      "lat": -19.18,
+      "lng": 23.42,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "KHW": {
+      "name": "Khwai",
+      "lat": -19.15,
+      "lng": 23.8,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "IST": {
+      "name": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "kind": "city",
+      "country": "Türkiye"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-26",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "TK10 19:45 → IST 19:00 next day"
+    },
+    {
+      "date": "2026-12-27",
+      "from": "IST",
+      "to": "JNB",
+      "mode": "flight",
+      "duration": "~10h",
+      "detail": "Turkish overnight, lands Dec 28 morning (confirm times)"
+    },
+    {
+      "date": "2026-12-28",
+      "from": "JNB",
+      "to": "MUB",
+      "mode": "flight",
+      "duration": "~1h45",
+      "detail": "Airlink, morning"
+    },
+    {
+      "date": "2026-12-29",
+      "from": "MUB",
+      "to": "NXP",
+      "mode": "road",
+      "duration": "~3h",
+      "detail": "Tar, then 35 km of deep sand"
+    },
+    {
+      "date": "2026-12-31",
+      "from": "NXP",
+      "to": "KHU",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "Back to the tar, then south to the Boteti"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "KHU",
+      "to": "DEC",
+      "mode": "road",
+      "duration": "~3h",
+      "detail": "Via Rakops (fuel) and Matswere gate"
+    },
+    {
+      "date": "2027-01-04",
+      "from": "DEC",
+      "to": "PIP",
+      "mode": "road",
+      "duration": "~2.5–3h",
+      "detail": "Sand tracks via Letiahau"
+    },
+    {
+      "date": "2027-01-06",
+      "from": "PIP",
+      "to": "MUB",
+      "mode": "road",
+      "duration": "~6–7h",
+      "detail": "Matswere gate, Rakops, tar to Maun"
+    },
+    {
+      "date": "2027-01-07",
+      "from": "MUB",
+      "to": "XAK",
+      "mode": "road",
+      "duration": "~4h",
+      "detail": "Via South Gate"
+    },
+    {
+      "date": "2027-01-08",
+      "from": "XAK",
+      "to": "KHW",
+      "mode": "road",
+      "duration": "~1.5–2h",
+      "detail": "Via North Gate"
+    },
+    {
+      "date": "2027-01-10",
+      "from": "KHW",
+      "to": "MUB",
+      "mode": "road",
+      "duration": "~3h",
+      "detail": "Via Shorobe"
+    },
+    {
+      "date": "2027-01-11",
+      "from": "MUB",
+      "to": "JNB",
+      "mode": "flight",
+      "duration": "~1h45",
+      "detail": "Airlink, midday"
+    },
+    {
+      "date": "2027-01-11",
+      "from": "JNB",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~10h",
+      "detail": "Turkish evening flight, lands Jan 12 early morning (confirm times)"
+    },
+    {
+      "date": "2027-01-15",
+      "from": "IST",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~13h45",
+      "detail": "TK9 14:30 → LAX 18:15 same day"
+    }
+  ],
+  "stays": [
+    {
+      "place": "MUB",
+      "from": "2026-12-28",
+      "nights": 1,
+      "label": "Maun"
+    },
+    {
+      "place": "NXP",
+      "from": "2026-12-29",
+      "nights": 2,
+      "label": "Nxai Pan"
+    },
+    {
+      "place": "KHU",
+      "from": "2026-12-31",
+      "nights": 1,
+      "label": "Khumaga"
+    },
+    {
+      "place": "DEC",
+      "from": "2027-01-01",
+      "nights": 3,
+      "label": "Deception Valley"
+    },
+    {
+      "place": "PIP",
+      "from": "2027-01-04",
+      "nights": 2,
+      "label": "Piper Pan"
+    },
+    {
+      "place": "MUB",
+      "from": "2027-01-06",
+      "nights": 1,
+      "label": "Maun"
+    },
+    {
+      "place": "XAK",
+      "from": "2027-01-07",
+      "nights": 1,
+      "label": "Xakanaxa"
+    },
+    {
+      "place": "KHW",
+      "from": "2027-01-08",
+      "nights": 2,
+      "label": "Khwai"
+    },
+    {
+      "place": "MUB",
+      "from": "2027-01-10",
+      "nights": 1,
+      "label": "Maun"
+    },
+    {
+      "place": "IST",
+      "from": "2027-01-12",
+      "nights": 3,
+      "label": "Istanbul"
+    }
+  ],
+  "fatigue_check": "Hardest stretch: the outbound, two overnight flights (LAX → Istanbul → Johannesburg), then Airlink to Maun and the vehicle handover on Dec 28.\nJan 6, ~6–7h from Piper Pan to Maun on sand and tar; Jan 7, ~4h Maun → Xakanaxa.\nJan 11: return the 4x4, Maun → Johannesburg → overnight to Istanbul; Jan 12 is a slow day.\nZero-transfer days: Dec 30, Jan 2–3, Jan 5, Jan 9, Jan 13–14.",
+  "hero_photo": "Central_Kalahari_Game_Reserve",
+  "photos": {
+    "NXP": {
+      "name": "Nxai Pan",
+      "wiki": [
+        "Nxai_Pan_National_Park",
+        "Cheetah",
+        "Springbok"
+      ]
+    },
+    "DEC": {
+      "name": "Central Kalahari",
+      "wiki": [
+        "Central_Kalahari_Game_Reserve",
+        "Lion",
+        "Gemsbok"
+      ]
+    },
+    "XAK": {
+      "name": "Moremi",
+      "wiki": [
+        "Moremi_Game_Reserve",
+        "Hippopotamus"
+      ]
+    },
+    "KHW": {
+      "name": "Khwai",
+      "wiki": [
+        "Leopard",
+        "African_wild_dog",
+        "African_bush_elephant"
+      ]
+    },
+    "IST": {
+      "name": "Istanbul",
+      "wiki": [
+        "Istanbul",
+        "Hagia_Sophia",
+        "Basilica_Cistern",
+        "Bosphorus"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Lion",
+      "wiki": "Lion",
+      "where": "Deception Valley, Piper Pan, Nxai Pan, Khwai",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Cheetah",
+      "wiki": "Cheetah",
+      "where": "Nxai Pan, CKGR pans",
+      "odds": "Likely"
+    },
+    {
+      "name": "Leopard",
+      "wiki": "Leopard",
+      "where": "Khwai, Moremi",
+      "odds": "Likely"
+    },
+    {
+      "name": "African wild dog",
+      "wiki": "African_wild_dog",
+      "where": "Khwai, Moremi",
+      "odds": "Possible"
+    },
+    {
+      "name": "Brown hyena",
+      "wiki": "Brown_hyena",
+      "where": "CKGR, Nxai Pan at dawn and dusk",
+      "odds": "Possible"
+    },
+    {
+      "name": "Caracal and African wildcat",
+      "wiki": "Caracal",
+      "where": "CKGR",
+      "odds": "Possible"
+    },
+    {
+      "name": "Bat-eared fox",
+      "wiki": "Bat-eared_fox",
+      "where": "CKGR, Nxai Pan",
+      "odds": "Likely"
+    },
+    {
+      "name": "African bush elephant",
+      "wiki": "African_bush_elephant",
+      "where": "Nxai Pan waterhole, Boteti, Khwai",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "where": "Khwai Hippo Pools, Xakanaxa, Boteti",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Springbok and gemsbok herds",
+      "wiki": "Springbok",
+      "where": "Deception Valley, Nxai Pan",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Plains zebra",
+      "wiki": "Plains_zebra",
+      "where": "Nxai Pan and Makgadikgadi (green-season migration)",
+      "odds": "Likely"
+    },
+    {
+      "name": "Chacma baboon and vervet monkey",
+      "wiki": "Chacma_baboon",
+      "where": "Moremi, Khwai",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "African bullfrog",
+      "wiki": "African_bullfrog",
+      "where": "Rain pools on the pans after storms",
+      "odds": "Possible"
+    },
+    {
+      "name": "Puff adder",
+      "wiki": "Puff_adder",
+      "where": "Sand tracks",
+      "odds": "Possible"
+    },
+    {
+      "name": "Leopard tortoise",
+      "wiki": "Leopard_tortoise",
+      "where": "Kalahari tracks in the rains",
+      "odds": "Likely"
+    },
+    {
+      "name": "Nile crocodile",
+      "wiki": "Nile_crocodile",
+      "where": "Xakanaxa lagoons, Khwai River",
+      "odds": "Likely"
+    },
+    {
+      "name": "Great white shark",
+      "wiki": "Great_white_shark",
+      "where": "Mossel Bay (shark-dive option)",
+      "odds": "Possible (fewer in summer)"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Botswana",
+      "country": "Botswana"
+    },
+    "budget_target": {
+      "low": 4500,
+      "high": 5000
+    },
+    "currency": "USD"
+  },
+  "scores": {
+    "scale": "1–5, for late December and early January. Crowds: 1 = you rarely see another vehicle, 5 = queues of vehicles at sightings (lower is better). Wildlife numbers: how many animals you see. Wildlife diversity: how many different kinds. These are judgments from how each place works in this season, not counts.",
+    "overall": {
+      "crowds": 1.5,
+      "numbers": 4,
+      "diversity": 4,
+      "note": "The emptiest of the four by far, and the cheapest. You'll see a smaller share of the cats that are there, because nobody is tracking them for you."
+    },
+    "sites": [
+      {
+        "name": "Nxai Pan",
+        "nights": 2,
+        "crowds": 1,
+        "numbers": 4,
+        "diversity": 3,
+        "note": "A handful of vehicles at the main waterhole at most. In the rains zebra, springbok and wildebeest pour onto the grassland, and lions and cheetah follow; elephant bulls at the waterhole."
+      },
+      {
+        "name": "Makgadikgadi (Khumaga)",
+        "nights": 1,
+        "crowds": 1,
+        "numbers": 3,
+        "diversity": 3,
+        "note": "Very quiet. Hippos and elephants on the Boteti; most zebra move out onto the pans in the rains, so fewer herds than in the dry season."
+      },
+      {
+        "name": "Central Kalahari: Deception Valley",
+        "nights": 3,
+        "crowds": 1,
+        "numbers": 4,
+        "diversity": 3,
+        "note": "Often no other vehicle at your pan. Thousands of springbok and gemsbok on the green valleys, with giraffe, lions, cheetah and bat-eared foxes. Desert species only: no hippos, few elephants."
+      },
+      {
+        "name": "Central Kalahari: Piper Pan",
+        "nights": 2,
+        "crowds": 1,
+        "numbers": 3,
+        "diversity": 3,
+        "note": "The remotest nights of the trip. Gemsbok and springbok, lions at the waterhole, brown hyena possible."
+      },
+      {
+        "name": "Moremi (Xakanaxa)",
+        "nights": 1,
+        "crowds": 2,
+        "numbers": 3,
+        "diversity": 5,
+        "note": "Low season, but the Delta's best-known self-drive camp. Wet-season game is spread out, but the habitat mix is the richest on the trip: hippos, crocodiles, lechwe, elephants, lion, leopard, wild dog."
+      },
+      {
+        "name": "Khwai",
+        "nights": 2,
+        "crowds": 3,
+        "numbers": 4,
+        "diversity": 5,
+        "note": "South African school holidays run into mid-January, and Khwai is a favourite of self-drivers and lodge vehicles, which bunch up at leopard and wild dog sightings. Excellent for elephants, hippos and cats."
+      },
+      {
+        "name": "Istanbul",
+        "nights": 3,
+        "crowds": 3,
+        "numbers": null,
+        "diversity": null,
+        "note": "Mid-January is after the New Year rush: busy at the big sights, but far calmer than the holiday weeks."
+      }
+    ],
+    "pros": [
+      "Emptiest by far: whole pans to yourselves in the Kalahari.",
+      "The Kalahari's green season (big springbok and gemsbok herds, lions and cheetah on open ground) happens only now.",
+      "Cheapest of the four (~$5,225), and you set the pace.",
+      "Two very different halves: desert pans, then the Okavango's rivers."
+    ],
+    "cons": [
+      "You drive, navigate, camp and cook; long sand and mud days, and the risk of getting stuck alone.",
+      "No guide: fewer cat sightings (leopards especially), and no night drives except a guided one in Khwai.",
+      "Basic or no facilities at the Kalahari and Khwai sites; carry all water.",
+      "Hot (32–38 °C) with thunderstorms."
+    ]
+  }
+}
