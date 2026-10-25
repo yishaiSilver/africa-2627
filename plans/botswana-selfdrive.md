@@ -1,21 +1,22 @@
-# Botswana self-drive and South Africa: Nxai Pan, the Central Kalahari, Moremi, Khwai and a Mossel Bay shark dive
+# Botswana self-drive: Nxai Pan, the Central Kalahari, Moremi and Khwai, then Istanbul
 
 > Live, interactive version with feedback: https://yishaisilver.github.io/africa-2627/?trip=botswana-selfdrive
 
-**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-15 · **Planned cost:** $5,400 per person
+**Depart LAX:** 2026-12-26 · **Return LAX:** 2027-01-15 · **Planned cost:** $5,225 per person
 
 ## Overview
 
-- **What this is:** a camping self-drive through Botswana in the green season, which suits the Kalahari best: the pans and valleys turn green, springbok, gemsbok and zebra gather on them, and the **lions and cheetahs** follow. Then **Moremi and Khwai** on the edge of the Okavango for leopards, wild dogs, hippos and elephants, a **great white shark cage dive** in South Africa, and **3 nights in Istanbul** on the way home.
-- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 17 nights on the ground: 2 Maun, **9 camping in parks**, 1 Cape Town, 2 Mossel Bay, 3 Istanbul, plus 3 on planes.
-- **Route:** ✈ via Istanbul and Johannesburg to Maun 1n → **Nxai Pan 2n** → **Makgadikgadi (Khumaga) 1n** → **CKGR: Deception Valley 3n** → Maun 1n (refuel) → **Moremi (Xakanaxa) 1n** → **Khwai 2n** → ✈ Cape Town 1n → ✈ George → **Mossel Bay 2n** (shark dive + a spare morning) → ✈ Johannesburg → ✈ **Istanbul 3n** → home.
+- **What this is:** a camping self-drive through Botswana in the green season, which suits the Kalahari best. The pans and valleys turn green, springbok, gemsbok and zebra gather on them, and the **lions and cheetahs** follow. Then a few nights in **Moremi and Khwai** on the edge of the Okavango for leopards, wild dogs, hippos and elephants, and **3 nights in Istanbul** on the way home.
+- **Dates:** LAX Sat Dec 26 → LAX Fri Jan 15. 17 nights on the ground: 3 Maun, **11 camping in parks**, 3 Istanbul, plus 3 on planes.
+- **Route:** ✈ via Istanbul and Johannesburg to Maun 1n → **Nxai Pan 2n** → **Makgadikgadi (Khumaga) 1n** → **CKGR: Deception Valley 3n, Piper Pan 2n** → Maun 1n (refuel) → **Moremi (Xakanaxa) 1n** → **Khwai 2n** → Maun 1n → ✈ Johannesburg → ✈ **Istanbul 3n** → home.
 - **Cats:** Kalahari black-maned lions and cheetah on the open pans of Deception and Nxai, with brown hyena, caracal, bat-eared fox and honey badger possible. Leopard and wild dog are best in Khwai and Moremi.
 - **Hippos and elephants:** hippo pools at Khwai and Xakanaxa and on the Boteti; elephant bulls at the Nxai Pan waterhole and herds along the Khwai.
-- **Great whites:** Mossel Bay's Seal Island has been South Africa's most consistent great white site lately; Gansbaai's whites became sporadic after orcas moved in. Summer is the weaker season and sightings aren't guaranteed, so the plan has a spare morning for a second try.
 - **Herps:** the rains bring out giant bullfrogs, plus puff adders, leopard tortoises, monitors and Nile crocodiles in the Okavango channels.
-- **The catch:** you drive, cook and navigate yourselves in Botswana, on sand and black-clay mud after rain, with no fuel inside the parks. Self-drive isn't allowed after dark in the parks; carry the rental company's satellite communicator.
-- **Istanbul at the end, not the start:** one Turkish ticket covers the long-haul, with the Stopover's 2 free hotel nights on the way home. You arrive in Botswana fresh, and the city is a slow wind-down after 9 nights of camping.
-- **Budget: ~$5,400 pp** (≈ $10,800 for two), ~$285 more than ending the trip in South Africa: Istanbul's food, sights and one paid hotel night, less the Johannesburg hotel night that the Turkish routing makes unnecessary.
+- **Crowds:** almost none. Green season is Botswana's quietest time, and the CKGR may have no other vehicles at your pan.
+- **The catch:** you drive, cook and navigate yourselves, on sand and black-clay mud after rain, with no fuel inside the parks. Self-drive isn't allowed after dark in the parks, so night drives only happen with a Khwai community guide (option). Carry the rental company's satellite communicator.
+- **Istanbul at the end:** one Turkish ticket covers the long-haul, with the Stopover's 2 free hotel nights on the way home. You arrive in Botswana fresh, and the city is a slow wind-down after 11 nights of camping.
+- **Shark dive (option, +$175):** swap the 2 Piper Pan nights for Cape Town and Mossel Bay, with a great white cage dive and a spare morning. January is the weaker great white season.
+- **Budget: ~$5,225 pp** (≈ $10,450 for two). The vehicle is ~$1,225 pp and flights ~$2,130.
 
 
 ## Travel legs
@@ -28,15 +29,12 @@
 | 2026-12-29 | Maun → Nxai Pan | road | ~3h | Tar, then 35 km of deep sand |
 | 2026-12-31 | Nxai Pan → Khumaga (Makgadikgadi) | road | ~2.5–3h | Back to the tar, then south to the Boteti |
 | 2027-01-01 | Khumaga (Makgadikgadi) → Deception Valley (CKGR) | road | ~3h | Via Rakops (fuel) and Matswere gate |
-| 2027-01-04 | Deception Valley (CKGR) → Maun | road | ~4.5–5h | Matswere gate, Rakops, tar to Maun |
-| 2027-01-05 | Maun → Xakanaxa (Moremi) | road | ~4h | Via South Gate |
-| 2027-01-06 | Xakanaxa (Moremi) → Khwai | road | ~1.5–2h | Via North Gate |
-| 2027-01-08 | Khwai → Maun | road | ~3h | Dawn start; return the 4x4 by ~10:30 |
-| 2027-01-08 | Maun → Cape Town | flight | ~2.5h | Airlink 13:50 → ~16:20 |
-| 2027-01-09 | Cape Town → George airport | flight | ~1h | FlySafair or Airlink, morning |
-| 2027-01-09 | George airport → Mossel Bay | road | ~45m | Rental car |
-| 2027-01-11 | Mossel Bay → George airport | road | ~45m | Return the car |
-| 2027-01-11 | George airport → Johannesburg (OR Tambo) | flight | ~2h | Afternoon |
+| 2027-01-04 | Deception Valley (CKGR) → Piper Pan (CKGR) | road | ~2.5–3h | Sand tracks via Letiahau |
+| 2027-01-06 | Piper Pan (CKGR) → Maun | road | ~6–7h | Matswere gate, Rakops, tar to Maun |
+| 2027-01-07 | Maun → Xakanaxa (Moremi) | road | ~4h | Via South Gate |
+| 2027-01-08 | Xakanaxa (Moremi) → Khwai | road | ~1.5–2h | Via North Gate |
+| 2027-01-10 | Khwai → Maun | road | ~3h | Via Shorobe |
+| 2027-01-11 | Maun → Johannesburg (OR Tambo) | flight | ~1h45 | Airlink, midday |
 | 2027-01-11 | Johannesburg (OR Tambo) → Istanbul | flight | ~10h | Turkish evening flight, lands Jan 12 early morning (confirm times) |
 | 2027-01-15 | Istanbul → Los Angeles (LAX) | flight | ~13h45 | TK9 14:30 → LAX 18:15 same day |
 
@@ -49,25 +47,25 @@
 | Nxai Pan | 2 | 1/5 | 4/5 | 3/5 | A handful of vehicles at the main waterhole at most. In the rains zebra, springbok and wildebeest pour onto the grassland, and lions and cheetah follow; elephant bulls at the waterhole. |
 | Makgadikgadi (Khumaga) | 1 | 1/5 | 3/5 | 3/5 | Very quiet. Hippos and elephants on the Boteti; most zebra move out onto the pans in the rains, so fewer herds than in the dry season. |
 | Central Kalahari: Deception Valley | 3 | 1/5 | 4/5 | 3/5 | Often no other vehicle at your pan. Thousands of springbok and gemsbok on the green valleys, with giraffe, lions, cheetah and bat-eared foxes. Desert species only: no hippos, few elephants. |
+| Central Kalahari: Piper Pan | 2 | 1/5 | 3/5 | 3/5 | The remotest nights of the trip. Gemsbok and springbok, lions at the waterhole, brown hyena possible. |
 | Moremi (Xakanaxa) | 1 | 2/5 | 3/5 | 5/5 | Low season, but the Delta's best-known self-drive camp. Wet-season game is spread out, but the habitat mix is the richest on the trip: hippos, crocodiles, lechwe, elephants, lion, leopard, wild dog. |
 | Khwai | 2 | 3/5 | 4/5 | 5/5 | South African school holidays run into mid-January, and Khwai is a favourite of self-drivers and lodge vehicles, which bunch up at leopard and wild dog sightings. Excellent for elephants, hippos and cats. |
-| Mossel Bay (shark dive) | 2 | 3/5 | 3/5 | 2/5 | A few operators' boats share Seal Island, but you're in the water with the sharks. Thousands of Cape fur seals; great whites possible (fewer in summer), bronze whalers likely, dolphins on the boat ride. |
 | Istanbul | 3 | 3/5 | — | — | Mid-January is after the New Year rush: busy at the big sights, but far calmer than the holiday weeks. |
-| **Whole trip** | | 1.5/5 | 4/5 | 4/5 | The emptiest of the four in Botswana, then a busier, very different finish at sea. You'll see a smaller share of the cats in Botswana, because nobody is tracking them for you. |
+| **Whole trip** | | 1.5/5 | 4/5 | 4/5 | The emptiest of the four by far, and the cheapest. You'll see a smaller share of the cats that are there, because nobody is tracking them for you. |
 
 **Pros**
 
 - Emptiest by far: whole pans to yourselves in the Kalahari.
 - The Kalahari's green season (big springbok and gemsbok herds, lions and cheetah on open ground) happens only now.
-- Three very different parts: desert pans, the Okavango's rivers, and great whites at sea.
-- Still the cheapest of the four (~$5,400), and you set the pace in Botswana.
+- Cheapest of the four (~$5,225), and you set the pace.
+- Two very different halves: desert pans, then the Okavango's rivers.
 
 **Cons**
 
 - You drive, navigate, camp and cook; long sand and mud days, and the risk of getting stuck alone.
 - No guide: fewer cat sightings (leopards especially), and no night drives except a guided one in Khwai.
-- Great whites aren't guaranteed in January, and the South Africa leg adds three flights.
-- Basic or no facilities at the Kalahari and Khwai sites; hot (32–38 °C) with thunderstorms.
+- Basic or no facilities at the Kalahari and Khwai sites; carry all water.
+- Hot (32–38 °C) with thunderstorms.
 
 ## Itinerary
 
@@ -125,53 +123,53 @@ Zero transfer. Another full day on the Deception–Sunday–Leopard Pan loops, t
 
 *Overnight:* Deception Valley campsite (CKGR) · *Meals:* Self-catering
 
-### Mon Jan 04 — Out of the Kalahari to Maun (Deception Valley → Maun)
+### Mon Jan 04 — South to Piper Pan (Deception Valley → Piper Pan)
 
-Last dawn drive along Deception Valley, then north to Matswere gate, Rakops (fuel) and the tar to Maun (~4.5–5h). Shower, laundry, refuel, restock food and water.
+~2.5–3h south via Letiahau to Piper Pan, driving slowly for cheetah, gemsbok and springbok herds. Piper's waterhole draws lions; camp under the acacias.
+
+*Overnight:* Piper Pan campsite (CKGR) · *Meals:* Self-catering
+
+### Tue Jan 05 — Piper and Letiahau (CKGR: Piper Pan)
+
+Zero transfer. Piper Pan and the Letiahau waterhole: lions, gemsbok, possible brown hyena and caracal at dawn and dusk. The remotest night of the trip.
+
+*Overnight:* Piper Pan campsite (CKGR) · *Meals:* Self-catering
+
+### Wed Jan 06 — Long drive back to Maun (Piper Pan → Maun)
+
+The long day: north through the reserve to Matswere gate, Rakops, then tar to Maun (~6–7h). Shower, laundry, refuel, restock food and water.
 
 *Overnight:* Lodge in Maun · *Meals:* Self-catering; D own
 
-### Tue Jan 05 — Into the Okavango side (Maun → Moremi (Xakanaxa))
+### Thu Jan 07 — Into the Okavango side (Maun → Moremi (Xakanaxa))
 
 ~2h to Moremi's South Gate, then ~2h through mopane woodland and floodplain to Xakanaxa. Afternoon drive on the lagoons: hippos, crocodiles, red lechwe, elephants, and lion and leopard in the area. Tracks can be flooded after heavy rain; check at South Gate.
 
 *Overnight:* Xakanaxa campsite, Moremi · *Meals:* Self-catering
 
-### Wed Jan 06 — Dawn drive, then Khwai (Xakanaxa → Khwai)
+### Fri Jan 08 — Dawn drive, then Khwai (Xakanaxa → Khwai)
 
 Dawn drive around Xakanaxa and Dombo hippo pools, then ~1.5–2h east to North Gate and over the bridge into the Khwai community area. Afternoon along the Khwai River: elephants, hippos, leopard, wild dog den areas.
 
 *Overnight:* Khwai community campsite · *Meals:* Self-catering
 
-### Thu Jan 07 — Khwai: leopards and wild dogs (Khwai)
+### Sat Jan 09 — Khwai: leopards and wild dogs (Khwai)
 
 Zero transfer. Dawn and afternoon along the Khwai River and Hippo Pools. Khwai is a community concession, so off-road driving and night drives are allowed, but only with a Khwai guide: book one for the evening (option).
 
 *Overnight:* Khwai community campsite · *Meals:* Self-catering
 
-### Fri Jan 08 — Back to Maun, fly to Cape Town (Khwai → Maun → Cape Town)
+### Sun Jan 10 — Back to Maun (Khwai → Maun)
 
-Leave Khwai at first light (~3h via Shorobe), return the 4x4 by ~10:30, then Airlink Maun → Cape Town (13:50 → ~16:20, daily). Evening at the V&A Waterfront; hotel near the city or the airport.
+Last dawn drive on the Khwai, then ~3h back to Maun via Shorobe. Clean out and repack the vehicle; return it tomorrow morning.
 
-*Overnight:* Hotel in Cape Town · *Meals:* Self-catering; D own
+*Overnight:* Lodge in Maun · *Meals:* Self-catering; D own
 
-### Sat Jan 09 — Fly to George, drive to Mossel Bay (Cape Town → George → Mossel Bay)
+### Mon Jan 11 — Return the 4x4, fly to Istanbul (Maun → Johannesburg → in flight)
 
-Morning flight Cape Town → George (~1h, FlySafair or Airlink). Pick up a small rental car; ~45 min west to Mossel Bay. Afternoon on the St Blaize cliff trail above the bay (dolphins, seabirds, sometimes whales offshore). Confirm tomorrow's boat time with the operator.
+Return the vehicle by 09:00. Midday Airlink to Johannesburg (~1h45), then Turkish's evening flight to Istanbul (older schedules show ~19:45 → ~06:00; confirm). Leave 3h+ between the two.
 
-*Overnight:* Guesthouse in Mossel Bay · *Meals:* B hotel; L, D own
-
-### Sun Jan 10 — Great white shark cage dive (Mossel Bay)
-
-Morning boat from Mossel Bay harbour, ~10 min out to Seal Island (~4h trip). Breath-hold viewing from a surface cage with a wetsuit and mask; no scuba qualification needed. Great whites patrol the Cape fur seal colony; bronze whaler sharks are common too. Sightings aren't guaranteed, and summer has fewer whites than winter (May–August): ask the operator for its recent record and its policy on a repeat trip if no whites show. Afternoon free.
-
-*Overnight:* Guesthouse in Mossel Bay · *Meals:* B; L, D own
-
-### Mon Jan 11 — Spare dive morning, fly to Istanbul (Mossel Bay → George → Johannesburg → in flight)
-
-Spare morning: if wind or swell cancelled yesterday's boat, this is the second chance. Otherwise a slow breakfast on the point. Drive to George airport, return the car, afternoon flight to Johannesburg (~2h), then Turkish's evening flight to Istanbul (older schedules show ~19:45 → ~06:00; confirm).
-
-*Overnight:* Plane · *Meals:* B; in-flight
+*Overnight:* Plane · *Meals:* B hotel; in-flight
 
 ### Tue Jan 12 — Land in Istanbul, slow first day (in flight → Istanbul)
 
@@ -201,14 +199,13 @@ Free morning (Süleymaniye Mosque, or coffee by the Galata Bridge). Leave for th
 
 | Property | Where | Nights | $/pp/night | Includes |
 |---|---|---|---|---|
-| Lodge in Maun | Maun, on the Thamalakane River | 2 | $45 | ~$90/room B&B. Dec 28 and Jan 4. |
+| Lodge in Maun | Maun, on the Thamalakane River | 3 | $45 | ~$90/room B&B. Dec 28, Jan 6 and Jan 10. |
 | Nxai Pan South Camp | Nxai Pan NP | 2 | $40 | Private site with ablution block; Xomae-run. |
 | Khumaga Camp, Makgadikgadi | Boteti River, Makgadikgadi NP | 1 | $40 | Ablution block. |
 | Deception Valley campsite (CKGR) | Deception Valley, Central Kalahari | 3 | $10 | DWNP-run; bucket shower and long-drop at best. Bring all water. |
+| Piper Pan campsite (CKGR) | Piper Pan, Central Kalahari | 2 | $26 | Privately managed (Bigfoot); ~P350 pp for internationals. |
 | Xakanaxa campsite, Moremi | Xakanaxa, Moremi Game Reserve | 1 | $47 | Kwalate-run, ~P571 pp plus the DWNP camping fee P60. |
 | Khwai community campsite | Khwai Development Trust area | 2 | $45 | Unfenced riverside sites. |
-| Hotel in Cape Town | Cape Town (city or near the airport) | 1 | $50 | ~$100/room. Jan 8, between the Maun flight and the George flight. |
-| Guesthouse in Mossel Bay | Mossel Bay, near the harbour | 2 | $45 | ~$90/room B&B. Jan 9–10. |
 | Istanbul hotel (TK Stopover, 2 nights free) | Sultanahmet, Istanbul | 3 | $20 | Room and breakfast. Turkish gives US-origin economy passengers two free hotel nights, once per ticket, when they stop in Istanbul; only the third night is paid. |
 
 ## Budget (per person, USD)
@@ -216,28 +213,23 @@ Free morning (Süleymaniye Mosque, or coffee by the Galata Bridge). Leave for th
 | Category | Item | Planned | Range | Notes |
 |---|---|---|---|---|
 | International flights | Turkish LAX → Istanbul → Johannesburg (Dec 26), Johannesburg → Istanbul (Jan 11), Istanbul → LAX (Jan 15) | $1,700 | $1,350–$2,300 | One Turkish ticket with a stopover in Istanbul on the way home (estimate; Christmas fares run high). Avoid the N and R fare classes, which don't get the free Stopover hotel. |
-| Regional flights | Airlink JNB → Maun (Dec 28), Maun → Cape Town (Jan 8); Cape Town → George (Jan 9); George → JNB (Jan 11) | $575 | $400–$800 | Estimates: JNB–Maun ~$215 one way, Maun–Cape Town ~$230 (daily, 13:50 → 16:20), Cape Town–George ~$45–60 (R816 seen), George–JNB ~$70. Book JNB–Maun and the long-haul on one ticket if you can. Book JNB → Maun with 3h+ after the Turkish arrival. |
-| Vehicle | Fully equipped 4x4 camper, Maun, Dec 28 – Jan 8 (11 days) | $965 | $700–$1,250 | ~$175/day average for a Hilux double cab with rooftop tent, fridge, kitchen and recovery kit; Dec 20 – Jan 6 is charged at high season by most firms. Split two ways. Get the zero-excess waiver and the satellite communicator. |
-| Fuel | ~1,600 km of diesel | $130 | $100–$200 | ~13–15 L/100 km in sand; fill up at Maun and Rakops. No fuel in the parks. |
-| Park fees | Nxai Pan, Makgadikgadi, CKGR 7 days; Moremi 2 days; vehicle fees | $140 | $110–$220 | P190 (~$14) pp/day at Nxai, Makgadikgadi and CKGR; P270 (~$20) at Moremi. The proposed 2026 increase to P500 was postponed in March 2026; check again before booking. |
-| Campsites | 9 nights: Nxai 2, Khumaga 1, Deception 3, Xakanaxa 1, Khwai 2 | $290 | $210–$450 | Privately run sites ~$40–45 pp, DWNP sites much less. Book all of them before collecting the vehicle; rangers check bookings at the gate. |
-| Lodging | Cape Town hotel, 1 night (Jan 8) | $50 | $40–$100 |  |
-| Lodging | Mossel Bay guesthouse, 2 nights (Jan 9–10) | $90 | $60–$150 |  |
-| Istanbul | Hotel: 2 nights free via TK Stopover, 1 paid | $60 | $0–$240 | Apply at least 72h before the flight. US-origin economy, once per ticket. |
-| Lodging | Maun lodge, 2 nights | $90 | $60–$170 |  |
-| Meals | Groceries and Maun restaurants, 12 days | $240 | $180–$330 | Self-catering in the parks; Maun supermarkets are well stocked. |
-| Meals | Cape Town and Mossel Bay, 3 days | $90 | $60–$140 |  |
-| Istanbul | Food, 3 days | $120 | $90–$200 | ~$40 pp/day. |
-| Istanbul | Sights: Hagia Sophia, Basilica Cistern, Topkapı (palace only) | $105 | $90–$160 |  |
-| Istanbul | Airport transfers ×2 and Istanbulkart | $30 | $20–$60 |  |
-| Activities | Great white shark cage dive, Mossel Bay (Jan 10) | $240 | $200–$280 | Apex Shark Expeditions lists R4,200 for 2027 adults + R150 conservation fee (~$240). Breath-hold surface cage, wetsuit supplied. Ask about a repeat trip if no whites show. |
-| Transport | Rental car at George, 2 days, plus fuel | $45 | $30–$80 | Small car, split two ways; Mossel Bay is ~45 min from George airport. |
+| Regional flights | Airlink Johannesburg ⇄ Maun (Dec 28, Jan 11) | $430 | $350–$550 | ~$420–450 return. Leave 3h+ after the Turkish arrival on Dec 28 and before the Turkish departure on Jan 11. |
+| Vehicle | Fully equipped 4x4 camper, Maun, Dec 28 – Jan 11 (14 days) | $1,225 | $900–$1,600 | ~$175/day average for a Hilux double cab with rooftop tent, fridge, kitchen and recovery kit; Dec 20 – Jan 6 is charged at high season by most firms. Split two ways. Get the zero-excess waiver and the satellite communicator. |
+| Fuel | ~2,000 km of diesel | $160 | $120–$250 | ~13–15 L/100 km in sand; fill up at Maun and Rakops. No fuel in the parks. |
+| Park fees | Nxai Pan, Makgadikgadi, CKGR 8 days; Moremi 2 days; vehicle fees | $170 | $130–$260 | P190 (~$14) pp/day at Nxai, Makgadikgadi and CKGR; P270 (~$20) at Moremi. The proposed 2026 increase to P500 was postponed in March 2026; check again before booking. |
+| Campsites | 11 nights: Nxai 2, Khumaga 1, Deception 3, Piper 2, Xakanaxa 1, Khwai 2 | $350 | $250–$550 | Privately run sites ~$40–45 pp, DWNP sites much less. Book all of them before collecting the vehicle; rangers check bookings at the gate. |
+| Lodging | Maun lodge, 3 nights | $135 | $90–$250 |  |
+| Meals | Groceries and Maun restaurants, 15 days | $300 | $220–$400 | Self-catering in the parks; Maun supermarkets are well stocked. |
 | Admin | Botswana Tourism Development Levy | $30 | $30–$50 | $30 online for non-SADC visitors. No visa needed for US citizens. |
 | Health and insurance | Travel medical + evacuation plan (no trip cancellation) | $100 | $60–$250 | Make sure it covers self-drive and air evacuation from remote areas. |
 | Health and insurance | Malaria prophylaxis and travel clinic | $100 | $50–$200 | Moremi, Khwai and the Okavango are malarial in the rains; the Kalahari is lower risk. |
 | Admin | SIM, firewood, sundries | $60 | $30–$100 |  |
+| Istanbul | Hotel: 2 nights free via TK Stopover, 1 paid | $60 | $0–$240 | Apply at least 72h before the flight. US-origin economy, once per ticket. |
+| Istanbul | Food, 3 days | $120 | $90–$200 | ~$40 pp/day. |
+| Istanbul | Sights: Hagia Sophia, Basilica Cistern, Topkapı (palace only) | $105 | $90–$160 |  |
+| Istanbul | Airport transfers ×2 and Istanbulkart | $30 | $20–$60 |  |
 | Contingency | Held until the vehicle and campsites are confirmed | $150 | $0–$300 | Recovery costs if you get stuck, an extra Maun night if a road floods. |
-| **Total** | | **$5,400** | | ≈ $10,800 for two |
+| **Total** | | **$5,225** | | ≈ $10,450 for two |
 
 ## Options & swaps
 
@@ -245,25 +237,23 @@ Free morning (Süleymaniye Mosque, or coffee by the Galata Bridge). Leave for th
 - **Boat trip from Mboma or Xakanaxa** (+$60 pp): 2 hours on the Okavango channels: hippos up close, crocodiles, sitatunga, birds.
 - **Okavango scenic flight from Maun** (+$150 pp): 45–60 min over the Delta in a small plane; elephants, hippos and buffalo from the air.
 - **Guided mobile camping safari instead of self-drive** (+$3,500 pp): Same route with a guide, cook and their vehicle. No driving, and night drives in Khwai, but well over budget.
-- **Keep Piper Pan instead of the shark dive** (−$175 pp): 2 more Kalahari nights at Piper Pan instead of the South Africa stop: fly Maun → Johannesburg on Jan 10 and on to Istanbul.
-- **Gansbaai instead of Mossel Bay** (−$60 pp): 2h from Cape Town, so no George flights. But great whites have become sporadic there since orcas moved in, and summer is the weakest season; most trips now see bronze whalers and sevengills instead.
-- **Skip Istanbul, home Jan 12** (−$285 pp): Fly Johannesburg → home on the evening of Jan 11 via Doha, Dubai or Atlanta, and keep the Johannesburg hotel night on the way out.
+- **Great white shark cage dive at Mossel Bay (instead of Piper Pan)** (+$175 pp): Drop the 2 Piper Pan nights: leave the Kalahari for Maun on Jan 4, Moremi Jan 5, Khwai Jan 6–7, then Airlink Maun → Cape Town on Jan 8 (daily, 13:50 → 16:20), fly to George on Jan 9 and stay 2 nights at Mossel Bay: the cage dive at Seal Island on Jan 10 (~R4,350 with the conservation fee, breath-hold surface cage, no scuba needed) and a spare morning on Jan 11 in case the sea cancels it. Then George → Johannesburg → Istanbul as planned. Mossel Bay rather than Gansbaai because Gansbaai's whites have been sporadic since orcas moved in. January is summer, the weaker season: sightings aren't guaranteed, so ask the operator for its recent record and its repeat-trip policy.
+- **Skip Istanbul, home Jan 12** (−$285 pp): Fly Johannesburg → home on the evening of Jan 11 via Doha, Dubai or Atlanta, with a Johannesburg hotel night on the way out instead of the second overnight flight.
 
 ## Booking timeline
 
-- **Now (Oct 24–31):** Price one Turkish ticket: LAX → Istanbul → Johannesburg on Dec 26, Johannesburg → Istanbul on Jan 11, Istanbul → LAX on Jan 15 (avoid N and R fares). Then Airlink JNB → Maun Dec 28 (3h+ after landing) and Maun → Cape Town Jan 8. Get quotes from 2–3 Maun 4x4 firms for Dec 28 – Jan 8 with zero-excess cover and a satellite communicator.
-- **By Nov 7:** Book the campsites: Nxai Pan South Camp and Khumaga (Xomae), Deception (DWNP), Xakanaxa (Kwalate), Khwai (Khwai Development Trust).
-- **By Nov 7:** Book the shark dive at Mossel Bay for Jan 10 (Apex Shark Expeditions or another operator); ask for their December–January great white record and whether a no-show earns a repeat trip on Jan 11.
-- **By Nov 15:** Book Cape Town → George (Jan 9), George → Johannesburg (Jan 11 afternoon), the George rental car, the Maun lodge (Dec 28, Jan 4), Cape Town (Jan 8) and Mossel Bay (Jan 9–10). Pay the Botswana Tourism Development Levy online.
+- **Now (Oct 24–31):** Price one Turkish ticket: LAX → Istanbul → Johannesburg on Dec 26, Johannesburg → Istanbul on Jan 11, Istanbul → LAX on Jan 15 (avoid N and R fares). Then Airlink Johannesburg ⇄ Maun on Dec 28 and Jan 11, with 3h+ on each side. Get quotes from 2–3 Maun 4x4 firms for Dec 28 – Jan 11 with zero-excess cover and a satellite communicator.
+- **By Nov 7:** Book every campsite: Nxai Pan South Camp and Khumaga (Xomae), Deception (DWNP), Piper Pan (Bigfoot), Xakanaxa (Kwalate), Khwai (Khwai Development Trust). Christmas–New Year is local holiday season and the sites are small.
+- **By Nov 15:** Book the Maun lodge (Dec 28, Jan 6, Jan 10). Pay the Tourism Development Levy online.
 - **≥72h before the flight:** Apply for the Turkish Stopover hotel (2 free nights in Istanbul, Jan 12–13).
 - **Mid-Nov:** Travel clinic: malaria prophylaxis, routine vaccines, typhoid, hepatitis A.
-- **Dec 15–22:** Check rainfall and road notes for the CKGR, Nxai Pan and Moremi; download offline maps; reconfirm the Airlink flights and the shark boat.
+- **Dec 15–22:** Check rainfall reports and road notes for the CKGR, Nxai Pan and Moremi (Tracks4Africa, the rental firm). Download offline maps.
 
 ## Practical
 
 ## Entry
 - **Botswana:** no visa for US citizens (up to 90 days). Pay the $30 Tourism Development Levy online beforehand. Passport valid 6+ months with 2 blank pages.
-- **South Africa:** visa-free for US citizens (90 days); you enter twice (Dec 27 and Jan 8). Keep 2 blank pages for South Africa's stamps.
+- **South Africa (transit):** visa-free for US citizens; you clear immigration at Johannesburg both ways for the Airlink connection.
 - **Türkiye:** visa-free for US citizens (90 days).
 - **Yellow fever:** not required arriving from the US or Istanbul.
 
@@ -288,21 +278,17 @@ Free morning (Süleymaniye Mosque, or coffee by the Galata Bridge). Leave for th
 - Check travel.state.gov for Botswana before booking.
 - Remote: the nearest hospital is in Maun. Evacuation cover is essential.
 
-## Shark dive
-- Breath-hold viewing from a surface cage, so there's no diving-then-flying problem the next day.
-- Seasickness: take a tablet before the boat if you're prone; the Atlantic swell off Mossel Bay can be lumpy.
-- Trips are weather-dependent and get cancelled in strong wind; Jan 11 morning is the backup.
-
 ## Istanbul in January
 - Cold and often wet (~4–9 °C): pack a warm layer and a rain jacket, which you'll want on Kalahari dawn drives anyway.
 
 
 ## Open questions
 
-1. Istanbul at the end (+$285, home Jan 15): worth the 3 extra days, or fly home from Johannesburg on Jan 11?
-2. Comfortable self-driving on sand and mud, in a rooftop tent, for 9 nights? The guided version is ~+$3,500 pp.
-3. Shark dive at Mossel Bay (+$175) in place of 2 Piper Pan nights: worth it, given summer is the weaker great white season?
-4. Add the Khwai night drive (+$50) and a boat trip (+$60)?
+1. Istanbul at the end (home Jan 15): worth the 3 extra days, or fly home from Johannesburg on Jan 11 (−$285)?
+2. Add the Mossel Bay shark dive in place of Piper Pan (+$175)?
+3. Comfortable self-driving on sand and mud, in a rooftop tent, for 11 nights? The guided version is ~+$3,500 pp.
+4. 5 nights in the CKGR (lions, cheetah, herds) vs more time at Khwai (leopards, wild dogs, hippos): this split, or shift a night to Khwai?
+5. Add the Khwai night drive (+$50) and a boat trip (+$60)? Both still fit under $5k.
 
 ## Sources
 
