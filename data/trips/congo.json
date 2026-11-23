@@ -1,0 +1,757 @@
+{
+  "id": "congo",
+  "label": "Republic of Congo: Lésio-Louna + Conkouati coast · Jan 12",
+  "title": "Republic of Congo: Lésio-Louna gorillas and hippos, Conkouati-Douli turtles and chimps",
+  "summary": "Loango-style trip without Gabon, under $6k: 4 nights at Lésio-Louna (released gorillas and hippos from the boat), 6 nights on Conkouati-Douli's lagoon and beaches (nesting leatherbacks, released chimps, forest elephants) and Tchimpounga. No diving. ~$5,860 pp.",
+  "overview": "- **What this is:** Congo's version of Loango on a $6k budget. **Conkouati-Douli** is the coastal park just south of the Gabon border: lagoons, beaches with nesting turtles, coastal forest with elephants and chimps, the closest landscape to Loango. **Lésio-Louna**, north of Brazzaville, is savanna and gallery forest on the Louna and Léfini rivers, with hippos and gorillas.\n- **Dates:** LAX Sat Dec 26 → LAX Tue Jan 12. 15 nights on the ground, 2 on planes. Same dates as the Tanzania and Kenya-minus-Kakamega trips.\n- **Route:** Brazzaville 1n → **Lésio-Louna 4n** → Brazzaville 1n → ✈ Pointe-Noire 1n → **Conkouati-Douli 6n** → Tchimpounga → Pointe-Noire 2n → home.\n- **Gorillas (a nice-to-have):** the ones you're likely to see are at Lésio-Louna, a population founded by released orphans (Aspinall Foundation) that now lives free and breeds in the wild; you see them from the boat. Conkouati has truly wild, unhabituated gorillas: signs are common, sightings are luck. Habituated or bai-watched wild gorillas mean Odzala, which doesn't fit $6k on these dates (see the options: Camp Imbalanga is closed Dec 16 – Jan 4, and Kamba runs ~$15k). The chimps are **released and orphaned** too (HELP Congo's on the Douli river, JGI's at Tchimpounga).\n- **Wildlife:** hippos near-certain on the Louna; gorillas likely from the boat; forest elephants possible at Conkouati (tracks and dung are certain, sightings aren't); monkeys at both parks. **Herps** are the strong suit: leatherbacks and olive ridleys nesting (Nov–Feb), dwarf crocodiles, monitors, chameleons and frogs on night walks.\n- **Diving / snorkelling:** **left out.** There's no dive operation to book on the Congo coast, and the Atlantic here is murky surf. The water time is boats on the Louna and the Conkouati lagoon, plus a swim in Lésio-Louna's clear Lac Bleu.\n- **Budget: ~$5,860 pp** (≈ $11,720 for two). Flights are $2,100 of it. Lésio-Louna and Conkouati are costed from operator listings, not confirmed quotes; the $300 contingency covers that. $0 for yellow fever if your card is still valid (it's lifelong), which takes the total to ~$5,610.\n",
+  "dates": {
+    "depart": "2026-12-26",
+    "return": "2027-01-12"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-26",
+      "day_label": "Day 1 – Sat",
+      "location": "Los Angeles → in flight",
+      "title": "Fly toward Brazzaville",
+      "details": "Air France LAX → Paris overnight, connecting to Brazzaville (BZV). Book it as an open jaw: into Brazzaville, home from Pointe-Noire. Carry the yellow fever card in your hand luggage; it's checked on arrival.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-27",
+      "day_label": "Day 2 – Sun",
+      "location": "in flight → Brazzaville",
+      "title": "Land in Brazzaville",
+      "details": "Land in the evening. Show the visa and yellow fever card; the hotel or the Lésio-Louna operator does the airport pickup. Brazzaville is UTC+1.",
+      "overnight": "Hotel in Brazzaville",
+      "meals": "In-flight; D hotel"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 3 – Mon",
+      "location": "Brazzaville → Lésio-Louna",
+      "title": "North to Lésio-Louna",
+      "details": "Operator's 4x4 north ~150 km (3–4h, the last stretch on sand tracks across the Batéké plateau) to the reserve camp at Iboubikro. Afternoon walk along the gallery forest; first evening on the Louna for hippos coming out to graze. In the rains the final track can be impassable after a storm; the operator decides on the day.",
+      "overnight": "Lésio-Louna camp (Iboubikro)",
+      "meals": "B hotel; L packed; D camp"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 4 – Tue",
+      "location": "Lésio-Louna Gorilla Reserve",
+      "title": "Boat to the gorillas",
+      "details": "Zero travel. Motorboat up the Louna with the reserve's keepers to the islands and banks where the released gorillas live; you watch from the boat. Hippos and crocodiles along the river. Afternoon swim in Lac Bleu, a clear blue lake in the reserve. Night walk around camp for frogs, geckos and nightjars.",
+      "overnight": "Lésio-Louna camp (Iboubikro)",
+      "meals": "B, L, D camp"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 5 – Wed",
+      "location": "Lésio-Louna Gorilla Reserve",
+      "title": "Léfini river and savanna",
+      "details": "Zero travel. Second boat trip, toward the Léfini side for more hippo pods and a second try for the gorillas. Savanna walk in the afternoon (monitor lizards, savanna birds, monkeys in the forest strips). Night walk with a torch along the river edge for crocodile eyeshine and frogs.",
+      "overnight": "Lésio-Louna camp (Iboubikro)",
+      "meals": "B, L, D camp"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 6 – Thu",
+      "location": "Lésio-Louna Gorilla Reserve",
+      "title": "Last boat morning, New Year's Eve in camp",
+      "details": "Zero travel. Dawn boat trip (best light, most hippo activity), a slow afternoon, a last swim at Lac Bleu. New Year's Eve in camp, away from Brazzaville's crowds.",
+      "overnight": "Lésio-Louna camp (Iboubikro)",
+      "meals": "B, L, D camp"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 7 – Fri",
+      "location": "Lésio-Louna → Brazzaville",
+      "title": "Back to Brazzaville",
+      "details": "Late morning drive back (~3–4h). Public holiday: the afternoon is for rest, or a taxi to the Djoué rapids on the Congo River at sunset. Night in Brazzaville because holiday flights are thin and the coast leg is easier from a morning flight.",
+      "overnight": "Hotel in Brazzaville",
+      "meals": "B camp; L, D own"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 8 – Sat",
+      "location": "Brazzaville → Pointe-Noire",
+      "title": "Fly to the coast",
+      "details": "Morning flight to Pointe-Noire (~1h; several local airlines fly it daily). Afternoon on the Côte Sauvage beach; meet the Conkouati operator to go over the plan (turtle walks, the Douli boat trip, food).",
+      "overnight": "Hotel in Pointe-Noire",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 9 – Sun",
+      "location": "Pointe-Noire → Conkouati-Douli",
+      "title": "North up the coast to Conkouati",
+      "details": "Operator's 4x4 north ~150 km (4–6h with ferry and river crossings) to Conkouati-Douli. Afternoon on the lagoon. After dark, the first beach walk with the turtle monitors: leatherbacks (up to ~2 m long) and olive ridleys come up to nest. Red lights only, and no flash.",
+      "overnight": "Eco-lodge, Conkouati-Douli",
+      "meals": "B hotel; L, D lodge"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 10 – Mon",
+      "location": "Conkouati-Douli NP",
+      "title": "Douli river: released chimps",
+      "details": "Zero travel. Boat up the lagoon and the Douli river into the area where HELP Congo has released orphaned chimps since the 1990s; they're seen from the boat. Monkeys along the banks. Night walk in the creeks for dwarf crocodiles and tree frogs.",
+      "overnight": "Eco-lodge, Conkouati-Douli",
+      "meals": "B, L, D lodge"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 11 – Tue",
+      "location": "Conkouati-Douli NP",
+      "title": "Forest walk for elephants",
+      "details": "Zero travel. Early forest walk with a ranger on elephant trails: forest elephants and buffalo are possible, red-capped mangabeys and mandrills shy but present; monitor lizards, chameleons, butterflies. Turtle beach after dark.",
+      "overnight": "Eco-lodge, Conkouati-Douli",
+      "meals": "B, L, D lodge"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 12 – Wed",
+      "location": "Conkouati-Douli NP",
+      "title": "Lagoon mouth: dolphins and birds",
+      "details": "Zero travel. Boat to the lagoon mouth, home to Atlantic humpback dolphins (one of the last populations), with terns, pelicans and ospreys. Afternoon off; rain is likely. Night walk.",
+      "overnight": "Eco-lodge, Conkouati-Douli",
+      "meals": "B, L, D lodge"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 13 – Thu",
+      "location": "Conkouati-Douli NP",
+      "title": "Second Douli trip or savanna edge",
+      "details": "Zero travel. A second boat trip up the Douli (chimps and elephants show differently every day), or the coastal savanna for buffalo. Herp-focused night walk: ask the guide for chameleons, snakes and frogs at the forest edge. Turtle beach after.",
+      "overnight": "Eco-lodge, Conkouati-Douli",
+      "meals": "B, L, D lodge"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 14 – Fri",
+      "location": "Conkouati-Douli NP",
+      "title": "Last Conkouati day",
+      "details": "Zero travel. A morning on whatever has worked best (a third boat trip or the forest), a slow afternoon, and a last turtle night. This day is also slack if rain cancelled an earlier boat trip.",
+      "overnight": "Eco-lodge, Conkouati-Douli",
+      "meals": "B, L, D lodge"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 15 – Sat",
+      "location": "Conkouati → Tchimpounga → Pointe-Noire",
+      "title": "Tchimpounga chimp sanctuary on the way south",
+      "details": "Drive back south. Stop at the Jane Goodall Institute's Tchimpounga sanctuary (~50 km north of Pointe-Noire) by prior arrangement: orphaned chimps in large forest enclosures and on the release islands of the Kouilou. JGI sets the visit rules and fee; book it ahead. Night in Pointe-Noire.",
+      "overnight": "Hotel in Pointe-Noire",
+      "meals": "B lodge; L, D own"
+    },
+    {
+      "date": "2027-01-10",
+      "day_label": "Day 16 – Sun",
+      "location": "Pointe-Noire",
+      "title": "Diosso gorges and the Kouilou mangroves",
+      "details": "A buffer if the Conkouati road ran late. Otherwise a taxi to the Gorges de Diosso, a red-rock canyon ~25 km north, and a pirogue on the lower Kouilou for mangroves, monitor lizards, kingfishers and possible crocodiles.",
+      "overnight": "Hotel in Pointe-Noire",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2027-01-11",
+      "day_label": "Day 17 – Mon",
+      "location": "Pointe-Noire → in flight",
+      "title": "Beach morning, fly home",
+      "details": "Côte Sauvage beach, late check-out, then Air France overnight to Paris.",
+      "overnight": "Plane",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2027-01-12",
+      "day_label": "Day 18 – Tue",
+      "location": "in flight → Los Angeles",
+      "title": "Arrive home",
+      "details": "Connect in Paris; arrive LAX the same afternoon.",
+      "overnight": "Home",
+      "meals": "In-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Hotel in Brazzaville",
+      "place": "BZV",
+      "location": "Brazzaville, centre or near Maya-Maya",
+      "nights": 2,
+      "pppn_usd": 55,
+      "style": "Mid-range hotel",
+      "includes": "~$110/room B&B with airport pickup. Dec 27 after landing and Jan 1 after Lésio-Louna.",
+      "why": "Safe, simple, near the airport; Brazzaville hotels are expensive for what they are.",
+      "alternatives": "Radisson Blu or Hilton (~$220/room) for the river view.",
+      "url": "https://www.booking.com/city/cg/brazzaville.html",
+      "options": [
+        {
+          "id": "bzv-plan",
+          "tag": "Plan",
+          "name": "Hotel in Brazzaville",
+          "pppn_usd": 55,
+          "room_usd": 110,
+          "rating": "",
+          "style": "Mid-range hotel",
+          "includes": "B&B, airport pickup",
+          "why": "Cheapest safe option.",
+          "url": "https://www.booking.com/city/cg/brazzaville.html",
+          "notes": "Estimate; pick one with a 24h desk and pickup."
+        },
+        {
+          "id": "bzv-radisson",
+          "tag": "Splurge",
+          "name": "Radisson Blu Brazzaville",
+          "pppn_usd": 110,
+          "room_usd": 220,
+          "rating": "",
+          "style": "Business hotel",
+          "includes": "B&B",
+          "why": "On the river facing Kinshasa; the most reliable hotel in town.",
+          "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-brazzaville",
+          "notes": "Estimate."
+        }
+      ]
+    },
+    {
+      "name": "Lésio-Louna camp (Iboubikro)",
+      "place": "LLR",
+      "location": "Lésio-Louna Gorilla Reserve",
+      "nights": 4,
+      "pppn_usd": 40,
+      "style": "Basic camp",
+      "includes": "Paid in the Lésio-Louna package. Simple beds, shared washrooms; meals cooked on site (some operators ask you to bring food).",
+      "why": "The only place to sleep in the reserve; the boat trips start here.",
+      "alternatives": "",
+      "url": "https://www.takeyourbackpack.com/backpacking-in-republic-of-the-congo/visit-lesio-louna-gorilla-reserve/"
+    },
+    {
+      "name": "Hotel in Pointe-Noire",
+      "place": "PNR",
+      "location": "Pointe-Noire, Côte Sauvage side",
+      "nights": 3,
+      "pppn_usd": 50,
+      "style": "Mid-range hotel",
+      "includes": "~$100/room B&B. Jan 2 before Conkouati, Jan 9–10 after it.",
+      "why": "Near the airport and the beach; Conkouati operators pick up from hotels.",
+      "alternatives": "Operators quote ~$89/room + tax for their partner hotels.",
+      "url": "https://www.booking.com/city/cg/pointe-noire.html"
+    },
+    {
+      "name": "Eco-lodge, Conkouati-Douli",
+      "place": "CKD",
+      "location": "Conkouati-Douli NP",
+      "nights": 6,
+      "pppn_usd": 35,
+      "style": "Basic eco-lodge / park bungalows",
+      "includes": "Paid in the Conkouati line. Ecolodge Kunda (community-run) or park bungalows at ~€20–50/night; basic, generator power at best.",
+      "why": "On the lagoon and close to the nesting beaches; six nights gives several turtle nights and room for rained-off boat trips.",
+      "alternatives": "Conkouati Lodge (popular with Pointe-Noire expats at weekends; book ahead).",
+      "url": "https://www.kwafrikatravel.com/trip/conkouati-douli-national-park-tour-3-day-congo-safari/"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "LAX → Brazzaville out Dec 26, Pointe-Noire → LAX Jan 11 (open jaw)",
+      "per_person_usd": 2100,
+      "low_usd": 1700,
+      "high_usd": 2800,
+      "notes": "Air France via Paris serves both BZV and PNR. Aggregators show ~$1,350–1,600 round trip off-peak; Christmas departures run higher. Ethiopian via Addis is the alternative. Price now: above ~$2,350 the trip goes over $6k."
+    },
+    {
+      "category": "Lodging",
+      "item": "Brazzaville hotel, 2 nights (Dec 27, Jan 1)",
+      "per_person_usd": 110,
+      "low_usd": 80,
+      "high_usd": 220,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Pointe-Noire hotel, 3 nights (Jan 2, Jan 9–10)",
+      "per_person_usd": 150,
+      "low_usd": 100,
+      "high_usd": 250,
+      "notes": ""
+    },
+    {
+      "category": "Lésio-Louna",
+      "item": "4 nights from Brazzaville: 4x4 both ways, reserve permit, camp, boat trips, guide, camp meals",
+      "per_person_usd": 800,
+      "low_usd": 600,
+      "high_usd": 1300,
+      "notes": "Built up: 4x4 return ~$400/vehicle ($200 pp), camp ~$40 pp/night, permit + boat ~$80 pp/day, food ~$25/day. Packaged 2-day trips list ~$900 pp for two, so get a quote for 4 nights; a 2025 reviewer paid 344,000 CFA (~$600) for 2 nights including the drive."
+    },
+    {
+      "category": "Domestic flights",
+      "item": "Brazzaville → Pointe-Noire (Jan 2)",
+      "per_person_usd": 180,
+      "low_usd": 100,
+      "high_usd": 350,
+      "notes": "Several daily flights (~1h); aggregators show ~$100–200 one way."
+    },
+    {
+      "category": "Conkouati",
+      "item": "6 nights: 4x4 Pointe-Noire ↔ park, lodge, park fees and rangers, 3 boat trips, turtle walks, meals",
+      "per_person_usd": 1050,
+      "low_usd": 800,
+      "high_usd": 1800,
+      "notes": "Built up: 4x4 return ~$600/vehicle ($300 pp), lodge ~$35 pp/night, fees + guides ~$35/day, boats ~$60 pp per trip, food ~$25/day. Packaged 3–5 day trips quote $1,100–2,900 pp, mostly the transfer and markup. Ask for a quote on the transfer plus pay-as-you-go."
+    },
+    {
+      "category": "Activities",
+      "item": "Tchimpounga sanctuary visit (Jan 9)",
+      "per_person_usd": 120,
+      "low_usd": 0,
+      "high_usd": 200,
+      "notes": "The only published figure is a €150 entrance in an old operator package. Visits are by arrangement with JGI Congo, which may decline drop-ins."
+    },
+    {
+      "category": "Activities",
+      "item": "Diosso gorges and Kouilou pirogue (Jan 10)",
+      "per_person_usd": 60,
+      "low_usd": 30,
+      "high_usd": 120,
+      "notes": "Taxi for the day plus a pirogue hire, split two ways."
+    },
+    {
+      "category": "Meals",
+      "item": "Food outside the park lines (Brazzaville, Pointe-Noire, travel days)",
+      "per_person_usd": 210,
+      "low_usd": 150,
+      "high_usd": 350,
+      "notes": "~7 days at ~$30; city restaurants are expensive."
+    },
+    {
+      "category": "Tips",
+      "item": "Boatmen, rangers, keepers, drivers",
+      "per_person_usd": 100,
+      "low_usd": 60,
+      "high_usd": 150,
+      "notes": ""
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Travel medical + evacuation plan (no trip cancellation)",
+      "per_person_usd": 100,
+      "low_usd": 60,
+      "high_usd": 250,
+      "notes": "Evacuation matters: serious care means a flight to Johannesburg or Paris."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Malaria prophylaxis and travel clinic",
+      "per_person_usd": 120,
+      "low_usd": 60,
+      "high_usd": 200,
+      "notes": "Atovaquone-proguanil; high-transmission malaria everywhere on this route."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Yellow fever vaccine",
+      "per_person_usd": 250,
+      "low_usd": 0,
+      "high_usd": 350,
+      "notes": "Required for entry. $0 if you already have a valid card (it's lifelong)."
+    },
+    {
+      "category": "Admin",
+      "item": "Republic of Congo tourist visa (embassy in Washington)",
+      "per_person_usd": 150,
+      "low_usd": 100,
+      "high_usd": 250,
+      "notes": "Needs a letter of invitation or hotel booking; ask the Lésio-Louna or Conkouati operator for the letter. The embassy issues a 6-month multiple-entry tourist visa to US citizens; fee unconfirmed. Apply 30–45 days ahead."
+    },
+    {
+      "category": "Admin",
+      "item": "Local SIM, sundries, laundry",
+      "per_person_usd": 60,
+      "low_usd": 30,
+      "high_usd": 100,
+      "notes": ""
+    },
+    {
+      "category": "Contingency",
+      "item": "Held until Lésio-Louna and Conkouati quotes are in",
+      "per_person_usd": 300,
+      "low_usd": 0,
+      "high_usd": 500,
+      "notes": "Those two lines are built from operator listings and per-day estimates, not quotes."
+    }
+  ],
+  "budget_total_per_person_usd": 5860,
+  "alternatives": [
+    {
+      "id": "imbalanga",
+      "name": "Odzala by road: Camp Imbalanga, 2 nights, wild gorillas at the bai (over budget)",
+      "description": "African Parks' camp in Odzala: $400 pp/night full board plus $80/night in entry, conservation and community fees; Imbalanga bai visit included, Moba bai day $33, Mambili river boat $75 (hippos), gorilla-trail walks $25. Gorillas are wild and not habituated: watched at the bai, not tracked, and not guaranteed. Closed Dec 16 – Jan 4, so it only works Jan 5–7, and it's ~2 days by 4x4 each way from Brazzaville (~$700 pp for the vehicle and the Owando stopover nights). Replacing Lésio-Louna, it adds ~$1,100 pp net, to ~$6,950.",
+      "cost_delta_per_person_usd": 1100
+    },
+    {
+      "id": "odzala",
+      "name": "Odzala with Kamba: habituated gorillas at Ngaga (far over budget)",
+      "description": "Kamba's 7-night Odzala Discovery (Ngaga gorillas ×2, Lango bai elephants, Mboko hippos), Mon Dec 28 – Mon Jan 4: $14,930 pp at 2026 rack, plus cancel-for-any-reason insurance, which Kamba requires. The only way to trek habituated gorillas in Congo. Brings the trip to ~$21,500 pp.",
+      "cost_delta_per_person_usd": 15600
+    },
+    {
+      "id": "ndoki",
+      "name": "Nouabalé-Ndoki week instead of Lésio-Louna (over budget)",
+      "description": "WCS-run northern park: wild gorillas and elephants at Mbeli Bai from a platform, gorilla tracking at Mondika. Flights to Ouesso plus a boat to Bomassa; rough and hard to book. Week-long trips are estimated at $6,000–8,000 pp on their own.",
+      "cost_delta_per_person_usd": 5500
+    },
+    {
+      "id": "home-jan10",
+      "name": "Fly home Jan 9 (drop the Pointe-Noire days)",
+      "description": "Fly out the evening after Tchimpounga and land Jan 10. Loses the road buffer and the Diosso/Kouilou day.",
+      "cost_delta_per_person_usd": -200
+    },
+    {
+      "id": "ll-3n",
+      "name": "Lésio-Louna 3 nights instead of 4",
+      "description": "Fly to Pointe-Noire on Dec 31 instead; New Year's Eve on the coast and one more Pointe-Noire night.",
+      "cost_delta_per_person_usd": -100
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 24–31)",
+      "task": "Price LAX → BZV / PNR → LAX open jaw on Air France (out Dec 26, back Jan 11). Above ~$2,350 the trip goes over $6k."
+    },
+    {
+      "when": "By Oct 31",
+      "task": "Get written quotes: Lésio-Louna 4 nights Dec 28–Jan 1 with airport pickup and drop-off; Conkouati 6 nights Jan 3–9 (transfer, lodge, 3 boat trips, turtle walks). Ask one of them for the visa invitation letter."
+    },
+    {
+      "when": "By Nov 10",
+      "task": "Apply for the Congo tourist visa at the embassy in Washington (30–45 days ahead)."
+    },
+    {
+      "when": "By Nov 15",
+      "task": "Book the Brazzaville and Pointe-Noire hotels and the Jan 2 BZV → PNR flight; email JGI Congo about a Tchimpounga visit on Jan 9."
+    },
+    {
+      "when": "Mid-Nov",
+      "task": "Travel clinic: yellow fever (if needed, at least 10 days before arrival), malaria prophylaxis, typhoid, hepatitis A; rabies pre-exposure is worth considering."
+    },
+    {
+      "when": "Dec 15–22",
+      "task": "Re-check the State Dept advisory and any Ebola news from the DRC side; reconfirm the operators, the domestic flight and the Tchimpounga visit."
+    }
+  ],
+  "practical": "## Entry\n- **Visa:** required in advance. US citizens get a 6-month multiple-entry tourist visa from the embassy in Washington, with an invitation letter or hotel booking. Allow 4+ weeks. The US entry ban on Congolese nationals (June 2025) is one-way: there's no reported Congolese suspension of visas for Americans, unlike Gabon and Chad. Confirm with the embassy when you apply.\n- **Yellow fever certificate:** mandatory and checked on arrival.\n- Passport 6+ months with blank pages.\n\n## Packing\n- **Headtorch each, with a red setting**, for night walks and turtle beaches (no white light or flash near nesting turtles).\n- Rain jacket, quick-dry clothes, sandals for boats and wet landings, boots for forest walks.\n- Binoculars and a long lens (the gorillas and chimps are watched from boats); dry bags.\n- Snacks and water purification for Lésio-Louna and Conkouati; food in camp is basic.\n\n## Money\n- Central African CFA franc (XAF), pegged to the euro. Bring **euros in cash**; ATMs in Brazzaville and Pointe-Noire only. Park fees, boats and tips are cash.\n\n## Season\n- The south of the country is in its rains from October to April, with a short drier spell around January. Expect heavy showers, and the occasional cancelled boat trip or blocked track; the spare Conkouati and Pointe-Noire days cover that.\n- Hot and humid (~25–32 °C). Leatherback nesting runs Nov–Feb on the Conkouati beaches.\n\n## Health and safety\n- US advisory **Level 2** (Exercise Increased Caution) for crime; US staff need two vehicles for overland travel outside Brazzaville. Don't walk at night in Brazzaville or Pointe-Noire, and avoid demonstrations.\n- The Brazzaville–Pointe-Noire road (RN1) has local blockades near Mindouli; this plan flies that leg.\n- Ebola: no cases in the Republic of Congo as of mid-2026; outbreaks are in the neighbouring DRC. Check before you fly.\n- Medical care is poor outside Brazzaville. Evacuation cover is essential.\n",
+  "open_questions": [
+    "Gorillas are a nice-to-have: are Lésio-Louna's free-living gorillas from the boat (plus a chance of wild ones at Conkouati) enough? Odzala's Camp Imbalanga, with wild gorillas at a bai, adds ~$1,100 pp net and only works after Jan 4.",
+    "~$5,860 pp stays under $6k only if the flights come in near $2,100. If they don't, cut a Pointe-Noire day (−$200) or a Lésio-Louna night (−$100)?",
+    "Six nights at Conkouati is long for a basic lodge, but it means several turtle nights and room for rained-off boat trips. OK, or move a night to Pointe-Noire?"
+  ],
+  "sources": [
+    "https://travel.state.gov/en/international-travel/travel-advisories/republic-of-congo.html",
+    "https://cg.usembassy.gov/tourism-visit/",
+    "http://www.ambacongo-us.org/en/consular-services/visa",
+    "https://www.africanews.com/amp/2025/06/06/chad-announces-suspension-of-visas-to-us-citizens-in-response-to-trump-travel-ban/",
+    "https://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/KongoRepublikSicherheit.html",
+    "https://trekafricatours.com/2-day-trip-to-lesio-louna-gorilla-reserve/",
+    "https://www.getyourguide.com/brazzaville-l199145/congo-1-day-gorilla-trip-in-lesio-luna-natural-reserve-t611132/",
+    "https://www.takeyourbackpack.com/backpacking-in-republic-of-the-congo/visit-lesio-louna-gorilla-reserve/",
+    "https://www.tripadvisor.com/Attraction_Review-g294189-d3827163-Reviews-Reserve_Naturelle_de_Gorilles_de_Lesio_Louna_Lefini-Brazzaville.html",
+    "https://www.privatetourscapetown.com/blog/conkouati-douli-national-park",
+    "https://www.kwafrikatravel.com/trip/conkouati-douli-national-park-tour-3-day-congo-safari/",
+    "https://congotravelandtours.com/conkouati-douli-park-chimpanzees/",
+    "https://www.takeyourbackpack.com/best-time-to-visit-republic-of-the-congo/",
+    "https://en.wikipedia.org/wiki/Tchimpounga_Sanctuary",
+    "https://www.penguintravel.com/Offer/RoundtripsandCulturalTours/2844/RepublicofCongo-AmongGorillasandChimpanzees.html",
+    "https://kambaafrica.com/wp-content/uploads/2024/11/Kamba-2026-International-RACK-Rates.pdf",
+    "https://www.takeyourbackpack.com/backpacking-in-republic-of-the-congo/visit-odzala-kokoua-national-park/",
+    "https://www.takeyourbackpack.com/backpacking-in-republic-of-the-congo/visit-nouabale-ndoki-national-park/",
+    "https://www.flights.com/lp/flights/lax/bzv/los-angeles-to-brazzaville",
+    "https://www.skyscanner.net/routes/bzv/pnr/brazzaville-to-pointe-noire.html",
+    "https://ukuri.travel/assets/camp-imbalanga-rates-2025.pdf",
+    "https://www.chaloafrica.com/accommodation/camp-imbalanga-odzala-kokoua-national-park-congo-brazzaville/",
+    "https://www.tripadvisor.com/Hotel_Review-g3860119-d27130857-Reviews-Camp_Imbalanga-Odzala_National_Park_Cuvette_Ouest_Department.html"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "BZV": {
+      "name": "Brazzaville (Maya-Maya)",
+      "lat": -4.2517,
+      "lng": 15.253,
+      "kind": "city",
+      "country": "Republic of Congo"
+    },
+    "LLR": {
+      "name": "Lésio-Louna (Iboubikro)",
+      "lat": -3.27,
+      "lng": 15.47,
+      "kind": "nature",
+      "country": "Republic of Congo"
+    },
+    "PNR": {
+      "name": "Pointe-Noire",
+      "lat": -4.816,
+      "lng": 11.8866,
+      "kind": "city",
+      "country": "Republic of Congo"
+    },
+    "CKD": {
+      "name": "Conkouati-Douli",
+      "lat": -3.97,
+      "lng": 11.37,
+      "kind": "nature",
+      "country": "Republic of Congo"
+    },
+    "TCH": {
+      "name": "Tchimpounga",
+      "lat": -4.52,
+      "lng": 11.8,
+      "kind": "transit",
+      "country": "Republic of Congo"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-26",
+      "from": "LAX",
+      "to": "BZV",
+      "mode": "flight",
+      "duration": "~22–26h",
+      "detail": "Air France via Paris; lands Dec 27 evening"
+    },
+    {
+      "date": "2026-12-28",
+      "from": "BZV",
+      "to": "LLR",
+      "mode": "road",
+      "duration": "~3–4h",
+      "detail": "Operator 4x4; sand track at the end"
+    },
+    {
+      "date": "2027-01-01",
+      "from": "LLR",
+      "to": "BZV",
+      "mode": "road",
+      "duration": "~3–4h",
+      "detail": "Back to Brazzaville"
+    },
+    {
+      "date": "2027-01-02",
+      "from": "BZV",
+      "to": "PNR",
+      "mode": "flight",
+      "duration": "~1h",
+      "detail": "Morning domestic flight"
+    },
+    {
+      "date": "2027-01-03",
+      "from": "PNR",
+      "to": "CKD",
+      "mode": "road",
+      "duration": "~4–6h",
+      "detail": "Operator 4x4; ferry and river crossings"
+    },
+    {
+      "date": "2027-01-09",
+      "from": "CKD",
+      "to": "TCH",
+      "mode": "road",
+      "duration": "~3–4h",
+      "detail": "South toward Pointe-Noire"
+    },
+    {
+      "date": "2027-01-09",
+      "from": "TCH",
+      "to": "PNR",
+      "mode": "road",
+      "duration": "~1h",
+      "detail": "After the sanctuary visit"
+    },
+    {
+      "date": "2027-01-11",
+      "from": "PNR",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~24h",
+      "detail": "Air France overnight to Paris, then to LAX; lands Jan 12"
+    }
+  ],
+  "stays": [
+    {
+      "place": "BZV",
+      "from": "2026-12-27",
+      "nights": 1,
+      "label": "Brazzaville"
+    },
+    {
+      "place": "LLR",
+      "from": "2026-12-28",
+      "nights": 4,
+      "label": "Lésio-Louna"
+    },
+    {
+      "place": "BZV",
+      "from": "2027-01-01",
+      "nights": 1,
+      "label": "Brazzaville"
+    },
+    {
+      "place": "PNR",
+      "from": "2027-01-02",
+      "nights": 1,
+      "label": "Pointe-Noire"
+    },
+    {
+      "place": "CKD",
+      "from": "2027-01-03",
+      "nights": 6,
+      "label": "Conkouati-Douli"
+    },
+    {
+      "place": "PNR",
+      "from": "2027-01-09",
+      "nights": 2,
+      "label": "Pointe-Noire"
+    }
+  ],
+  "fatigue_check": "Hardest stretch: the outbound (~22–26h, landing Dec 27 evening), then 3–4h on sand tracks to Lésio-Louna the next morning.\nJan 3: 4–6h up the coast to Conkouati; Jan 9: the same back, with the Tchimpounga stop.\nZero-transfer days: Dec 29–31, Jan 4–8, Jan 10.",
+  "hero_photo": "Conkouati-Douli_National_Park",
+  "photos": {
+    "LLR": {
+      "name": "Lésio-Louna",
+      "wiki": [
+        "Western_lowland_gorilla",
+        "Hippopotamus"
+      ]
+    },
+    "CKD": {
+      "name": "Conkouati-Douli",
+      "wiki": [
+        "Conkouati-Douli_National_Park",
+        "Leatherback_sea_turtle",
+        "Chimpanzee",
+        "African_forest_elephant"
+      ]
+    },
+    "TCH": {
+      "name": "Tchimpounga",
+      "wiki": [
+        "Tchimpounga_Sanctuary"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "where": "Louna and Léfini rivers (Lésio-Louna)",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Western lowland gorilla",
+      "wiki": "Western_lowland_gorilla",
+      "where": "Lésio-Louna (free-living, founded by released orphans; from the boat); Conkouati (wild, unhabituated)",
+      "odds": "Likely at Lésio-Louna; unlikely wild at Conkouati"
+    },
+    {
+      "name": "Chimpanzee",
+      "wiki": "Chimpanzee",
+      "where": "Douli river (released, from the boat); Tchimpounga (sanctuary)",
+      "odds": "Near-certain at Tchimpounga; likely on the Douli"
+    },
+    {
+      "name": "African forest elephant",
+      "wiki": "African_forest_elephant",
+      "where": "Conkouati forest and lagoon edges",
+      "odds": "Possible"
+    },
+    {
+      "name": "African forest buffalo",
+      "wiki": "African_forest_buffalo",
+      "where": "Conkouati coastal savanna",
+      "odds": "Possible"
+    },
+    {
+      "name": "Red-capped mangabey",
+      "wiki": "Collared_mangabey",
+      "where": "Conkouati forest",
+      "odds": "Possible"
+    },
+    {
+      "name": "Mandrill",
+      "wiki": "Mandrill",
+      "where": "Conkouati forest",
+      "odds": "Unlikely"
+    },
+    {
+      "name": "Guenons (moustached, putty-nosed)",
+      "wiki": "Moustached_guenon",
+      "where": "Conkouati, Lésio-Louna gallery forest",
+      "odds": "Likely"
+    },
+    {
+      "name": "Atlantic humpback dolphin",
+      "wiki": "Atlantic_humpback_dolphin",
+      "where": "Conkouati lagoon mouth",
+      "odds": "Possible"
+    },
+    {
+      "name": "Leatherback sea turtle",
+      "wiki": "Leatherback_sea_turtle",
+      "where": "Conkouati beaches, night walks",
+      "odds": "Likely (Nov–Feb nesting)"
+    },
+    {
+      "name": "Olive ridley sea turtle",
+      "wiki": "Olive_ridley_sea_turtle",
+      "where": "Conkouati beaches",
+      "odds": "Possible"
+    },
+    {
+      "name": "Dwarf crocodile",
+      "wiki": "Dwarf_crocodile",
+      "where": "Conkouati creeks, by torchlight",
+      "odds": "Possible"
+    },
+    {
+      "name": "Nile crocodile",
+      "wiki": "Nile_crocodile",
+      "where": "Louna river, lower Kouilou",
+      "odds": "Possible"
+    },
+    {
+      "name": "Nile monitor",
+      "wiki": "Nile_monitor",
+      "where": "Rivers and lagoon edges everywhere",
+      "odds": "Likely"
+    },
+    {
+      "name": "Chameleons and tree frogs",
+      "wiki": "Chamaeleonidae",
+      "where": "Night walks at Lésio-Louna and Conkouati",
+      "odds": "Likely"
+    },
+    {
+      "name": "Grey parrot",
+      "wiki": "Grey_parrot",
+      "where": "Conkouati forest",
+      "odds": "Possible"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Congo",
+      "country": "Republic of Congo"
+    },
+    "budget_target": {
+      "low": 5000,
+      "high": 6000
+    },
+    "currency": "USD"
+  }
+}

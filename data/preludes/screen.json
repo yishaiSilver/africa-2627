@@ -1,0 +1,60 @@
+{
+  "options": [
+    {
+      "country": "Rwanda",
+      "idea": "Gorillas in Volcanoes NP, Nyungwe chimps, canopy walk, Kigali Genocide Memorial.",
+      "est_cost_pp_usd": "$2,900–4,200 incl. $1,500 permit; $1,400–2,200 without",
+      "advisory_level": "Level 3: Reconsider Travel (Ebola/Marburg, DRC border)",
+      "safety": "Kigali, tourist circuits very safe. Level 3 from regional Ebola/Marburg, DRC conflict. Volcanoes NP near border zone; recheck Nov/Dec.",
+      "fit": "Good: gorillas best exotic complement to Kenya savanna; short easy travel. Catch: Level 3, $1,500 permit."
+    },
+    {
+      "country": "Ethiopia",
+      "idea": "Simien geladas, Bale Ethiopian wolves, Lalibela churches; easy ADD-NBO flights.",
+      "est_cost_pp_usd": "$1,300–2,300 incl. guided Simien trek $400–800",
+      "advisory_level": "Level 3: Reconsider Travel (DNT Amhara, Tigray, others)",
+      "safety": "Simien, Gondar, Lalibela in Amhara: Do Not Travel (Fano conflict, kidnappings). Bale's Oromia has DNT pockets. Ethiopian Christmas Jan 7.",
+      "fit": "Poor: superb wildlife, cheap flights, but best areas Do Not Travel. Addis plus Bale weak."
+    },
+    {
+      "country": "Tanzania",
+      "idea": "Tarangire elephants, Ngorongoro Crater, Lake Manyara from Arusha; Nairobi 5–6h shuttle.",
+      "est_cost_pp_usd": "$1,900–3,200 steep park fees; crater $295/vehicle",
+      "advisory_level": "Level 3: Reconsider Travel (2025 election unrest; verify)",
+      "safety": "Safari circuit running. Post-2025-election curfews, blackouts, protests, foreigner detentions. Watch anniversaries. Town crime; LGBTQ targeting flagged.",
+      "fit": "Poor-to-OK: great wildlife but duplicates Kenya safari at higher fees. Better: add Ngorongoro to Kenya leg."
+    },
+    {
+      "country": "Madagascar",
+      "idea": "Lemurs (indri at Andasibe, ~4h from Tana), chameleons, Ranomafana, Morondava baobabs.",
+      "est_cost_pp_usd": "$2,000–3,300 +$500–1,000 flights; TNR separate sector",
+      "advisory_level": "Level 2: Exercise Increased Caution (lowered Dec 2025; verify)",
+      "safety": "Fragile post-coup politics; Tana protests possible. Serious crime, night road banditry: never drive after dark. Rainy season, cyclones Jan–Mar.",
+      "fit": "OK: most exotic, unique wildlife, but rains, slow roads, unreliable flights. Andasibe plus Tana fits 5h limit."
+    },
+    {
+      "country": "Jordan",
+      "idea": "Petra (2 days), Wadi Rum camp, Dana hiking, Dead Sea, Madaba Christmas.",
+      "est_cost_pp_usd": "$1,400–2,300 Jordan Pass ~$100–115 covers visa, Petra",
+      "advisory_level": "Level 3: Reconsider Travel (regional Iran hostilities)",
+      "safety": "Tourist sites normally very safe. Level 3 regional: Iran missile/drone overflights, airspace closures possible. Avoid Syria/Iraq borders; recheck ceasefire.",
+      "fit": "OK: dramatic desert, strong culture, drives ≤3h; weak wildlife. Airspace risk to Kenya connection."
+    },
+    {
+      "country": "Oman",
+      "idea": "Wahiba Sands, Wadi Shab, Jebel Shams, Nizwa, Ras al Jinz turtles; self-drive.",
+      "est_cost_pp_usd": "$1,600–2,600 visa-free 14 days; 4x4 ~$80–100/day",
+      "advisory_level": "Level 3: Reconsider Travel (Iran drone/missile threat)",
+      "safety": "Traditionally very safe, low crime, good roads. New Level 3 (Aug 2026): Iranian drones/missiles. Gulf airspace closures could strand you.",
+      "fit": "Poor: beautiful, easy travel, little wildlife beyond turtles. Recent advisory raise risks missing Dec 28 Kenya start."
+    },
+    {
+      "country": "UAE",
+      "idea": "Sheikh Zayed Mosque, Louvre AD, Dubai souqs, desert oryx reserve; Emirates LAX-DXB-NBO.",
+      "est_cost_pp_usd": "$1,800–3,000 peak Christmas hotels $120–250/room",
+      "advisory_level": "Level 3: Reconsider Travel (regional Iran hostilities)",
+      "safety": "Very low street crime. Level 3: regional missile/drone risk, airspace disruption; DXB hub vulnerable. Christmas crowds, prices.",
+      "fit": "Poor: minimal wildlife, priciest per day, same regional risk as Oman/Jordan. Only plus: easy flights."
+    }
+  ]
+}

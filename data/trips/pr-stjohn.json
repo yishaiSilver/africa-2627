@@ -1,0 +1,833 @@
+{
+  "id": "pr-stjohn",
+  "label": "PR + St. John · Nov 7–14",
+  "summary": "2 nights Old San Juan, then fly to St. Thomas and ferry to St. John: 5 nights by Virgin Islands National Park. ~$2,107 pp.",
+  "title": "Old San Juan + St. John: Virgin Islands National Park",
+  "overview": "- **Dates:** LAX Sat Nov 7 → LAX **Sat Nov 14**. 2 nights Puerto Rico, 5 nights St. John (US Virgin Islands).\n- **Route (1 real move):** Old San Juan 2n → fly SJU→STT Mon Nov 9 → ferry to Cruz Bay, St. John 5n → Sat Nov 14 ferry + flight STT→SJU, home ~17:00.\n- **Flights:** LAX–SJU round trip ~$350, plus two separate STT↔SJU hops (~35–40m each).\n- **National park:** ~60% of St. John is Virgin Islands National Park: Trunk Bay snorkel trail, Maho Bay turtles, Waterlemon Cay, Annaberg ruins, Reef Bay petroglyphs.\n- **Slow days:** Sun Nov 8 (Old San Juan), Thu Nov 12 and Fri Nov 13 (St. John).\n- **Getting around:** walk + safari taxis; jeep 1 day (Nov 11). Drive on the left.\n- **Not here:** El Yunque, Vieques bio bay (St. John has none).\n- **Pace:** longest travel day Mon Nov 9 (~4h door to door). ~$2,107 pp.",
+  "dates": {
+    "depart": "2026-11-07",
+    "return": "2026-11-14"
+  },
+  "itinerary": [
+    {
+      "date": "2026-11-07",
+      "day_label": "Day 1 – Sat",
+      "location": "Los Angeles → San Juan",
+      "title": "Fly to Puerto Rico",
+      "details": "Early 1-stop (via MIA/CLT/DFW/ATL/JFK). LAX ~06:00–08:00 → SJU ~18:00–21:00 (+4h clock). Taxi 20m to Old San Juan. Street food, sleep in tomorrow.",
+      "overnight": "Old San Juan – CasaBlanca Hotel",
+      "meals": "In-flight; D own"
+    },
+    {
+      "date": "2026-11-08",
+      "day_label": "Day 2 – Sun",
+      "location": "Old San Juan",
+      "title": "Slow day in Old San Juan",
+      "details": "Sleep in after the flight. Late breakfast. ~11:00 El Morro (one ~$10 fee covers San Cristóbal too), Paseo del Morro walk. Lunch, siesta. Late afternoon: San Cristóbal or just the blue streets, Paseo de la Princesa at sunset. No driving, no packing.",
+      "overnight": "Old San Juan – CasaBlanca Hotel",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-09",
+      "day_label": "Day 3 – Mon",
+      "location": "San Juan → St. Thomas → St. John",
+      "title": "Hop to St. John",
+      "details": "~08:30 taxi 20m to SJU. JetBlue or Cape Air ~10:00, ~35–40m to St. Thomas (STT). Taxi ~30–40m to Red Hook (per-person fares, + bags). Ferry on the hour, 20m to Cruz Bay. Lunch, check in. Late afternoon: Lind Point Trail (~1.1 mi) to Honeymoon Beach for a first swim. Sunset in Cruz Bay.",
+      "overnight": "Cruz Bay, St. John – St. John Inn",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-10",
+      "day_label": "Day 4 – Tue",
+      "location": "St. John north shore",
+      "title": "Trunk Bay and Cinnamon Bay",
+      "details": "Safari taxi ~08:30 to Trunk Bay ($5 pp): underwater snorkel trail with signs. Go early, before cruise-day crowds from St. Thomas. Taxi or walk on to Cinnamon Bay: sugar-mill ruins loop, easy snorkel off the point. Lunch at the beach. Back by mid-afternoon; siesta.",
+      "overnight": "Cruz Bay, St. John – St. John Inn",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-11",
+      "day_label": "Day 5 – Wed",
+      "location": "Maho Bay · Annaberg · Waterlemon Cay",
+      "title": "Jeep day: turtles and the best reef",
+      "details": "Pick up a jeep in Cruz Bay ~08:00 (drive on the LEFT). ~08:30 Maho Bay: shallow seagrass, sea turtles very likely. ~10:30 Annaberg sugar-mill ruins (free). Leinster Bay trail ~0.8 mi to Waterlemon Cay: best snorkel on the island (turtles, rays, starfish). Current on the far side of the cay: stay close in. Late lunch in Coral Bay. Back over Centerline Road overlooks. Return jeep.",
+      "overnight": "Cruz Bay, St. John – St. John Inn",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-12",
+      "day_label": "Day 6 – Thu",
+      "location": "St. John",
+      "title": "Slow day",
+      "details": "Sleep in. Beach of choice (Honeymoon or Salomon via Lind Point, or taxi back to Maho). Optional morning hike: Reef Bay Trail from Centerline Road, ~2.2 mi downhill to the Taíno petroglyphs and sugar-mill ruins, steep climb back (~3–4h; taxi to/from trailhead). Siesta. Sunset dinner in Cruz Bay.",
+      "overnight": "Cruz Bay, St. John – St. John Inn",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-13",
+      "day_label": "Day 7 – Fri",
+      "location": "St. John",
+      "title": "Last beach day, pack",
+      "details": "Easy morning swim (or Cinnamon/Maho again by safari taxi). Early dinner, pack. Early night: tomorrow starts ~06:30. Or take the isla-verde-last-night option: fly to SJU this afternoon and sleep by the airport.",
+      "overnight": "Cruz Bay, St. John – St. John Inn",
+      "meals": "B, L, D own"
+    },
+    {
+      "date": "2026-11-14",
+      "day_label": "Day 8 – Sat",
+      "location": "St. John → St. Thomas → San Juan → Los Angeles",
+      "title": "Home via San Juan",
+      "details": "07:00 ferry Cruz Bay → Red Hook (20m). Taxi ~35m to STT. Clear CBP (US customs/agriculture check before boarding; passport easiest). ~10:45–11:30 Cape Air or JetBlue to SJU (~35m), land ~noon. ~5h buffer. Lunch at the airport. ~17:00 flight home, 1 stop, lands LAX late night (−4h clock).",
+      "overnight": "Home",
+      "meals": "B, L own; D in flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "CasaBlanca Hotel",
+      "place": "OSJ",
+      "location": "Old San Juan",
+      "nights": 2,
+      "pppn_usd": 68,
+      "style": "Small hotel",
+      "includes": "~$135/room incl 9% tax (Nov snapshots $107–122 + tax). AC, wifi, 2 roof terraces, 24h desk. No parking (none needed: no car). Some rooms windowless; ask.",
+      "why": "Calle Fortaleza: walk 15m to El Morro, 10m San Cristóbal. 8.6 Expedia (1,465), 7.7 Kayak. Taxi 20m SJU.",
+      "alternatives": "",
+      "url": "https://www.expedia.com/San-Juan-Hotels-CasaBlanca-Hotel.h3009193.Hotel-Information",
+      "options": [
+        {
+          "id": "osj-casablanca",
+          "tag": "Plan",
+          "name": "CasaBlanca Hotel",
+          "pppn_usd": 68,
+          "room_usd": 135,
+          "rating": "8.8 Expedia, 1,269 reviews; 7.7 Kayak, 1,860",
+          "style": "Small hotel, Calle Fortaleza",
+          "includes": "AC, wifi, 2 roof terraces, 24h desk. No breakfast, no parking (no car needed).",
+          "why": "Walk 15m El Morro, 10m San Cristóbal. Cheap, central.",
+          "url": "https://www.expedia.com/San-Juan-Hotels-CasaBlanca-Hotel.h3009193.Hotel-Information",
+          "notes": "Snapshots $96–132 + 9% tax; Kayak: Nov among cheapest months. Some rooms windowless: ask. Take refundable rate."
+        },
+        {
+          "id": "osj-navona",
+          "tag": "Cheaper",
+          "name": "Navona Studios",
+          "pppn_usd": 52,
+          "room_usd": 105,
+          "rating": "8.0 Expedia, 795 reviews; 8.1 Kayak, 1,477",
+          "style": "Guesthouse studios, Calle San Francisco",
+          "includes": "AC, wifi, fridge/kitchenette in some studios. Adults only. No parking.",
+          "why": "Cheapest decent private room inside the walls.",
+          "url": "https://www.expedia.com/San-Juan-Hotels-Navona-Studios.h10103408.Hotel-Information",
+          "notes": "Snapshots $85–101 + tax (Feb/Jul, not Nov dates). Unverified for Nov 7."
+        },
+        {
+          "id": "osj-decanter",
+          "tag": "Value",
+          "name": "Decanter Hotel",
+          "pppn_usd": 76,
+          "room_usd": 152,
+          "rating": "9.2 Expedia, 1,001 reviews",
+          "style": "Small hotel, near San Juan Gate",
+          "includes": "AC, wifi, rooftop terrace, bar/restaurant. No parking.",
+          "why": "Best-rated small hotel at near-budget price; 3m to San Juan Gate.",
+          "url": "https://expedia.com/San-Juan-(and-vicinity)-hotels-Decanter-Hotel.h12348107.Hotel-information",
+          "notes": "Hotels.com Nov snapshot $125 → $152 total incl tax/fees. Year of snapshot unclear."
+        },
+        {
+          "id": "osj-palacio",
+          "tag": "Deal",
+          "name": "Palacio Provincial San Juan (Curio by Hilton)",
+          "pppn_usd": 130,
+          "room_usd": 260,
+          "rating": "4.3 TripAdvisor, 186 reviews",
+          "style": "Historic boutique, adults only, 43 rooms",
+          "includes": "AC, rooftop pool, bar. Resort fee ~$60/night (in total).",
+          "why": "Historic palace, rooftop pool; Hilton Honors/AAA rate cuts cost.",
+          "url": "https://www.hilton.com/en/hotels/sjuppqq-palacio-provincial-san-juan/",
+          "notes": "AAA from $178 + $59.95 resort fee + 9% tax ≈ $260. Free Honors sign-up for member rate. Nov rate unverified."
+        },
+        {
+          "id": "osj-el-convento",
+          "tag": "Splurge",
+          "name": "Hotel El Convento",
+          "pppn_usd": 165,
+          "room_usd": 330,
+          "rating": "9.0 Travelocity, 1,004 reviews; 8.4 Kayak, 1,187",
+          "style": "Historic 17th-c. convent hotel",
+          "includes": "AC, pool, gym, restaurant, bar, room service.",
+          "why": "Iconic upscale stay across from the cathedral.",
+          "url": "https://www.kayak.com/San-Juan-Hotels-Hotel-El-Convento.14807.ksp",
+          "notes": "Snapshots $272 all-in (Sep) to $507 (Feb). Nov ~$300–350 all-in est., unverified; may add fees."
+        }
+      ]
+    },
+    {
+      "name": "St. John Inn",
+      "place": "CRZ",
+      "location": "Cruz Bay, St. John",
+      "nights": 5,
+      "pppn_usd": 102,
+      "style": "Small inn, Cruz Bay",
+      "includes": "~$205/room incl 12.5% tax (est.). AC, wifi, small pool, some rooms with kitchenette. No resort fee.",
+      "why": "Cheapest name that keeps coming up. ~5m walk to ferry, food, safari taxis.",
+      "alternatives": "",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g147410-d149945-Reviews-St_John_Inn-Cruz_Bay_St_John_U_S_Virgin_Islands.html",
+      "options": [
+        {
+          "id": "crz-st-john-inn",
+          "tag": "Plan",
+          "name": "St. John Inn",
+          "pppn_usd": 102,
+          "room_usd": 205,
+          "rating": "4.5 TripAdvisor",
+          "style": "Small inn, Cruz Bay",
+          "includes": "AC, wifi, small pool, some rooms with kitchenette. No resort fee.",
+          "why": "Cheapest name that keeps coming up. ~5m walk to ferry, food, safari taxis.",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g147410-d149945-Reviews-St_John_Inn-Cruz_Bay_St_John_U_S_Virgin_Islands.html",
+          "notes": "Seen from $167–180/night + 12.5% USVI room tax ≈ $205. Nov rate unverified; take refundable."
+        },
+        {
+          "id": "crz-tamarind",
+          "tag": "Value",
+          "name": "Inn at Tamarind Court",
+          "pppn_usd": 112,
+          "room_usd": 225,
+          "rating": "9.2 Expedia, 254 reviews",
+          "style": "Small inn, Cruz Bay",
+          "includes": "AC, wifi, courtyard bar. Simple rooms.",
+          "why": "Best-reviewed budget option in Cruz Bay.",
+          "url": "https://www.expedia.com/Cruz-Bay-Destination-Cheap-Hotels.0-0-d9874-tCheapHotels.Hotel-Filter-Destinations",
+          "notes": "Listed $160–240/night + tax. Nov rate unverified."
+        },
+        {
+          "id": "crz-cinnamon-tent",
+          "tag": "Inside the park",
+          "name": "Cinnamon Bay eco-tent",
+          "pppn_usd": 107,
+          "room_usd": 214,
+          "rating": "NPS concession campground",
+          "style": "Eco-tent on the beach, Cinnamon Bay",
+          "includes": "Beds, fan, power; shared bathhouses. No AC. Restaurant/store on site.",
+          "why": "Sleep in the national park on the beach; snorkel at the door. Taxi ~15m to Cruz Bay.",
+          "url": "https://www.nps.gov/viis/planyourvisit/cinnamon-bay-campground.htm",
+          "notes": "Late-2025 listing $190 (family $210) + tax ≈ $214. Open Nov–Aug. Book on the concession site."
+        },
+        {
+          "id": "crz-boutique",
+          "tag": "Splurge",
+          "name": "Cruz Bay Boutique Hotel",
+          "pppn_usd": 179,
+          "room_usd": 358,
+          "rating": "Few reviews",
+          "style": "Boutique hotel, Cruz Bay",
+          "includes": "AC, wifi, pool, rooftop.",
+          "why": "Nicer rooms, still walk to ferry.",
+          "url": "https://www.hotelscombined.com/Hotel/Cruz_Bay_Boutique_Hotel.htm",
+          "notes": "Seen $210 (late Aug) to $318/night; ~$358 incl tax est. Unverified."
+        }
+      ]
+    }
+  ],
+  "budget": [
+    {
+      "category": "Flights",
+      "item": "LAX–SJU round trip, 1 stop each way, out Sat Nov 7, back Sat Nov 14 ~17:00",
+      "per_person_usd": 350,
+      "low_usd": 260,
+      "high_usd": 550,
+      "notes": "Your fare (~$350). Check it includes a carry-on."
+    },
+    {
+      "category": "Flights",
+      "item": "SJU → STT, Mon Nov 9 (JetBlue or Cape Air)",
+      "per_person_usd": 110,
+      "low_usd": 60,
+      "high_usd": 180,
+      "notes": "JetBlue from ~$95 one way, bag extra. Cape Air similar, weight limits."
+    },
+    {
+      "category": "Flights",
+      "item": "STT → SJU, Sat Nov 14 morning",
+      "per_person_usd": 120,
+      "low_usd": 60,
+      "high_usd": 200,
+      "notes": "JetBlue seen $125+ this direction; Expedia from ~$70."
+    },
+    {
+      "category": "Lodging",
+      "item": "Old San Juan: CasaBlanca Hotel, 2 nights (Nov 7–8)",
+      "per_person_usd": 136,
+      "low_usd": 106,
+      "high_usd": 260,
+      "notes": "~$135/room incl 9% tax. Low = Navona Studios. High = Palacio Provincial (incl resort fee)."
+    },
+    {
+      "category": "Lodging",
+      "item": "St. John: St. John Inn, 5 nights (Nov 9–13)",
+      "per_person_usd": 512,
+      "low_usd": 450,
+      "high_usd": 895,
+      "notes": "~$205/room incl 12.5% tax (est.). Low = early-season deal. High = Cruz Bay Boutique."
+    },
+    {
+      "category": "Transport",
+      "item": "Taxis SJU ↔ Old San Juan ×2",
+      "per_person_usd": 28,
+      "low_usd": 20,
+      "high_usd": 40,
+      "notes": "~$25–30/car each way."
+    },
+    {
+      "category": "Transport",
+      "item": "Taxis STT ↔ Red Hook ×2",
+      "per_person_usd": 36,
+      "low_usd": 30,
+      "high_usd": 50,
+      "notes": "Per-person fares ~$15–20 + bags."
+    },
+    {
+      "category": "Transport",
+      "item": "Ferry Red Hook ↔ Cruz Bay ×2, + bags",
+      "per_person_usd": 25,
+      "low_usd": 17,
+      "high_usd": 30,
+      "notes": "$8.15 pp one way + ~$4/bag."
+    },
+    {
+      "category": "Transport",
+      "item": "St. John: jeep 1 day + safari taxis",
+      "per_person_usd": 105,
+      "low_usd": 60,
+      "high_usd": 160,
+      "notes": "Jeep ~$100–130/day + gas, split 2. Safari taxis ~$7–10 pp per ride."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "Snorkel gear rental (or bring own mask)",
+      "per_person_usd": 40,
+      "low_usd": 0,
+      "high_usd": 60,
+      "notes": "~$10–15/day set in Cruz Bay."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "Trunk Bay amenity fee",
+      "per_person_usd": 5,
+      "low_usd": 5,
+      "high_usd": 10,
+      "notes": "$5 pp (16+). Park entry otherwise free."
+    },
+    {
+      "category": "Tours & fees",
+      "item": "San Juan NHS (El Morro + San Cristóbal)",
+      "per_person_usd": 10,
+      "low_usd": 0,
+      "high_usd": 10,
+      "notes": "~$10 adult, 16+; cashless. Free with America the Beautiful pass."
+    },
+    {
+      "category": "Food",
+      "item": "8 days food: 2 in PR, 6 on St. John",
+      "per_person_usd": 550,
+      "low_usd": 400,
+      "high_usd": 750,
+      "notes": "PR ~$55/day; St. John pricier ~$80/day (groceries from Starfish Market cut it)."
+    },
+    {
+      "category": "Misc",
+      "item": "Tips, reef-safe sunscreen, small buffer",
+      "per_person_usd": 80,
+      "low_usd": 40,
+      "high_usd": 150,
+      "notes": ""
+    }
+  ],
+  "budget_total_per_person_usd": 2107,
+  "alternatives": [
+    {
+      "id": "isla-verde-last-night",
+      "name": "Last night by SJU instead of St. John",
+      "description": "Fly STT → SJU Fri Nov 13 afternoon, sleep at Villa del Sol (Isla Verde, 10m to SJU). No ferry–taxi–customs–flight chain on departure day. Lose half a beach day.",
+      "cost_delta_per_person_usd": -32,
+      "place": "IVE",
+      "legs": [
+        {
+          "from": "STT",
+          "to": "SJU",
+          "mode": "flight",
+          "duration": "~35–40m",
+          "detail": "Fri Nov 13 afternoon."
+        }
+      ]
+    },
+    {
+      "id": "jeep-every-day",
+      "name": "Jeep for the whole St. John stay",
+      "description": "Rent in Cruz Bay Nov 9–14. Own clock; adds Ram Head trail + Salt Pond snorkel, Reef Bay trailhead, Coral Bay. Drive on the left; steep roads; parking fills ~10:00.",
+      "cost_delta_per_person_usd": 125
+    },
+    {
+      "id": "cinnamon-tent",
+      "name": "Sleep in the park: Cinnamon Bay eco-tent",
+      "description": "Swap St. John Inn for a beach eco-tent at Cinnamon Bay (no AC, shared bathhouse). Trunk/Maho close; Cruz Bay food by taxi.",
+      "cost_delta_per_person_usd": 25,
+      "place": "CIN"
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Oct 15)",
+      "task": "Book LAX–SJU RT (out Sat Nov 7 early, back Sat Nov 14 ~17:00). Compare multi-city LAX→SJU, STT→LAX first."
+    },
+    {
+      "when": "Now",
+      "task": "Book SJU→STT Mon Nov 9 ~10:00 and STT→SJU Sat Nov 14 ~10:45–11:30 (JetBlue or Cape Air). Or Fri Nov 13 afternoon if taking the Isla Verde option."
+    },
+    {
+      "when": "Now",
+      "task": "Hotels, refundable: CasaBlanca (Nov 7–8), St. John Inn (Nov 9–13). Cinnamon Bay eco-tents sell out: decide now if wanted."
+    },
+    {
+      "when": "~2 weeks out",
+      "task": "Jeep in Cruz Bay for Wed Nov 11 (small fleet). Recheck hotel rates; rebook if lower."
+    },
+    {
+      "when": "Day of",
+      "task": "Ferries: no booking, buy at dock. Have cash for taxis."
+    }
+  ],
+  "practical": "## Entry\n- US citizens: no passport needed for PR or USVI. **But** flying USVI → PR/mainland you clear **CBP at STT** before boarding (USVI is outside US customs). Passport easiest; else REAL ID + certified birth certificate.\n- Duty-free allowance in USVI ($1,600 pp) if shopping.\n\n## Flights\n- LAX–SJU round trip (~$350): ~1 stop each way. Return ~17:00 SJU lands LAX late night.\n- SJU ↔ STT: JetBlue (A320, bags extra) or Cape Air (9-seat Cessna, ~12+/day each way, weight limits). ~35–40m.\n- **Separate tickets:** the airline won't protect the SJU connection. Nov 14 plan gives ~5h buffer; Cape Air runs often enough to rebook. Bags: re-check at SJU.\n- Ask: is a multi-city LAX→SJU, STT→LAX (AA via MIA/CLT) close to $350 + $120? That removes the Nov 14 hop.\n- PR and USVI = AST (UTC−4). LA = PST after Nov 1: **+4h**.\n\n## St. Thomas → St. John\n- STT airport → Red Hook: open-air taxis, fixed per-person fares + bag fee. ~30–40m.\n- Red Hook ↔ Cruz Bay passenger ferry: hourly on the hour, ~20m, $8.15 pp one way (non-resident) + ~$4/bag. Cash/card at window.\n- Also Charlotte Amalie ↔ Cruz Bay ferry (~45m, fewer runs): closer to STT but longer boat.\n- Car barge Red Hook ↔ Cruz Bay (~$65/car one way) only if renting on St. Thomas. Rent on St. John instead.\n\n## On St. John\n- Safari taxis (open trucks) from Cruz Bay dock: per-person fares to Trunk, Cinnamon, Maho. Fewer after ~16:00; ask driver for pickup time.\n- Jeep: book ahead (small fleet). **Drive on the LEFT**, US-style cars. Steep, winding roads; donkeys and goats on road.\n- Park entry free; Trunk Bay $5 pp. No lifeguards most beaches.\n- ATMs in Cruz Bay only. Groceries: Starfish Market.\n\n## Snorkel\n- Best: Waterlemon Cay (current on far side), Maho (turtles, seagrass, very calm), Trunk Bay trail (crowded on cruise days), Cinnamon point, Honeymoon.\n- Nov = north swell season: north shore can get waves; Salt Pond / Coral Bay side calmer.\n- Reef-safe (mineral) sunscreen or rash guard. Don't touch coral or turtles.\n- Water ~28°C: no wetsuit.\n\n## Weather\n- Highs ~29°C/84°F. Short showers. Hurricane season ends Nov 30: watch NHC; free-cancel bookings.\n\n## Money\n- USD. St. John ~30% pricier than PR (food, rooms). Tip 15–20%; taxi drivers ~$1–2/bag.\n\n## Hotel notes\n- USVI hotel room tax 12.5%. Small inns usually no resort fee.\n- Rates are early snapshots; Nov is shoulder season. Take refundable rates; recheck ~2 weeks out.",
+  "open_questions": [
+    "Is $350 a round trip LAX–SJU with a carry-on? Check return lands LAX same night.",
+    "Multi-city LAX→SJU + STT→LAX: price? Would drop the Nov 14 STT→SJU hop.",
+    "Same-day Nov 14 chain, or last night by SJU (isla-verde-last-night, −$32 pp)?",
+    "Passports: bring them for the CBP check at STT (easiest).",
+    "St. John Inn vs Cinnamon Bay eco-tent (in the park, no AC)?",
+    "Jeep 1 day or the whole stay (+$125 pp)?",
+    "Reef Bay Trail status (hurricane damage/repairs): check NPS alerts."
+  ],
+  "sources": [
+    "https://www.jetblue.com/en/flights-from-san-juan-to-st-thomas",
+    "https://www.jetblue.com/en/flights-from-st-thomas-to-san-juan",
+    "https://www.flight.info/9K8251",
+    "https://dpw.vi.gov/ferries/",
+    "https://www.visitusvi.com/getting-st-john-st-thomas",
+    "https://www.nps.gov/viis/planyourvisit/fees.htm",
+    "https://www.nps.gov/viis/planyourvisit/placestogo.htm",
+    "https://www.tripadvisor.com/Hotel_Review-g147410-d149945-Reviews-St_John_Inn-Cruz_Bay_St_John_U_S_Virgin_Islands.html",
+    "https://www.hotelscombined.com/Hotel/Cruz_Bay_Boutique_Hotel.htm",
+    "https://www.kayak.com/Cruz-Bay-Hotels.22357.hotel.ksp",
+    "https://stthomassource.com/content/2022/01/25/cinnamon-bay-campground-reopens/",
+    "https://www.citizendailypost.com/faq/do-you-go-through-customs-when-flying-to-st-thomas/",
+    "https://www.google.com/travel/flights/flights-from-los-angeles-to-san-juan.html?gl=US&hl=en-US",
+    "https://www.kayak.com/flight-routes/San-Juan-Luis-Munoz-Marin-Intl-SJU/Los-Angeles-LAX"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "SJU": {
+      "name": "San Juan airport (SJU)",
+      "lat": 18.4394,
+      "lng": -66.0018,
+      "kind": "transit",
+      "country": "Puerto Rico"
+    },
+    "OSJ": {
+      "name": "Old San Juan",
+      "lat": 18.4655,
+      "lng": -66.1057,
+      "kind": "city",
+      "country": "Puerto Rico"
+    },
+    "IVE": {
+      "name": "Isla Verde (by SJU)",
+      "lat": 18.4425,
+      "lng": -66.0185,
+      "kind": "city",
+      "country": "Puerto Rico"
+    },
+    "STT": {
+      "name": "St. Thomas airport (STT)",
+      "lat": 18.3373,
+      "lng": -64.9734,
+      "kind": "transit",
+      "country": "US Virgin Islands"
+    },
+    "RHK": {
+      "name": "Red Hook ferry dock, St. Thomas",
+      "lat": 18.3239,
+      "lng": -64.8505,
+      "kind": "transit",
+      "country": "US Virgin Islands"
+    },
+    "CRZ": {
+      "name": "Cruz Bay, St. John",
+      "lat": 18.331,
+      "lng": -64.794,
+      "kind": "city",
+      "country": "US Virgin Islands"
+    },
+    "HON": {
+      "name": "Honeymoon Beach (Lind Point Trail)",
+      "lat": 18.3418,
+      "lng": -64.793,
+      "kind": "nature",
+      "country": "US Virgin Islands"
+    },
+    "TRK": {
+      "name": "Trunk Bay (underwater trail)",
+      "lat": 18.3534,
+      "lng": -64.7698,
+      "kind": "nature",
+      "country": "US Virgin Islands"
+    },
+    "CIN": {
+      "name": "Cinnamon Bay",
+      "lat": 18.3561,
+      "lng": -64.7546,
+      "kind": "nature",
+      "country": "US Virgin Islands"
+    },
+    "MAH": {
+      "name": "Maho Bay (turtles)",
+      "lat": 18.357,
+      "lng": -64.7426,
+      "kind": "nature",
+      "country": "US Virgin Islands"
+    },
+    "ANN": {
+      "name": "Annaberg sugar mill ruins",
+      "lat": 18.364,
+      "lng": -64.727,
+      "kind": "nature",
+      "country": "US Virgin Islands"
+    },
+    "WAT": {
+      "name": "Waterlemon Cay, Leinster Bay",
+      "lat": 18.3667,
+      "lng": -64.7225,
+      "kind": "nature",
+      "country": "US Virgin Islands"
+    },
+    "CRL": {
+      "name": "Coral Bay",
+      "lat": 18.346,
+      "lng": -64.711,
+      "kind": "city",
+      "country": "US Virgin Islands"
+    },
+    "RBP": {
+      "name": "Reef Bay Trail petroglyphs",
+      "lat": 18.329,
+      "lng": -64.753,
+      "kind": "nature",
+      "country": "US Virgin Islands"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-11-07",
+      "from": "LAX",
+      "to": "SJU",
+      "mode": "flight",
+      "duration": "~9h30",
+      "detail": "1 stop (MIA/CLT/DFW/ATL/JFK). No nonstop LAX–SJU. Lands evening local."
+    },
+    {
+      "date": "2026-11-07",
+      "from": "SJU",
+      "to": "OSJ",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Taxi (~$25–30/car + bags)."
+    },
+    {
+      "date": "2026-11-09",
+      "from": "OSJ",
+      "to": "SJU",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Taxi (~$25–30/car + bags)."
+    },
+    {
+      "date": "2026-11-09",
+      "from": "SJU",
+      "to": "STT",
+      "mode": "flight",
+      "duration": "~35–40m",
+      "detail": "JetBlue (from ~$95 one way, bag extra) or Cape Air (~12 small-plane flights/day, weight limits). Separate ticket."
+    },
+    {
+      "date": "2026-11-09",
+      "from": "STT",
+      "to": "RHK",
+      "mode": "road",
+      "duration": "~30–40m",
+      "detail": "Open-air taxi, per-person fare (~$15–20 pp + bags). Traffic through Charlotte Amalie."
+    },
+    {
+      "date": "2026-11-09",
+      "from": "RHK",
+      "to": "CRZ",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Boat: passenger ferry hourly on the hour. $8.15 pp one way (non-resident) + ~$4/bag."
+    },
+    {
+      "date": "2026-11-09",
+      "from": "CRZ",
+      "to": "HON",
+      "mode": "road",
+      "duration": "~30m walk",
+      "detail": "Lind Point Trail from the visitor center. Optional."
+    },
+    {
+      "date": "2026-11-10",
+      "from": "CRZ",
+      "to": "TRK",
+      "mode": "road",
+      "duration": "~15m",
+      "detail": "Safari taxi, per-person fare. North Shore Road."
+    },
+    {
+      "date": "2026-11-10",
+      "from": "TRK",
+      "to": "CIN",
+      "mode": "road",
+      "duration": "~5m",
+      "detail": "Safari taxi, or wave one down."
+    },
+    {
+      "date": "2026-11-10",
+      "from": "CIN",
+      "to": "CRZ",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Safari taxi back."
+    },
+    {
+      "date": "2026-11-11",
+      "from": "CRZ",
+      "to": "MAH",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Jeep, North Shore Road. Drive on the left.",
+      "choice": {
+        "alt_id": "jeep-every-day",
+        "chosen": {
+          "label": "Jeep 1 day + safari taxis",
+          "mode": "road",
+          "door_to_door": "Taxi waits ~5–15m",
+          "cost_pp": 105,
+          "note": "Jeep ~$100–130/day + gas for Nov 11; safari taxis other days (per-person fares, run on demand)."
+        },
+        "other": {
+          "label": "Jeep Nov 9–14",
+          "mode": "road",
+          "door_to_door": "Own clock",
+          "cost_pp": 230,
+          "note": "~4 rental days in Cruz Bay + gas. Beach parking fills by ~10:00 (Maho, Trunk). Own schedule, Ram Head/Salt Pond easy."
+        }
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "from": "MAH",
+      "to": "ANN",
+      "mode": "road",
+      "duration": "~10m",
+      "detail": "Leinster Bay Road. Free ruins."
+    },
+    {
+      "date": "2026-11-11",
+      "from": "ANN",
+      "to": "WAT",
+      "mode": "road",
+      "duration": "~20m walk",
+      "detail": "Leinster Bay trail ~0.8 mi, flat. Swim out to the cay."
+    },
+    {
+      "date": "2026-11-11",
+      "from": "WAT",
+      "to": "CRL",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Jeep. Lunch in Coral Bay."
+    },
+    {
+      "date": "2026-11-11",
+      "from": "CRL",
+      "to": "CRZ",
+      "mode": "road",
+      "duration": "~25m",
+      "detail": "Centerline Road, overlooks. Return jeep."
+    },
+    {
+      "date": "2026-11-12",
+      "from": "CRZ",
+      "to": "RBP",
+      "mode": "road",
+      "duration": "~15m taxi + ~1h15 walk down",
+      "detail": "Optional. Reef Bay Trail from Centerline Road; steep return climb."
+    },
+    {
+      "date": "2026-11-14",
+      "from": "CRZ",
+      "to": "RHK",
+      "mode": "road",
+      "duration": "~20m",
+      "detail": "Boat: 07:00 ferry (hourly)."
+    },
+    {
+      "date": "2026-11-14",
+      "from": "RHK",
+      "to": "STT",
+      "mode": "road",
+      "duration": "~35m",
+      "detail": "Taxi, per-person fare."
+    },
+    {
+      "date": "2026-11-14",
+      "from": "STT",
+      "to": "SJU",
+      "mode": "flight",
+      "duration": "~35–40m",
+      "detail": "CBP check at STT first. Cape Air or JetBlue, land SJU ~noon.",
+      "choice": {
+        "alt_id": "isla-verde-last-night",
+        "chosen": {
+          "label": "Same day: ferry + flight Sat morning",
+          "mode": "flight",
+          "door_to_door": "~20m ferry + 35m taxi + ~1h30 early + 40m flight",
+          "cost_pp": 120,
+          "note": "~5h buffer before the ~17:00 SJU flight. Separate tickets: a miss is on you, but ~12+ STT→SJU flights/day to rebook."
+        },
+        "other": {
+          "label": "Fly back Fri Nov 13, sleep by SJU",
+          "mode": "flight",
+          "door_to_door": "Same hop, Friday afternoon",
+          "cost_pp": 120,
+          "note": "Isla Verde 1n (Villa del Sol ~$70 pp) replaces 5th St. John night ($102 pp): −$32 pp. No same-day risk; lazy Sat morning. Lose half a beach day."
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "from": "SJU",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~10h",
+      "detail": "~17:00, 1 stop. Lands LAX late night."
+    }
+  ],
+  "stays": [
+    {
+      "place": "OSJ",
+      "from": "2026-11-07",
+      "nights": 2,
+      "label": "Old San Juan"
+    },
+    {
+      "place": "CRZ",
+      "from": "2026-11-09",
+      "nights": 5,
+      "label": "St. John · Cruz Bay"
+    }
+  ],
+  "fatigue_check": "Door-to-door travel per day:\n- Nov 7 | 1-stop flight ~9h30 + 20m taxi | long-haul (daytime)\n- Nov 8 | none | rest\n- Nov 9 | 20m taxi + ~1h early + 40m flight + 35m taxi + ~20m wait + 20m ferry | medium (~4h)\n- Nov 10 | safari taxis 15m + 20m | light\n- Nov 11 | jeep hops 10–25m, ~1h30 total | light\n- Nov 12 | none (optional taxi to Reef Bay) | rest\n- Nov 13 | none | rest\n- Nov 14 | 20m ferry + 35m taxi + CBP + 40m flight + ~5h SJU wait + ~10h flight | long\n\nRules:\n- **No back-to-back medium days:** met.\n- **Rest after the flight:** Nov 8.\n- **Slow days mid-trip:** Nov 12–13.\n- Only 1 hotel change in 7 nights.\n- Weak spot: Nov 14 chains ferry, taxi, customs, two flights. Isla Verde last night option removes it (−$32 pp).",
+  "hero_photo": "Virgin_Islands_National_Park",
+  "photos": {
+    "OSJ": {
+      "name": "Old San Juan",
+      "wiki": [
+        "Old_San_Juan",
+        "Castillo_San_Felipe_del_Morro",
+        "Castillo_San_Cristóbal_(San_Juan)"
+      ]
+    },
+    "CRZ": {
+      "name": "St. John",
+      "wiki": [
+        "Virgin_Islands_National_Park",
+        "Cruz_Bay,_U.S._Virgin_Islands",
+        "Trunk_Bay",
+        "Green_sea_turtle"
+      ]
+    },
+    "CIN": {
+      "name": "Cinnamon Bay",
+      "wiki": [
+        "Cinnamon_Bay_Plantation",
+        "Virgin_Islands_National_Park"
+      ]
+    },
+    "IVE": {
+      "name": "Isla Verde",
+      "wiki": [
+        "Isla_Verde,_Puerto_Rico"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Green sea turtle",
+      "wiki": "Green_sea_turtle",
+      "where": "Maho Bay seagrass, Waterlemon Cay, Honeymoon",
+      "odds": "Very likely"
+    },
+    {
+      "name": "Hawksbill sea turtle",
+      "wiki": "Hawksbill_sea_turtle",
+      "where": "Reefs: Waterlemon Cay, Trunk Bay",
+      "odds": "Possible"
+    },
+    {
+      "name": "Southern stingray",
+      "wiki": "Southern_stingray",
+      "where": "Sandy bottoms, Maho / Leinster Bay",
+      "odds": "Likely"
+    },
+    {
+      "name": "Spotted eagle ray",
+      "wiki": "Spotted_eagle_ray",
+      "where": "Waterlemon Cay, channels",
+      "odds": "Possible"
+    },
+    {
+      "name": "Brown pelican",
+      "wiki": "Brown_pelican",
+      "where": "Every bay, diving for fish",
+      "odds": "Certain"
+    },
+    {
+      "name": "Bananaquit",
+      "wiki": "Bananaquit",
+      "where": "Everywhere; will steal sugar",
+      "odds": "Certain"
+    },
+    {
+      "name": "Common coquí",
+      "wiki": "Common_coquí",
+      "where": "Puerto Rico nights (Old San Juan less so)",
+      "odds": "Heard: likely"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Puerto Rico + US Virgin Islands",
+      "country": "US Virgin Islands"
+    },
+    "budget_target": {
+      "low": 1500,
+      "high": 2300
+    },
+    "currency": "USD"
+  }
+}

@@ -1,0 +1,1173 @@
+{
+  "id": "botswana-selfdrive",
+  "label": "Botswana self-drive + Victoria Falls + Istanbul · Jan 16",
+  "title": "Botswana self-drive: Nxai Pan, the Central Kalahari, Khama rhinos, Moremi, Khwai, Savuti and Chobe, then Victoria Falls and Istanbul",
+  "summary": "Self-drive 4x4 with two rooftop tents from Maun to Kasane: Nxai Pan, 2 nights in the Central Kalahari for lions and cheetah, white rhino at Khama, Moremi and Khwai for leopards, wild dogs, hippos and crocodiles, then Savuti's lions and the Chobe riverfront's elephants. A night at Victoria Falls, then 2 nights in Istanbul on the way home. ~$6,215 pp.",
+  "overview": "- **What this is:** a camping self-drive through Botswana in the green season, built to see as many of the famous animals as possible: **lions, cheetah, leopard, elephants, hippos, crocodiles, buffalo, giraffe and rhino**. Then a night at **Victoria Falls** and **2 nights in Istanbul** on the way home.\n- **Dates:** LAX Sun Dec 27 → LAX Sat Jan 16. 13 nights in Botswana (11 camping, 2 in Maun), 1 at Victoria Falls, 1 Johannesburg airport hotel, 2 Istanbul, plus 3 on planes.\n- **Route (one-way, Maun → Kasane):** ✈ via Istanbul to Johannesburg (airport hotel) → ✈ Maun 1n → **Nxai Pan 2n** → **CKGR Deception Valley 2n** → **Khama Rhino Sanctuary 1n** → Maun 1n (restock, fill every tank) → **Moremi: Third Bridge 1n, Xakanaxa 1n** → **Khwai 2n** → **Savuti 1n** → **Chobe Riverfront (Ihaha) 1n** → return the 4x4 in Kasane → **Victoria Falls 1n** → ✈ Johannesburg → ✈ **Istanbul 2n** → home.\n- **The vehicle:** Avis Safari Hilux Double Cab Bushcamper with **two rooftop tents** (one each), big fridge, hot water and solar, with Super Cover (zero excess).\n- **⛽ Fuel is the critical item:** no fuel in any park, and none between Maun and Kasane: ~800–900 km over 7 days, mostly deep sand. Carry **≥160 L** (the 150 L tank plus a 20 L jerry can), fill everything in Maun on Jan 5, and top up at Rakops and Letlhakane on the Kalahari leg.\n- **Cats:** Kalahari lions and cheetah at Nxai Pan and Deception; leopard best at Khwai (guided morning and night drives) and Moremi; Savuti's lions; wild dog possible at Khwai and Savuti.\n- **Rhino:** Khama Rhino Sanctuary near Serowe: white rhino almost certain, black rhino possible.\n- **Elephants, hippos, crocodiles:** elephant bulls at Nxai Pan, herds at Khwai, Savuti and Chobe; hippos and crocodiles at Third Bridge, Xakanaxa (boat trip), Khwai, the Chobe riverfront and the Zambezi sunset cruise.\n- **Season:** El Niño is forecast to make this a drier-than-normal rainy season, which concentrates animals along the rivers and waterholes but may make the Kalahari greening patchier. Hot (32–40 °C), with afternoon storms.\n- **The catch:** you drive, cook and navigate yourselves, on sand and black-clay mud; no self-driving after dark in the parks. Book every campsite before collecting the car.\n- **Budget: ~$6,215 pp** (≈ $12,430 for two). Flights ~$2,410 pp, the vehicle ~$1,365 pp including the one-way fee.\n",
+  "dates": {
+    "depart": "2026-12-27",
+    "return": "2027-01-16"
+  },
+  "itinerary": [
+    {
+      "date": "2026-12-27",
+      "day_label": "Day 1 – Sun",
+      "location": "Los Angeles → in flight",
+      "title": "Fly to Istanbul",
+      "details": "Turkish from LAX at 18:30 (~13h). One Turkish multi-city ticket covers LAX → Istanbul → Johannesburg, Johannesburg → Istanbul and Istanbul → LAX (~$1,910 pp on Google Flights, Nov 22). Choose a fare that allows changes.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-28",
+      "day_label": "Day 2 – Mon",
+      "location": "Istanbul → in flight",
+      "title": "Connect in Istanbul",
+      "details": "Land in Istanbul in the evening; ~7h layover airside, then the overnight flight to Johannesburg. Sleep on both flights if you can.",
+      "overnight": "Plane",
+      "meals": "In-flight"
+    },
+    {
+      "date": "2026-12-29",
+      "day_label": "Day 3 – Tue",
+      "location": "Johannesburg",
+      "title": "Land in Johannesburg, airport hotel",
+      "details": "Land 11:00. The Maun flights leave at 11:25 and 12:05, too soon to connect, so stay one night at an airport hotel connected to the terminal by a walkway (InterContinental or City Lodge O.R. Tambo). Rest, or take an Uber in daylight to the Apartheid Museum (closes 17:00). Buy a SIM and some rand at the airport. Don't walk around Johannesburg after dark.",
+      "overnight": "Johannesburg airport hotel",
+      "meals": "In-flight; L, D own"
+    },
+    {
+      "date": "2026-12-30",
+      "day_label": "Day 4 – Wed",
+      "location": "Johannesburg → Maun",
+      "title": "Fly to Maun, collect the 4x4",
+      "details": "Airlink 12:05 → 13:45 (or CemAir 11:25 → 13:45). Collect the Avis Safari Hilux Double Cab Bushcamper (2 rooftop tents) at ~15:00: check both tents, the fridge, the tyres and the fuel capacity, and add a 20 L jerry can. Shop for 5 days of food (Dec 31 – Jan 4) and 80+ litres of water; fill the tank. Shops close for the Jan 1–2 public holidays, but you'll be in the parks. Botswana is UTC+2.",
+      "overnight": "Lodge in Maun",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2026-12-31",
+      "day_label": "Day 5 – Thu",
+      "location": "Maun → Nxai Pan",
+      "title": "Into Nxai Pan",
+      "details": "~3h: tar to the turn-off, then 35 km of deep sand (tyres to ~1.6 bar). Afternoon at the main waterhole: elephant bulls, springbok, zebra, and lions and cheetah on the green grassland. New Year's Eve in the bush.",
+      "overnight": "Nxai Pan South Camp",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-01",
+      "day_label": "Day 6 – Fri",
+      "location": "Nxai Pan",
+      "title": "Nxai Pan: dawn and dusk on the pan",
+      "details": "Zero transfer. Dawn and late-afternoon drives on the pan and around the waterhole; midday in the shade at camp. Optional run to Baines' Baobabs (~1h each way).",
+      "overnight": "Nxai Pan South Camp",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-02",
+      "day_label": "Day 7 – Sat",
+      "location": "Nxai Pan → Central Kalahari (Deception Valley)",
+      "title": "To the Central Kalahari",
+      "details": "~6h: back to the tar, west to Motopi, south to Rakops (⛽ last fuel before the CKGR: fill the tank and the jerry can), then Matswere gate and Deception Valley. Afternoon drive in the valley.",
+      "overnight": "Deception Valley campsite (CKGR)",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-03",
+      "day_label": "Day 8 – Sun",
+      "location": "CKGR: Deception Valley",
+      "title": "Deception Valley: lions, cheetah, springbok herds",
+      "details": "Zero transfer. Dawn and dusk loops to Sunday Pan, Leopard Pan and Passarge Valley. Green-season herds of springbok and gemsbok draw the Kalahari's black-maned lions and cheetah.",
+      "overnight": "Deception Valley campsite (CKGR)",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-04",
+      "day_label": "Day 9 – Mon",
+      "location": "Deception Valley → Khama Rhino Sanctuary",
+      "title": "Out of the Kalahari to the rhinos",
+      "details": "Dawn drive, then out at Matswere by mid-morning. Rakops and Letlhakane (⛽ fuel and shops), then Serowe to the sanctuary (~4–5h). Afternoon guided drive or self-drive around the pans and waterholes: white rhino almost certain, black rhino possible, plus giraffe, zebra and eland.",
+      "overnight": "Khama Rhino Sanctuary campsite",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-05",
+      "day_label": "Day 10 – Tue",
+      "location": "Khama Rhino Sanctuary → Maun",
+      "title": "Rhinos at dawn, then restock in Maun",
+      "details": "Dawn rhino drive, then ~5–6h to Maun via Letlhakane, Rakops and Motopi. **⛽ Fill the tank and all jerry cans to the brim: there is no fuel between Maun and Kasane (~800–900 km, mostly deep sand).** Restock 6 days of food and 80+ litres of water, do laundry, check the tyres.",
+      "overnight": "Lodge in Maun",
+      "meals": "Self-catering; D own"
+    },
+    {
+      "date": "2027-01-06",
+      "day_label": "Day 11 – Wed",
+      "location": "Maun → Moremi (Third Bridge)",
+      "title": "Into Moremi: Third Bridge",
+      "details": "~2h to South Gate, then ~1.5h to Third Bridge (ask at South Gate which tracks are open after the floods; if Third Bridge is closed, spend both Moremi nights at Xakanaxa). Afternoon on the Mboma loop: lion, leopard, hippos, crocodiles, red lechwe, elephants.",
+      "overnight": "Third Bridge campsite, Moremi",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-07",
+      "day_label": "Day 12 – Thu",
+      "location": "Third Bridge → Xakanaxa",
+      "title": "Moremi lagoons and a boat trip",
+      "details": "Dawn drive, then slowly via Fourth Bridge and the Dombo hippo pool to Xakanaxa (~1.5h without stops). Afternoon boat trip on the lagoon for hippos and crocodiles up close (check it's running at January water levels; Mboma is the backup).",
+      "overnight": "Xakanaxa campsite, Moremi",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-08",
+      "day_label": "Day 13 – Fri",
+      "location": "Xakanaxa → Khwai",
+      "title": "Dawn drive, then Khwai",
+      "details": "Dawn drive at Xakanaxa, then ~1.5–2h east via North Gate into the Khwai community area. Afternoon along the Khwai River: elephants, hippos, leopard, wild dog.",
+      "overnight": "Khwai (Magotho) community campsite",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-09",
+      "day_label": "Day 14 – Sat",
+      "location": "Khwai",
+      "title": "Khwai: guided drives for leopard and wild dog",
+      "details": "Zero transfer. A Khwai community guide for the morning (off-road driving is allowed here) and a guided night drive in the evening: the best chance at leopard, plus genets, servals and owls.",
+      "overnight": "Khwai (Magotho) community campsite",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-10",
+      "day_label": "Day 15 – Sun",
+      "location": "Khwai → Savuti (Chobe NP)",
+      "title": "To Savuti",
+      "details": "~3–4h via Mababe gate on deep sand. Ask the Khwai guides that morning whether the Marsh road or the Sand Ridge road is better (black-clay mud after rain). Afternoon on the Savuti Marsh and channel: lions, zebra on their green-season migration, elephants. Fuel check: you should still have well over half.",
+      "overnight": "Savuti campsite",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-11",
+      "day_label": "Day 16 – Mon",
+      "location": "Savuti → Chobe Riverfront",
+      "title": "North to the Chobe River",
+      "details": "Dawn drive at Savuti, then north via Ghoha Hills gate, Kachikau and Ngoma (~4–5h), entering the riverfront from the west. Afternoon drive: elephant herds, buffalo, hippos, crocodiles, puku, sable.",
+      "overnight": "Ihaha campsite, Chobe Riverfront",
+      "meals": "Self-catering"
+    },
+    {
+      "date": "2027-01-12",
+      "day_label": "Day 17 – Tue",
+      "location": "Chobe Riverfront → Kasane → Victoria Falls",
+      "title": "Last game drive, then Victoria Falls",
+      "details": "Dawn drive east along the riverfront to Sedudu gate. ⛽ Refuel in Kasane, clean out the vehicle and return it at the Kasane depot ~12:00. Transfer to Victoria Falls (~1.5h with the Kazungula border; Zimbabwe visa on arrival). Afternoon walk through the rainforest along the falls, then a Zambezi sunset cruise: hippos, crocodiles, often elephants.",
+      "overnight": "Victoria Falls hotel",
+      "meals": "Self-catering; D own"
+    },
+    {
+      "date": "2027-01-13",
+      "day_label": "Day 18 – Wed",
+      "location": "Victoria Falls → Johannesburg",
+      "title": "Falls in the morning, fly to Johannesburg",
+      "details": "Morning back at the falls (or the bridge, or a rest by the pool). At the airport by ~12:00 for Airlink 14:00 → 15:45 or South African 14:20 → 16:05. In Johannesburg, check in for Turkish and wait airside (dinner, or a day room) for the 00:20 departure.",
+      "overnight": "Plane (departs 00:20 Jan 14)",
+      "meals": "B hotel; L, D own"
+    },
+    {
+      "date": "2027-01-14",
+      "day_label": "Day 19 – Thu",
+      "location": "Johannesburg → Istanbul",
+      "title": "Land in Istanbul: the old city",
+      "details": "TK243 00:20 → Istanbul 11:25. Airport metro (M11 → M2 → T1) to Sultanahmet (~1.5h) or a taxi. Drop bags, then Hagia Sophia, the Basilica Cistern, the Blue Mosque and the Hippodrome, all within ten minutes' walk.",
+      "overnight": "Istanbul hotel",
+      "meals": "In-flight; L, D own"
+    },
+    {
+      "date": "2027-01-15",
+      "day_label": "Day 20 – Fri",
+      "location": "Istanbul",
+      "title": "Topkapı, Grand Bazaar, Bosphorus ferry",
+      "details": "Topkapı Palace at opening, the Grand Bazaar and the Spice Bazaar, then a public ferry to Kadıköy on the Asian side for the food market and dinner.",
+      "overnight": "Istanbul hotel",
+      "meals": "B; L, D own"
+    },
+    {
+      "date": "2027-01-16",
+      "day_label": "Day 21 – Sat",
+      "location": "Istanbul → Los Angeles",
+      "title": "Fly home",
+      "details": "Free morning (Süleymaniye Mosque, or coffee by the Galata Bridge). Turkish 13:50 → LAX 16:35 the same day (an 08:00 → 10:50 flight also runs).",
+      "overnight": "Home",
+      "meals": "B; in-flight"
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Johannesburg airport hotel",
+      "place": "JNB",
+      "location": "O.R. Tambo airport, connected to the terminal",
+      "nights": 1,
+      "pppn_usd": 90,
+      "style": "Airport hotel",
+      "includes": "Dec 29. InterContinental or City Lodge O.R. Tambo, both reached on foot from arrivals.",
+      "why": "Too late to connect to Maun on arrival day; you never leave the airport precinct.",
+      "alternatives": "",
+      "url": ""
+    },
+    {
+      "name": "Lodge in Maun",
+      "place": "MUB",
+      "location": "Maun, on the Thamalakane River",
+      "nights": 2,
+      "pppn_usd": 45,
+      "style": "Riverside lodge",
+      "includes": "~$90/room B&B. Dec 30 and Jan 5.",
+      "why": "Vehicle handover and the big shop; then a shower, laundry and the restock between the Kalahari and the Okavango.",
+      "alternatives": "Old Bridge Backpackers or Audi Camp have rooms, or camp there for less.",
+      "url": "https://www.booking.com/city/bw/maun.html"
+    },
+    {
+      "name": "Nxai Pan South Camp",
+      "place": "NXP",
+      "location": "Nxai Pan NP",
+      "nights": 2,
+      "pppn_usd": 40,
+      "style": "Campsite",
+      "includes": "Ablution block; Xomae-run (xomaesites@botsnet.bw).",
+      "why": "Closest site to the main waterhole.",
+      "alternatives": "Baines' Baobabs (also Xomae) if it's full.",
+      "url": "https://blog.tracks4africa.co.za/how-to-book-campsites-in-botswana-national-parks/"
+    },
+    {
+      "name": "Deception Valley campsite (CKGR)",
+      "place": "DEC",
+      "location": "Deception Valley, Central Kalahari",
+      "nights": 2,
+      "pppn_usd": 10,
+      "style": "Wild campsite",
+      "includes": "DWNP-run (dwnp@gov.bw); long-drop at best, no showers. Bring all water.",
+      "why": "In the middle of the valley; lions often walk through.",
+      "alternatives": "Kori, Sunday Pan, Leopard Pan or Passarge if it's full.",
+      "url": "https://www.africanreservations.com/CKGR-Campsites"
+    },
+    {
+      "name": "Khama Rhino Sanctuary campsite",
+      "place": "KRS",
+      "location": "Near Serowe, Central District",
+      "nights": 1,
+      "pppn_usd": 18,
+      "style": "Campsite",
+      "includes": "Shaded sites, hot showers; book via krst@khamarhinosanctuary.org.bw or the online portal. Guided drives and rhino trails available.",
+      "why": "The trip's rhino stop: white rhino almost certain, black rhino possible.",
+      "alternatives": "Chalets at the sanctuary.",
+      "url": "https://khamarhinosanctuary.org.bw"
+    },
+    {
+      "name": "Third Bridge campsite, Moremi",
+      "place": "TBR",
+      "location": "Third Bridge, Moremi Game Reserve",
+      "nights": 1,
+      "pppn_usd": 50,
+      "style": "Campsite",
+      "includes": "Xomae-run; ablution block, unfenced.",
+      "why": "Mboma loop and the lagoons: lion, leopard, hippos, crocodiles.",
+      "alternatives": "A second night at Xakanaxa, or South Gate, if it hasn't reopened after the floods.",
+      "url": "https://moremipark.com/lodges/third-bridge-campsite/"
+    },
+    {
+      "name": "Xakanaxa campsite, Moremi",
+      "place": "XAK",
+      "location": "Xakanaxa, Moremi Game Reserve",
+      "nights": 1,
+      "pppn_usd": 50,
+      "style": "Campsite",
+      "includes": "Kwalate-run (kwalatesafari@gmail.com, +267 686 1448); ablution block.",
+      "why": "On the lagoons: hippos, leopard area, boat station nearby.",
+      "alternatives": "South Gate or Third Bridge.",
+      "url": "https://semowi.com/xakanaxa-campsite-booking-guide/"
+    },
+    {
+      "name": "Khwai (Magotho) community campsite",
+      "place": "KHW",
+      "location": "Khwai Development Trust area",
+      "nights": 2,
+      "pppn_usd": 35,
+      "style": "Campsite",
+      "includes": "P400 pp; basic ablutions (water unreliable). Book with reservations@khwaitrust.co.bw, plus the guided drives.",
+      "why": "Elephants, hippos and leopards along the river; community guides for off-road and night drives.",
+      "alternatives": "North Gate (SKL) on the Moremi side.",
+      "url": "https://khwaitrust.co.bw/camp-sites.html"
+    },
+    {
+      "name": "Savuti campsite",
+      "place": "SAV",
+      "location": "Savuti, Chobe National Park",
+      "nights": 1,
+      "pppn_usd": 52,
+      "style": "Campsite",
+      "includes": "SKL-run (reservations@sklcamps.co.bw); ablutions, hot water some of the time.",
+      "why": "Savuti Marsh lions, the green-season zebra migration and elephants.",
+      "alternatives": "Hardest to replace: a 3rd Khwai night and a long drive, or the Maun loop.",
+      "url": "https://app.ioverlander.com/places/6329-savuti-campsite"
+    },
+    {
+      "name": "Ihaha campsite, Chobe Riverfront",
+      "place": "CHO",
+      "location": "Chobe Riverfront, Chobe National Park",
+      "nights": 1,
+      "pppn_usd": 40,
+      "style": "Campsite",
+      "includes": "Kwalate-run (book by email or phone, not via unofficial booking sites); riverside pitches, solar-heated showers.",
+      "why": "On the Chobe River: elephants, buffalo, hippos and crocodiles at dawn and dusk.",
+      "alternatives": "Senyati Safari Camp, Chobe Safari Lodge or Thebe River campsites in Kasane.",
+      "url": "https://blog.tracks4africa.co.za/how-to-book-campsites-in-botswana-national-parks/"
+    },
+    {
+      "name": "Victoria Falls hotel",
+      "place": "VFA",
+      "location": "Victoria Falls town, Zimbabwe",
+      "nights": 1,
+      "pppn_usd": 80,
+      "style": "Hotel",
+      "includes": "~$160/room B&B, walking distance to the falls entrance.",
+      "why": "One night to see the falls in the afternoon and again in the morning before the flight.",
+      "alternatives": "Lodges and backpackers in town for less.",
+      "url": ""
+    },
+    {
+      "name": "Istanbul hotel (TK Stopover, 2 nights free)",
+      "place": "IST",
+      "location": "Sultanahmet, Istanbul",
+      "nights": 2,
+      "pppn_usd": 0,
+      "style": "Hotel",
+      "includes": "Room and breakfast. Turkish gives US-origin economy passengers two free hotel nights, once per ticket, when they stop in Istanbul. Apply ≥72h before the flight.",
+      "why": "Breaks up the journey home.",
+      "alternatives": "Pick your own hotel, about +$120 pp.",
+      "url": "https://www.turkishairlines.com/en-us/flights/stopover/"
+    }
+  ],
+  "budget": [
+    {
+      "category": "International flights",
+      "item": "Turkish LAX → Istanbul → Johannesburg (Dec 27), Johannesburg → Istanbul (00:20 Jan 14), Istanbul → LAX (Jan 16)",
+      "per_person_usd": 1910,
+      "low_usd": 1850,
+      "high_usd": 2200,
+      "notes": "~$1,885–1,910 for one adult on Google Flights, Nov 22. One multi-city ticket on turkishairlines.com; pick a fare that allows changes and qualifies for the Stopover hotel."
+    },
+    {
+      "category": "Regional flights",
+      "item": "Johannesburg → Maun (Dec 30) and Victoria Falls → Johannesburg (Jan 13)",
+      "per_person_usd": 500,
+      "low_usd": 420,
+      "high_usd": 650,
+      "notes": "Airlink 12:05 or CemAir 11:25 (~$300) to Maun; Airlink 14:00, South African 14:20, Fastjet or CemAir (~$170–350) from Victoria Falls."
+    },
+    {
+      "category": "Vehicle",
+      "item": "Avis Safari Hilux Double Cab Bushcamper, 2 rooftop tents, Maun Dec 30 → Kasane Jan 12 (13 days)",
+      "per_person_usd": 1165,
+      "low_usd": 1000,
+      "high_usd": 1400,
+      "notes": "~$179/day with Super Cover (zero excess), split two ways. Booked via Drive South Africa. Add a 20 L jerry can, USB/12V and inverter, and a satellite phone."
+    },
+    {
+      "category": "Vehicle",
+      "item": "One-way fee (collect in Maun, return in Kasane)",
+      "per_person_usd": 200,
+      "low_usd": 100,
+      "high_usd": 350,
+      "notes": "Estimate: confirm on the quote."
+    },
+    {
+      "category": "Fuel",
+      "item": "~2,600 km of diesel",
+      "per_person_usd": 230,
+      "low_usd": 180,
+      "high_usd": 320,
+      "notes": "~15–18 L/100 km in sand. ⛽ Fuel only at Maun, Rakops, Letlhakane and Kasane; none for ~800–900 km between Maun (Jan 5) and Kasane (Jan 12)."
+    },
+    {
+      "category": "Park fees",
+      "item": "Nxai Pan and CKGR 5 days; Moremi and Chobe 6 days; Khama entry; vehicle fees",
+      "per_person_usd": 220,
+      "low_usd": 170,
+      "high_usd": 320,
+      "notes": "P190 (~$14) pp/day at Nxai and the CKGR; P270 (~$20) at Moremi and Chobe. Check for fee changes before you go."
+    },
+    {
+      "category": "Campsites",
+      "item": "11 nights: Nxai 2, Deception 2, Khama 1, Third Bridge 1, Xakanaxa 1, Khwai 2, Savuti 1, Ihaha 1",
+      "per_person_usd": 390,
+      "low_usd": 300,
+      "high_usd": 550,
+      "notes": "Book all of them before collecting the vehicle; rangers check bookings at the gates."
+    },
+    {
+      "category": "Wildlife activities",
+      "item": "Khwai guided morning drive and night drive, Xakanaxa boat trip, Khama guided drive",
+      "per_person_usd": 185,
+      "low_usd": 140,
+      "high_usd": 260,
+      "notes": ""
+    },
+    {
+      "category": "Lodging",
+      "item": "Johannesburg airport hotel 1 night, Maun lodge 2 nights",
+      "per_person_usd": 180,
+      "low_usd": 120,
+      "high_usd": 300,
+      "notes": ""
+    },
+    {
+      "category": "Victoria Falls",
+      "item": "Hotel, falls entry, Zimbabwe visa, Kasane transfer, Zambezi sunset cruise",
+      "per_person_usd": 280,
+      "low_usd": 220,
+      "high_usd": 380,
+      "notes": "Hotel ~$80, entry ~$50, visa ~$30 on arrival (check the current fee), transfer ~$45, cruise ~$75."
+    },
+    {
+      "category": "Meals",
+      "item": "Groceries and town restaurants, 14 days",
+      "per_person_usd": 300,
+      "low_usd": 220,
+      "high_usd": 400,
+      "notes": "Self-catering in the parks; Maun supermarkets are well stocked."
+    },
+    {
+      "category": "Admin",
+      "item": "Botswana Tourism Development Levy",
+      "per_person_usd": 30,
+      "low_usd": 30,
+      "high_usd": 50,
+      "notes": "$30 online for non-SADC visitors. No visa needed for US citizens."
+    },
+    {
+      "category": "Admin",
+      "item": "SIMs, firewood, sundries",
+      "per_person_usd": 60,
+      "low_usd": 30,
+      "high_usd": 100,
+      "notes": ""
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Travel medical + evacuation plan",
+      "per_person_usd": 100,
+      "low_usd": 60,
+      "high_usd": 250,
+      "notes": "Make sure it covers self-drive and air evacuation from remote areas."
+    },
+    {
+      "category": "Health and insurance",
+      "item": "Malaria prophylaxis and travel clinic",
+      "per_person_usd": 100,
+      "low_usd": 50,
+      "high_usd": 200,
+      "notes": "Moremi, Khwai, Chobe and Victoria Falls are malarial in the rains."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Hotel: 2 nights free via TK Stopover",
+      "per_person_usd": 0,
+      "low_usd": 0,
+      "high_usd": 160,
+      "notes": "Apply at least 72h before the flight."
+    },
+    {
+      "category": "Istanbul",
+      "item": "Food, 2 days",
+      "per_person_usd": 80,
+      "low_usd": 60,
+      "high_usd": 140,
+      "notes": ""
+    },
+    {
+      "category": "Istanbul",
+      "item": "Sights: Hagia Sophia, Basilica Cistern, Topkapı",
+      "per_person_usd": 105,
+      "low_usd": 90,
+      "high_usd": 160,
+      "notes": ""
+    },
+    {
+      "category": "Istanbul",
+      "item": "Airport transfers and Istanbulkart",
+      "per_person_usd": 30,
+      "low_usd": 20,
+      "high_usd": 60,
+      "notes": ""
+    },
+    {
+      "category": "Contingency",
+      "item": "Held until the vehicle and campsites are confirmed",
+      "per_person_usd": 150,
+      "low_usd": 0,
+      "high_usd": 300,
+      "notes": "Recovery if you get stuck, an extra night if a road floods, a lodge night if a campsite falls through."
+    }
+  ],
+  "budget_total_per_person_usd": 6215,
+  "alternatives": [
+    {
+      "id": "scenic-flight",
+      "name": "Okavango scenic flight from Maun",
+      "description": "45–60 min over the Delta in a small plane on the afternoon of the Jan 5 restock day.",
+      "cost_delta_per_person_usd": 150
+    },
+    {
+      "id": "maun-loop",
+      "name": "Maun loop instead of Kasane (if Savuti is full or the one-way fee is high)",
+      "description": "Skip Savuti, Chobe and Victoria Falls: 3 nights each in Moremi and Khwai, return the car in Maun and fly Maun → Johannesburg on Jan 13.",
+      "cost_delta_per_person_usd": -350
+    },
+    {
+      "id": "guided",
+      "name": "Guided mobile camping safari instead of self-drive",
+      "description": "Same route with a guide, cook and their vehicle. No driving, and far better cat-tracking, but well over budget.",
+      "cost_delta_per_person_usd": 3500
+    }
+  ],
+  "booking_timeline": [
+    {
+      "when": "Now (Nov 22)",
+      "task": "Book the Turkish multi-city ticket: LAX → JNB Dec 27, JNB → IST 00:20 on Jan 14, IST → LAX Jan 16, on turkishairlines.com with a changeable fare. Book the Avis Safari Hilux Bushcamper (2 tents) on Drive South Africa: Maun Dec 30 15:00 → Kasane Jan 12 ~12:00, Super Cover; confirm the one-way fee, fuel capacity, jerry can, USB/inverter and sat phone."
+    },
+    {
+      "when": "Now (Nov 22)",
+      "task": "Email every campsite (Xomae: Nxai Pan + Third Bridge; DWNP: Deception; Khama; Kwalate: Xakanaxa + Ihaha; Khwai Trust: Magotho + guides; SKL: Savuti). Phone Xomae and SKL on Monday. Ask to be waitlisted for anything full."
+    },
+    {
+      "when": "This week",
+      "task": "Book Johannesburg → Maun (Dec 30), Victoria Falls → Johannesburg (Jan 13), the Johannesburg airport hotel (Dec 29), the Maun lodge (Dec 30, Jan 5), the Victoria Falls hotel (Jan 12), the Kasane → Victoria Falls transfer and the Zambezi sunset cruise, the Xakanaxa boat trip. Pay the Botswana levy online."
+    },
+    {
+      "when": "Now",
+      "task": "Travel clinic: malaria prophylaxis, routine vaccines, typhoid, hepatitis A."
+    },
+    {
+      "when": "≥72h before the flight",
+      "task": "Apply for the Turkish Stopover hotel (2 free nights in Istanbul, Jan 14–15)."
+    },
+    {
+      "when": "Dec 15–22",
+      "task": "Check rainfall reports and road notes for the CKGR, Nxai Pan, Moremi and the Mababe–Savuti track. Check the Zimbabwe visa fee. Download offline maps."
+    }
+  ],
+  "practical": "## Entry\n- **Botswana:** no visa for US citizens (up to 90 days). Pay the $30 Tourism Development Levy online beforehand. Passport valid 6+ months with 2 blank pages.\n- **South Africa (transit):** visa-free for US citizens; you clear immigration at Johannesburg on Dec 29 and again for the Jan 13 connection.\n- **Zimbabwe (Victoria Falls):** US citizens get a visa on arrival at Kazungula (~$30 single entry; check the current fee). Carry US dollars in small notes.\n- **Türkiye:** visa-free for US citizens (90 days).\n\n## Johannesburg\n- Stay at a hotel connected to the terminal; you never leave the airport precinct. Go out only in daylight, by Uber or hotel car, with phones and cameras out of sight. Avoid the inner city (CBD, Hillbrow).\n\n## Driving\n- **Left-hand traffic.** Both drivers need a US licence; an International Driving Permit is advisable.\n- Deflate to ~1.6 bar in sand; re-inflate on the tar. Never drive the parks after dark.\n- **Black-clay mud** on the CKGR pans, around Nxai and on the Mababe–Savuti track after rain: stay on the tracks and turn back rather than get stuck alone.\n- **⛽ Fuel:** Maun, Rakops (last before the CKGR), Letlhakane and Kasane only. **Nothing between Maun (Jan 5) and Kasane (Jan 12):** ~800–900 km, mostly deep sand, at ~15–18 L/100 km. Carry ≥160 L, fill everything in Maun and track consumption daily. If you're below half at Khwai, skip detours and head for Kasane.\n- Carry 20+ litres of water each beyond drinking needs, and the satellite phone. Tell the rental firm your route.\n\n## Camping\n- Unfenced sites: lions, hyenas and elephants walk through. Sleep in the rooftop tents, zip up, never walk away from the car after dark, and keep food in the vehicle.\n- No showers at Deception Valley; Khwai's are unreliable. Ask the rental firm for a camp shower.\n- Charge phones and camera batteries while driving (USB/12V); don't drain the fridge battery overnight. Mains power in Maun, Khama, Victoria Falls.\n- Bring firewood from Maun; collecting it in the parks isn't allowed.\n\n## Food\n- Big shops in Maun on Dec 30 (5 days) and Jan 5 (6 days); top-up at Letlhakane on Jan 4. Fresh meat for 3–4 days, then tins, pasta, rice, eggs, long-life milk.\n\n## Money\n- Botswana pula; cards work in Maun and Kasane. Carry pula for gates, firewood and tips, and US dollars for Zimbabwe.\n\n## Season\n- Late December–January: hot (32–40 °C), afternoon thunderstorms. A drier El Niño year is forecast, which concentrates animals near permanent water.\n\n## Health and safety\n- Malaria risk in Moremi, Khwai, Chobe and Victoria Falls: take prophylaxis. The nearest hospitals are in Maun and Kasane; evacuation cover is essential.\n\n## Istanbul in January\n- Cold and often wet (~4–9 °C): pack a warm layer and a rain jacket, which you'll also want on Kalahari dawn drives.\n",
+  "open_questions": [
+    "Do the campsites confirm? Savuti and Nxai Pan over New Year are the hardest to replace.",
+    "What is the one-way fee to Kasane? If it's high, the Maun loop saves money but drops Savuti, Chobe and Victoria Falls.",
+    "Is Third Bridge open after the 2026 floods? If not, 2 nights at Xakanaxa."
+  ],
+  "sources": [
+    "https://www.google.com/travel/flights",
+    "https://www.drivesouthafrica.com/?p=20312",
+    "https://blog.tracks4africa.co.za/how-to-book-campsites-in-botswana-national-parks/",
+    "https://khwaitrust.co.bw/camp-sites.html",
+    "https://khamarhinosanctuary.org.bw",
+    "https://app.ioverlander.com/places/6329-savuti-campsite",
+    "https://moremipark.com/lodges/third-bridge-campsite/",
+    "https://www.africanreservations.com/CKGR-Campsites",
+    "https://semowi.com/xakanaxa-campsite-booking-guide/",
+    "https://moremipark.com/entry-fees/",
+    "https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security",
+    "https://www.sadc.int/sites/default/files/2026-08/EN_FINAL%20SARCOF-33%20STATEMENT-final-28Aug1600hrs_0.pdf",
+    "https://www.turkishairlines.com/en-us/flights/stopover/"
+  ],
+  "places": {
+    "LAX": {
+      "name": "Los Angeles (LAX)",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "kind": "home",
+      "country": "USA"
+    },
+    "IST": {
+      "name": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "kind": "city",
+      "country": "Türkiye"
+    },
+    "JNB": {
+      "name": "Johannesburg (OR Tambo)",
+      "lat": -26.1367,
+      "lng": 28.2411,
+      "kind": "transit",
+      "country": "South Africa"
+    },
+    "MUB": {
+      "name": "Maun",
+      "lat": -19.9726,
+      "lng": 23.4311,
+      "kind": "city",
+      "country": "Botswana"
+    },
+    "NXP": {
+      "name": "Nxai Pan",
+      "lat": -19.93,
+      "lng": 24.77,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "DEC": {
+      "name": "Deception Valley (CKGR)",
+      "lat": -21.42,
+      "lng": 23.72,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "KRS": {
+      "name": "Khama Rhino Sanctuary",
+      "lat": -22.37,
+      "lng": 26.72,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "TBR": {
+      "name": "Third Bridge (Moremi)",
+      "lat": -19.24,
+      "lng": 23.36,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "XAK": {
+      "name": "Xakanaxa (Moremi)",
+      "lat": -19.18,
+      "lng": 23.42,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "KHW": {
+      "name": "Khwai",
+      "lat": -19.15,
+      "lng": 23.8,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "SAV": {
+      "name": "Savuti (Chobe NP)",
+      "lat": -18.57,
+      "lng": 24.06,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "CHO": {
+      "name": "Chobe Riverfront (Ihaha)",
+      "lat": -17.84,
+      "lng": 24.88,
+      "kind": "nature",
+      "country": "Botswana"
+    },
+    "BBK": {
+      "name": "Kasane",
+      "lat": -17.83,
+      "lng": 25.16,
+      "kind": "transit",
+      "country": "Botswana"
+    },
+    "VFA": {
+      "name": "Victoria Falls",
+      "lat": -17.9243,
+      "lng": 25.8572,
+      "kind": "nature",
+      "country": "Zimbabwe"
+    }
+  },
+  "legs": [
+    {
+      "date": "2026-12-27",
+      "from": "LAX",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~13h",
+      "detail": "Turkish 18:30"
+    },
+    {
+      "date": "2026-12-28",
+      "from": "IST",
+      "to": "JNB",
+      "mode": "flight",
+      "duration": "~10h",
+      "detail": "Overnight, lands Dec 29 11:00"
+    },
+    {
+      "date": "2026-12-30",
+      "from": "JNB",
+      "to": "MUB",
+      "mode": "flight",
+      "duration": "~1h40",
+      "detail": "Airlink 12:05 → 13:45"
+    },
+    {
+      "date": "2026-12-31",
+      "from": "MUB",
+      "to": "NXP",
+      "mode": "road",
+      "duration": "~3h",
+      "detail": "Tar, then 35 km of deep sand"
+    },
+    {
+      "date": "2027-01-02",
+      "from": "NXP",
+      "to": "DEC",
+      "mode": "road",
+      "duration": "~6h",
+      "detail": "Motopi, Rakops (fuel), Matswere gate"
+    },
+    {
+      "date": "2027-01-04",
+      "from": "DEC",
+      "to": "KRS",
+      "mode": "road",
+      "duration": "~4–5h",
+      "detail": "Matswere, Rakops and Letlhakane (fuel), Serowe"
+    },
+    {
+      "date": "2027-01-05",
+      "from": "KRS",
+      "to": "MUB",
+      "mode": "road",
+      "duration": "~5–6h",
+      "detail": "Letlhakane, Rakops, Motopi; fill every tank"
+    },
+    {
+      "date": "2027-01-06",
+      "from": "MUB",
+      "to": "TBR",
+      "mode": "road",
+      "duration": "~3.5h",
+      "detail": "Via South Gate"
+    },
+    {
+      "date": "2027-01-07",
+      "from": "TBR",
+      "to": "XAK",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Via Fourth Bridge and Dombo"
+    },
+    {
+      "date": "2027-01-08",
+      "from": "XAK",
+      "to": "KHW",
+      "mode": "road",
+      "duration": "~1.5–2h",
+      "detail": "Via North Gate"
+    },
+    {
+      "date": "2027-01-10",
+      "from": "KHW",
+      "to": "SAV",
+      "mode": "road",
+      "duration": "~3–4h",
+      "detail": "Via Mababe gate; deep sand, mud possible"
+    },
+    {
+      "date": "2027-01-11",
+      "from": "SAV",
+      "to": "CHO",
+      "mode": "road",
+      "duration": "~4–5h",
+      "detail": "Ghoha Hills gate, Kachikau, Ngoma"
+    },
+    {
+      "date": "2027-01-12",
+      "from": "CHO",
+      "to": "BBK",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Riverfront to Sedudu gate; first fuel since Maun; return the car"
+    },
+    {
+      "date": "2027-01-12",
+      "from": "BBK",
+      "to": "VFA",
+      "mode": "road",
+      "duration": "~1.5h",
+      "detail": "Transfer via the Kazungula border"
+    },
+    {
+      "date": "2027-01-13",
+      "from": "VFA",
+      "to": "JNB",
+      "mode": "flight",
+      "duration": "~1h45",
+      "detail": "Airlink 14:00 → 15:45 or South African 14:20 → 16:05"
+    },
+    {
+      "date": "2027-01-14",
+      "from": "JNB",
+      "to": "IST",
+      "mode": "flight",
+      "duration": "~10h",
+      "detail": "TK243 00:20 → 11:25"
+    },
+    {
+      "date": "2027-01-16",
+      "from": "IST",
+      "to": "LAX",
+      "mode": "flight",
+      "duration": "~13h45",
+      "detail": "Turkish 13:50 → 16:35 same day"
+    }
+  ],
+  "stays": [
+    {
+      "place": "JNB",
+      "from": "2026-12-29",
+      "nights": 1,
+      "label": "Johannesburg airport"
+    },
+    {
+      "place": "MUB",
+      "from": "2026-12-30",
+      "nights": 1,
+      "label": "Maun"
+    },
+    {
+      "place": "NXP",
+      "from": "2026-12-31",
+      "nights": 2,
+      "label": "Nxai Pan"
+    },
+    {
+      "place": "DEC",
+      "from": "2027-01-02",
+      "nights": 2,
+      "label": "Deception Valley"
+    },
+    {
+      "place": "KRS",
+      "from": "2027-01-04",
+      "nights": 1,
+      "label": "Khama Rhino Sanctuary"
+    },
+    {
+      "place": "MUB",
+      "from": "2027-01-05",
+      "nights": 1,
+      "label": "Maun"
+    },
+    {
+      "place": "TBR",
+      "from": "2027-01-06",
+      "nights": 1,
+      "label": "Third Bridge"
+    },
+    {
+      "place": "XAK",
+      "from": "2027-01-07",
+      "nights": 1,
+      "label": "Xakanaxa"
+    },
+    {
+      "place": "KHW",
+      "from": "2027-01-08",
+      "nights": 2,
+      "label": "Khwai"
+    },
+    {
+      "place": "SAV",
+      "from": "2027-01-10",
+      "nights": 1,
+      "label": "Savuti"
+    },
+    {
+      "place": "CHO",
+      "from": "2027-01-11",
+      "nights": 1,
+      "label": "Chobe Riverfront"
+    },
+    {
+      "place": "VFA",
+      "from": "2027-01-12",
+      "nights": 1,
+      "label": "Victoria Falls"
+    },
+    {
+      "place": "IST",
+      "from": "2027-01-14",
+      "nights": 2,
+      "label": "Istanbul"
+    }
+  ],
+  "fatigue_check": "Hardest stretch: the outbound, two long flights (LAX → Istanbul → Johannesburg), eased by the Johannesburg airport night before Maun.\nJan 2: ~6h Nxai → Deception. Jan 4–5: ~4–5h to Khama, then ~5–6h to Maun and the big restock.\nJan 10–11: deep sand and possible mud to Savuti, then ~4–5h to the Chobe River.\nJan 12–14: car return, Victoria Falls, then Victoria Falls → Johannesburg and the 00:20 overnight to Istanbul.\nZero-transfer days: Jan 1, Jan 3, Jan 9, Jan 15.",
+  "hero_photo": "Central_Kalahari_Game_Reserve",
+  "photos": {
+    "NXP": {
+      "name": "Nxai Pan",
+      "wiki": [
+        "Nxai_Pan_National_Park",
+        "Cheetah",
+        "Springbok"
+      ]
+    },
+    "DEC": {
+      "name": "Central Kalahari",
+      "wiki": [
+        "Central_Kalahari_Game_Reserve",
+        "Lion",
+        "Gemsbok"
+      ]
+    },
+    "KRS": {
+      "name": "Khama Rhino Sanctuary",
+      "wiki": [
+        "Khama_Rhino_Sanctuary",
+        "White_rhinoceros"
+      ]
+    },
+    "XAK": {
+      "name": "Moremi",
+      "wiki": [
+        "Moremi_Game_Reserve",
+        "Hippopotamus",
+        "Nile_crocodile"
+      ]
+    },
+    "KHW": {
+      "name": "Khwai",
+      "wiki": [
+        "Leopard",
+        "African_wild_dog",
+        "African_bush_elephant"
+      ]
+    },
+    "CHO": {
+      "name": "Savuti and Chobe",
+      "wiki": [
+        "Chobe_National_Park",
+        "African_buffalo"
+      ]
+    },
+    "VFA": {
+      "name": "Victoria Falls",
+      "wiki": [
+        "Victoria_Falls"
+      ]
+    },
+    "IST": {
+      "name": "Istanbul",
+      "wiki": [
+        "Istanbul",
+        "Hagia_Sophia",
+        "Basilica_Cistern",
+        "Bosphorus"
+      ]
+    }
+  },
+  "wildlife": [
+    {
+      "name": "Lion",
+      "wiki": "Lion",
+      "where": "Deception Valley, Nxai Pan, Savuti, Moremi, Khwai",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Cheetah",
+      "wiki": "Cheetah",
+      "where": "Nxai Pan, Deception Valley",
+      "odds": "Likely"
+    },
+    {
+      "name": "Leopard",
+      "wiki": "Leopard",
+      "where": "Khwai (guided drives), Moremi, Savuti",
+      "odds": "Possible"
+    },
+    {
+      "name": "African wild dog",
+      "wiki": "African_wild_dog",
+      "where": "Khwai, Moremi, Savuti",
+      "odds": "Possible"
+    },
+    {
+      "name": "White rhinoceros",
+      "wiki": "White_rhinoceros",
+      "where": "Khama Rhino Sanctuary",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Black rhinoceros",
+      "wiki": "Black_rhinoceros",
+      "where": "Khama Rhino Sanctuary",
+      "odds": "Possible"
+    },
+    {
+      "name": "African bush elephant",
+      "wiki": "African_bush_elephant",
+      "where": "Nxai Pan waterhole, Khwai, Savuti, Chobe Riverfront",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "where": "Third Bridge, Xakanaxa, Khwai Hippo Pools, Chobe, Zambezi cruise",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Nile crocodile",
+      "wiki": "Nile_crocodile",
+      "where": "Xakanaxa boat trip, Third Bridge, Chobe, Zambezi cruise",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Giraffe",
+      "wiki": "Giraffe",
+      "where": "Moremi, Khwai, Deception Valley, Khama, Nxai Pan",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "African buffalo",
+      "wiki": "African_buffalo",
+      "where": "Chobe Riverfront, Moremi, Savuti",
+      "odds": "Likely"
+    },
+    {
+      "name": "Springbok and gemsbok herds",
+      "wiki": "Springbok",
+      "where": "Deception Valley, Nxai Pan",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Plains zebra",
+      "wiki": "Plains_zebra",
+      "where": "Nxai Pan and Savuti (green-season migration)",
+      "odds": "Likely"
+    },
+    {
+      "name": "Brown hyena",
+      "wiki": "Brown_hyena",
+      "where": "CKGR, Nxai Pan at dawn and dusk",
+      "odds": "Possible"
+    },
+    {
+      "name": "Bat-eared fox",
+      "wiki": "Bat-eared_fox",
+      "where": "CKGR, Nxai Pan",
+      "odds": "Likely"
+    },
+    {
+      "name": "Chacma baboon and vervet monkey",
+      "wiki": "Chacma_baboon",
+      "where": "Moremi, Khwai, Chobe",
+      "odds": "Near-certain"
+    },
+    {
+      "name": "Leopard tortoise",
+      "wiki": "Leopard_tortoise",
+      "where": "Kalahari tracks in the rains",
+      "odds": "Likely"
+    }
+  ],
+  "config": {
+    "home": "LAX",
+    "region": {
+      "label": "Botswana",
+      "country": "Botswana"
+    },
+    "budget_target": {
+      "low": 4500,
+      "high": 5000
+    },
+    "currency": "USD"
+  },
+  "scores": {
+    "scale": "1–5, for late December and early January. Crowds: 1 = you rarely see another vehicle, 5 = queues of vehicles at sightings (lower is better). Wildlife numbers: how many animals you see. Wildlife diversity: how many different kinds. These are judgments from how each place works in this season, not counts.",
+    "overall": {
+      "crowds": 2,
+      "numbers": 4.5,
+      "diversity": 5,
+      "note": "All of the Big Five plus hippos, crocodiles and giraffe, and Victoria Falls. Empty in the Kalahari; Khwai and the Chobe riverfront are busier. You'll see a smaller share of the cats than on a guided trip, because nobody is tracking them for you."
+    },
+    "sites": [
+      {
+        "name": "Nxai Pan",
+        "nights": 2,
+        "crowds": 1,
+        "numbers": 4,
+        "diversity": 3,
+        "note": "A handful of vehicles at the main waterhole at most. Zebra and springbok on the grassland, lions and cheetah following; elephant bulls at the waterhole."
+      },
+      {
+        "name": "Central Kalahari: Deception Valley",
+        "nights": 2,
+        "crowds": 1,
+        "numbers": 4,
+        "diversity": 3,
+        "note": "Often no other vehicle at your pan. Springbok and gemsbok herds with lions and cheetah. No hippos, few elephants."
+      },
+      {
+        "name": "Khama Rhino Sanctuary",
+        "nights": 1,
+        "crowds": 2,
+        "numbers": 4,
+        "diversity": 3,
+        "note": "Small fenced sanctuary: white rhino almost guaranteed, black rhino possible, with giraffe, zebra and eland."
+      },
+      {
+        "name": "Moremi (Third Bridge, Xakanaxa)",
+        "nights": 2,
+        "crowds": 2,
+        "numbers": 3,
+        "diversity": 5,
+        "note": "The richest habitat mix: hippos, crocodiles, lechwe, elephants, lion, leopard, wild dog. A lagoon boat trip."
+      },
+      {
+        "name": "Khwai",
+        "nights": 2,
+        "crowds": 3,
+        "numbers": 4,
+        "diversity": 5,
+        "note": "Busy with self-drivers in the school holidays, but the best leopard odds on the trip with guided morning and night drives."
+      },
+      {
+        "name": "Savuti",
+        "nights": 1,
+        "crowds": 2,
+        "numbers": 4,
+        "diversity": 4,
+        "note": "Known for its lions; zebra migrate through in the rains. The track in can be muddy."
+      },
+      {
+        "name": "Chobe Riverfront",
+        "nights": 1,
+        "crowds": 3,
+        "numbers": 4,
+        "diversity": 4,
+        "note": "Elephants, buffalo, hippos and crocodiles along the river; fewer elephants than in the dry season."
+      },
+      {
+        "name": "Victoria Falls",
+        "nights": 1,
+        "crowds": 3,
+        "numbers": null,
+        "diversity": null,
+        "note": "Rising water in January: the falls are full, with less spray than at the March–April peak. Zambezi cruise for hippos and crocodiles."
+      },
+      {
+        "name": "Istanbul",
+        "nights": 2,
+        "crowds": 3,
+        "numbers": null,
+        "diversity": null,
+        "note": "After the New Year rush: busy at the big sights, but far calmer than the holiday weeks."
+      }
+    ],
+    "pros": [
+      "All of the Big Five, including rhino at Khama, plus hippos, crocodiles and giraffe.",
+      "Whole pans to yourselves in the Kalahari.",
+      "Victoria Falls added without losing a safari day.",
+      "Your own pace, one tent each, and well under the price of a guided trip."
+    ],
+    "cons": [
+      "You drive, navigate, camp and cook; long sand days and the risk of getting stuck alone.",
+      "Fuel planning is critical: no fuel for ~800–900 km between Maun and Kasane.",
+      "Fewer leopard sightings without a guide, except the guided drives at Khwai.",
+      "Holiday-season campsites may be full; a one-way rental fee.",
+      "Hot (32–40 °C) with thunderstorms."
+    ]
+  }
+}
